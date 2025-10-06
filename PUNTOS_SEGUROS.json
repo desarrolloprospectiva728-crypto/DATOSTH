@@ -20527,5 +20527,14 @@
     "subcircuito": "CHUNCHI 1",
     "id": "CALLE-E-Y-ELOY-ALFARO-Z3-C-A-C",
     "nombre_punto": "Calle E y Eloy Alfaro"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "CHUNCHI",
+    "subcircuito": "CHUNCHI 1",
+    "id": "CALLE-E-Y-ELOY-ALFARO-Z3-C-A-C",
+    "nombre_punto": "Calle E y Eloy Alfaro"
   }
 ]
