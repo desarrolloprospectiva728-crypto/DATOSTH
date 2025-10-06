@@ -50,8 +50,8 @@
     "distrito": "CENTRO SUR",
     "circuito": "SUCUA",
     "subcircuito": "SUCUA 1",
-    "id": "TERMINAL-TERRESTRE-DEL-CANT?N-SUCUA-Z6-M-C-S",
-    "nombre_punto": "TERMINAL TERRESTRE DEL CANT?N SUCUA"
+    "id": "TERMINAL-TERRESTRE-DEL-CANTÓN-SUCUA-Z6-M-C-S",
+    "nombre_punto": "TERMINAL TERRESTRE DEL CANTÓN SUCUA"
   },
   {
     "zona": "ZONA 3",
@@ -113,8 +113,8 @@
     "distrito": "MONTUFAR",
     "circuito": "LA PAZ",
     "subcircuito": "LA PAZ 1",
-    "id": "TENENCIA-POL?TICA-Z1-C-M-L",
-    "nombre_punto": "TENENCIA POL?TICA"
+    "id": "TENENCIA-POLÍTICA-Z1-C-M-L",
+    "nombre_punto": "TENENCIA POLÍTICA"
   },
   {
     "zona": "ZONA 5",
@@ -131,8 +131,8 @@
     "distrito": "QUEVEDO",
     "circuito": "MOCACHE",
     "subcircuito": "MOCACHE 2",
-    "id": "FISCAL?A-DE-MOCACHE-Z10-L-Q-M",
-    "nombre_punto": "FISCAL?A DE MOCACHE"
+    "id": "FISCALÍA-DE-MOCACHE-Z10-L-Q-M",
+    "nombre_punto": "FISCALÍA DE MOCACHE"
   },
   {
     "zona": "ZONA 5",
@@ -185,8 +185,8 @@
     "distrito": "MONTUFAR",
     "circuito": "BOLIVAR",
     "subcircuito": "BOLIVAR 1",
-    "id": "PARQUE-CENTRAL-DE-BOL?VAR-Z1-C-M-B",
-    "nombre_punto": "PARQUE CENTRAL DE BOL?VAR"
+    "id": "PARQUE-CENTRAL-DE-BOLÍVAR-Z1-C-M-B",
+    "nombre_punto": "PARQUE CENTRAL DE BOLÍVAR"
   },
   {
     "zona": "ZONA 5",
@@ -194,8 +194,8 @@
     "distrito": "QUEVEDO",
     "circuito": "7 DE OCTUBRE",
     "subcircuito": "7 DE OCTUBRE",
-    "id": "HOSPITAL-SAGRADO-CORAZ?N-DE-JESUS-Z10-L-Q-7",
-    "nombre_punto": "HOSPITAL SAGRADO CORAZ?N DE JESUS"
+    "id": "HOSPITAL-SAGRADO-CORAZÓN-DE-JESUS-Z10-L-Q-7",
+    "nombre_punto": "HOSPITAL SAGRADO CORAZÓN DE JESUS"
   },
   {
     "zona": "ZONA 5",
@@ -203,8 +203,8 @@
     "distrito": "GALAPAGOS",
     "circuito": "SAN CRISTOBAL",
     "subcircuito": "SAN CRISTOBAL 1",
-    "id": "ZONA-DE-ASEGURAMIENTO-SAN-CRIST?BAL-Z5-G-G-S",
-    "nombre_punto": "ZONA DE ASEGURAMIENTO SAN CRIST?BAL"
+    "id": "ZONA-DE-ASEGURAMIENTO-SAN-CRISTÓBAL-Z5-G-G-S",
+    "nombre_punto": "ZONA DE ASEGURAMIENTO SAN CRISTÓBAL"
   },
   {
     "zona": "ZONA 5",
@@ -293,8 +293,8 @@
     "distrito": "TULCAN",
     "circuito": "PARQUE DEL 8",
     "subcircuito": "PARQUE DEL 8 1",
-    "id": "PARQUE-DEL-8-ESTACI?N-DE-LOS-BOMBEROS-Z1-C-T-P",
-    "nombre_punto": "PARQUE DEL 8 ESTACI?N DE LOS BOMBEROS"
+    "id": "PARQUE-DEL-8-ESTACIÓN-DE-LOS-BOMBEROS-Z1-C-T-P",
+    "nombre_punto": "PARQUE DEL 8 ESTACIÓN DE LOS BOMBEROS"
   },
   {
     "zona": "ZONA 5",
@@ -401,8 +401,8 @@
     "distrito": "SANGAY",
     "circuito": "HUAMBOYA",
     "subcircuito": "HUAMBOYA 1",
-    "id": "ABARROTES-PATI?O-Z6-M-S-H",
-    "nombre_punto": "ABARROTES PATI?O"
+    "id": "ABARROTES-PATIÑO-Z6-M-S-H",
+    "nombre_punto": "ABARROTES PATIÑO"
   },
   {
     "zona": "ZONA 5",
@@ -464,8 +464,8 @@
     "distrito": "MONTUFAR",
     "circuito": "BOLIVAR",
     "subcircuito": "BOLIVAR 1",
-    "id": "MERCADO-CENTRAL-BOL?VAR-1-Z1-C-M-B",
-    "nombre_punto": "MERCADO CENTRAL BOL?VAR 1"
+    "id": "MERCADO-CENTRAL-BOLÍVAR-1-Z1-C-M-B",
+    "nombre_punto": "MERCADO CENTRAL BOLÍVAR 1"
   },
   {
     "zona": "ZONA 7",
@@ -500,8 +500,8 @@
     "distrito": "MONTUFAR",
     "circuito": "BOLIVAR",
     "subcircuito": "BOLIVAR 1",
-    "id": "TENENCIA-POL?TICA-BOLIVAR-Z1-C-M-B",
-    "nombre_punto": "TENENCIA POL?TICA BOLIVAR"
+    "id": "TENENCIA-POLÍTICA-BOLIVAR-Z1-C-M-B",
+    "nombre_punto": "TENENCIA POLÍTICA BOLIVAR"
   },
   {
     "zona": "ZONA 7",
@@ -514,12 +514,12 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
-    "distrito": "CA?AR",
-    "circuito": "CA?AR",
-    "subcircuito": "CA?AR 1",
-    "id": "MERCADO-CENTRAL-25-DE-JULIO-CA?AR-Z6-C-C-C",
-    "nombre_punto": "MERCADO CENTRAL 25 DE JULIO CA?AR"
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
+    "id": "MERCADO-CENTRAL-25-DE-JULIO-CAÑAR-Z6-C-C-C",
+    "nombre_punto": "MERCADO CENTRAL 25 DE JULIO CAÑAR"
   },
   {
     "zona": "ZONA 1",
@@ -527,8 +527,8 @@
     "distrito": "ESPEJO",
     "circuito": "LA CONCEPCION",
     "subcircuito": "LA CONCEPCION 1",
-    "id": "FERRETER?A-ECINOMICA-Z1-C-E-L",
-    "nombre_punto": "FERRETER?A-ECINOMICA"
+    "id": "FERRETERÍA-ECINOMICA-Z1-C-E-L",
+    "nombre_punto": "FERRETERÍA-ECINOMICA"
   },
   {
     "zona": "ZONA 5",
@@ -554,8 +554,8 @@
     "distrito": "SANTA ELENA",
     "circuito": "SAN PABLO",
     "subcircuito": "SAN PABLO 1",
-    "id": "BAR-AQU?-ME-QUEDO-Z5-S-S-S",
-    "nombre_punto": "BAR AQU? ME QUEDO"
+    "id": "BAR-AQUÍ-ME-QUEDO-Z5-S-S-S",
+    "nombre_punto": "BAR AQUÍ ME QUEDO"
   },
   {
     "zona": "ZONA 5",
@@ -586,12 +586,12 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
-    "distrito": "CA?AR",
-    "circuito": "CA?AR",
-    "subcircuito": "CA?AR 1",
-    "id": "PARQUE-CENTRAL-DEL-CANTON-CA?AR-Z6-C-C-C",
-    "nombre_punto": "PARQUE CENTRAL DEL CANTON CA?AR"
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
+    "id": "PARQUE-CENTRAL-DEL-CANTON-CAÑAR-Z6-C-C-C",
+    "nombre_punto": "PARQUE CENTRAL DEL CANTON CAÑAR"
   },
   {
     "zona": "ZONA 1",
@@ -615,10 +615,10 @@
     "zona": "ZONA 1",
     "subzona": "CARCHI",
     "distrito": "TULCAN",
-    "circuito": "TUFI?O",
-    "subcircuito": "TUFI?O 1",
-    "id": "MERCADO-MUNICIPAL-TUFI?O-Z1-C-T-T",
-    "nombre_punto": "MERCADO MUNICIPAL TUFI?O"
+    "circuito": "TUFIÑO",
+    "subcircuito": "TUFIÑO 1",
+    "id": "MERCADO-MUNICIPAL-TUFIÑO-Z1-C-T-T",
+    "nombre_punto": "MERCADO MUNICIPAL TUFIÑO"
   },
   {
     "zona": "ZONA 5",
@@ -626,8 +626,8 @@
     "distrito": "LIBERTAD SALINAS",
     "circuito": "LIBERTAD CENTRO",
     "subcircuito": "LIBERTAD CENTRO 1",
-    "id": "FARMACIA-ECON?MICA-Z5-S-L-L",
-    "nombre_punto": "FARMACIA ECON?MICA"
+    "id": "FARMACIA-ECONÓMICA-Z5-S-L-L",
+    "nombre_punto": "FARMACIA ECONÓMICA"
   },
   {
     "zona": "ZONA 1",
@@ -635,8 +635,8 @@
     "distrito": "MONTUFAR",
     "circuito": "LA PAZ",
     "subcircuito": "LA PAZ 1",
-    "id": "TENENCIA-POL?TICA-DE-LA-PAZ-Z1-C-M-L",
-    "nombre_punto": "TENENCIA POL?TICA DE LA PAZ"
+    "id": "TENENCIA-POLÍTICA-DE-LA-PAZ-Z1-C-M-L",
+    "nombre_punto": "TENENCIA POLÍTICA DE LA PAZ"
   },
   {
     "zona": "ZONA 5",
@@ -644,8 +644,8 @@
     "distrito": "LIBERTAD SALINAS",
     "circuito": "LIBERTAD CENTRO",
     "subcircuito": "LIBERTAD CENTRO 1",
-    "id": "PANADER?A-REY-PAN-Z5-S-L-L",
-    "nombre_punto": "PANADER?A REY PAN"
+    "id": "PANADERÍA-REY-PAN-Z5-S-L-L",
+    "nombre_punto": "PANADERÍA REY PAN"
   },
   {
     "zona": "ZONA 1",
@@ -667,12 +667,12 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
-    "distrito": "CA?AR",
-    "circuito": "CA?AR",
-    "subcircuito": "CA?AR 1",
-    "id": "TERMINAL-TERRESTRE-CA?AR-Z6-C-C-C",
-    "nombre_punto": "TERMINAL TERRESTRE CA?AR"
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
+    "id": "TERMINAL-TERRESTRE-CAÑAR-Z6-C-C-C",
+    "nombre_punto": "TERMINAL TERRESTRE CAÑAR"
   },
   {
     "zona": "ZONA 4",
@@ -741,8 +741,8 @@
     "zona": "ZONA 5",
     "subzona": "SANTA ELENA",
     "distrito": "SANTA ELENA",
-    "circuito": "MONTA?ITA",
-    "subcircuito": "MONTA?ITA 1",
+    "circuito": "MONTAÑITA",
+    "subcircuito": "MONTAÑITA 1",
     "id": "SHAWARMA-ARABE-Z5-S-S-M",
     "nombre_punto": "SHAWARMA ARABE"
   },
@@ -804,10 +804,10 @@
     "zona": "ZONA 1",
     "subzona": "CARCHI",
     "distrito": "TULCAN",
-    "circuito": "TUFI?O",
-    "subcircuito": "TUFI?O 1",
-    "id": "MERCADO-TUFI?O-Z1-C-T-T",
-    "nombre_punto": "MERCADO TUFI?O"
+    "circuito": "TUFIÑO",
+    "subcircuito": "TUFIÑO 1",
+    "id": "MERCADO-TUFIÑO-Z1-C-T-T",
+    "nombre_punto": "MERCADO TUFIÑO"
   },
   {
     "zona": "ZONA 7",
@@ -848,7 +848,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "SAN RAFAEL",
     "subcircuito": "SAN RAFAEL 1",
     "id": "FARMACIA-SANA-SANA-Z2-P-R-S",
@@ -905,8 +905,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "MONTERREY",
     "subcircuito": "MONTERREY 1",
-    "id": "PAPELER?A-LIBERTADOR-Z4-S-L-M",
-    "nombre_punto": "PAPELER?A LIBERTADOR"
+    "id": "PAPELERÍA-LIBERTADOR-Z4-S-L-M",
+    "nombre_punto": "PAPELERÍA LIBERTADOR"
   },
   {
     "zona": "ZONA 4",
@@ -977,8 +977,8 @@
     "distrito": "MONTUFAR",
     "circuito": "SAN GABRIEL SUR",
     "subcircuito": "SAN GABRIEL SUR 1",
-    "id": "CENTRO-DEPORTIVO-SAN-JOS?-Z1-C-M-S",
-    "nombre_punto": "CENTRO DEPORTIVO SAN JOS?"
+    "id": "CENTRO-DEPORTIVO-SAN-JOSÉ-Z1-C-M-S",
+    "nombre_punto": "CENTRO DEPORTIVO SAN JOSÉ"
   },
   {
     "zona": "ZONA 1",
@@ -995,8 +995,8 @@
     "distrito": "MONTUFAR",
     "circuito": "SAN GABRIEL SUR",
     "subcircuito": "SAN GABRIEL SUR 1",
-    "id": "FERRETER?A-ARMAS-Z1-C-M-S",
-    "nombre_punto": "FERRETER?A ARMAS"
+    "id": "FERRETERÍA-ARMAS-Z1-C-M-S",
+    "nombre_punto": "FERRETERÍA ARMAS"
   },
   {
     "zona": "ZONA 7",
@@ -1217,7 +1217,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "ALOAG",
     "subcircuito": "ALOAG 1",
     "id": "LA-PASTORITA-Z2-P-R-A",
@@ -1301,8 +1301,8 @@
     "distrito": "ESMERALDAS",
     "circuito": "LA TOLITA",
     "subcircuito": "LA TOLITA 2",
-    "id": "LOCAL-T?A-Z1-E-E-L",
-    "nombre_punto": "LOCAL  T?A"
+    "id": "LOCAL-TÍA-Z1-E-E-L",
+    "nombre_punto": "LOCAL  TÍA"
   },
   {
     "zona": "ZONA 7",
@@ -1382,8 +1382,8 @@
     "distrito": "LATACUNGA",
     "circuito": "NUEVA VIDA",
     "subcircuito": "NUEVA VIDA 1",
-    "id": "FARMACIAS-ECON?MICAS-Z3-C-L-N",
-    "nombre_punto": "FARMACIAS ECON?MICAS"
+    "id": "FARMACIAS-ECONÓMICAS-Z3-C-L-N",
+    "nombre_punto": "FARMACIAS ECONÓMICAS"
   },
   {
     "zona": "ZONA 4",
@@ -1391,8 +1391,8 @@
     "distrito": "CHONE",
     "circuito": "SAN ANDRES",
     "subcircuito": "SAN ANDRES 1",
-    "id": "FARMACIA-ECON?MICA-SAN-ANDR?S-Z4-M-C-S",
-    "nombre_punto": "FARMACIA ECON?MICA SAN ANDR?S"
+    "id": "FARMACIA-ECONÓMICA-SAN-ANDRÉS-Z4-M-C-S",
+    "nombre_punto": "FARMACIA ECONÓMICA SAN ANDRÉS"
   },
   {
     "zona": "ZONA 1",
@@ -1451,7 +1451,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "SAN RAFAEL",
     "subcircuito": "SAN RAFAEL 1",
     "id": "BAGUETTE-Z2-P-R-S",
@@ -1463,8 +1463,8 @@
     "distrito": "TULCAN",
     "circuito": "KENNEDY",
     "subcircuito": "KENNEDY 1",
-    "id": "C.C.-JARD?N-DEL-NORTE-Z1-C-T-K",
-    "nombre_punto": "C.C. JARD?N DEL NORTE"
+    "id": "C.C.-JARDÍN-DEL-NORTE-Z1-C-T-K",
+    "nombre_punto": "C.C. JARDÍN DEL NORTE"
   },
   {
     "zona": "ZONA 1",
@@ -1472,8 +1472,8 @@
     "distrito": "QUININDE",
     "circuito": "ROSA ZARATE",
     "subcircuito": "ROSA ZARATE 1",
-    "id": "V?VERES-TERESITA-Z1-E-Q-R",
-    "nombre_punto": "V?VERES TERESITA"
+    "id": "VÍVERES-TERESITA-Z1-E-Q-R",
+    "nombre_punto": "VÍVERES TERESITA"
   },
   {
     "zona": "ZONA 1",
@@ -1481,8 +1481,8 @@
     "distrito": "ESMERALDAS",
     "circuito": "SANTA MARTHA",
     "subcircuito": "SANTA MARTHA 1",
-    "id": "UNIDAD-JUDICIAL-DE-LA-FAMILIA-NI?EZ-Y-ADOLESCENCIA-Z1-E-E-S",
-    "nombre_punto": "UNIDAD JUDICIAL DE LA FAMILIA NI?EZ Y ADOLESCENCIA"
+    "id": "UNIDAD-JUDICIAL-DE-LA-FAMILIA-NIÑEZ-Y-ADOLESCENCIA-Z1-E-E-S",
+    "nombre_punto": "UNIDAD JUDICIAL DE LA FAMILIA NIÑEZ Y ADOLESCENCIA"
   },
   {
     "zona": "ZONA 5",
@@ -1532,7 +1532,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "MACHACHI SUR",
     "subcircuito": "MACHACHI SUR 1",
     "id": "PAGO-AGIL-Z2-P-R-M",
@@ -1544,8 +1544,8 @@
     "distrito": "TULCAN",
     "circuito": "EL PORTAL",
     "subcircuito": "EL PORTAL 1",
-    "id": "SURT?-M?X-Z1-C-T-E",
-    "nombre_punto": "SURT? M?X"
+    "id": "SURTÍ-MÁX-Z1-C-T-E",
+    "nombre_punto": "SURTÍ MÁX"
   },
   {
     "zona": "ZONA 7",
@@ -1580,8 +1580,8 @@
     "distrito": "SAN MIGUEL",
     "circuito": "CHIMBO",
     "subcircuito": "CHIMBO 1",
-    "id": "BANCO-SAN-JOS?-Z10-B-S-C",
-    "nombre_punto": "BANCO SAN JOS?"
+    "id": "BANCO-SAN-JOSÉ-Z10-B-S-C",
+    "nombre_punto": "BANCO SAN JOSÉ"
   },
   {
     "zona": "ZONA 3",
@@ -1608,7 +1608,7 @@
     "circuito": "PUERTO AYORA",
     "subcircuito": "PUERTO AYORA 1",
     "id": "MUELLE-DEL-PRO--EMBARCA-Z5-G-G-P",
-    "nombre_punto": "MUELLE DEL PRO- EMBARCACI?N"
+    "nombre_punto": "MUELLE DEL PRO- EMBARCACIÓN"
   },
   {
     "zona": "ZONA 3",
@@ -1649,7 +1649,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "FAJARDO",
     "subcircuito": "FAJARDO 1",
     "id": "BABYCENTRO-Z2-P-R-F",
@@ -1661,8 +1661,8 @@
     "distrito": "QUININDE",
     "circuito": "QUININDE",
     "subcircuito": "QUININDE 2",
-    "id": "FERRETER?A-BM-Z1-E-Q-Q",
-    "nombre_punto": "FERRETER?A BM"
+    "id": "FERRETERÍA-BM-Z1-E-Q-Q",
+    "nombre_punto": "FERRETERÍA BM"
   },
   {
     "zona": "ZONA 5",
@@ -1670,8 +1670,8 @@
     "distrito": "GALAPAGOS",
     "circuito": "PUERTO AYORA",
     "subcircuito": "PUERTO AYORA 1",
-    "id": "PARQUE-NACIONAL-GAL?PAGOS-Z5-G-G-P",
-    "nombre_punto": "PARQUE NACIONAL GAL?PAGOS"
+    "id": "PARQUE-NACIONAL-GALÁPAGOS-Z5-G-G-P",
+    "nombre_punto": "PARQUE NACIONAL GALÁPAGOS"
   },
   {
     "zona": "ZONA 1",
@@ -1679,8 +1679,8 @@
     "distrito": "QUININDE",
     "circuito": "ROSA ZARATE",
     "subcircuito": "ROSA ZARATE 1",
-    "id": "T?A-SA-Z1-E-Q-R",
-    "nombre_punto": "T?A SA"
+    "id": "TÍA-SA-Z1-E-Q-R",
+    "nombre_punto": "TÍA SA"
   },
   {
     "zona": "ZONA 3",
@@ -1724,8 +1724,8 @@
     "distrito": "GALAPAGOS",
     "circuito": "SAN CRISTOBAL",
     "subcircuito": "",
-    "id": "MUELLE-ECOTUR?STICO-TIBUR?N-MARTILLO-Z5-G-G-S",
-    "nombre_punto": "MUELLE ECOTUR?STICO TIBUR?N MARTILLO"
+    "id": "MUELLE-ECOTURÍSTICO-TIBURÓN-MARTILLO-Z5-G-G-S",
+    "nombre_punto": "MUELLE ECOTURÍSTICO TIBURÓN MARTILLO"
   },
   {
     "zona": "ZONA 3",
@@ -1742,7 +1742,7 @@
     "distrito": "SAN MIGUEL",
     "circuito": "SAN MIGUEL",
     "subcircuito": "SAN MIGUEL 1",
-    "id": "DIRECCI?N-DISTRITAL-02D03-CHIMBO-SAN-MIGUEL-Z10-B-S-S",
+    "id": "DIRECCIÓN-DISTRITAL-02D03-CHIMBO-SAN-MIGUEL-Z10-B-S-S",
     "nombre_punto": "UNIDAD EDUCATIVA DEL MILENIO ANGEL POLIBIO CHAVES"
   },
   {
@@ -1769,8 +1769,8 @@
     "distrito": "PEDERNALES",
     "circuito": "PEDERNALES SUR",
     "subcircuito": "PEDERNALES SUR 1",
-    "id": "UNIDAD-JUDICIAL-MULTI-COMPETENTE-CONSEJO-DE-LA-JUDICATURA-PEDERNALES-MANAB?-Z4-M-P-P",
-    "nombre_punto": "UNIDAD JUDICIAL MULTI COMPETENTE CONSEJO DE LA JUDICATURA PEDERNALES MANAB?"
+    "id": "UNIDAD-JUDICIAL-MULTI-COMPETENTE-CONSEJO-DE-LA-JUDICATURA-PEDERNALES-MANABÍ-Z4-M-P-P",
+    "nombre_punto": "UNIDAD JUDICIAL MULTI COMPETENTE CONSEJO DE LA JUDICATURA PEDERNALES MANABÍ"
   },
   {
     "zona": "ZONA 3",
@@ -1796,8 +1796,8 @@
     "distrito": "ESPEJO",
     "circuito": "LA CONCEPCION",
     "subcircuito": "LA CONCEPCION 1",
-    "id": "PARQUE-CENTRAL-DE-LA-CONCEPCI?N-Z1-C-E-L",
-    "nombre_punto": "PARQUE CENTRAL DE LA CONCEPCI?N"
+    "id": "PARQUE-CENTRAL-DE-LA-CONCEPCIÓN-Z1-C-E-L",
+    "nombre_punto": "PARQUE CENTRAL DE LA CONCEPCIÓN"
   },
   {
     "zona": "ZONA 3",
@@ -1839,10 +1839,10 @@
     "zona": "ZONA 6",
     "subzona": "AZUAY",
     "distrito": "NABON",
-    "circuito": "O?A",
-    "subcircuito": "O?A 1",
-    "id": "TIENDA-DE-ABARROTES-DON-M?XIMO-Z6-A-N-O",
-    "nombre_punto": "TIENDA DE ABARROTES DON M?XIMO"
+    "circuito": "OÑA",
+    "subcircuito": "OÑA 1",
+    "id": "TIENDA-DE-ABARROTES-DON-MÁXIMO-Z6-A-N-O",
+    "nombre_punto": "TIENDA DE ABARROTES DON MÁXIMO"
   },
   {
     "zona": "ZONA 2",
@@ -1859,8 +1859,8 @@
     "distrito": "PEDERNALES",
     "circuito": "PEDERNALES SUR",
     "subcircuito": "PEDERNALES SUR 1",
-    "id": "CENTRO-HIDROEL?CTRICO-A&Y-Z4-M-P-P",
-    "nombre_punto": "CENTRO  HIDROEL?CTRICO A&Y"
+    "id": "CENTRO-HIDROELÉCTRICO-A&Y-Z4-M-P-P",
+    "nombre_punto": "CENTRO  HIDROELÉCTRICO A&Y"
   },
   {
     "zona": "ZONA 1",
@@ -1877,8 +1877,8 @@
     "distrito": "PONCE ENRIQUEZ",
     "circuito": "SHUMIRAL",
     "subcircuito": "SHUMIRAL 1",
-    "id": "FERRETER?A-DISENSA-Z6-A-P-S",
-    "nombre_punto": "FERRETER?A DISENSA"
+    "id": "FERRETERÍA-DISENSA-Z6-A-P-S",
+    "nombre_punto": "FERRETERÍA DISENSA"
   },
   {
     "zona": "ZONA 4",
@@ -1904,8 +1904,8 @@
     "distrito": "ESMERALDAS",
     "circuito": "LAS PALMAS",
     "subcircuito": "LAS PALMAS 1",
-    "id": "FRUTER?A-SANDRY-Z1-E-E-L",
-    "nombre_punto": "FRUTER?A SANDRY"
+    "id": "FRUTERÍA-SANDRY-Z1-E-E-L",
+    "nombre_punto": "FRUTERÍA SANDRY"
   },
   {
     "zona": "ZONA 1",
@@ -2012,8 +2012,8 @@
     "distrito": "PEDERNALES",
     "circuito": "JAMA",
     "subcircuito": "JAMA 1",
-    "id": "UNIDAD-JUDICIAL-MULTICOMPETENTE-DEL-CANT?N-JAMA-Z4-M-P-J",
-    "nombre_punto": "UNIDAD JUDICIAL MULTICOMPETENTE DEL CANT?N JAMA"
+    "id": "UNIDAD-JUDICIAL-MULTICOMPETENTE-DEL-CANTÓN-JAMA-Z4-M-P-J",
+    "nombre_punto": "UNIDAD JUDICIAL MULTICOMPETENTE DEL CANTÓN JAMA"
   },
   {
     "zona": "ZONA 4",
@@ -2021,8 +2021,8 @@
     "distrito": "PEDERNALES",
     "circuito": "PEDERNALES NORTE",
     "subcircuito": "PEDERNALES NORTE 1",
-    "id": "NOTAR?A-1-CANT?N-PEDERNALES-DR.-GERARDO-LEONEL-ALARC?N-GUILL?N-Z4-M-P-P",
-    "nombre_punto": "NOTAR?A 1 CANT?N PEDERNALES DR. GERARDO LEONEL ALARC?N GUILL?N"
+    "id": "NOTARÍA-1-CANTÓN-PEDERNALES-DR.-GERARDO-LEONEL-ALARCÓN-GUILLÉN-Z4-M-P-P",
+    "nombre_punto": "NOTARÍA 1 CANTÓN PEDERNALES DR. GERARDO LEONEL ALARCÓN GUILLÉN"
   },
   {
     "zona": "ZONA 4",
@@ -2030,8 +2030,8 @@
     "distrito": "PEDERNALES",
     "circuito": "JAMA",
     "subcircuito": "JAMA 1",
-    "id": "CENTRO-DE-SALUD-DEL-CANT?N-JAMA-Z4-M-P-J",
-    "nombre_punto": "CENTRO DE SALUD DEL CANT?N JAMA"
+    "id": "CENTRO-DE-SALUD-DEL-CANTÓN-JAMA-Z4-M-P-J",
+    "nombre_punto": "CENTRO DE SALUD DEL CANTÓN JAMA"
   },
   {
     "zona": "ZONA 1",
@@ -2057,8 +2057,8 @@
     "distrito": "MACHALA",
     "circuito": "LA PROVIDENCIA",
     "subcircuito": "LA PROVIDENCIA 1",
-    "id": "AVENIDA-CIRCUNVALACI?N-NORTE-Y-BUENAVISTA-Z7-E-M-L",
-    "nombre_punto": "AVENIDA CIRCUNVALACI?N NORTE Y BUENAVISTA"
+    "id": "AVENIDA-CIRCUNVALACIÓN-NORTE-Y-BUENAVISTA-Z7-E-M-L",
+    "nombre_punto": "AVENIDA CIRCUNVALACIÓN NORTE Y BUENAVISTA"
   },
   {
     "zona": "ZONA 4",
@@ -2093,8 +2093,8 @@
     "distrito": "MACHALA",
     "circuito": "LA FERROVIARIA",
     "subcircuito": "LA FERROVIARIA 1",
-    "id": "CASA-COMUNAL-SIM?N-BOL?VAR-Z7-E-M-L",
-    "nombre_punto": "CASA COMUNAL SIM?N BOL?VAR"
+    "id": "CASA-COMUNAL-SIMÓN-BOLÍVAR-Z7-E-M-L",
+    "nombre_punto": "CASA COMUNAL SIMÓN BOLÍVAR"
   },
   {
     "zona": "ZONA 4",
@@ -2129,8 +2129,8 @@
     "distrito": "MACHALA",
     "circuito": "PUERTO BOLIVAR",
     "subcircuito": "PUERTO BOLIVAR 1",
-    "id": "CENTRO-DE-SALUD-PUERTO-BOL?VAR-Z7-E-M-P",
-    "nombre_punto": "CENTRO DE SALUD PUERTO BOL?VAR"
+    "id": "CENTRO-DE-SALUD-PUERTO-BOLÍVAR-Z7-E-M-P",
+    "nombre_punto": "CENTRO DE SALUD PUERTO BOLÍVAR"
   },
   {
     "zona": "ZONA 4",
@@ -2174,8 +2174,8 @@
     "distrito": "QUININDE",
     "circuito": "LA UNION",
     "subcircuito": "LA UNION 1",
-    "id": "PAPELER?A-D'ANY-Z1-E-Q-L",
-    "nombre_punto": "PAPELER?A D'ANY"
+    "id": "PAPELERÍA-D'ANY-Z1-E-Q-L",
+    "nombre_punto": "PAPELERÍA D'ANY"
   },
   {
     "zona": "ZONA 4",
@@ -2192,8 +2192,8 @@
     "distrito": "PASAJE",
     "circuito": "OCHOA LEON",
     "subcircuito": "OCHOA LEON 1",
-    "id": "IGLESIA-CENTRAL-DEL-CANT?N-PASAJE-Z7-E-P-O",
-    "nombre_punto": "IGLESIA CENTRAL DEL CANT?N PASAJE"
+    "id": "IGLESIA-CENTRAL-DEL-CANTÓN-PASAJE-Z7-E-P-O",
+    "nombre_punto": "IGLESIA CENTRAL DEL CANTÓN PASAJE"
   },
   {
     "zona": "ZONA 7",
@@ -2201,8 +2201,8 @@
     "distrito": "PASAJE",
     "circuito": "OCHOA LEON",
     "subcircuito": "OCHOA LEON 1",
-    "id": "MUNICIPIO-DEL-CANT?N-PASAJE-Z7-E-P-O",
-    "nombre_punto": "MUNICIPIO DEL CANT?N PASAJE"
+    "id": "MUNICIPIO-DEL-CANTÓN-PASAJE-Z7-E-P-O",
+    "nombre_punto": "MUNICIPIO DEL CANTÓN PASAJE"
   },
   {
     "zona": "ZONA 5",
@@ -2334,8 +2334,8 @@
     "zona": "ZONA 6",
     "subzona": "AZUAY",
     "distrito": "NABON",
-    "circuito": "O?A",
-    "subcircuito": "O?A 1",
+    "circuito": "OÑA",
+    "subcircuito": "OÑA 1",
     "id": "RESTAURANTE-LA-GUADALUPANA-Z6-A-N-O",
     "nombre_punto": "RESTAURANTE LA GUADALUPANA"
   },
@@ -2390,8 +2390,8 @@
     "distrito": "PASAJE",
     "circuito": "OCHOA LEON",
     "subcircuito": "OCHOA LEON 1",
-    "id": "CELEGIO-DE-BACHILLERATO-JOS?-OCHOA-LEON-Z7-E-P-O",
-    "nombre_punto": "CELEGIO DE BACHILLERATO JOS? OCHOA LEON"
+    "id": "CELEGIO-DE-BACHILLERATO-JOSÉ-OCHOA-LEON-Z7-E-P-O",
+    "nombre_punto": "CELEGIO DE BACHILLERATO JOSÉ OCHOA LEON"
   },
   {
     "zona": "ZONA 1",
@@ -2579,8 +2579,8 @@
     "distrito": "LATACUNGA",
     "circuito": "SAN CARLOS",
     "subcircuito": "SAN CARLOS 1",
-    "id": "FERRETER?A-EL-MAESTRO-CALLES-UNIDAD-NACIONAL-Y-EMILIO-ZANDOVAL-Z3-C-L-S",
-    "nombre_punto": "FERRETER?A EL MAESTRO CALLES UNIDAD NACIONAL Y EMILIO ZANDOVAL"
+    "id": "FERRETERÍA-EL-MAESTRO-CALLES-UNIDAD-NACIONAL-Y-EMILIO-ZANDOVAL-Z3-C-L-S",
+    "nombre_punto": "FERRETERÍA EL MAESTRO CALLES UNIDAD NACIONAL Y EMILIO ZANDOVAL"
   },
   {
     "zona": "ZONA 7",
@@ -2588,8 +2588,8 @@
     "distrito": "PASAJE",
     "circuito": "OCHOA LEON",
     "subcircuito": "OCHOA LEON 1",
-    "id": "UNIDAD-JUDICIAL-CIVIL-DE-GARANT?AS-PENALES-Z7-E-P-O",
-    "nombre_punto": "UNIDAD JUDICIAL CIVIL DE GARANT?AS PENALES"
+    "id": "UNIDAD-JUDICIAL-CIVIL-DE-GARANTÍAS-PENALES-Z7-E-P-O",
+    "nombre_punto": "UNIDAD JUDICIAL CIVIL DE GARANTÍAS PENALES"
   },
   {
     "zona": "ZONA 1",
@@ -2624,8 +2624,8 @@
     "distrito": "RIO VERDE",
     "circuito": "MONTALVO",
     "subcircuito": "MONTALVO 2",
-    "id": "COMERCIAL-QUI?ONEZ-Z1-E-R-M",
-    "nombre_punto": "COMERCIAL QUI?ONEZ"
+    "id": "COMERCIAL-QUIÑONEZ-Z1-E-R-M",
+    "nombre_punto": "COMERCIAL QUIÑONEZ"
   },
   {
     "zona": "ZONA 1",
@@ -2660,8 +2660,8 @@
     "distrito": "SAN LORENZO",
     "circuito": "FRONTERA",
     "subcircuito": "FRONTERA 3",
-    "id": "FERRETER?A-DISTRIBUIDOR-PAZ-Z1-E-S-F",
-    "nombre_punto": "FERRETER?A DISTRIBUIDOR PAZ"
+    "id": "FERRETERÍA-DISTRIBUIDOR-PAZ-Z1-E-S-F",
+    "nombre_punto": "FERRETERÍA DISTRIBUIDOR PAZ"
   },
   {
     "zona": "ZONA 1",
@@ -2714,8 +2714,8 @@
     "distrito": "PASAJE",
     "circuito": "OCHOA LEON",
     "subcircuito": "OCHOA LEON 2",
-    "id": "PARQUE-CH?FERES-N2-Z7-E-P-O",
-    "nombre_punto": "PARQUE CH?FERES N2"
+    "id": "PARQUE-CHÓFERES-N2-Z7-E-P-O",
+    "nombre_punto": "PARQUE CHÓFERES N2"
   },
   {
     "zona": "ZONA 1",
@@ -2759,8 +2759,8 @@
     "distrito": "SUR-MORONA",
     "circuito": "GUALAQUIZA",
     "subcircuito": "GUALAQUIZA 1",
-    "id": "GASOLINERA-MEJ?A-Z6-M-S-G",
-    "nombre_punto": "GASOLINERA MEJ?A"
+    "id": "GASOLINERA-MEJÍA-Z6-M-S-G",
+    "nombre_punto": "GASOLINERA MEJÍA"
   },
   {
     "zona": "ZONA 6",
@@ -2813,8 +2813,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "MONTERREY",
     "subcircuito": "MONTERREY 1",
-    "id": "ZONA-FR?A-Z4-S-L-M",
-    "nombre_punto": "ZONA FR?A"
+    "id": "ZONA-FRÍA-Z4-S-L-M",
+    "nombre_punto": "ZONA FRÍA"
   },
   {
     "zona": "ZONA 4",
@@ -2840,8 +2840,8 @@
     "distrito": "PEDERNALES",
     "circuito": "PEDERNALES SUR",
     "subcircuito": "PEDERNALES SUR 1",
-    "id": "FISCAL?A-GENERAL-DEL-ESTADO-DE-PEDERNALES-Z4-M-P-P",
-    "nombre_punto": "FISCAL?A GENERAL DEL ESTADO DE PEDERNALES"
+    "id": "FISCALÌA-GENERAL-DEL-ESTADO-DE-PEDERNALES-Z4-M-P-P",
+    "nombre_punto": "FISCALÌA GENERAL DEL ESTADO DE PEDERNALES"
   },
   {
     "zona": "ZONA 4",
@@ -2867,8 +2867,8 @@
     "distrito": "PASAJE",
     "circuito": "LAS PRADERAS",
     "subcircuito": "LAS PRADERAS 1",
-    "id": "MALEC?N-LINEAL-DEL-CANT?N-PASAJE-Z7-E-P-L",
-    "nombre_punto": "MALEC?N LINEAL DEL CANT?N PASAJE"
+    "id": "MALECÓN-LINEAL-DEL-CANTÓN-PASAJE-Z7-E-P-L",
+    "nombre_punto": "MALECÓN LINEAL DEL CANTÓN PASAJE"
   },
   {
     "zona": "ZONA 4",
@@ -2975,8 +2975,8 @@
     "distrito": "ELOY ALFARO - ESM",
     "circuito": "LIMONES",
     "subcircuito": "LIMONES 1",
-    "id": "DESPENSA-ESTEFAN?A-Z1-E-E-L",
-    "nombre_punto": "DESPENSA ESTEFAN?A"
+    "id": "DESPENSA-ESTEFANÍA-Z1-E-E-L",
+    "nombre_punto": "DESPENSA ESTEFANÍA"
   },
   {
     "zona": "ZONA 5",
@@ -2993,8 +2993,8 @@
     "distrito": "EMPALME",
     "circuito": "EMPALME CENTRO",
     "subcircuito": "EMPALME CENTRO 1",
-    "id": "C.CENTRO-VIA-A-MANAB?-TIENDAS-T?A-Z5-G-E-E",
-    "nombre_punto": "C.CENTRO VIA A MANAB? TIENDAS T?A"
+    "id": "C.CENTRO-VIA-A-MANABÍ-TIENDAS-TÍA-Z5-G-E-E",
+    "nombre_punto": "C.CENTRO VIA A MANABÍ TIENDAS TÍA"
   },
   {
     "zona": "ZONA 1",
@@ -3011,8 +3011,8 @@
     "distrito": "EMPALME",
     "circuito": "EMPALME SUROESTE",
     "subcircuito": "EMPALME SUROESTE 1",
-    "id": "PARQUE-CENTRAL-C.SUROESTE-CALLE-VICENTE-ROCAFUERTE-Y-CALLE-JUAN-LE?N-MERA-Z5-G-E-E",
-    "nombre_punto": "PARQUE CENTRAL C.SUROESTE CALLE VICENTE ROCAFUERTE Y CALLE JUAN LE?N MERA"
+    "id": "PARQUE-CENTRAL-C.SUROESTE-CALLE-VICENTE-ROCAFUERTE-Y-CALLE-JUAN-LEÓN-MERA-Z5-G-E-E",
+    "nombre_punto": "PARQUE CENTRAL C.SUROESTE CALLE VICENTE ROCAFUERTE Y CALLE JUAN LEÓN MERA"
   },
   {
     "zona": "ZONA 1",
@@ -3056,8 +3056,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "CONCORDIA NORTE",
     "subcircuito": "CONCORDIA NORTE 3",
-    "id": "PAPELER?A-LIBERTADOR-Z4-S-L-C",
-    "nombre_punto": "PAPELER?A LIBERTADOR"
+    "id": "PAPELERÍA-LIBERTADOR-Z4-S-L-C",
+    "nombre_punto": "PAPELERÍA LIBERTADOR"
   },
   {
     "zona": "ZONA 4",
@@ -3116,7 +3116,7 @@
   {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
-    "distrito": "NARANJITO MARCELINO MARIDUE?A",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
     "circuito": "NARANJITO ESTE",
     "subcircuito": "NARANJITO ESTE 1",
     "id": "PARQUE-SAN-ELIAS-Z5-G-N-N",
@@ -3137,8 +3137,8 @@
     "distrito": "YANTZAZA",
     "circuito": "TUNDAYME",
     "subcircuito": "TUNDAYME 1",
-    "id": "PARQUE-EL-QU?MI-Z7-Z-Y-T",
-    "nombre_punto": "PARQUE EL QU?MI"
+    "id": "PARQUE-EL-QUÍMI-Z7-Z-Y-T",
+    "nombre_punto": "PARQUE EL QUÍMI"
   },
   {
     "zona": "ZONA 4",
@@ -3146,8 +3146,8 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "SANTA MARIA",
     "subcircuito": "SANTA MARIA 1",
-    "id": "TENENCIA-POL?TICA-DE-SANTA-MAR?A-DEL-TOACHI-Z4-S-S-S",
-    "nombre_punto": "TENENCIA POL?TICA DE SANTA MAR?A DEL TOACHI"
+    "id": "TENENCIA-POLÍTICA-DE-SANTA-MARÍA-DEL-TOACHI-Z4-S-S-S",
+    "nombre_punto": "TENENCIA POLÍTICA DE SANTA MARÍA DEL TOACHI"
   },
   {
     "zona": "ZONA 4",
@@ -3155,8 +3155,8 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "SANTA MARIA",
     "subcircuito": "SANTA MARIA 1",
-    "id": "BAZAR-TA?ITA-Z4-S-S-S",
-    "nombre_punto": "BAZAR TA?ITA"
+    "id": "BAZAR-TAÑITA-Z4-S-S-S",
+    "nombre_punto": "BAZAR TAÑITA"
   },
   {
     "zona": "ZONA 1",
@@ -3173,8 +3173,8 @@
     "distrito": "PASAJE",
     "circuito": "BAJO ALTO",
     "subcircuito": "BAJO ALTO 1",
-    "id": "FISCAL?A-EL-GUABO-Z7-E-P-B",
-    "nombre_punto": "FISCAL?A EL GUABO"
+    "id": "FISCALÍA-EL-GUABO-Z7-E-P-B",
+    "nombre_punto": "FISCALÍA EL GUABO"
   },
   {
     "zona": "ZONA 4",
@@ -3182,8 +3182,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "CONCORDIA NORTE",
     "subcircuito": "CONCORDIA NORTE 2",
-    "id": "PAPELER?A-ALISS-Z4-S-L-C",
-    "nombre_punto": "PAPELER?A ALISS"
+    "id": "PAPELERÍA-ALISS-Z4-S-L-C",
+    "nombre_punto": "PAPELERÍA ALISS"
   },
   {
     "zona": "ZONA 1",
@@ -3218,8 +3218,8 @@
     "distrito": "SANTO DOMINGO OESTE",
     "circuito": "EL COLORADO",
     "subcircuito": "EL COLORADO 1",
-    "id": "V?VERES-JUAN-JOHAN-ALISS-Z4-S-S-E",
-    "nombre_punto": "V?VERES JUAN JOHAN ALISS"
+    "id": "VÍVERES-JUAN-JOHAN-ALISS-Z4-S-S-E",
+    "nombre_punto": "VÍVERES JUAN JOHAN ALISS"
   },
   {
     "zona": "ZONA 4",
@@ -3263,8 +3263,8 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "BOLIVAR",
     "subcircuito": "BOLIVAR 1",
-    "id": "V?VERES-SUSANITA-Z4-S-S-B",
-    "nombre_punto": "V?VERES SUSANITA"
+    "id": "VÍVERES-SUSANITA-Z4-S-S-B",
+    "nombre_punto": "VÍVERES SUSANITA"
   },
   {
     "zona": "ZONA 4",
@@ -3317,8 +3317,8 @@
     "distrito": "SANTO DOMINGO OESTE",
     "circuito": "CHILA",
     "subcircuito": "CHILA 1",
-    "id": "FERRETER?A-BV-Z4-S-S-C",
-    "nombre_punto": "FERRETER?A BV"
+    "id": "FERRETERÍA-BV-Z4-S-S-C",
+    "nombre_punto": "FERRETERÍA BV"
   },
   {
     "zona": "ZONA 4",
@@ -3350,7 +3350,7 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "MOROMORO",
     "subcircuito": "MOROMORO 1",
     "id": "SITIO-LA-VICTORIA--MOROMORO-Z7-E-P-M",
@@ -3371,8 +3371,8 @@
     "distrito": "EL CARMEN",
     "circuito": "EL CARMEN",
     "subcircuito": "EL CARMEN 2",
-    "id": "MUNICIPIO-DEL-CANT?N-EL-CARMEN-Z4-M-E-E",
-    "nombre_punto": "MUNICIPIO DEL CANT?N EL CARMEN"
+    "id": "MUNICIPIO-DEL-CANTÓN-EL-CARMEN-Z4-M-E-E",
+    "nombre_punto": "MUNICIPIO DEL CANTÓN EL CARMEN"
   },
   {
     "zona": "ZONA 4",
@@ -3398,13 +3398,13 @@
     "distrito": "EL CARMEN",
     "circuito": "EL CARMEN",
     "subcircuito": "EL CARMEN 2",
-    "id": "C?MARA-DE-COMERCIO-EL-CARMEN-Z4-M-E-E",
-    "nombre_punto": "C?MARA DE COMERCIO EL CARMEN"
+    "id": "CÁMARA-DE-COMERCIO-EL-CARMEN-Z4-M-E-E",
+    "nombre_punto": "CÁMARA DE COMERCIO EL CARMEN"
   },
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "MOROMORO",
     "subcircuito": "MOROMORO 1",
     "id": "CHORRO-MOROMORO-Z7-E-P-M",
@@ -3493,7 +3493,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL CENTRO",
     "subcircuito": "TRONCAL CENTRO 1",
@@ -3502,7 +3502,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL NORTE",
     "subcircuito": "TRONCAL NORTE 1",
@@ -3512,7 +3512,7 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "BALSAS",
     "subcircuito": "",
     "id": "GASOLINERA-P-Y-S-Z7-E-P-B",
@@ -3520,7 +3520,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL NORTE",
     "subcircuito": "TRONCAL NORTE 1",
@@ -3533,8 +3533,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "CONCORDIA NORTE",
     "subcircuito": "CONCORDIA NORTE 2",
-    "id": "PELUQUER?A-CANINA-Z4-S-L-C",
-    "nombre_punto": "PELUQUER?A CANINA"
+    "id": "PELUQUERÍA-CANINA-Z4-S-L-C",
+    "nombre_punto": "PELUQUERÍA CANINA"
   },
   {
     "zona": "ZONA 4",
@@ -3551,8 +3551,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "MONTERREY",
     "subcircuito": "MONTERREY 1",
-    "id": "CONTRUCCI?N-Y-REPARACI?N-VIDRIOS-Y-ESPEJOS-Z4-S-L-M",
-    "nombre_punto": "CONTRUCCI?N Y REPARACI?N VIDRIOS Y ESPEJOS"
+    "id": "CONTRUCCIÓN-Y-REPARACIÓN-VIDRIOS-Y-ESPEJOS-Z4-S-L-M",
+    "nombre_punto": "CONTRUCCIÓN Y REPARACIÓN VIDRIOS Y ESPEJOS"
   },
   {
     "zona": "ZONA 4",
@@ -3560,8 +3560,8 @@
     "distrito": "SANTO DOMINGO OESTE",
     "circuito": "EL PROLETARIADO",
     "subcircuito": "EL PROLETARIADO 1",
-    "id": "V?VERES-ALEJANDRA-Z4-S-S-E",
-    "nombre_punto": "V?VERES ALEJANDRA"
+    "id": "VÍVERES-ALEJANDRA-Z4-S-S-E",
+    "nombre_punto": "VÍVERES ALEJANDRA"
   },
   {
     "zona": "ZONA 4",
@@ -3578,8 +3578,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "MONTERREY",
     "subcircuito": "MONTERREY 1",
-    "id": "FERRETER?A-AC-Z4-S-L-M",
-    "nombre_punto": "FERRETER?A AC"
+    "id": "FERRETERÍA-AC-Z4-S-L-M",
+    "nombre_punto": "FERRETERÍA AC"
   },
   {
     "zona": "ZONA 4",
@@ -3587,8 +3587,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "MONTERREY",
     "subcircuito": "MONTERREY 1",
-    "id": "PANADER?A-BENDICI?N-DE-DIOS-Z4-S-L-M",
-    "nombre_punto": "PANADER?A BENDICI?N DE DIOS"
+    "id": "PANADERÍA-BENDICIÓN-DE-DIOS-Z4-S-L-M",
+    "nombre_punto": "PANADERÍA BENDICIÓN DE DIOS"
   },
   {
     "zona": "ZONA 4",
@@ -3614,8 +3614,8 @@
     "distrito": "SANTO DOMINGO OESTE",
     "circuito": "EL PROLETARIADO",
     "subcircuito": "EL PROLETARIADO 2",
-    "id": "V?VERES-SAID-Z4-S-S-E",
-    "nombre_punto": "V?VERES SAID"
+    "id": "VÍVERES-SAID-Z4-S-S-E",
+    "nombre_punto": "VÍVERES SAID"
   },
   {
     "zona": "ZONA 4",
@@ -3623,8 +3623,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "MONTERREY",
     "subcircuito": "MONTERREY 1",
-    "id": "PAGO-?GIL-Z4-S-L-M",
-    "nombre_punto": "PAGO ?GIL"
+    "id": "PAGO-ÁGIL-Z4-S-L-M",
+    "nombre_punto": "PAGO ÁGIL"
   },
   {
     "zona": "ZONA 4",
@@ -3641,8 +3641,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "MONTERREY",
     "subcircuito": "MONTERREY 1",
-    "id": "CYBER-PAPELER?A-ALEJANDRITO-Z4-S-L-M",
-    "nombre_punto": "CYBER PAPELER?A ALEJANDRITO"
+    "id": "CYBER-PAPELERÍA-ALEJANDRITO-Z4-S-L-M",
+    "nombre_punto": "CYBER PAPELERÍA ALEJANDRITO"
   },
   {
     "zona": "ZONA 4",
@@ -3665,7 +3665,7 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "BALSAS",
     "subcircuito": "BALSAS 1",
     "id": "ELECTROHOGAR-Z7-E-P-B",
@@ -3674,7 +3674,7 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "SARACAY",
     "subcircuito": "SARACAY 1",
     "id": "SITIO-CAMARONES-VENTA-DE-NARANJAS-Z7-E-P-S",
@@ -3686,8 +3686,8 @@
     "distrito": "SANTO DOMINGO OESTE",
     "circuito": "EL PROLETARIADO",
     "subcircuito": "EL PROLETARIADO 1",
-    "id": "FERRETER?A-H&G-Z4-S-S-E",
-    "nombre_punto": "FERRETER?A H&G"
+    "id": "FERRETERÍA-H&G-Z4-S-S-E",
+    "nombre_punto": "FERRETERÍA H&G"
   },
   {
     "zona": "ZONA 4",
@@ -3740,8 +3740,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "MONTERREY",
     "subcircuito": "MONTERREY 2",
-    "id": "PANADER?A-MIA-ISABELLA-Z4-S-L-M",
-    "nombre_punto": "PANADER?A MIA ISABELLA"
+    "id": "PANADERÍA-MIA-ISABELLA-Z4-S-L-M",
+    "nombre_punto": "PANADERÍA MIA ISABELLA"
   },
   {
     "zona": "ZONA 4",
@@ -3776,8 +3776,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "MONTERREY",
     "subcircuito": "MONTERREY 2",
-    "id": "PANADER?A-Y-PASTELER?A-BON-PAN-Z4-S-L-M",
-    "nombre_punto": "PANADER?A Y PASTELER?A BON PAN"
+    "id": "PANADERÍA-Y-PASTELERÍA-BON-PAN-Z4-S-L-M",
+    "nombre_punto": "PANADERÍA Y PASTELERÍA BON PAN"
   },
   {
     "zona": "ZONA 4",
@@ -3803,8 +3803,8 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 2",
-    "id": "HOSPITAL-GUSTAVO-DOM?NGUEZ-Z4-S-S-C",
-    "nombre_punto": "HOSPITAL GUSTAVO DOM?NGUEZ"
+    "id": "HOSPITAL-GUSTAVO-DOMÍNGUEZ-Z4-S-S-C",
+    "nombre_punto": "HOSPITAL GUSTAVO DOMÍNGUEZ"
   },
   {
     "zona": "ZONA 4",
@@ -3812,8 +3812,8 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 3",
-    "id": "FISCAL?A-Z4-S-S-C",
-    "nombre_punto": "FISCAL?A"
+    "id": "FISCALÍA-Z4-S-S-C",
+    "nombre_punto": "FISCALÍA"
   },
   {
     "zona": "ZONA 4",
@@ -3821,8 +3821,8 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 3",
-    "id": "ALMAC?N-TIA-Z4-S-S-C",
-    "nombre_punto": "ALMAC?N TIA"
+    "id": "ALMACÉN-TIA-Z4-S-S-C",
+    "nombre_punto": "ALMACÉN TIA"
   },
   {
     "zona": "ZONA 6",
@@ -3911,8 +3911,8 @@
     "distrito": "ESMERALDAS",
     "circuito": "TABIAZO",
     "subcircuito": "TABIAZO 1",
-    "id": "PEDRO-MANUEL-BONE-MONTA?O-Z1-E-E-T",
-    "nombre_punto": "PEDRO MANUEL BONE MONTA?O"
+    "id": "PEDRO-MANUEL-BONE-MONTAÑO-Z1-E-E-T",
+    "nombre_punto": "PEDRO MANUEL BONE MONTAÑO"
   },
   {
     "zona": "ZONA 2",
@@ -3947,8 +3947,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "COCA OCCIDENTE",
     "subcircuito": "COCA OCCIDENTE 2",
-    "id": "FARMACIA-ECON?MICAS-Z2-O-O-C",
-    "nombre_punto": "FARMACIA ECON?MICAS"
+    "id": "FARMACIA-ECONÓMICAS-Z2-O-O-C",
+    "nombre_punto": "FARMACIA ECONÓMICAS"
   },
   {
     "zona": "ZONA 5",
@@ -3956,8 +3956,8 @@
     "distrito": "JUJAN SIMON BOLIVAR",
     "circuito": "SIMON BOLIVAR",
     "subcircuito": "SIMON BOLIVAR 1",
-    "id": "COOP.-DE-AHORRO-Y-CR?DITO-METR?POLIS-FRENTE-AL-MUNICIPIO-DEL-CANT?N-Z5-G-J-S",
-    "nombre_punto": "COOP. DE AHORRO Y CR?DITO METR?POLIS FRENTE AL MUNICIPIO DEL CANT?N"
+    "id": "COOP.-DE-AHORRO-Y-CRÉDITO-METRÓPOLIS-FRENTE-AL-MUNICIPIO-DEL-CANTÓN-Z5-G-J-S",
+    "nombre_punto": "COOP. DE AHORRO Y CRÉDITO METRÓPOLIS FRENTE AL MUNICIPIO DEL CANTÓN"
   },
   {
     "zona": "ZONA 5",
@@ -4001,8 +4001,8 @@
     "distrito": "SANGAY",
     "circuito": "HUAMBOYA",
     "subcircuito": "HUAMBOYA 1",
-    "id": "COMERCIAL-PATI?O-Z6-M-S-H",
-    "nombre_punto": "COMERCIAL PATI?O"
+    "id": "COMERCIAL-PATIÑO-Z6-M-S-H",
+    "nombre_punto": "COMERCIAL PATIÑO"
   },
   {
     "zona": "ZONA 4",
@@ -4046,8 +4046,8 @@
     "distrito": "PAUTE",
     "circuito": "PAUTE",
     "subcircuito": "PAUTE 1",
-    "id": "FARMACIA-ECON?MICA-Z6-A-P-P",
-    "nombre_punto": "FARMACIA ECON?MICA"
+    "id": "FARMACIA-ECONÓMICA-Z6-A-P-P",
+    "nombre_punto": "FARMACIA ECONÓMICA"
   },
   {
     "zona": "ZONA 4",
@@ -4097,29 +4097,29 @@
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
-    "distrito": "BA?OS",
-    "circuito": "BA?OS",
-    "subcircuito": "BA?OS 2",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 2",
     "id": "GASOLINERA-SINDICATO-DE-CHOFERES-Z3-T-B-B",
     "nombre_punto": "GASOLINERA SINDICATO DE CHOFERES"
   },
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
-    "distrito": "BA?OS",
-    "circuito": "BA?OS",
-    "subcircuito": "BA?OS 1",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
     "id": "GASOLINERA-ALBAN-Z3-T-B-B",
     "nombre_punto": "GASOLINERA ALBAN"
   },
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
-    "distrito": "BA?OS",
-    "circuito": "BA?OS",
-    "subcircuito": "BA?OS 1",
-    "id": "GASOLINERA-S?NCHEZ-Z3-T-B-B",
-    "nombre_punto": "GASOLINERA S?NCHEZ"
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "GASOLINERA-SÁNCHEZ-Z3-T-B-B",
+    "nombre_punto": "GASOLINERA SÁNCHEZ"
   },
   {
     "zona": "ZONA 1",
@@ -4145,8 +4145,8 @@
     "distrito": "ESMERALDAS",
     "circuito": "TABIAZO",
     "subcircuito": "TABIAZO 1",
-    "id": "TIENDA-BENDICI?N.-DE-DIOS-Z1-E-E-T",
-    "nombre_punto": "TIENDA BENDICI?N. DE DIOS"
+    "id": "TIENDA-BENDICIÓN.-DE-DIOS-Z1-E-E-T",
+    "nombre_punto": "TIENDA BENDICIÓN. DE DIOS"
   },
   {
     "zona": "ZONA 5",
@@ -4154,13 +4154,13 @@
     "distrito": "NARANJAL BALAO",
     "circuito": "BALAO",
     "subcircuito": "BALAO 1",
-    "id": "PA?ORA-Z5-G-N-B",
-    "nombre_punto": "PA?ORA"
+    "id": "PAÑORA-Z5-G-N-B",
+    "nombre_punto": "PAÑORA"
   },
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "SARACAY",
     "subcircuito": "SARACAY 1",
     "id": "MULTIMARKEY-SARACAY-CIUDADELA-LA-INMACULADA-Z7-E-P-S",
@@ -4188,8 +4188,8 @@
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
     "distrito": "AMBATO NORTE",
-    "circuito": "JARDIN AMBATE?O",
-    "subcircuito": "JARDIN AMBATE?O 1",
+    "circuito": "JARDIN AMBATEÑO",
+    "subcircuito": "JARDIN AMBATEÑO 1",
     "id": "FARMACIA-SAN-FERNANDO-Z3-T-A-J",
     "nombre_punto": "FARMACIA SAN FERNANDO"
   },
@@ -4199,8 +4199,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "COCA ORIENTE",
     "subcircuito": "COCA ORIENTE 1",
-    "id": "CEVICHERIA-EL-RINC?N-MANABITA-Z2-O-O-C",
-    "nombre_punto": "CEVICHERIA EL RINC?N MANABITA"
+    "id": "CEVICHERIA-EL-RINCÓN-MANABITA-Z2-O-O-C",
+    "nombre_punto": "CEVICHERIA EL RINCÓN MANABITA"
   },
   {
     "zona": "ZONA 6",
@@ -4241,7 +4241,7 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "MOROMORO",
     "subcircuito": "MOROMORO 1",
     "id": "MOROMORO--PALOSOLO--TIENDA-SAN-JOSE-Z7-E-P-M",
@@ -4259,7 +4259,7 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "MOROMORO",
     "subcircuito": "MOROMORO 1",
     "id": "MOROMORO---LA-RAYA---BAR-RESTAURANTE-EL-CHAVAL-Z7-E-P-M",
@@ -4307,8 +4307,8 @@
     "distrito": "ESMERALDAS",
     "circuito": "EL ARENAL",
     "subcircuito": "EL ARENAL 1",
-    "id": "GASOLINERA-TERPEL-V?A-LOS-PUENTES-Z1-E-E-E",
-    "nombre_punto": "GASOLINERA TERPEL V?A LOS PUENTES"
+    "id": "GASOLINERA-TERPEL-VÍA-LOS-PUENTES-Z1-E-E-E",
+    "nombre_punto": "GASOLINERA TERPEL VÍA LOS PUENTES"
   },
   {
     "zona": "ZONA 1",
@@ -4316,8 +4316,8 @@
     "distrito": "ESMERALDAS",
     "circuito": "COLECTIVA",
     "subcircuito": "COLECTIVA 2",
-    "id": "FERRETER?A-ALEXANDRA-Z1-E-E-C",
-    "nombre_punto": "FERRETER?A ALEXANDRA"
+    "id": "FERRETERÍA-ALEXANDRA-Z1-E-E-C",
+    "nombre_punto": "FERRETERÍA ALEXANDRA"
   },
   {
     "zona": "ZONA 2",
@@ -4325,13 +4325,13 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "COCA ORIENTE",
     "subcircuito": "COCA ORIENTE 2",
-    "id": "RESTO-BAR-COQUE?O'S-Z2-O-O-C",
-    "nombre_punto": "RESTO BAR COQUE?O'S"
+    "id": "RESTO-BAR-COQUEÑO'S-Z2-O-O-C",
+    "nombre_punto": "RESTO BAR COQUEÑO'S"
   },
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "CAPIRO",
     "subcircuito": "CAPIRO 1",
     "id": "TIENDA-RUBY-Z7-E-P-C",
@@ -4361,8 +4361,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "COCA ORIENTE",
     "subcircuito": "COCA ORIENTE 2",
-    "id": "CA?ARI-KAUSAY-Z2-O-O-C",
-    "nombre_punto": "CA?ARI KAUSAY"
+    "id": "CAÑARI-KAUSAY-Z2-O-O-C",
+    "nombre_punto": "CAÑARI KAUSAY"
   },
   {
     "zona": "ZONA 6",
@@ -4370,8 +4370,8 @@
     "distrito": "GIRON",
     "circuito": "GIRON",
     "subcircuito": "GIRON 1",
-    "id": "SERV?-CAR-Z6-A-G-G",
-    "nombre_punto": "SERV? CAR"
+    "id": "SERVÍ-CAR-Z6-A-G-G",
+    "nombre_punto": "SERVÍ CAR"
   },
   {
     "zona": "ZONA 1",
@@ -4379,8 +4379,8 @@
     "distrito": "ESMERALDAS",
     "circuito": "VALLE HERMOSO",
     "subcircuito": "VALLE HERMOSO 3",
-    "id": "TIENDA-LUZ-PROA?O-Z1-E-E-V",
-    "nombre_punto": "TIENDA LUZ PROA?O"
+    "id": "TIENDA-LUZ-PROAÑO-Z1-E-E-V",
+    "nombre_punto": "TIENDA LUZ PROAÑO"
   },
   {
     "zona": "ZONA 2",
@@ -4439,11 +4439,11 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "MARCABELI",
     "subcircuito": "MARCABELI 1",
-    "id": "ALMAC?N-ELECTROHOGAR-Z7-E-P-M",
-    "nombre_punto": "ALMAC?N ELECTROHOGAR"
+    "id": "ALMACÉN-ELECTROHOGAR-Z7-E-P-M",
+    "nombre_punto": "ALMACÉN ELECTROHOGAR"
   },
   {
     "zona": "ZONA 3",
@@ -4451,8 +4451,8 @@
     "distrito": "GUANO",
     "circuito": "SANTA FE DE GALAN",
     "subcircuito": "SANTA FE DE GALAN 1",
-    "id": "VIVERES-DO?A-PATY-Z3-C-G-S",
-    "nombre_punto": "VIVERES DO?A PATY"
+    "id": "VIVERES-DOÑA-PATY-Z3-C-G-S",
+    "nombre_punto": "VIVERES DOÑA PATY"
   },
   {
     "zona": "ZONA 6",
@@ -4496,8 +4496,8 @@
     "distrito": "GUANO",
     "circuito": "GUANO",
     "subcircuito": "GUANO 2",
-    "id": "FERRETER?A-SANTA-ANITA-Z3-C-G-G",
-    "nombre_punto": "FERRETER?A SANTA ANITA"
+    "id": "FERRETERÍA-SANTA-ANITA-Z3-C-G-G",
+    "nombre_punto": "FERRETERÍA SANTA ANITA"
   },
   {
     "zona": "ZONA 4",
@@ -4523,8 +4523,8 @@
     "distrito": "GUALACEO",
     "circuito": "GUALACEO",
     "subcircuito": "GUALACEO 1",
-    "id": "COOPERATIVA-DE-AHORRO-Y-CREDITO-GA?ANSOL-Z6-A-G-G",
-    "nombre_punto": "COOPERATIVA DE AHORRO Y CREDITO GA?ANSOL"
+    "id": "COOPERATIVA-DE-AHORRO-Y-CREDITO-GAÑANSOL-Z6-A-G-G",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CREDITO GAÑANSOL"
   },
   {
     "zona": "ZONA 5",
@@ -4532,8 +4532,8 @@
     "distrito": "NARANJAL BALAO",
     "circuito": "NARANJAL SUR",
     "subcircuito": "NARANJAL SUR 1",
-    "id": "CALLE-EMILIO-GONZALEZ-PE?ARANDA-LOCAL-SAMARITANO-COFFEE-HOUSE-Z5-G-N-N",
-    "nombre_punto": "CALLE EMILIO GONZALEZ PE?ARANDA-LOCAL SAMARITANO COFFEE HOUSE"
+    "id": "CALLE-EMILIO-GONZALEZ-PEÑARANDA-LOCAL-SAMARITANO-COFFEE-HOUSE-Z5-G-N-N",
+    "nombre_punto": "CALLE EMILIO GONZALEZ PEÑARANDA-LOCAL SAMARITANO COFFEE HOUSE"
   },
   {
     "zona": "ZONA 3",
@@ -4550,8 +4550,8 @@
     "distrito": "GUANO",
     "circuito": "SANTA FE DE GALAN",
     "subcircuito": "SANTA FE DE GALAN 1",
-    "id": "V?VERES-MACARA-Z3-C-G-S",
-    "nombre_punto": "V?VERES MACARA"
+    "id": "VÍVERES-MACARA-Z3-C-G-S",
+    "nombre_punto": "VÍVERES MACARA"
   },
   {
     "zona": "ZONA 3",
@@ -4559,8 +4559,8 @@
     "distrito": "GUANO",
     "circuito": "SANTA FE DE GALAN",
     "subcircuito": "SANTA FE DE GALAN 1",
-    "id": "V?VERES-JHONATAN-Z3-C-G-S",
-    "nombre_punto": "V?VERES JHONATAN"
+    "id": "VÍVERES-JHONATAN-Z3-C-G-S",
+    "nombre_punto": "VÍVERES JHONATAN"
   },
   {
     "zona": "ZONA 5",
@@ -4586,14 +4586,14 @@
     "distrito": "RIOBAMBA",
     "circuito": "LA CONDAMINE",
     "subcircuito": "LA CONDAMINE 2",
-    "id": "PANADER?A-EL-CISNE-Z3-C-R-L",
-    "nombre_punto": "PANADER?A EL CISNE"
+    "id": "PANADERÍA-EL-CISNE-Z3-C-R-L",
+    "nombre_punto": "PANADERÍA EL CISNE"
   },
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
     "distrito": "AMBATO NORTE",
-    "circuito": "JARDIN AMBATE?O",
+    "circuito": "JARDIN AMBATEÑO",
     "subcircuito": "",
     "id": "VIVERES-DON-PEPITO-PARQUE-DE-LAS-FLORES-Z3-T-A-J",
     "nombre_punto": "VIVERES DON PEPITO PARQUE DE LAS FLORES"
@@ -4694,8 +4694,8 @@
     "distrito": "ESMERALDAS",
     "circuito": "TABIAZO",
     "subcircuito": "TABIAZO 1",
-    "id": "TIENDA-EL-NI?O-Z1-E-E-T",
-    "nombre_punto": "TIENDA EL NI?O"
+    "id": "TIENDA-EL-NIÑO-Z1-E-E-T",
+    "nombre_punto": "TIENDA EL NIÑO"
   },
   {
     "zona": "ZONA 7",
@@ -4703,8 +4703,8 @@
     "distrito": "CATAMAYO",
     "circuito": "CATAMAYO NORTE",
     "subcircuito": "CATAMAYO NORTE 1",
-    "id": "BOLIVAR-Y-24-DE-MAYO-..-SECTOR-LA-BAH?A-Z7-L-C-C",
-    "nombre_punto": "BOLIVAR Y 24 DE MAYO .. SECTOR LA BAH?A"
+    "id": "BOLIVAR-Y-24-DE-MAYO-..-SECTOR-LA-BAHÍA-Z7-L-C-C",
+    "nombre_punto": "BOLIVAR Y 24 DE MAYO .. SECTOR LA BAHÍA"
   },
   {
     "zona": "ZONA 1",
@@ -4757,8 +4757,8 @@
     "distrito": "ESPEJO",
     "circuito": "EL ANGEL",
     "subcircuito": "EL ANGEL 1",
-    "id": "FARMACIAS-ECON?MICAS-01-Z1-C-E-E",
-    "nombre_punto": "FARMACIAS ECON?MICAS 01"
+    "id": "FARMACIAS-ECONÓMICAS-01-Z1-C-E-E",
+    "nombre_punto": "FARMACIAS ECONÓMICAS 01"
   },
   {
     "zona": "ZONA 4",
@@ -4784,8 +4784,8 @@
     "distrito": "GUANO",
     "circuito": "SAN ANDRES",
     "subcircuito": "SAN ANDRES 2",
-    "id": "FARMACIA-ECON?MICA-Z3-C-G-S",
-    "nombre_punto": "FARMACIA ECON?MICA"
+    "id": "FARMACIA-ECONÓMICA-Z3-C-G-S",
+    "nombre_punto": "FARMACIA ECONÓMICA"
   },
   {
     "zona": "ZONA 1",
@@ -4793,8 +4793,8 @@
     "distrito": "ESPEJO",
     "circuito": "EL ANGEL",
     "subcircuito": "EL ANGEL 1",
-    "id": "FARMACIAS-ECON?MICAS-02-Z1-C-E-E",
-    "nombre_punto": "FARMACIAS ECON?MICAS 02"
+    "id": "FARMACIAS-ECONÓMICAS-02-Z1-C-E-E",
+    "nombre_punto": "FARMACIAS ECONÓMICAS 02"
   },
   {
     "zona": "ZONA 3",
@@ -4802,8 +4802,8 @@
     "distrito": "PALLATANGA",
     "circuito": "PALLATANGA",
     "subcircuito": "PALLATANGA 1",
-    "id": "LIBRER?A-PAQUITO-Z3-C-P-P",
-    "nombre_punto": "LIBRER?A PAQUITO"
+    "id": "LIBRERÍA-PAQUITO-Z3-C-P-P",
+    "nombre_punto": "LIBRERÍA PAQUITO"
   },
   {
     "zona": "ZONA 7",
@@ -4811,8 +4811,8 @@
     "distrito": "SANTA ROSA",
     "circuito": "LAS PALMERAS",
     "subcircuito": "LAS PALMERAS 1",
-    "id": "CENTRO-DE-SALUD-LAS-CA?AS-Z7-E-S-L",
-    "nombre_punto": "CENTRO DE SALUD LAS CA?AS"
+    "id": "CENTRO-DE-SALUD-LAS-CAÑAS-Z7-E-S-L",
+    "nombre_punto": "CENTRO DE SALUD LAS CAÑAS"
   },
   {
     "zona": "ZONA 1",
@@ -4856,8 +4856,8 @@
     "distrito": "AMBATO NORTE",
     "circuito": "ATAHUALPA",
     "subcircuito": "ATAHUALPA 2",
-    "id": "COOPERATIVA-UNI?N-FAMILIAR-Z3-T-A-A",
-    "nombre_punto": "COOPERATIVA UNI?N FAMILIAR"
+    "id": "COOPERATIVA-UNIÓN-FAMILIAR-Z3-T-A-A",
+    "nombre_punto": "COOPERATIVA UNIÓN FAMILIAR"
   },
   {
     "zona": "ZONA 1",
@@ -4892,8 +4892,8 @@
     "distrito": "GUANO",
     "circuito": "SAN ANDRES",
     "subcircuito": "SAN ANDRES 2",
-    "id": "MOLINOS-DE-AGUA-SAN-ANDR?S-Z3-C-G-S",
-    "nombre_punto": "MOLINOS DE AGUA SAN ANDR?S"
+    "id": "MOLINOS-DE-AGUA-SAN-ANDRÉS-Z3-C-G-S",
+    "nombre_punto": "MOLINOS DE AGUA SAN ANDRÉS"
   },
   {
     "zona": "ZONA 4",
@@ -4910,8 +4910,8 @@
     "distrito": "EL CARMEN",
     "circuito": "MANGA DEL CURA NORTE",
     "subcircuito": "MANGA DEL CURA NORTE 1",
-    "id": "FRIGOR?FICOS-D'-ELIAN-Z4-M-E-M",
-    "nombre_punto": "FRIGOR?FICOS  D' ELIAN"
+    "id": "FRIGORÍFICOS-D'-ELIAN-Z4-M-E-M",
+    "nombre_punto": "FRIGORÍFICOS  D' ELIAN"
   },
   {
     "zona": "ZONA 7",
@@ -4955,8 +4955,8 @@
     "distrito": "PALLATANGA",
     "circuito": "PALLATANGA",
     "subcircuito": "PALLATANGA 1",
-    "id": "COMISARIATO-PA?ORA-Z3-C-P-P",
-    "nombre_punto": "COMISARIATO PA?ORA"
+    "id": "COMISARIATO-PAÑORA-Z3-C-P-P",
+    "nombre_punto": "COMISARIATO PAÑORA"
   },
   {
     "zona": "ZONA 4",
@@ -5006,7 +5006,7 @@
   {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
-    "distrito": "NARANJITO MARCELINO MARIDUE?A",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
     "circuito": "NARANJITO CENTRO",
     "subcircuito": "NARANJITO CENTRO 1",
     "id": "MEDALLON-DEL-ORO-Z5-G-N-N",
@@ -5036,8 +5036,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 1",
-    "id": "SAT?LITE.EC-Z2-O-L-S",
-    "nombre_punto": "SAT?LITE.EC"
+    "id": "SATÉLITE.EC-Z2-O-L-S",
+    "nombre_punto": "SATÉLITE.EC"
   },
   {
     "zona": "ZONA 4",
@@ -5072,8 +5072,8 @@
     "distrito": "PATATE",
     "circuito": "EL TAMBO",
     "subcircuito": "EL TAMBO 1",
-    "id": "PARQUE-H?ROES-DE-PAQUISHA-Z3-T-P-E",
-    "nombre_punto": "PARQUE H?ROES DE PAQUISHA"
+    "id": "PARQUE-HÉROES-DE-PAQUISHA-Z3-T-P-E",
+    "nombre_punto": "PARQUE HÉROES DE PAQUISHA"
   },
   {
     "zona": "ZONA 2",
@@ -5099,8 +5099,8 @@
     "distrito": "24 DE MAYO",
     "circuito": "SANTA ANA",
     "subcircuito": "SANTA ANA 1",
-    "id": "ALMAC?N-CREDIT-Z4-M-2-S",
-    "nombre_punto": "ALMAC?N CREDIT"
+    "id": "ALMACÉN-CREDIT-Z4-M-2-S",
+    "nombre_punto": "ALMACÉN CREDIT"
   },
   {
     "zona": "ZONA 2",
@@ -5114,7 +5114,7 @@
   {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
-    "distrito": "NARANJITO MARCELINO MARIDUE?A",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
     "circuito": "NARANJITO SUR",
     "subcircuito": "NARANJITO SUR 1",
     "id": "LA-PISTA-DEL-PATINAJE-Z5-G-N-N",
@@ -5144,8 +5144,8 @@
     "distrito": "PALLATANGA",
     "circuito": "PALLATANGA",
     "subcircuito": "PALLATANGA 1",
-    "id": "FERRETER?A-MULTIHERRAMIENTAS-Z3-C-P-P",
-    "nombre_punto": "FERRETER?A MULTIHERRAMIENTAS"
+    "id": "FERRETERÍA-MULTIHERRAMIENTAS-Z3-C-P-P",
+    "nombre_punto": "FERRETERÍA MULTIHERRAMIENTAS"
   },
   {
     "zona": "ZONA 4",
@@ -5171,8 +5171,8 @@
     "distrito": "24 DE MAYO",
     "circuito": "SANTA ANA",
     "subcircuito": "SANTA ANA 1",
-    "id": "CENTRO-EST?TICO-MAYTE-PONCE-Z4-M-2-S",
-    "nombre_punto": "CENTRO EST?TICO MAYTE PONCE"
+    "id": "CENTRO-ESTÉTICO-MAYTE-PONCE-Z4-M-2-S",
+    "nombre_punto": "CENTRO ESTÉTICO MAYTE PONCE"
   },
   {
     "zona": "ZONA 4",
@@ -5189,8 +5189,8 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "ALLURIQUIN",
     "subcircuito": "ALLURIQUIN 1",
-    "id": "HELADER?A-DBRYAN-Z4-S-S-A",
-    "nombre_punto": "HELADER?A DBRYAN"
+    "id": "HELADERÍA-DBRYAN-Z4-S-S-A",
+    "nombre_punto": "HELADERÍA DBRYAN"
   },
   {
     "zona": "ZONA 4",
@@ -5315,8 +5315,8 @@
     "distrito": "AMBATO NORTE",
     "circuito": "LA MATRIZ",
     "subcircuito": "LA MATRIZ 2",
-    "id": "MERCADO-COL?N-Z3-T-A-L",
-    "nombre_punto": "MERCADO COL?N"
+    "id": "MERCADO-COLÓN-Z3-T-A-L",
+    "nombre_punto": "MERCADO COLÓN"
   },
   {
     "zona": "ZONA 3",
@@ -5384,9 +5384,9 @@
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
-    "distrito": "BA?OS",
-    "circuito": "BA?OS",
-    "subcircuito": "BA?OS 2",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 2",
     "id": "MINIMARKET-LIZ-Z3-T-B-B",
     "nombre_punto": "MINIMARKET LIZ"
   },
@@ -5432,13 +5432,13 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 1",
-    "id": "GASOLINERA-SAN-JOS?-Z2-O-L-S",
-    "nombre_punto": "GASOLINERA SAN JOS?"
+    "id": "GASOLINERA-SAN-JOSÉ-Z2-O-L-S",
+    "nombre_punto": "GASOLINERA SAN JOSÉ"
   },
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
-    "distrito": "BA?OS",
+    "distrito": "BAÑOS",
     "circuito": "RIO NEGRO",
     "subcircuito": "RIO NEGRO 1",
     "id": "PICANTERIA-LA-HORA-DEL-BUEN-SABOR-Z3-T-B-R",
@@ -5456,11 +5456,11 @@
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
-    "distrito": "BA?OS",
+    "distrito": "BAÑOS",
     "circuito": "RIO NEGRO",
     "subcircuito": "RIO NEGRO 1",
-    "id": "MINIMARKET-PAP?-JUAN-Z3-T-B-R",
-    "nombre_punto": "MINIMARKET PAP? JUAN"
+    "id": "MINIMARKET-PAPÁ-JUAN-Z3-T-B-R",
+    "nombre_punto": "MINIMARKET PAPÁ JUAN"
   },
   {
     "zona": "ZONA 2",
@@ -5474,7 +5474,7 @@
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
-    "distrito": "BA?OS",
+    "distrito": "BAÑOS",
     "circuito": "RIO NEGRO",
     "subcircuito": "RIO NEGRO 1",
     "id": "GASOLINERA-RIO-NEGRO-Z3-T-B-R",
@@ -5513,8 +5513,8 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "CRISTO VIVE",
     "subcircuito": "CRISTO VIVE 2",
-    "id": "GASOLINERA-LUZ-DE-AM?RICA-Z4-S-S-C",
-    "nombre_punto": "GASOLINERA LUZ DE AM?RICA"
+    "id": "GASOLINERA-LUZ-DE-AMÉRICA-Z4-S-S-C",
+    "nombre_punto": "GASOLINERA LUZ DE AMÉRICA"
   },
   {
     "zona": "ZONA 5",
@@ -5540,8 +5540,8 @@
     "distrito": "CATAMAYO",
     "circuito": "CATAMAYO SAN JOSE",
     "subcircuito": "CATAMAYO SAN JOSE 1",
-    "id": "BARRIO-DIVINO-NI?O-PARQUE-LOS-ABUELITOS-Z7-L-C-C",
-    "nombre_punto": "BARRIO DIVINO NI?O  PARQUE LOS ABUELITOS"
+    "id": "BARRIO-DIVINO-NIÑO-PARQUE-LOS-ABUELITOS-Z7-L-C-C",
+    "nombre_punto": "BARRIO DIVINO NIÑO  PARQUE LOS ABUELITOS"
   },
   {
     "zona": "ZONA 3",
@@ -5558,8 +5558,8 @@
     "distrito": "ESPEJO",
     "circuito": "MIRA",
     "subcircuito": "MIRA 1",
-    "id": "EL-C?NDOR-Z1-C-E-M",
-    "nombre_punto": "EL C?NDOR"
+    "id": "EL-CÓNDOR-Z1-C-E-M",
+    "nombre_punto": "EL CÓNDOR"
   },
   {
     "zona": "ZONA 4",
@@ -5567,8 +5567,8 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "CRISTO VIVE",
     "subcircuito": "CRISTO VIVE 2",
-    "id": "CENTRO-TUR?STICO-MUSHILY-Z4-S-S-C",
-    "nombre_punto": "CENTRO TUR?STICO MUSHILY"
+    "id": "CENTRO-TURÍSTICO-MUSHILY-Z4-S-S-C",
+    "nombre_punto": "CENTRO TURÍSTICO MUSHILY"
   },
   {
     "zona": "ZONA 2",
@@ -5684,8 +5684,8 @@
     "distrito": "GUANO",
     "circuito": "PENIPE",
     "subcircuito": "",
-    "id": "LIBRER?A-Y-BASAR-PATY-Z3-C-G-P",
-    "nombre_punto": "LIBRER?A Y BASAR PATY"
+    "id": "LIBRERÍA-Y-BASAR-PATY-Z3-C-G-P",
+    "nombre_punto": "LIBRERÍA Y BASAR PATY"
   },
   {
     "zona": "ZONA 7",
@@ -5693,8 +5693,8 @@
     "distrito": "SARAGURO",
     "circuito": "SARAGURO",
     "subcircuito": "SARAGURO 1",
-    "id": "AZUAY-FRENTE-A-RADIOGRAF?A-IMA-MIRA-Z7-L-S-S",
-    "nombre_punto": "AZUAY A 10 METROS DEL INGRESO A LA MATARA, FRENTE A RADIOGRAF?A IMA MIRA"
+    "id": "AZUAY-FRENTE-A-RADIOGRAFÍA-IMA-MIRA-Z7-L-S-S",
+    "nombre_punto": "AZUAY A 10 METROS DEL INGRESO A LA MATARA, FRENTE A RADIOGRAFÍA IMA MIRA"
   },
   {
     "zona": "ZONA 7",
@@ -5756,8 +5756,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SAN SEBASTIAN",
     "subcircuito": "SAN SEBASTIAN 1",
-    "id": "GASOLINERA-DIVINO-NI?O-Z2-O-L-S",
-    "nombre_punto": "GASOLINERA DIVINO NI?O"
+    "id": "GASOLINERA-DIVINO-NIÑO-Z2-O-L-S",
+    "nombre_punto": "GASOLINERA DIVINO NIÑO"
   },
   {
     "zona": "ZONA 1",
@@ -5828,8 +5828,8 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "UNIFICADOS",
     "subcircuito": "UNIFICADOS 1",
-    "id": "PARRILLADAS-L?PEZ-Z4-S-S-U",
-    "nombre_punto": "PARRILLADAS L?PEZ"
+    "id": "PARRILLADAS-LÓPEZ-Z4-S-S-U",
+    "nombre_punto": "PARRILLADAS LÓPEZ"
   },
   {
     "zona": "ZONA 3",
@@ -5837,8 +5837,8 @@
     "distrito": "SIGCHOS",
     "circuito": "SIGCHOS",
     "subcircuito": "SIGCHOS 1",
-    "id": "COOPERATIVA-DE-AHORRO-Y-CR?DITO-SAN-MIGUEL-DE-SIGCHOS-Z3-C-S-S",
-    "nombre_punto": "COOPERATIVA DE AHORRO Y CR?DITO SAN MIGUEL DE SIGCHOS"
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-SAN-MIGUEL-DE-SIGCHOS-Z3-C-S-S",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CRÉDITO SAN MIGUEL DE SIGCHOS"
   },
   {
     "zona": "ZONA 3",
@@ -5900,8 +5900,8 @@
     "distrito": "CHILLANES",
     "circuito": "CHILLANES",
     "subcircuito": "CHILLANES 1",
-    "id": "SECTOR-BANCARIO-DEL-CANT?N-CHILLANES-Z10-B-C-C",
-    "nombre_punto": "SECTOR BANCARIO DEL CANT?N CHILLANES"
+    "id": "SECTOR-BANCARIO-DEL-CANTÓN-CHILLANES-Z10-B-C-C",
+    "nombre_punto": "SECTOR BANCARIO DEL CANTÓN CHILLANES"
   },
   {
     "zona": "ZONA 3",
@@ -5909,8 +5909,8 @@
     "distrito": "SIGCHOS",
     "circuito": "SIGCHOS",
     "subcircuito": "SIGCHOS 1",
-    "id": "ESTACI?N-DE-SERVICIO-MAS-GAS-SIGCHOS-Z3-C-S-S",
-    "nombre_punto": "ESTACI?N DE SERVICIO MAS GAS SIGCHOS"
+    "id": "ESTACIÓN-DE-SERVICIO-MAS-GAS-SIGCHOS-Z3-C-S-S",
+    "nombre_punto": "ESTACIÓN DE SERVICIO MAS GAS SIGCHOS"
   },
   {
     "zona": "ZONA 7",
@@ -5936,8 +5936,8 @@
     "distrito": "CHILLANES",
     "circuito": "CHILLANES",
     "subcircuito": "CHILLANES 1",
-    "id": "TERMINAL-TERRESTRE-PROVISIONAL-DEL-CANT?N-CHILLANES-Z10-B-C-C",
-    "nombre_punto": "TERMINAL TERRESTRE PROVISIONAL DEL CANT?N CHILLANES"
+    "id": "TERMINAL-TERRESTRE-PROVISIONAL-DEL-CANTÓN-CHILLANES-Z10-B-C-C",
+    "nombre_punto": "TERMINAL TERRESTRE PROVISIONAL DEL CANTÓN CHILLANES"
   },
   {
     "zona": "ZONA 7",
@@ -5996,9 +5996,9 @@
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
-    "distrito": "BA?OS",
-    "circuito": "BA?OS",
-    "subcircuito": "BA?OS 2",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 2",
     "id": "BANECUADOR-Z3-T-B-B",
     "nombre_punto": "BANECUADOR"
   },
@@ -6041,9 +6041,9 @@
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
-    "distrito": "BA?OS",
-    "circuito": "BA?OS",
-    "subcircuito": "BA?OS 1",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
     "id": "BANCO-PICHINCHA-Z3-T-B-B",
     "nombre_punto": "BANCO PICHINCHA"
   },
@@ -6116,8 +6116,8 @@
     "distrito": "LOJA",
     "circuito": "LOS MOLINOS",
     "subcircuito": "LOS MOLINOS 1",
-    "id": "FARMACIA-AM?RICAS,-FRENTE-AL-BANCO-DE-LOJA-Z7-L-L-L",
-    "nombre_punto": "FARMACIA AM?RICAS, FRENTE AL BANCO DE LOJA"
+    "id": "FARMACIA-AMÉRICAS,-FRENTE-AL-BANCO-DE-LOJA-Z7-L-L-L",
+    "nombre_punto": "FARMACIA AMÉRICAS, FRENTE AL BANCO DE LOJA"
   },
   {
     "zona": "ZONA 3",
@@ -6134,8 +6134,8 @@
     "distrito": "LOJA",
     "circuito": "IV CENTENARIO",
     "subcircuito": "IV CENTENARIO 1",
-    "id": "FARMACIA-ECON?MICA-FRENTE-AL-MERCADO-CENTRO-COMERCIAL-Z7-L-L-I",
-    "nombre_punto": "FARMACIA ECON?MICA FRENTE AL MERCADO CENTRO COMERCIAL"
+    "id": "FARMACIA-ECONÓMICA-FRENTE-AL-MERCADO-CENTRO-COMERCIAL-Z7-L-L-I",
+    "nombre_punto": "FARMACIA ECONÓMICA FRENTE AL MERCADO CENTRO COMERCIAL"
   },
   {
     "zona": "ZONA 1",
@@ -6143,8 +6143,8 @@
     "distrito": "QUININDE",
     "circuito": "MALIMPIA",
     "subcircuito": "MALIMPIA 1",
-    "id": "MALEC?N-MALIMPIA-Z1-E-Q-M",
-    "nombre_punto": "MALEC?N MALIMPIA"
+    "id": "MALECÓN-MALIMPIA-Z1-E-Q-M",
+    "nombre_punto": "MALECÓN MALIMPIA"
   },
   {
     "zona": "ZONA 7",
@@ -6251,8 +6251,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA NORTE",
     "subcircuito": "LA MANA NORTE 2",
-    "id": "GASOLINERA-MAR?A-BEATRIZ-Z3-C-L-L",
-    "nombre_punto": "GASOLINERA MAR?A BEATRIZ"
+    "id": "GASOLINERA-MARÍA-BEATRIZ-Z3-C-L-L",
+    "nombre_punto": "GASOLINERA MARÍA BEATRIZ"
   },
   {
     "zona": "ZONA 7",
@@ -6392,7 +6392,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "ALOAG",
     "subcircuito": "ALOAG 1",
     "id": "CYBER-Y-PAPELERIA-MYM-Z2-P-R-A",
@@ -6419,7 +6419,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "ALOAG",
     "subcircuito": "ALOAG 1",
     "id": "SUPERMERCADO-LA-ECONOMIA-Z2-P-R-A",
@@ -6449,8 +6449,8 @@
     "distrito": "LOJA",
     "circuito": "IV CENTENARIO",
     "subcircuito": "IV CENTENARIO 1",
-    "id": "PADRE-JULI?N-LORENTE-Z7-L-L-I",
-    "nombre_punto": "PADRE JULI?N LORENTE"
+    "id": "PADRE-JULIÁN-LORENTE-Z7-L-L-I",
+    "nombre_punto": "PADRE JULIÁN LORENTE"
   },
   {
     "zona": "ZONA 7",
@@ -6581,7 +6581,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "SANGOLQUI",
     "subcircuito": "SANGOLQUI 2",
     "id": "BODEGAS-ALEXIS-Z2-P-R-S",
@@ -6617,7 +6617,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "MACHACHI NORTE",
     "subcircuito": "MACHACHI NORTE 1",
     "id": "VICTORIAS-BOUTIQUE-Z2-P-R-M",
@@ -6629,13 +6629,13 @@
     "distrito": "LOJA",
     "circuito": "IV CENTENARIO",
     "subcircuito": "IV CENTENARIO 1",
-    "id": "RAM?N-PINTO-Y-10-DE-AGOST-Z7-L-L-I",
-    "nombre_punto": "RAM?N PINTO Y 10 DE AGOST"
+    "id": "RAMÓN-PINTO-Y-10-DE-AGOST-Z7-L-L-I",
+    "nombre_punto": "RAMÓN PINTO Y 10 DE AGOST"
   },
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "MACHACHI NORTE",
     "subcircuito": "MACHACHI NORTE 1",
     "id": "SUPER-SERVICAR-Z2-P-R-M",
@@ -6647,8 +6647,8 @@
     "distrito": "LOJA",
     "circuito": "IV CENTENARIO",
     "subcircuito": "IV CENTENARIO 1",
-    "id": "RAM?N-PINTO-Y-AZUAY-Z7-L-L-I",
-    "nombre_punto": "RAM?N PINTO Y AZUAY"
+    "id": "RAMÓN-PINTO-Y-AZUAY-Z7-L-L-I",
+    "nombre_punto": "RAMÓN PINTO Y AZUAY"
   },
   {
     "zona": "ZONA 7",
@@ -6671,7 +6671,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "FAJARDO",
     "subcircuito": "",
     "id": "VARIEDADES-VALETIN-Z2-P-R-F",
@@ -6689,7 +6689,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "SAN RAFAEL",
     "subcircuito": "SAN RAFAEL 1",
     "id": "COPY-SO-Z2-P-R-S",
@@ -6809,8 +6809,8 @@
     "distrito": "LOJA",
     "circuito": "ESTEBAN GODOY",
     "subcircuito": "ESTEBAN GODOY 1",
-    "id": "LAVANDER?A-EXPERT-WASH,-CASA-ESQUINERA-Z7-L-L-E",
-    "nombre_punto": "LAVANDER?A EXPERT WASH, CASA ESQUINERA"
+    "id": "LAVANDERÍA-EXPERT-WASH,-CASA-ESQUINERA-Z7-L-L-E",
+    "nombre_punto": "LAVANDERÍA EXPERT WASH, CASA ESQUINERA"
   },
   {
     "zona": "ZONA 7",
@@ -6845,8 +6845,8 @@
     "distrito": "TENA",
     "circuito": "PALANDACOCHA",
     "subcircuito": "PALANDACOCHA 1",
-    "id": "PETR?LEOS-Y-SERVICIOS-JURADO-Z2-N-T-P",
-    "nombre_punto": "PETR?LEOS Y SERVICIOS JURADO"
+    "id": "PETRÓLEOS-Y-SERVICIOS-JURADO-Z2-N-T-P",
+    "nombre_punto": "PETRÓLEOS Y SERVICIOS JURADO"
   },
   {
     "zona": "ZONA 7",
@@ -6872,8 +6872,8 @@
     "distrito": "LOJA",
     "circuito": "LOS MOLINOS",
     "subcircuito": "LOS MOLINOS 1",
-    "id": "MINI-MARKET-DIVINO-NI?O,-CASA-3-PISOS-Z7-L-L-L",
-    "nombre_punto": "MINI MARKET DIVINO NI?O, CASA 3 PISOS"
+    "id": "MINI-MARKET-DIVINO-NIÑO,-CASA-3-PISOS-Z7-L-L-L",
+    "nombre_punto": "MINI MARKET DIVINO NIÑO, CASA 3 PISOS"
   },
   {
     "zona": "ZONA 5",
@@ -6899,8 +6899,8 @@
     "distrito": "LOJA",
     "circuito": "CELI ROMAN",
     "subcircuito": "CELI ROMAN 1",
-    "id": "JOSE-ANTONIO-FRENTE-DE-LA-PANADER?A-EL-PANERO-Z7-L-L-C",
-    "nombre_punto": "JOSE ANTONIO FRENTE DE LA PANADER?A EL PANERO"
+    "id": "JOSE-ANTONIO-FRENTE-DE-LA-PANADERÍA-EL-PANERO-Z7-L-L-C",
+    "nombre_punto": "JOSE ANTONIO FRENTE DE LA PANADERÍA EL PANERO"
   },
   {
     "zona": "ZONA 7",
@@ -6917,8 +6917,8 @@
     "distrito": "TENA",
     "circuito": "PALANDACOCHA",
     "subcircuito": "PALANDACOCHA 1",
-    "id": "T?A-Z2-N-T-P",
-    "nombre_punto": "T?A"
+    "id": "TÍA-Z2-N-T-P",
+    "nombre_punto": "TÍA"
   },
   {
     "zona": "ZONA 7",
@@ -6971,8 +6971,8 @@
     "distrito": "QUININDE",
     "circuito": "VICHE",
     "subcircuito": "VICHE 1",
-    "id": "LICORER?A-LA-?LTIMA-Y-NOS-VAMOS-Z1-E-Q-V",
-    "nombre_punto": "LICORER?A LA ?LTIMA Y NOS VAMOS"
+    "id": "LICORERÍA-LA-ÚLTIMA-Y-NOS-VAMOS-Z1-E-Q-V",
+    "nombre_punto": "LICORERÍA LA ÚLTIMA Y NOS VAMOS"
   },
   {
     "zona": "ZONA 1",
@@ -6980,8 +6980,8 @@
     "distrito": "QUININDE",
     "circuito": "VICHE",
     "subcircuito": "VICHE 1",
-    "id": "AZ?CAR-Y-MIEL-Z1-E-Q-V",
-    "nombre_punto": "AZ?CAR Y MIEL"
+    "id": "AZÚCAR-Y-MIEL-Z1-E-Q-V",
+    "nombre_punto": "AZÚCAR Y MIEL"
   },
   {
     "zona": "ZONA 1",
@@ -7043,8 +7043,8 @@
     "distrito": "LOJA",
     "circuito": "IV CENTENARIO",
     "subcircuito": "IV CENTENARIO 1",
-    "id": "PLAZA-SAN-SEBASTI?N-Z7-L-L-I",
-    "nombre_punto": "PLAZA SAN SEBASTI?N"
+    "id": "PLAZA-SAN-SEBASTIÁN-Z7-L-L-I",
+    "nombre_punto": "PLAZA SAN SEBASTIÁN"
   },
   {
     "zona": "ZONA 7",
@@ -7169,8 +7169,8 @@
     "distrito": "MACARA",
     "circuito": "MACARA",
     "subcircuito": "MACARA 1",
-    "id": "FARMACIA-M?A-Z7-L-M-M",
-    "nombre_punto": "FARMACIA M?A"
+    "id": "FARMACIA-MÍA-Z7-L-M-M",
+    "nombre_punto": "FARMACIA MÍA"
   },
   {
     "zona": "ZONA 1",
@@ -7178,8 +7178,8 @@
     "distrito": "QUININDE",
     "circuito": "CUPA",
     "subcircuito": "CUPA 1",
-    "id": "FERRETER?A-ANDEC-Z1-E-Q-C",
-    "nombre_punto": "FERRETER?A ANDEC"
+    "id": "FERRETERÍA-ANDEC-Z1-E-Q-C",
+    "nombre_punto": "FERRETERÍA ANDEC"
   },
   {
     "zona": "ZONA 1",
@@ -7205,8 +7205,8 @@
     "distrito": "PICHINCHA",
     "circuito": "PICHINCHA",
     "subcircuito": "PICHINCHA 1",
-    "id": "PANADER?A-ESPIGA-DE-ORO-Z4-M-P-P",
-    "nombre_punto": "PANADER?A ESPIGA DE ORO"
+    "id": "PANADERÍA-ESPIGA-DE-ORO-Z4-M-P-P",
+    "nombre_punto": "PANADERÍA ESPIGA DE ORO"
   },
   {
     "zona": "ZONA 4",
@@ -7232,8 +7232,8 @@
     "distrito": "GIRON",
     "circuito": "LA UNION",
     "subcircuito": "LA UNION 1",
-    "id": "GASOLINERA-M?S-GAS-Z6-A-G-L",
-    "nombre_punto": "GASOLINERA M?S GAS"
+    "id": "GASOLINERA-MÁS-GAS-Z6-A-G-L",
+    "nombre_punto": "GASOLINERA MÁS GAS"
   },
   {
     "zona": "ZONA 4",
@@ -7430,8 +7430,8 @@
     "distrito": "LA CONCORDIA",
     "circuito": "CONCORDIA NORTE",
     "subcircuito": "CONCORDIA NORTE 2",
-    "id": "CR?DITOS-ECONOMICOS-Z4-S-L-C",
-    "nombre_punto": "CR?DITOS ECONOMICOS"
+    "id": "CRÉDITOS-ECONOMICOS-Z4-S-L-C",
+    "nombre_punto": "CRÉDITOS ECONOMICOS"
   },
   {
     "zona": "ZONA 5",
@@ -7493,8 +7493,8 @@
     "distrito": "QUININDE",
     "circuito": "QUININDE",
     "subcircuito": "QUININDE 2",
-    "id": "CANCHA-M?LTIPLE-3-DE-MARZO-Z1-E-Q-Q",
-    "nombre_punto": "CANCHA M?LTIPLE 3 DE MARZO"
+    "id": "CANCHA-MÚLTIPLE-3-DE-MARZO-Z1-E-Q-Q",
+    "nombre_punto": "CANCHA MÚLTIPLE 3 DE MARZO"
   },
   {
     "zona": "ZONA 5",
@@ -7502,8 +7502,8 @@
     "distrito": "BUENA FE",
     "circuito": "BUENA FE OESTE",
     "subcircuito": "BUENA FE OESTE 1",
-    "id": "ESCUELA-DE-EDUCACI?N-BASICA-MANUEL-NOGALES-CALMOPI?A-Z5-L-B-B",
-    "nombre_punto": "ESCUELA DE EDUCACI?N BASICA MANUEL NOGALES CALMOPI?A"
+    "id": "ESCUELA-DE-EDUCACIÓN-BASICA-MANUEL-NOGALES-CALMOPIÑA-Z5-L-B-B",
+    "nombre_punto": "ESCUELA DE EDUCACIÓN BASICA MANUEL NOGALES CALMOPIÑA"
   },
   {
     "zona": "ZONA 1",
@@ -7511,8 +7511,8 @@
     "distrito": "QUININDE",
     "circuito": "QUININDE",
     "subcircuito": "QUININDE 1",
-    "id": "CENTRO-DE-SALUD-NUEVO-QUININD?-Z1-E-Q-Q",
-    "nombre_punto": "CENTRO DE SALUD NUEVO QUININD?"
+    "id": "CENTRO-DE-SALUD-NUEVO-QUININDÉ-Z1-E-Q-Q",
+    "nombre_punto": "CENTRO DE SALUD NUEVO QUININDÉ"
   },
   {
     "zona": "ZONA 6",
@@ -7529,8 +7529,8 @@
     "distrito": "QUININDE",
     "circuito": "QUININDE",
     "subcircuito": "QUININDE 1",
-    "id": "GASOLINERA-FANNY-AM?RICA-Z1-E-Q-Q",
-    "nombre_punto": "GASOLINERA FANNY AM?RICA"
+    "id": "GASOLINERA-FANNY-AMÉRICA-Z1-E-Q-Q",
+    "nombre_punto": "GASOLINERA FANNY AMÉRICA"
   },
   {
     "zona": "ZONA 1",
@@ -7628,8 +7628,8 @@
     "distrito": "CALVAS",
     "circuito": "CHANGAIMINA",
     "subcircuito": "CHANGAIMINA 1",
-    "id": "MIRADOR-TUR?STICO-Z7-L-C-C",
-    "nombre_punto": "MIRADOR TUR?STICO"
+    "id": "MIRADOR-TURÍSTICO-Z7-L-C-C",
+    "nombre_punto": "MIRADOR TURÍSTICO"
   },
   {
     "zona": "ZONA 5",
@@ -7698,8 +7698,8 @@
     "zona": "ZONA 7",
     "subzona": "EL ORO",
     "distrito": "ZARUMA",
-    "circuito": "GUIZHAGUI?A",
-    "subcircuito": "GUIZHAGUI?A 1",
+    "circuito": "GUIZHAGUIÑA",
+    "subcircuito": "GUIZHAGUIÑA 1",
     "id": "TIENDA-SANDY-MARKETY-Z7-E-Z-G",
     "nombre_punto": "TIENDA SANDY MARKETY"
   },
@@ -7718,8 +7718,8 @@
     "distrito": "QUININDE",
     "circuito": "CUPA",
     "subcircuito": "CUPA 1",
-    "id": "CHOZA-DO?A-VENUS-Z1-E-Q-C",
-    "nombre_punto": "CHOZA DO?A VENUS"
+    "id": "CHOZA-DOÑA-VENUS-Z1-E-Q-C",
+    "nombre_punto": "CHOZA DOÑA VENUS"
   },
   {
     "zona": "ZONA 1",
@@ -7781,8 +7781,8 @@
     "distrito": "NARANJAL BALAO",
     "circuito": "TAURA",
     "subcircuito": "TAURA 2",
-    "id": "MALEC?N-TAURA-Z5-G-N-T",
-    "nombre_punto": "MALEC?N TAURA"
+    "id": "MALECÓN-TAURA-Z5-G-N-T",
+    "nombre_punto": "MALECÓN TAURA"
   },
   {
     "zona": "ZONA 5",
@@ -7817,8 +7817,8 @@
     "distrito": "QUININDE",
     "circuito": "CUPA",
     "subcircuito": "CUPA 1",
-    "id": "PANADER?A-Y-PASTELER?A-Z1-E-Q-C",
-    "nombre_punto": "PANADER?A Y PASTELER?A"
+    "id": "PANADERÍA-Y-PASTELERÍA-Z1-E-Q-C",
+    "nombre_punto": "PANADERÍA Y PASTELERÍA"
   },
   {
     "zona": "ZONA 5",
@@ -7880,8 +7880,8 @@
     "distrito": "GIRON",
     "circuito": "GIRON",
     "subcircuito": "GIRON 1",
-    "id": "GASOLINERA-P&S-GIR?N-Z6-A-G-G",
-    "nombre_punto": "GASOLINERA  P&S GIR?N"
+    "id": "GASOLINERA-P&S-GIRÓN-Z6-A-G-G",
+    "nombre_punto": "GASOLINERA  P&S GIRÓN"
   },
   {
     "zona": "ZONA 5",
@@ -7898,8 +7898,8 @@
     "distrito": "NARANJAL BALAO",
     "circuito": "TAURA",
     "subcircuito": "TAURA 2",
-    "id": "COMERCIAL-TAURI?ITA-Z5-G-N-T",
-    "nombre_punto": "COMERCIAL TAURI?ITA"
+    "id": "COMERCIAL-TAURIÑITA-Z5-G-N-T",
+    "nombre_punto": "COMERCIAL TAURIÑITA"
   },
   {
     "zona": "ZONA 5",
@@ -7961,8 +7961,8 @@
     "distrito": "SALCEDO",
     "circuito": "SALCEDO",
     "subcircuito": "SALCEDO 2",
-    "id": "FARMACIA-ECON?MICAS-Z3-C-S-S",
-    "nombre_punto": "FARMACIA ECON?MICAS"
+    "id": "FARMACIA-ECONÓMICAS-Z3-C-S-S",
+    "nombre_punto": "FARMACIA ECONÓMICAS"
   },
   {
     "zona": "ZONA 4",
@@ -7997,7 +7997,7 @@
     "distrito": "ZAMORA",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 1",
-    "id": "RINC?N-DE-LAS-PAPAS-Z7-Z-Z-C",
+    "id": "RINCÓN-DE-LAS-PAPAS-Z7-Z-Z-C",
     "nombre_punto": "RINCON DE LAS PAPAS"
   },
   {
@@ -8186,8 +8186,8 @@
     "distrito": "QUININDE",
     "circuito": "LA UNION",
     "subcircuito": "LA UNION 1",
-    "id": "PARADA-DE-BUSES-LA-UNI?N-QUININDE-Z1-E-Q-L",
-    "nombre_punto": "PARADA DE BUSES LA UNI?N-QUININDE"
+    "id": "PARADA-DE-BUSES-LA-UNIÓN-QUININDE-Z1-E-Q-L",
+    "nombre_punto": "PARADA DE BUSES LA UNIÓN-QUININDE"
   },
   {
     "zona": "ZONA 1",
@@ -8195,8 +8195,8 @@
     "distrito": "QUININDE",
     "circuito": "LA UNION",
     "subcircuito": "LA UNION 1",
-    "id": "PARADA-DE-BUSES-LA-UNI?N-SANTO-DOMINGO-Z1-E-Q-L",
-    "nombre_punto": "PARADA DE BUSES LA UNI?N-SANTO DOMINGO"
+    "id": "PARADA-DE-BUSES-LA-UNIÓN-SANTO-DOMINGO-Z1-E-Q-L",
+    "nombre_punto": "PARADA DE BUSES LA UNIÓN-SANTO DOMINGO"
   },
   {
     "zona": "ZONA 1",
@@ -8276,8 +8276,8 @@
     "distrito": "BOLIVAR JUNIN",
     "circuito": "JUNIN NORTE",
     "subcircuito": "JUNIN NORTE 1",
-    "id": "IGLESIA-NUESTRO-SE?OR-LOURDES-JUNIN-Z4-M-B-J",
-    "nombre_punto": "IGLESIA NUESTRO SE?OR LOURDES JUNIN"
+    "id": "IGLESIA-NUESTRO-SEÑOR-LOURDES-JUNIN-Z4-M-B-J",
+    "nombre_punto": "IGLESIA NUESTRO SEÑOR LOURDES JUNIN"
   },
   {
     "zona": "ZONA 6",
@@ -8366,8 +8366,8 @@
     "distrito": "ZARUMA",
     "circuito": "MORALES",
     "subcircuito": "MORALES 1",
-    "id": "TIENDA-Y-PANADER?A-Z7-E-Z-M",
-    "nombre_punto": "TIENDA Y PANADER?A"
+    "id": "TIENDA-Y-PANADERÍA-Z7-E-Z-M",
+    "nombre_punto": "TIENDA Y PANADERÍA"
   },
   {
     "zona": "ZONA 5",
@@ -8510,8 +8510,8 @@
     "distrito": "GUARANDA",
     "circuito": "GUANUJO",
     "subcircuito": "GUANUJO 1",
-    "id": "GASOLINERA-SINDICATO-DE-CH?FERES,-V?A-AMBATO-Z5-B-G-G",
-    "nombre_punto": "GASOLINERA SINDICATO DE CH?FERES, V?A AMBATO"
+    "id": "GASOLINERA-SINDICATO-DE-CHÓFERES,-VÍA-AMBATO-Z5-B-G-G",
+    "nombre_punto": "GASOLINERA SINDICATO DE CHÓFERES, VÍA AMBATO"
   },
   {
     "zona": "ZONA 4",
@@ -8534,7 +8534,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "SANGOLQUI",
     "subcircuito": "",
     "id": "SALDOS-Y-ALGO-MAS-Z2-P-R-S",
@@ -8708,8 +8708,8 @@
     "distrito": "ESMERALDAS",
     "circuito": "LAS PALMAS",
     "subcircuito": "LAS PALMAS 1",
-    "id": "LICORER?A-D'-VALLARDO-Z1-E-E-L",
-    "nombre_punto": "LICORER?A D' VALLARDO"
+    "id": "LICORERÍA-D'-VALLARDO-Z1-E-E-L",
+    "nombre_punto": "LICORERÍA D' VALLARDO"
   },
   {
     "zona": "ZONA 5",
@@ -8849,9 +8849,9 @@
   {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
-    "distrito": "NARANJITO MARCELINO MARIDUE?A",
-    "circuito": "MARCELINO MARIDUE?A",
-    "subcircuito": "MARCELINO MARIDUE?A 2",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "MARCELINO MARIDUEÑA",
+    "subcircuito": "MARCELINO MARIDUEÑA 2",
     "id": "PLAZA-GASTRONOMICA-LOCAL-16Z5-G-N-M",
     "nombre_punto": "PLAZA GASTRONOMICA LOCAL 16"
   },
@@ -8888,8 +8888,8 @@
     "distrito": "ZARUMA",
     "circuito": "GUANAZAN",
     "subcircuito": "GUANAZAN 1",
-    "id": "CENTRO-DE-RECAUDACI?N-SAN-PEDRO-DE-GUANAZAN-Z7-E-Z-G",
-    "nombre_punto": "CENTRO DE RECAUDACI?N SAN PEDRO DE GUANAZAN"
+    "id": "CENTRO-DE-RECAUDACIÓN-SAN-PEDRO-DE-GUANAZAN-Z7-E-Z-G",
+    "nombre_punto": "CENTRO DE RECAUDACIÓN SAN PEDRO DE GUANAZAN"
   },
   {
     "zona": "ZONA 7",
@@ -8924,8 +8924,8 @@
     "distrito": "JIPIJAPA",
     "circuito": "PUERTO LOPEZ",
     "subcircuito": "PUERTO LOPEZ 1",
-    "id": "PARQUE-CENTRAL-DE-PUERTO-L?PEZ-Z4-M-J-P",
-    "nombre_punto": "PARQUE CENTRAL DE PUERTO L?PEZ"
+    "id": "PARQUE-CENTRAL-DE-PUERTO-LÓPEZ-Z4-M-J-P",
+    "nombre_punto": "PARQUE CENTRAL DE PUERTO LÓPEZ"
   },
   {
     "zona": "ZONA 4",
@@ -8933,8 +8933,8 @@
     "distrito": "PICHINCHA",
     "circuito": "SAN SEBASTIAN",
     "subcircuito": "SAN SEBASTIAN 1",
-    "id": "UPC-SAN-SEBASTI?N-Z4-M-P-S",
-    "nombre_punto": "UPC SAN SEBASTI?N"
+    "id": "UPC-SAN-SEBASTIÁN-Z4-M-P-S",
+    "nombre_punto": "UPC SAN SEBASTIÁN"
   },
   {
     "zona": "ZONA 2",
@@ -8969,8 +8969,8 @@
     "distrito": "LIBERTAD SALINAS",
     "circuito": "SALINAS CENTRO",
     "subcircuito": "SALINAS CENTRO 2",
-    "id": "LOCAL-DE-ARTESAN?AS-Y-ROPA-Z5-S-L-S",
-    "nombre_punto": "LOCAL DE ARTESAN?AS Y ROPA"
+    "id": "LOCAL-DE-ARTESANÍAS-Y-ROPA-Z5-S-L-S",
+    "nombre_punto": "LOCAL DE ARTESANÍAS Y ROPA"
   },
   {
     "zona": "ZONA 6",
@@ -9023,8 +9023,8 @@
     "distrito": "LIBERTAD SALINAS",
     "circuito": "ANCONCITO",
     "subcircuito": "ANCONCITO 1",
-    "id": "DEPOSITO-DE-MADERA-Y-FERRETER?A-NICOLE-Z5-S-L-A",
-    "nombre_punto": "DEPOSITO DE MADERA Y FERRETER?A NICOLE"
+    "id": "DEPOSITO-DE-MADERA-Y-FERRETERÍA-NICOLE-Z5-S-L-A",
+    "nombre_punto": "DEPOSITO DE MADERA Y FERRETERÍA NICOLE"
   },
   {
     "zona": "ZONA 6",
@@ -9077,8 +9077,8 @@
     "distrito": "GUARANDA",
     "circuito": "GUANUJO",
     "subcircuito": "GUANUJO 1",
-    "id": "ESCUELA-FABI?N-AGULAR,-JUNTO-AL-ESTADIO-DE-GUANUJO-Z5-B-G-G",
-    "nombre_punto": "ESCUELA FABI?N AGULAR, JUNTO AL ESTADIO DE GUANUJO"
+    "id": "ESCUELA-FABIÁN-AGULAR,-JUNTO-AL-ESTADIO-DE-GUANUJO-Z5-B-G-G",
+    "nombre_punto": "ESCUELA FABIÁN AGULAR, JUNTO AL ESTADIO DE GUANUJO"
   },
   {
     "zona": "ZONA 5",
@@ -9167,8 +9167,8 @@
     "distrito": "PLAYAS",
     "circuito": "PLAYAS",
     "subcircuito": "PLAYAS 1",
-    "id": "BARRIO-LA-CONCORDIA(TV-PAC?FICO)-Z5-G-P-P",
-    "nombre_punto": "BARRIO LA CONCORDIA(TV PAC?FICO)"
+    "id": "BARRIO-LA-CONCORDIA(TV-PACÍFICO)-Z5-G-P-P",
+    "nombre_punto": "BARRIO LA CONCORDIA(TV PACÍFICO)"
   },
   {
     "zona": "ZONA 2",
@@ -9185,8 +9185,8 @@
     "distrito": "CAYAMBE",
     "circuito": "CAYAMBE SUR",
     "subcircuito": "CAYAMBE SUR 1",
-    "id": "ACADEMIA-DE-PREPARACI?N-MILITAR-Y-POLICIAL-Z2-P-C-C",
-    "nombre_punto": "ACADEMIA DE PREPARACI?N MILITAR Y POLICIAL"
+    "id": "ACADEMIA-DE-PREPARACIÓN-MILITAR-Y-POLICIAL-Z2-P-C-C",
+    "nombre_punto": "ACADEMIA DE PREPARACIÓN MILITAR Y POLICIAL"
   },
   {
     "zona": "ZONA 5",
@@ -9194,8 +9194,8 @@
     "distrito": "PLAYAS",
     "circuito": "PLAYAS",
     "subcircuito": "PLAYAS 1",
-    "id": "SIXTO-CHANGO-Y-PEDRO-MEN?NDEZ-GILER-Z5-G-P-P",
-    "nombre_punto": "SIXTO CHANGO Y PEDRO MEN?NDEZ GILER"
+    "id": "SIXTO-CHANGO-Y-PEDRO-MENÉNDEZ-GILER-Z5-G-P-P",
+    "nombre_punto": "SIXTO CHANGO Y PEDRO MENÉNDEZ GILER"
   },
   {
     "zona": "ZONA 5",
@@ -9248,8 +9248,8 @@
     "distrito": "GUARANDA",
     "circuito": "GUANUJO",
     "subcircuito": "GUANUJO 1",
-    "id": "COMPLEJO-TUR?STICO-LAGO-LAS-COCHAS-Z5-B-G-G",
-    "nombre_punto": "COMPLEJO TUR?STICO LAGO LAS COCHAS"
+    "id": "COMPLEJO-TURÍSTICO-LAGO-LAS-COCHAS-Z5-B-G-G",
+    "nombre_punto": "COMPLEJO TURÍSTICO LAGO LAS COCHAS"
   },
   {
     "zona": "ZONA 3",
@@ -9365,8 +9365,8 @@
     "distrito": "CAYAMBE",
     "circuito": "OLMEDO",
     "subcircuito": "OLMEDO 1",
-    "id": "M?NI-MARKET-FERNANDA-Z2-P-C-O",
-    "nombre_punto": "M?NI MARKET FERNANDA"
+    "id": "MÍNI-MARKET-FERNANDA-Z2-P-C-O",
+    "nombre_punto": "MÍNI MARKET FERNANDA"
   },
   {
     "zona": "ZONA 3",
@@ -9401,8 +9401,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA NORTE",
     "subcircuito": "LA MANA NORTE 2",
-    "id": "LIBRER?A-EL-ESTUDIANTE-Z3-C-L-L",
-    "nombre_punto": "Librer?a el Estudiante"
+    "id": "LIBRERÍA-EL-ESTUDIANTE-Z3-C-L-L",
+    "nombre_punto": "Librería el Estudiante"
   },
   {
     "zona": "ZONA 2",
@@ -9410,8 +9410,8 @@
     "distrito": "CAYAMBE",
     "circuito": "OLMEDO",
     "subcircuito": "OLMEDO 1",
-    "id": "PANADER?A-Y-PASTELER?A-PATITO-Z2-P-C-O",
-    "nombre_punto": "Panader?a y pasteler?a patito"
+    "id": "PANADERÍA-Y-PASTELERÍA-PATITO-Z2-P-C-O",
+    "nombre_punto": "Panadería y pastelería patito"
   },
   {
     "zona": "ZONA 2",
@@ -9563,8 +9563,8 @@
     "distrito": "PEDRO CARBO",
     "circuito": "ISIDRO AYORA",
     "subcircuito": "ISIDRO AYORA 1",
-    "id": "ESCUELA-DE-EDUCACI?N-BASICA-MARISCAL-SUCRE-Z5-G-P-I",
-    "nombre_punto": "ESCUELA DE EDUCACI?N BASICA MARISCAL SUCRE"
+    "id": "ESCUELA-DE-EDUCACIÓN-BASICA-MARISCAL-SUCRE-Z5-G-P-I",
+    "nombre_punto": "ESCUELA DE EDUCACIÓN BASICA MARISCAL SUCRE"
   },
   {
     "zona": "ZONA 5",
@@ -9644,8 +9644,8 @@
     "distrito": "ESMERALDAS",
     "circuito": "LAS PALMAS",
     "subcircuito": "LAS PALMAS 1",
-    "id": "FERRETER?A-EDSOFER-Z1-E-E-L",
-    "nombre_punto": "FERRETER?A EDSOFER"
+    "id": "FERRETERÍA-EDSOFER-Z1-E-E-L",
+    "nombre_punto": "FERRETERÍA EDSOFER"
   },
   {
     "zona": "ZONA 5",
@@ -9734,8 +9734,8 @@
     "distrito": "EL CARMEN",
     "circuito": "EL CARMEN",
     "subcircuito": "EL CARMEN 2",
-    "id": "CL?NICA-MANABI-Z4-M-E-E",
-    "nombre_punto": "Cl?nica Manabi"
+    "id": "CLÍNICA-MANABI-Z4-M-E-E",
+    "nombre_punto": "Clínica Manabi"
   },
   {
     "zona": "ZONA 4",
@@ -9788,8 +9788,8 @@
     "distrito": "VINCES",
     "circuito": "BALZAR DE VINCES",
     "subcircuito": "BALZAR DE VINCES 1",
-    "id": "PARQUE-RUFO-PE?A-Z5-L-V-B",
-    "nombre_punto": "PARQUE RUFO PE?A"
+    "id": "PARQUE-RUFO-PEÑA-Z5-L-V-B",
+    "nombre_punto": "PARQUE RUFO PEÑA"
   },
   {
     "zona": "ZONA 5",
@@ -9833,8 +9833,8 @@
     "distrito": "NOROCCIDENTE",
     "circuito": "LOS BANCOS",
     "subcircuito": "LOS BANCOS 2",
-    "id": "FARMACIAS-ECON?MICAS-Z2-P-N-L",
-    "nombre_punto": "Farmacias Econ?micas"
+    "id": "FARMACIAS-ECONÓMICAS-Z2-P-N-L",
+    "nombre_punto": "Farmacias Económicas"
   },
   {
     "zona": "ZONA 4",
@@ -9878,8 +9878,8 @@
     "distrito": "DANSANTE",
     "circuito": "LA VICTORIA",
     "subcircuito": "LA VICTORIA 1",
-    "id": "FERRETER?A-MULINLIVI-Z3-C-D-L",
-    "nombre_punto": "Ferreter?a mulinlivi"
+    "id": "FERRETERÍA-MULINLIVI-Z3-C-D-L",
+    "nombre_punto": "Ferretería mulinlivi"
   },
   {
     "zona": "ZONA 4",
@@ -9897,7 +9897,7 @@
     "circuito": "1 DE MAYO",
     "subcircuito": "UNO DE MAYO 1",
     "id": "UNIVERSIDAD-ESTATAL-DE-BOLIVAR-EXTENSION-Z5-B-G-U",
-    "nombre_punto": "UNIVERSIDAD ESTATAL DE BOLIVAR EXTENSI?N"
+    "nombre_punto": "UNIVERSIDAD ESTATAL DE BOLIVAR EXTENSIÓN"
   },
   {
     "zona": "ZONA 3",
@@ -9968,8 +9968,8 @@
     "distrito": "DANSANTE",
     "circuito": "PUJILI",
     "subcircuito": "PUJILI 1",
-    "id": "CL?NICA-VETERINARIA-Z3-C-D-P",
-    "nombre_punto": "Cl?nica veterinaria"
+    "id": "CLÍNICA-VETERINARIA-Z3-C-D-P",
+    "nombre_punto": "Clínica veterinaria"
   },
   {
     "zona": "ZONA 3",
@@ -10004,8 +10004,8 @@
     "distrito": "DANSANTE",
     "circuito": "LA MERCED",
     "subcircuito": "LA MERCED 1",
-    "id": "ASIENDAS-NI?O-DE-ISIGCHE-Z3-C-D-L",
-    "nombre_punto": "Asiendas ni?o de isigche"
+    "id": "ASIENDAS-NIÑO-DE-ISIGCHE-Z3-C-D-L",
+    "nombre_punto": "Asiendas niño de isigche"
   },
   {
     "zona": "ZONA 4",
@@ -10040,8 +10040,8 @@
     "distrito": "ELOY ALFARO - ESM",
     "circuito": "LIMONES",
     "subcircuito": "LIMONES 1",
-    "id": "FERRETER?A-ANDEC-Z1-E-E-L",
-    "nombre_punto": "ferreter?a Andec"
+    "id": "FERRETERÍA-ANDEC-Z1-E-E-L",
+    "nombre_punto": "ferretería Andec"
   },
   {
     "zona": "ZONA 5",
@@ -10175,8 +10175,8 @@
     "distrito": "SALITRE",
     "circuito": "VERNAZA",
     "subcircuito": "VERNAZA 1",
-    "id": "AGROQU?MICO-GARC?A-Z5-G-S-V",
-    "nombre_punto": "AGROQU?MICO GARC?A"
+    "id": "AGROQUÍMICO-GARCÍA-Z5-G-S-V",
+    "nombre_punto": "AGROQUÍMICO GARCÍA"
   },
   {
     "zona": "ZONA 1",
@@ -10298,11 +10298,11 @@
   {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
-    "distrito": "NARANJITO MARCELINO MARIDUE?A",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
     "circuito": "NARANJITO CENTRO",
     "subcircuito": "NARANJITO CENTRO 1",
-    "id": "?PTICA-NARANJITO-Z5-G-N-N",
-    "nombre_punto": "?ptica Naranjito"
+    "id": "ÓPTICA-NARANJITO-Z5-G-N-N",
+    "nombre_punto": "Óptica Naranjito"
   },
   {
     "zona": "ZONA 5",
@@ -10325,7 +10325,7 @@
   {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
-    "distrito": "NARANJITO MARCELINO MARIDUE?A",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
     "circuito": "NARANJITO CENTRO",
     "subcircuito": "NARANJITO CENTRO 1",
     "id": "IGLESIA-CENTRAL-Z5-G-N-N",
@@ -10388,7 +10388,7 @@
   {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
-    "distrito": "NARANJITO MARCELINO MARIDUE?A",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
     "circuito": "NARANJITO SUR",
     "subcircuito": "NARANJITO SUR 1",
     "id": "UNIDAD-EDUCATIVA-MATEO-CELESTINO-Z5-G-N-N",
@@ -10400,8 +10400,8 @@
     "distrito": "NOROCCIDENTE",
     "circuito": "MALDONADO",
     "subcircuito": "MALDONADO 3",
-    "id": "V?VERES-JUANITO-Z2-P-N-M",
-    "nombre_punto": "V?VERES JUANITO"
+    "id": "VÍVERES-JUANITO-Z2-P-N-M",
+    "nombre_punto": "VÍVERES JUANITO"
   },
   {
     "zona": "ZONA 5",
@@ -10434,8 +10434,8 @@
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
     "distrito": "MILAGRO",
-    "circuito": "LAS PI?AS",
-    "subcircuito": "LAS PI?AS 2",
+    "circuito": "LAS PIÑAS",
+    "subcircuito": "LAS PIÑAS 2",
     "id": "FARMACIA-CRUZ-AZUL-Z5-G-M-L",
     "nombre_punto": "Farmacia cruz Azul"
   },
@@ -10443,8 +10443,8 @@
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
     "distrito": "MILAGRO",
-    "circuito": "LAS PI?AS",
-    "subcircuito": "LAS PI?AS 2",
+    "circuito": "LAS PIÑAS",
+    "subcircuito": "LAS PIÑAS 2",
     "id": "TIENDA-ASTILLERO-Z5-G-M-L",
     "nombre_punto": "Tienda Astillero"
   },
@@ -10454,8 +10454,8 @@
     "distrito": "MILAGRO",
     "circuito": "ALMEIDA",
     "subcircuito": "ALMEIDA 1",
-    "id": "FERRETER?A-ARCE-Z5-G-M-A",
-    "nombre_punto": "FERRETER?A ARCE"
+    "id": "FERRETERÍA-ARCE-Z5-G-M-A",
+    "nombre_punto": "FERRETERÍA ARCE"
   },
   {
     "zona": "ZONA 5",
@@ -10463,8 +10463,8 @@
     "distrito": "MILAGRO",
     "circuito": "APOLO",
     "subcircuito": "APOLO 1",
-    "id": "T?A-Z5-G-M-A",
-    "nombre_punto": "T?a"
+    "id": "TÍA-Z5-G-M-A",
+    "nombre_punto": "Tía"
   },
   {
     "zona": "ZONA 5",
@@ -10499,8 +10499,8 @@
     "distrito": "YAGUACHI",
     "circuito": "VIRGEN DE FATIMA",
     "subcircuito": "VIRGEN DE FATIMA 1",
-    "id": "GASOLINERA-M?S-GAS-Z5-G-Y-V",
-    "nombre_punto": "Gasolinera m?s gas"
+    "id": "GASOLINERA-MÁS-GAS-Z5-G-Y-V",
+    "nombre_punto": "Gasolinera más gas"
   },
   {
     "zona": "ZONA 5",
@@ -10508,8 +10508,8 @@
     "distrito": "YAGUACHI",
     "circuito": "VIRGEN DE FATIMA",
     "subcircuito": "VIRGEN DE FATIMA 1",
-    "id": "HOSPITAL-BAJA?A-Z5-G-Y-V",
-    "nombre_punto": "Hospital Baja?a"
+    "id": "HOSPITAL-BAJAÑA-Z5-G-Y-V",
+    "nombre_punto": "Hospital Bajaña"
   },
   {
     "zona": "ZONA 5",
@@ -10517,8 +10517,8 @@
     "distrito": "YAGUACHI",
     "circuito": "VIRGEN DE FATIMA",
     "subcircuito": "VIRGEN DE FATIMA 1",
-    "id": "FERRETER?A-TACURI-Z5-G-Y-V",
-    "nombre_punto": "FERRETER?A TACURI"
+    "id": "FERRETERÍA-TACURI-Z5-G-Y-V",
+    "nombre_punto": "FERRETERÍA TACURI"
   },
   {
     "zona": "ZONA 5",
@@ -10526,8 +10526,8 @@
     "distrito": "MILAGRO",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 1",
-    "id": "T?O-SAN-Z5-G-M-C",
-    "nombre_punto": "T?o san"
+    "id": "TÍO-SAN-Z5-G-M-C",
+    "nombre_punto": "Tío san"
   },
   {
     "zona": "ZONA 5",
@@ -10559,7 +10559,7 @@
   {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
-    "distrito": "NARANJITO MARCELINO MARIDUE?A",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
     "circuito": "NARANJITO ESTE",
     "subcircuito": "NARANJITO ESTE 1",
     "id": "LA-DANESA-Z5-G-N-N",
@@ -10586,7 +10586,7 @@
   {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
-    "distrito": "NARANJITO MARCELINO MARIDUE?A",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
     "circuito": "NARANJITO ESTE",
     "subcircuito": "NARANJITO ESTE 2",
     "id": "U.E-RIO-AMAZONAS-Z5-G-N-N",
@@ -10658,9 +10658,9 @@
   {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
-    "distrito": "NARANJITO MARCELINO MARIDUE?A",
-    "circuito": "MARCELINO MARIDUE?A",
-    "subcircuito": "MARCELINO MARIDUE?A 1",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "MARCELINO MARIDUEÑA",
+    "subcircuito": "MARCELINO MARIDUEÑA 1",
     "id": "GASOLINERA-TERPEL-Z5-G-N-M",
     "nombre_punto": "Gasolinera Terpel"
   },
@@ -10679,8 +10679,8 @@
     "distrito": "CHILLANES",
     "circuito": "SAN JOSE DEL TAMBO",
     "subcircuito": "SAN JOSE DEL TAMBO 1",
-    "id": "CENTRO-DE-DIVERSI?N-NOCTURNA-NIGTH-CLUB-Z5-B-C-S",
-    "nombre_punto": "CENTRO DE DIVERSI?N NOCTURNA NIGTH CLUB"
+    "id": "CENTRO-DE-DIVERSIÓN-NOCTURNA-NIGTH-CLUB-Z5-B-C-S",
+    "nombre_punto": "CENTRO DE DIVERSIÓN NOCTURNA NIGTH CLUB"
   },
   {
     "zona": "ZONA 5",
@@ -10697,8 +10697,8 @@
     "distrito": "EMPALME",
     "circuito": "EMPALME SUROESTE",
     "subcircuito": "EMPALME SUROESTE 1",
-    "id": "LOCAL-COMERCIAL-D'YAMD,-VIA-MANAB?-Y-CALLE-JUAN-LE?N-MERA-Z5-G-E-E",
-    "nombre_punto": "Local Comercial D'yamd, Via Manab? y Calle Juan Le?n Mera"
+    "id": "LOCAL-COMERCIAL-D'YAMD,-VIA-MANABÍ-Y-CALLE-JUAN-LEÓN-MERA-Z5-G-E-E",
+    "nombre_punto": "Local Comercial D'yamd, Via Manabí y Calle Juan León Mera"
   },
   {
     "zona": "ZONA 5",
@@ -10850,8 +10850,8 @@
     "distrito": "MACHALA",
     "circuito": "ROCAFUERTE",
     "subcircuito": "ROCAFUERTE 1",
-    "id": "FARMACIIA-ECON?MICA-Z7-E-M-R",
-    "nombre_punto": "FARMACIIA ECON?MICA"
+    "id": "FARMACIIA-ECONÓMICA-Z7-E-M-R",
+    "nombre_punto": "FARMACIIA ECONÓMICA"
   },
   {
     "zona": "ZONA 7",
@@ -10868,8 +10868,8 @@
     "distrito": "SANTA ROSA",
     "circuito": "BELLA MARIA",
     "subcircuito": "BELLA MARIA 1",
-    "id": "PROF.-NELLY-AGUILAR-C?RDENAS-Z7-E-S-B",
-    "nombre_punto": "PROF. NELLY AGUILAR C?RDENAS"
+    "id": "PROF.-NELLY-AGUILAR-CÁRDENAS-Z7-E-S-B",
+    "nombre_punto": "PROF. NELLY AGUILAR CÁRDENAS"
   },
   {
     "zona": "ZONA 7",
@@ -10931,8 +10931,8 @@
     "distrito": "ROCAFUERTE",
     "circuito": "LA FLORIDA",
     "subcircuito": "LA FLORIDA 1",
-    "id": "T?A-Z4-M-R-L",
-    "nombre_punto": "T?a"
+    "id": "TÍA-Z4-M-R-L",
+    "nombre_punto": "Tía"
   },
   {
     "zona": "ZONA 4",
@@ -10985,8 +10985,8 @@
     "distrito": "ROCAFUERTE",
     "circuito": "BACHILLERO",
     "subcircuito": "BACHILLERO 1",
-    "id": "TIENDA-PAP?-NINO-Z4-M-R-B",
-    "nombre_punto": "TIENDA PAP? NINO"
+    "id": "TIENDA-PAPÁ-NINO-Z4-M-R-B",
+    "nombre_punto": "TIENDA PAPÁ NINO"
   },
   {
     "zona": "ZONA 4",
@@ -11048,8 +11048,8 @@
     "distrito": "TAISHA",
     "circuito": "TAISHA CENTRO",
     "subcircuito": "TAISHA CENTRO 1",
-    "id": "C?LISEO-Z6-M-T-T",
-    "nombre_punto": "C?liseo"
+    "id": "CÓLISEO-Z6-M-T-T",
+    "nombre_punto": "Cóliseo"
   },
   {
     "zona": "ZONA 4",
@@ -11210,8 +11210,8 @@
     "distrito": "DAULE",
     "circuito": "SANTA LUCIA",
     "subcircuito": "",
-    "id": "TIA-SANTA-LUC?A-Z5-G-D-S",
-    "nombre_punto": "TIA SANTA LUC?A"
+    "id": "TIA-SANTA-LUCÍA-Z5-G-D-S",
+    "nombre_punto": "TIA SANTA LUCÍA"
   },
   {
     "zona": "ZONA 7",
@@ -11291,8 +11291,8 @@
     "distrito": "DAULE",
     "circuito": "DAULE CENTRO",
     "subcircuito": "DAULE CENTRO 1",
-    "id": "COLEGIO-ECUADOR-AMAZ?NICO-DAULE-Z5-G-D-D",
-    "nombre_punto": "Colegio Ecuador Amaz?nico Daule"
+    "id": "COLEGIO-ECUADOR-AMAZÓNICO-DAULE-Z5-G-D-D",
+    "nombre_punto": "Colegio Ecuador Amazónico Daule"
   },
   {
     "zona": "ZONA 5",
@@ -11309,8 +11309,8 @@
     "distrito": "LA MANA",
     "circuito": "GUASAGANDA",
     "subcircuito": "GUASAGANDA 1",
-    "id": "PAPITAS-DO?A-MARY-Z3-C-L-G",
-    "nombre_punto": "Papitas Do?a Mary"
+    "id": "PAPITAS-DOÑA-MARY-Z3-C-L-G",
+    "nombre_punto": "Papitas Doña Mary"
   },
   {
     "zona": "ZONA 2",
@@ -11345,8 +11345,8 @@
     "distrito": "DAULE",
     "circuito": "JUAN BAUTISTA AGUIRRE",
     "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
-    "id": "PLAZA-T?A-LA.-JOYA-CAJERO-AUTOM?TICO-Z5-G-D-J",
-    "nombre_punto": "PLAZA T?A LA. JOYA CAJERO AUTOM?TICO"
+    "id": "PLAZA-TÍA-LA.-JOYA-CAJERO-AUTOMÁTICO-Z5-G-D-J",
+    "nombre_punto": "PLAZA TÍA LA. JOYA CAJERO AUTOMÁTICO"
   },
   {
     "zona": "ZONA 5",
@@ -11354,8 +11354,8 @@
     "distrito": "GUARANDA",
     "circuito": "GUANUJO",
     "subcircuito": "GUANUJO 1",
-    "id": "BARRIO-NEGROYACU,-V?A-A-LAS-COCHAS,-TIENDA-MERCEDES-Z5-B-G-G",
-    "nombre_punto": "BARRIO NEGROYACU, V?A A LAS COCHAS, TIENDA MERCEDES"
+    "id": "BARRIO-NEGROYACU,-VÍA-A-LAS-COCHAS,-TIENDA-MERCEDES-Z5-B-G-G",
+    "nombre_punto": "BARRIO NEGROYACU, VÍA A LAS COCHAS, TIENDA MERCEDES"
   },
   {
     "zona": "ZONA 4",
@@ -11372,8 +11372,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA SUR",
     "subcircuito": "LA MANA SUR 1",
-    "id": "FISCAL?A-Z3-C-L-L",
-    "nombre_punto": "Fiscal?a"
+    "id": "FISCALÍA-Z3-C-L-L",
+    "nombre_punto": "Fiscalía"
   },
   {
     "zona": "ZONA 4",
@@ -11426,8 +11426,8 @@
     "distrito": "PEDERNALES",
     "circuito": "PEDERNALES NORTE",
     "subcircuito": "PEDERNALES NORTE 1",
-    "id": "HOSPITAL-BASICO-FRANCISCO-V?SQUEZ-BALDA-Z4-M-P-P",
-    "nombre_punto": "HOSPITAL BASICO FRANCISCO V?SQUEZ BALDA"
+    "id": "HOSPITAL-BASICO-FRANCISCO-VÁSQUEZ-BALDA-Z4-M-P-P",
+    "nombre_punto": "HOSPITAL BASICO FRANCISCO VÁSQUEZ BALDA"
   },
   {
     "zona": "ZONA 5",
@@ -11453,8 +11453,8 @@
     "distrito": "HUAQUILLAS",
     "circuito": "LA LIBERTAD",
     "subcircuito": "LA LIBERTAD 1",
-    "id": "ELECTROMEC?NICA-CARLOS-JARAMILLO-Z7-E-H-L",
-    "nombre_punto": "Electromec?nica Carlos Jaramillo"
+    "id": "ELECTROMECÁNICA-CARLOS-JARAMILLO-Z7-E-H-L",
+    "nombre_punto": "Electromecánica Carlos Jaramillo"
   },
   {
     "zona": "ZONA 5",
@@ -11480,8 +11480,8 @@
     "distrito": "QUEVEDO",
     "circuito": "MOCACHE",
     "subcircuito": "MOCACHE 2",
-    "id": "NOTAR?A-1-Z5-L-Q-M",
-    "nombre_punto": "NOTAR?A 1"
+    "id": "NOTARÍA-1-Z5-L-Q-M",
+    "nombre_punto": "NOTARÍA 1"
   },
   {
     "zona": "ZONA 5",
@@ -11516,8 +11516,8 @@
     "distrito": "PICHINCHA",
     "circuito": "PICHINCHA",
     "subcircuito": "PICHINCHA 1",
-    "id": "JOYER?A-Y-RELOJER?A-ORIENT-Z4-M-P-P",
-    "nombre_punto": "Joyer?a y relojer?a orient"
+    "id": "JOYERÍA-Y-RELOJERÍA-ORIENT-Z4-M-P-P",
+    "nombre_punto": "Joyería y relojería orient"
   },
   {
     "zona": "ZONA 4",
@@ -11552,8 +11552,8 @@
     "distrito": "DAULE",
     "circuito": "NOBOL",
     "subcircuito": "",
-    "id": "T?A-NOBOL-Z5-G-D-N",
-    "nombre_punto": "T?a Nobol"
+    "id": "TÍA-NOBOL-Z5-G-D-N",
+    "nombre_punto": "Tía Nobol"
   },
   {
     "zona": "ZONA 1",
@@ -11570,8 +11570,8 @@
     "distrito": "GUARANDA",
     "circuito": "GUARANDA SUR",
     "subcircuito": "GUARANDA SUR 1",
-    "id": "BAR-LA-HUECHA-DEL-CHAVITO,-V?A-VINCHOA-CASIPAMBA-LA-Y-Z5-B-G-G",
-    "nombre_punto": "BAR LA HUECHA DEL CHAVITO, V?A VINCHOA CASIPAMBA LA Y"
+    "id": "BAR-LA-HUECHA-DEL-CHAVITO,-VÍA-VINCHOA-CASIPAMBA-LA-Y-Z5-B-G-G",
+    "nombre_punto": "BAR LA HUECHA DEL CHAVITO, VÍA VINCHOA CASIPAMBA LA Y"
   },
   {
     "zona": "ZONA 3",
@@ -11597,8 +11597,8 @@
     "distrito": "GUARANDA",
     "circuito": "GUARANDA SUR",
     "subcircuito": "GUARANDA SUR 1",
-    "id": "FERRETER?A-BECERRA,-JHON-F.-KENNEDY-Y-SOLANDA-Z5-B-G-G",
-    "nombre_punto": "FERRETER?A BECERRA, JHON F. KENNEDY Y SOLANDA"
+    "id": "FERRETERÍA-BECERRA,-JHON-F.-KENNEDY-Y-SOLANDA-Z5-B-G-G",
+    "nombre_punto": "FERRETERÍA BECERRA, JHON F. KENNEDY Y SOLANDA"
   },
   {
     "zona": "ZONA 5",
@@ -11759,8 +11759,8 @@
     "distrito": "BUENA FE",
     "circuito": "COSTA AZUL",
     "subcircuito": "COSTA AZUL 1",
-    "id": "ESCUELA-DE-EDUCACI?N-BASICA-GIRON-Z5-L-B-C",
-    "nombre_punto": "ESCUELA DE EDUCACI?N BASICA GIRON"
+    "id": "ESCUELA-DE-EDUCACIÓN-BASICA-GIRON-Z5-L-B-C",
+    "nombre_punto": "ESCUELA DE EDUCACIÓN BASICA GIRON"
   },
   {
     "zona": "ZONA 4",
@@ -11786,8 +11786,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA SUR",
     "subcircuito": "LA MANA SUR 1",
-    "id": "COOPERATIVA-DE-AHORRO-Y-CR?DITO-LA-MANA-Z3-C-L-L",
-    "nombre_punto": "Cooperativa de ahorro y cr?dito La Mana"
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-LA-MANA-Z3-C-L-L",
+    "nombre_punto": "Cooperativa de ahorro y crédito La Mana"
   },
   {
     "zona": "ZONA 6",
@@ -11831,8 +11831,8 @@
     "distrito": "PONCE ENRIQUEZ",
     "circuito": "CARMEN DE PIJILI",
     "subcircuito": "CARMEN DE PIJILI 1",
-    "id": "FERRETER?A-SAN-JOS?-Z6-A-P-C",
-    "nombre_punto": "Ferreter?a San Jos?"
+    "id": "FERRETERÍA-SAN-JOSÉ-Z6-A-P-C",
+    "nombre_punto": "Ferretería San José"
   },
   {
     "zona": "ZONA 5",
@@ -11903,8 +11903,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA SUR",
     "subcircuito": "LA MANA SUR 1",
-    "id": "CL?NICA-CA?ARTE-Z3-C-L-L",
-    "nombre_punto": "Cl?nica Ca?arte"
+    "id": "CLÍNICA-CAÑARTE-Z3-C-L-L",
+    "nombre_punto": "Clínica Cañarte"
   },
   {
     "zona": "ZONA 3",
@@ -11921,8 +11921,8 @@
     "distrito": "PORTOVIEJO",
     "circuito": "NUEVO PORTOVIEJO",
     "subcircuito": "NUEVO PORTOVIEJO 2",
-    "id": "SECTOR-EL-LIM?N-AGUA-MAX-Z4-M-P-N",
-    "nombre_punto": "Sector el Lim?n-Agua Max"
+    "id": "SECTOR-EL-LIMÓN-AGUA-MAX-Z4-M-P-N",
+    "nombre_punto": "Sector el Limón-Agua Max"
   },
   {
     "zona": "ZONA 4",
@@ -11957,12 +11957,12 @@
     "distrito": "PORTOVIEJO",
     "circuito": "NUEVO PORTOVIEJO",
     "subcircuito": "NUEVO PORTOVIEJO 1",
-    "id": "V?A-ZAPALLO-RESTAURANTE-LA-SAZ?N-DE-CHARO-Z4-M-P-N",
-    "nombre_punto": "V?a Zapallo-Restaurante la Saz?n de Charo"
+    "id": "VÍA-ZAPALLO-RESTAURANTE-LA-SAZÓN-DE-CHARO-Z4-M-P-N",
+    "nombre_punto": "Vía Zapallo-Restaurante la Sazón de Charo"
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "AZOGUES",
     "circuito": "AZOGUES SUR",
     "subcircuito": "AZOGUES SUR 1",
@@ -11980,7 +11980,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "AZOGUES",
     "circuito": "AZOGUES NORTE",
     "subcircuito": "AZOGUES NORTE 1",
@@ -11989,7 +11989,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "AZOGUES",
     "circuito": "AZOGUES SUR",
     "subcircuito": "AZOGUES SUR 1",
@@ -12002,12 +12002,12 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA SUR",
     "subcircuito": "LA MANA SUR 1",
-    "id": "DISTRITO-DE-EDUCACI?N-Z3-C-L-L",
-    "nombre_punto": "Distrito de educaci?n"
+    "id": "DISTRITO-DE-EDUCACIÓN-Z3-C-L-L",
+    "nombre_punto": "Distrito de educación"
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "AZOGUES",
     "circuito": "AZOGUES SUR",
     "subcircuito": "AZOGUES SUR 1",
@@ -12056,8 +12056,8 @@
     "distrito": "QUININDE",
     "circuito": "QUININDE",
     "subcircuito": "QUININDE 1",
-    "id": "TIENDA-NU?EZ-MONTA?O-MIGUEL-Z1-E-Q-Q",
-    "nombre_punto": "TIENDA NU?EZ MONTA?O MIGUEL"
+    "id": "TIENDA-NUÑEZ-MONTAÑO-MIGUEL-Z1-E-Q-Q",
+    "nombre_punto": "TIENDA NUÑEZ MONTAÑO MIGUEL"
   },
   {
     "zona": "ZONA 3",
@@ -12074,8 +12074,8 @@
     "distrito": "BUENA FE",
     "circuito": "LA NUEVA UNION",
     "subcircuito": "LA NUEVA UNION 1",
-    "id": "SUBCENTRO-DE-SALUD-LA-NUEVA-UNI?N-Z5-L-B-L",
-    "nombre_punto": "SUBCENTRO DE SALUD LA NUEVA UNI?N"
+    "id": "SUBCENTRO-DE-SALUD-LA-NUEVA-UNIÓN-Z5-L-B-L",
+    "nombre_punto": "SUBCENTRO DE SALUD LA NUEVA UNIÓN"
   },
   {
     "zona": "ZONA 4",
@@ -12110,8 +12110,8 @@
     "distrito": "PORTOVIEJO",
     "circuito": "LOS CEREZOS",
     "subcircuito": "LOS CEREZOS 1",
-    "id": "PELUQUER?A-ESTILO-DERYMARK-Z4-M-P-L",
-    "nombre_punto": "PELUQUER?A ESTILO DERYMARK"
+    "id": "PELUQUERÍA-ESTILO-DERYMARK-Z4-M-P-L",
+    "nombre_punto": "PELUQUERÍA ESTILO DERYMARK"
   },
   {
     "zona": "ZONA 6",
@@ -12119,8 +12119,8 @@
     "distrito": "CUENCA SUR",
     "circuito": "HUAYNA CAPAC",
     "subcircuito": "HUAYNA CAPAC 1",
-    "id": "DO?A-BURGER-Z6-A-C-H",
-    "nombre_punto": "DO?A BURGER"
+    "id": "DOÑA-BURGER-Z6-A-C-H",
+    "nombre_punto": "DOÑA BURGER"
   },
   {
     "zona": "ZONA 5",
@@ -12128,15 +12128,15 @@
     "distrito": "EL TRIUNFO BUCAY",
     "circuito": "EL TRIUNFO OESTE",
     "subcircuito": "EL TRIUNFO OESTE 2",
-    "id": "P&S-PETR?LEOS-Y-SERVICIOS-Z5-G-E-E",
-    "nombre_punto": "P&S PETR?LEOS Y SERVICIOS"
+    "id": "P&S-PETRÓLEOS-Y-SERVICIOS-Z5-G-E-E",
+    "nombre_punto": "P&S PETRÓLEOS Y SERVICIOS"
   },
   {
     "zona": "ZONA 6",
     "subzona": "AZUAY",
     "distrito": "CUENCA SUR",
-    "circuito": "BA?OS",
-    "subcircuito": "BA?OS 1",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
     "id": "COOPERCO-Z6-A-C-B",
     "nombre_punto": "COOPERCO"
   },
@@ -12152,7 +12152,7 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "CAPIRO",
     "subcircuito": "CAPIRO 1",
     "id": "LOCALES-POPEYES-Z7-E-P-C",
@@ -12227,17 +12227,17 @@
     "distrito": "CUENCA SUR",
     "circuito": "SAN SEBASTIAN",
     "subcircuito": "SAN SEBASTIAN 1",
-    "id": "FERRETERIA-ORDO?EZ-LASSO-Z6-A-C-S",
-    "nombre_punto": "FERRETERIA ORDO?EZ LASSO"
+    "id": "FERRETERIA-ORDOÑEZ-LASSO-Z6-A-C-S",
+    "nombre_punto": "FERRETERIA ORDOÑEZ LASSO"
   },
   {
     "zona": "ZONA 6",
     "subzona": "AZUAY",
     "distrito": "CUENCA SUR",
-    "circuito": "BA?OS",
-    "subcircuito": "BA?OS 1",
-    "id": "HOSTER?A-DURAN-Z6-A-C-B",
-    "nombre_punto": "Hoster?a Duran"
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "HOSTERÍA-DURAN-Z6-A-C-B",
+    "nombre_punto": "Hostería Duran"
   },
   {
     "zona": "ZONA 6",
@@ -12416,8 +12416,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA SUR",
     "subcircuito": "LA MANA SUR 1",
-    "id": "GIGANTOGRAF?AS-LE?N-Z3-C-L-L",
-    "nombre_punto": "Gigantograf?as Le?n"
+    "id": "GIGANTOGRAFÍAS-LEÓN-Z3-C-L-L",
+    "nombre_punto": "Gigantografías León"
   },
   {
     "zona": "ZONA 3",
@@ -12497,8 +12497,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA NORTE",
     "subcircuito": "LA MANA NORTE 1",
-    "id": "UNIDAD-EDUCATIVA-FEDERACI?N-DEPORTIVA-DE-COTOPAXI-BLOQUE-1-Z3-C-L-L",
-    "nombre_punto": "UNIDAD EDUCATIVA FEDERACI?N DEPORTIVA DE COTOPAXI BLOQUE 1"
+    "id": "UNIDAD-EDUCATIVA-FEDERACIÓN-DEPORTIVA-DE-COTOPAXI-BLOQUE-1-Z3-C-L-L",
+    "nombre_punto": "UNIDAD EDUCATIVA FEDERACIÓN DEPORTIVA DE COTOPAXI BLOQUE 1"
   },
   {
     "zona": "ZONA 7",
@@ -12569,8 +12569,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA SUR",
     "subcircuito": "LA MANA SUR 2",
-    "id": "SUBESTACI?N-LA-PLAYITA-EMPRESA-EL?CTRICA-Z3-C-L-L",
-    "nombre_punto": "Subestaci?n la playita empresa el?ctrica"
+    "id": "SUBESTACIÓN-LA-PLAYITA-EMPRESA-ELÉCTRICA-Z3-C-L-L",
+    "nombre_punto": "Subestación la playita empresa eléctrica"
   },
   {
     "zona": "ZONA 3",
@@ -12605,8 +12605,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "COCA ORIENTE",
     "subcircuito": "COCA ORIENTE 1",
-    "id": "CATEDRAL-NUESTRA-SE?ORA-DEL-CARMEN-Z2-O-O-C",
-    "nombre_punto": "Catedral nuestra se?ora del Carmen"
+    "id": "CATEDRAL-NUESTRA-SEÑORA-DEL-CARMEN-Z2-O-O-C",
+    "nombre_punto": "Catedral nuestra señora del Carmen"
   },
   {
     "zona": "ZONA 5",
@@ -12632,8 +12632,8 @@
     "distrito": "NOROCCIDENTE",
     "circuito": "PUERTO QUITO SUR",
     "subcircuito": "PUERTO QUITO SUR 2",
-    "id": "V?VERES-JESSENIA-Z2-P-N-P",
-    "nombre_punto": "V?veres Jessenia"
+    "id": "VÍVERES-JESSENIA-Z2-P-N-P",
+    "nombre_punto": "Víveres Jessenia"
   },
   {
     "zona": "ZONA 5",
@@ -12650,8 +12650,8 @@
     "distrito": "VINCES",
     "circuito": "VINCES SUR",
     "subcircuito": "VINCES SUR 1",
-    "id": "CONSULTORIO-M?DICO-Z5-L-V-V",
-    "nombre_punto": "Consultorio M?dico"
+    "id": "CONSULTORIO-MÉDICO-Z5-L-V-V",
+    "nombre_punto": "Consultorio Médico"
   },
   {
     "zona": "ZONA 5",
@@ -12794,8 +12794,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 1",
-    "id": "FERRETER?A-BALCAZAR-Z2-O-L-S",
-    "nombre_punto": "Ferreter?a Balcazar"
+    "id": "FERRETERÍA-BALCAZAR-Z2-O-L-S",
+    "nombre_punto": "Ferretería Balcazar"
   },
   {
     "zona": "ZONA 2",
@@ -12830,8 +12830,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 1",
-    "id": "CAJERO-AUTOM?TICO-BANCO-PICHINCHA-Z2-O-L-S",
-    "nombre_punto": "Cajero Autom?tico Banco Pichincha"
+    "id": "CAJERO-AUTOMÁTICO-BANCO-PICHINCHA-Z2-O-L-S",
+    "nombre_punto": "Cajero Automático Banco Pichincha"
   },
   {
     "zona": "ZONA 2",
@@ -12848,8 +12848,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 1",
-    "id": "LABORATORIO-MU?OZ-Z2-O-L-S",
-    "nombre_punto": "LABORATORIO MU?OZ"
+    "id": "LABORATORIO-MUÑOZ-Z2-O-L-S",
+    "nombre_punto": "LABORATORIO MUÑOZ"
   },
   {
     "zona": "ZONA 3",
@@ -12857,8 +12857,8 @@
     "distrito": "PATATE",
     "circuito": "GARCIA MORENO",
     "subcircuito": "GARCIA MORENO 1",
-    "id": "CASER?O-PAMATUG-Z3-T-P-G",
-    "nombre_punto": "Caser?o Pamatug"
+    "id": "CASERÍO-PAMATUG-Z3-T-P-G",
+    "nombre_punto": "Caserío Pamatug"
   },
   {
     "zona": "ZONA 2",
@@ -12902,8 +12902,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 1",
-    "id": "COOPERATIVA-BA?OS-Z2-O-L-S",
-    "nombre_punto": "COOPERATIVA BA?OS"
+    "id": "COOPERATIVA-BAÑOS-Z2-O-L-S",
+    "nombre_punto": "COOPERATIVA BAÑOS"
   },
   {
     "zona": "ZONA 3",
@@ -12956,8 +12956,8 @@
     "distrito": "LIBERTAD SALINAS",
     "circuito": "VIRGEN DEL CARMEN",
     "subcircuito": "VIRGEN DEL CARMEN 2",
-    "id": "TIENDA-DE-CASA-BLANCA-SE?ORA-GLORIA-Z5-S-L-V",
-    "nombre_punto": "Tienda de casa Blanca Se?ora Gloria"
+    "id": "TIENDA-DE-CASA-BLANCA-SEÑORA-GLORIA-Z5-S-L-V",
+    "nombre_punto": "Tienda de casa Blanca Señora Gloria"
   },
   {
     "zona": "ZONA 2",
@@ -12974,8 +12974,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 1",
-    "id": "ALMAC?N-ARTEFACTA-Z2-O-L-S",
-    "nombre_punto": "ALMAC?N ARTEFACTA"
+    "id": "ALMACÉN-ARTEFACTA-Z2-O-L-S",
+    "nombre_punto": "ALMACÉN ARTEFACTA"
   },
   {
     "zona": "ZONA 2",
@@ -12983,8 +12983,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 1",
-    "id": "ALMAC?N-JAHER-Z2-O-L-S",
-    "nombre_punto": "ALMAC?N JAHER"
+    "id": "ALMACÉN-JAHER-Z2-O-L-S",
+    "nombre_punto": "ALMACÉN JAHER"
   },
   {
     "zona": "ZONA 2",
@@ -13001,8 +13001,8 @@
     "distrito": "LIBERTAD SALINAS",
     "circuito": "VIRGEN DEL CARMEN",
     "subcircuito": "VIRGEN DEL CARMEN 2",
-    "id": "TIENDA-LA-BENDICI?N-Z5-S-L-V",
-    "nombre_punto": "Tienda la bendici?n"
+    "id": "TIENDA-LA-BENDICIÓN-Z5-S-L-V",
+    "nombre_punto": "Tienda la bendición"
   },
   {
     "zona": "ZONA 2",
@@ -13037,8 +13037,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "LORETO",
     "subcircuito": "LORETO 1",
-    "id": "LAVANDER?A-LORETO-Z2-O-O-L",
-    "nombre_punto": "Lavander?a Loreto"
+    "id": "LAVANDERÍA-LORETO-Z2-O-O-L",
+    "nombre_punto": "Lavandería Loreto"
   },
   {
     "zona": "ZONA 6",
@@ -13091,8 +13091,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "LORETO",
     "subcircuito": "LORETO 1",
-    "id": "HOSTER?A-OJO-DE-AGUA-Z2-O-O-L",
-    "nombre_punto": "Hoster?a ojo de agua"
+    "id": "HOSTERÍA-OJO-DE-AGUA-Z2-O-O-L",
+    "nombre_punto": "Hostería ojo de agua"
   },
   {
     "zona": "ZONA 4",
@@ -13127,8 +13127,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 1",
-    "id": "EL-RINC?N-MANABITA-Z2-O-L-S",
-    "nombre_punto": "El rinc?n manabita"
+    "id": "EL-RINCÓN-MANABITA-Z2-O-L-S",
+    "nombre_punto": "El rincón manabita"
   },
   {
     "zona": "ZONA 2",
@@ -13163,8 +13163,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 1",
-    "id": "FISCAL?A-DEL-SACHA-Z2-O-L-S",
-    "nombre_punto": "FISCAL?A DEL SACHA"
+    "id": "FISCALÍA-DEL-SACHA-Z2-O-L-S",
+    "nombre_punto": "FISCALÍA DEL SACHA"
   },
   {
     "zona": "ZONA 2",
@@ -13235,8 +13235,8 @@
     "distrito": "AGUARICO",
     "circuito": "AGUARICO",
     "subcircuito": "AGUARICO 1",
-    "id": "ZAPATER?A-ANTAMBA-Z2-O-A-A",
-    "nombre_punto": "Zapater?a Antamba"
+    "id": "ZAPATERÍA-ANTAMBA-Z2-O-A-A",
+    "nombre_punto": "Zapatería Antamba"
   },
   {
     "zona": "ZONA 2",
@@ -13262,8 +13262,8 @@
     "distrito": "AGUARICO",
     "circuito": "AGUARICO",
     "subcircuito": "AGUARICO 1",
-    "id": "BAZAR-ANAH?-Z2-O-A-A",
-    "nombre_punto": "Bazar Anah?"
+    "id": "BAZAR-ANAHÍ-Z2-O-A-A",
+    "nombre_punto": "Bazar Anahí"
   },
   {
     "zona": "ZONA 2",
@@ -13316,8 +13316,8 @@
     "distrito": "AGUARICO",
     "circuito": "AGUARICO",
     "subcircuito": "AGUARICO 1",
-    "id": "BAZAR-\"EL-ARMARIO-M?GICO-DE-MARY\"-Z2-O-A-A",
-    "nombre_punto": "Bazar \"El armario m?gico de Mary\""
+    "id": "BAZAR-\"EL-ARMARIO-MÁGICO-DE-MARY\"-Z2-O-A-A",
+    "nombre_punto": "Bazar \"El armario mágico de Mary\""
   },
   {
     "zona": "ZONA 2",
@@ -13334,8 +13334,8 @@
     "distrito": "NOROCCIDENTE",
     "circuito": "MALDONADO",
     "subcircuito": "MALDONADO 1",
-    "id": "LA-SAZ?N-DE-SOFI-Z2-P-N-M",
-    "nombre_punto": "LA  SAZ?N DE SOFI"
+    "id": "LA-SAZÓN-DE-SOFI-Z2-P-N-M",
+    "nombre_punto": "LA  SAZÓN DE SOFI"
   },
   {
     "zona": "ZONA 2",
@@ -13343,8 +13343,8 @@
     "distrito": "NOROCCIDENTE",
     "circuito": "MALDONADO",
     "subcircuito": "MALDONADO 1",
-    "id": "SAZ?N-DE-SOFI-Z2-P-N-M",
-    "nombre_punto": "Saz?n de Sofi"
+    "id": "SAZÓN-DE-SOFI-Z2-P-N-M",
+    "nombre_punto": "Sazón de Sofi"
   },
   {
     "zona": "ZONA 5",
@@ -13388,8 +13388,8 @@
     "distrito": "SANTO DOMINGO OESTE",
     "circuito": "PLAN DE VIVIENDA",
     "subcircuito": "PLAN DE VIVIENDA 1",
-    "id": "V?VERES-GAROFALO-Z4-S-S-P",
-    "nombre_punto": "V?veres Garofalo"
+    "id": "VÍVERES-GAROFALO-Z4-S-S-P",
+    "nombre_punto": "Víveres Garofalo"
   },
   {
     "zona": "ZONA 2",
@@ -13493,7 +13493,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "ILINIZAS",
     "subcircuito": "ILINIZAS 1",
     "id": "FARMACIA-SAN-LUIS-Z2-P-R-I",
@@ -13514,8 +13514,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SAN PEDRO",
     "subcircuito": "SAN PEDRO 1",
-    "id": "EMPANADAS-DO?A-PAOLA-Z2-O-L-S",
-    "nombre_punto": "EMPANADAS DO?A PAOLA"
+    "id": "EMPANADAS-DOÑA-PAOLA-Z2-O-L-S",
+    "nombre_punto": "EMPANADAS DOÑA PAOLA"
   },
   {
     "zona": "ZONA 2",
@@ -13640,8 +13640,8 @@
     "distrito": "AGUARICO",
     "circuito": "AGUARICO",
     "subcircuito": "AGUARICO 1",
-    "id": "FERRETER?A-LA-PESCA-Z2-O-A-A",
-    "nombre_punto": "Ferreter?a la pesca"
+    "id": "FERRETERÍA-LA-PESCA-Z2-O-A-A",
+    "nombre_punto": "Ferretería la pesca"
   },
   {
     "zona": "ZONA 2",
@@ -13667,8 +13667,8 @@
     "distrito": "AGUARICO",
     "circuito": "AGUARICO",
     "subcircuito": "AGUARICO 1",
-    "id": "LEGUMBRES-OTAVALE?A-Z2-O-A-A",
-    "nombre_punto": "Legumbres Otavale?a"
+    "id": "LEGUMBRES-OTAVALEÑA-Z2-O-A-A",
+    "nombre_punto": "Legumbres Otavaleña"
   },
   {
     "zona": "ZONA 2",
@@ -13676,8 +13676,8 @@
     "distrito": "AGUARICO",
     "circuito": "AGUARICO",
     "subcircuito": "AGUARICO 1",
-    "id": "FERRETER?A-YEPEZ-Z2-O-A-A",
-    "nombre_punto": "Ferreter?a Yepez"
+    "id": "FERRETERÍA-YEPEZ-Z2-O-A-A",
+    "nombre_punto": "Ferretería Yepez"
   },
   {
     "zona": "ZONA 6",
@@ -13694,8 +13694,8 @@
     "distrito": "AGUARICO",
     "circuito": "AGUARICO",
     "subcircuito": "AGUARICO 1",
-    "id": "LOS-REYES-PELUQUER?A-Z2-O-A-A",
-    "nombre_punto": "Los Reyes peluquer?a"
+    "id": "LOS-REYES-PELUQUERÍA-Z2-O-A-A",
+    "nombre_punto": "Los Reyes peluquería"
   },
   {
     "zona": "ZONA 2",
@@ -13703,8 +13703,8 @@
     "distrito": "AGUARICO",
     "circuito": "AGUARICO",
     "subcircuito": "AGUARICO 1",
-    "id": "BARB?N-BARBER-Z2-O-A-A",
-    "nombre_punto": "Barb?n barber"
+    "id": "BARBÓN-BARBER-Z2-O-A-A",
+    "nombre_punto": "Barbón barber"
   },
   {
     "zona": "ZONA 2",
@@ -13736,7 +13736,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "SANGOLQUI",
     "subcircuito": "SANGOLQUI 2",
     "id": "ONDE-PEPE-LOCAL-COMIDA-Z2-P-R-S",
@@ -13757,8 +13757,8 @@
     "distrito": "BUENA FE",
     "circuito": "VALENCIA",
     "subcircuito": "VALENCIA 1",
-    "id": "FERRETER?A-DISENSA-NANCY-EXPRESS-Z5-L-B-V",
-    "nombre_punto": "FERRETER?A DISENSA NANCY EXPRESS"
+    "id": "FERRETERÍA-DISENSA-NANCY-EXPRESS-Z5-L-B-V",
+    "nombre_punto": "FERRETERÍA DISENSA NANCY EXPRESS"
   },
   {
     "zona": "ZONA 3",
@@ -13775,8 +13775,8 @@
     "distrito": "ALAUSI",
     "circuito": "ALAUSI",
     "subcircuito": "ALAUSI 1",
-    "id": "CUTE-FACE-ALAUS?-Z3-C-A-A",
-    "nombre_punto": "Cute Face Alaus?"
+    "id": "CUTE-FACE-ALAUSÍ-Z3-C-A-A",
+    "nombre_punto": "Cute Face Alausí"
   },
   {
     "zona": "ZONA 2",
@@ -13794,7 +13794,7 @@
     "circuito": "CONCORDIA NORTE",
     "subcircuito": "CONCORDIA NORTE 3",
     "id": "1716610132-Z4-S-L-C",
-    "nombre_punto": "PANADER?A Y PASTELER?A LA FONTANA"
+    "nombre_punto": "PANADERÍA Y PASTELERÍA LA FONTANA"
   },
   {
     "zona": "ZONA 2",
@@ -13808,11 +13808,11 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "MARCABELI",
     "subcircuito": "MARCABELI 1",
-    "id": "FARMACIA-M?A-Z7-E-P-M",
-    "nombre_punto": "Farmacia m?a"
+    "id": "FARMACIA-MÍA-Z7-E-P-M",
+    "nombre_punto": "Farmacia mía"
   },
   {
     "zona": "ZONA 2",
@@ -13829,8 +13829,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "LORETO",
     "subcircuito": "LORETO 1",
-    "id": "HOSTAL-SAN-JOS?-DE-LORETO.-Z2-O-O-L",
-    "nombre_punto": "Hostal San Jos? de Loreto."
+    "id": "HOSTAL-SAN-JOSÉ-DE-LORETO.-Z2-O-O-L",
+    "nombre_punto": "Hostal San José de Loreto."
   },
   {
     "zona": "ZONA 2",
@@ -13892,8 +13892,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SAN SEBASTIAN",
     "subcircuito": "SAN SEBASTIAN 1",
-    "id": "MINIMARKET-EL-CA?ON-Z2-O-L-S",
-    "nombre_punto": "MINIMARKET EL CA?ON"
+    "id": "MINIMARKET-EL-CAÑON-Z2-O-L-S",
+    "nombre_punto": "MINIMARKET EL CAÑON"
   },
   {
     "zona": "ZONA 2",
@@ -13901,8 +13901,8 @@
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SAN SEBASTIAN",
     "subcircuito": "SAN SEBASTIAN 1",
-    "id": "PANADER?A-Y-PASTELERIA-MAXIPANES-Z2-O-L-S",
-    "nombre_punto": "PANADER?A Y PASTELERIA MAXIPANES"
+    "id": "PANADERÍA-Y-PASTELERIA-MAXIPANES-Z2-O-L-S",
+    "nombre_punto": "PANADERÍA Y PASTELERIA MAXIPANES"
   },
   {
     "zona": "ZONA 2",
@@ -13973,8 +13973,8 @@
     "distrito": "ALAUSI",
     "circuito": "CHUNCHI",
     "subcircuito": "CHUNCHI 1",
-    "id": "V?VERES-ELISA-Z3-C-A-C",
-    "nombre_punto": "V?veres Elisa"
+    "id": "VÍVERES-ELISA-Z3-C-A-C",
+    "nombre_punto": "Víveres Elisa"
   },
   {
     "zona": "ZONA 3",
@@ -14009,8 +14009,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "LORETO",
     "subcircuito": "LORETO 1",
-    "id": "PARQUE-DEL-NI?O-Z2-O-O-L",
-    "nombre_punto": "Parque del ni?o"
+    "id": "PARQUE-DEL-NIÑO-Z2-O-O-L",
+    "nombre_punto": "Parque del niño"
   },
   {
     "zona": "ZONA 2",
@@ -14018,8 +14018,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "LORETO",
     "subcircuito": "LORETO 1",
-    "id": "ASOCIACI?N-DE-COMIDAS-T?PICAS-\"-?VILA-HUIRUNO\"-Z2-O-O-L",
-    "nombre_punto": "Asociaci?n de comidas t?picas \" ?vila Huiruno\""
+    "id": "ASOCIACIÓN-DE-COMIDAS-TÍPICAS-\"-ÁVILA-HUIRUNO\"-Z2-O-O-L",
+    "nombre_punto": "Asociación de comidas típicas \" Ávila Huiruno\""
   },
   {
     "zona": "ZONA 2",
@@ -14027,8 +14027,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "LORETO",
     "subcircuito": "LORETO 1",
-    "id": "CANCHA-SINT?TICA-BARRIO-EL-TRIUNFO-Z2-O-O-L",
-    "nombre_punto": "Cancha sint?tica Barrio el Triunfo"
+    "id": "CANCHA-SINTÉTICA-BARRIO-EL-TRIUNFO-Z2-O-O-L",
+    "nombre_punto": "Cancha sintética Barrio el Triunfo"
   },
   {
     "zona": "ZONA 1",
@@ -14072,8 +14072,8 @@
     "distrito": "SAN MIGUEL",
     "circuito": "SAN PABLO",
     "subcircuito": "SAN PABLO 1",
-    "id": "CAJERO-AUTOM?TICO-SAN-JOS?-Z5-B-S-S",
-    "nombre_punto": "Cajero autom?tico San Jos?"
+    "id": "CAJERO-AUTOMÁTICO-SAN-JOSÉ-Z5-B-S-S",
+    "nombre_punto": "Cajero automático San José"
   },
   {
     "zona": "ZONA 2",
@@ -14081,8 +14081,8 @@
     "distrito": "AGUARICO",
     "circuito": "NUEVO ROCAFUERTE",
     "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "MINI-FERRETER?A-BRIANA-PAULE-Z2-O-A-N",
-    "nombre_punto": "Mini Ferreter?a Briana Paule"
+    "id": "MINI-FERRETERÍA-BRIANA-PAULE-Z2-O-A-N",
+    "nombre_punto": "Mini Ferretería Briana Paule"
   },
   {
     "zona": "ZONA 2",
@@ -14099,8 +14099,8 @@
     "distrito": "AGUARICO",
     "circuito": "NUEVO ROCAFUERTE",
     "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "BAZAR-LIBRERIA-NI?O-JAHIR-Z2-O-A-N",
-    "nombre_punto": "BAZAR LIBRERIA NI?O JAHIR"
+    "id": "BAZAR-LIBRERIA-NIÑO-JAHIR-Z2-O-A-N",
+    "nombre_punto": "BAZAR LIBRERIA NIÑO JAHIR"
   },
   {
     "zona": "ZONA 2",
@@ -14117,8 +14117,8 @@
     "distrito": "LATACUNGA",
     "circuito": "SAN MARTIN",
     "subcircuito": "SAN MARTIN 1",
-    "id": "COMPLEJO-TUR?STICO-SOL-CARIBE-Z3-C-L-S",
-    "nombre_punto": "COMPLEJO TUR?STICO SOL CARIBE"
+    "id": "COMPLEJO-TURÍSTICO-SOL-CARIBE-Z3-C-L-S",
+    "nombre_punto": "COMPLEJO TURÍSTICO SOL CARIBE"
   },
   {
     "zona": "ZONA 3",
@@ -14153,8 +14153,8 @@
     "distrito": "LATACUNGA",
     "circuito": "SAN MARTIN",
     "subcircuito": "SAN MARTIN 1",
-    "id": "TU-LAVANDER?A-Z3-C-L-S",
-    "nombre_punto": "TU LAVANDER?A"
+    "id": "TU-LAVANDERÍA-Z3-C-L-S",
+    "nombre_punto": "TU LAVANDERÍA"
   },
   {
     "zona": "ZONA 4",
@@ -14198,8 +14198,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "LORETO",
     "subcircuito": "LORETO 1",
-    "id": "ASOCIACI?N-DE-PRODUCCI?N-AGROPECUARIA-CAF?-SUMACO-ASUMACO-Z2-O-O-L",
-    "nombre_punto": "Asociaci?n de producci?n agropecuaria caf? sumaco asumaco"
+    "id": "ASOCIACIÓN-DE-PRODUCCIÓN-AGROPECUARIA-CAFÉ-SUMACO-ASUMACO-Z2-O-O-L",
+    "nombre_punto": "Asociación de producción agropecuaria café sumaco asumaco"
   },
   {
     "zona": "ZONA 2",
@@ -14225,8 +14225,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA SUR",
     "subcircuito": "LA MANA SUR 1",
-    "id": "FERRETER?A-L-AFERIA-DEL-PERNO-Z3-C-L-L",
-    "nombre_punto": "Ferreter?a L aFeria del Perno"
+    "id": "FERRETERÍA-L-AFERIA-DEL-PERNO-Z3-C-L-L",
+    "nombre_punto": "Ferretería L aFeria del Perno"
   },
   {
     "zona": "ZONA 2",
@@ -14288,8 +14288,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA SUR",
     "subcircuito": "LA MANA SUR 1",
-    "id": "EMPRESA-EL?CTRICA-LA-MANA-Z3-C-L-L",
-    "nombre_punto": "Empresa el?ctrica  La Mana"
+    "id": "EMPRESA-ELÉCTRICA-LA-MANA-Z3-C-L-L",
+    "nombre_punto": "Empresa eléctrica  La Mana"
   },
   {
     "zona": "ZONA 2",
@@ -14297,8 +14297,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "LORETO",
     "subcircuito": "LORETO 1",
-    "id": "PARQUE-ACU?TICO-LA-ISLA-Z2-O-O-L",
-    "nombre_punto": "Parque acu?tico la Isla"
+    "id": "PARQUE-ACUÁTICO-LA-ISLA-Z2-O-O-L",
+    "nombre_punto": "Parque acuático la Isla"
   },
   {
     "zona": "ZONA 2",
@@ -14405,8 +14405,8 @@
     "distrito": "LATACUNGA",
     "circuito": "TERMINAL TERRESTRE",
     "subcircuito": "TERMINAL TERRESTRE 1",
-    "id": "LOCAL-DE-COSM?TICO-REBARATON-Z3-C-L-T",
-    "nombre_punto": "LOCAL DE COSM?TICO REBARATON"
+    "id": "LOCAL-DE-COSMÉTICO-REBARATON-Z3-C-L-T",
+    "nombre_punto": "LOCAL DE COSMÉTICO REBARATON"
   },
   {
     "zona": "ZONA 3",
@@ -14450,8 +14450,8 @@
     "distrito": "ORELLANA LORETO",
     "circuito": "LORETO",
     "subcircuito": "LORETO 1",
-    "id": "CST.-SERVICIO-Y-TECNOLOG?A-Z2-O-O-L",
-    "nombre_punto": "CST. SERVICIO Y TECNOLOG?A"
+    "id": "CST.-SERVICIO-Y-TECNOLOGÍA-Z2-O-O-L",
+    "nombre_punto": "CST. SERVICIO Y TECNOLOGÍA"
   },
   {
     "zona": "ZONA 2",
@@ -14486,8 +14486,8 @@
     "distrito": "PASTAZA",
     "circuito": "PUYO NORTE",
     "subcircuito": "PUYO NORTE 1",
-    "id": "PASEO-TUR?STICO-Z3-P-P-P",
-    "nombre_punto": "Paseo Tur?stico"
+    "id": "PASEO-TURÍSTICO-Z3-P-P-P",
+    "nombre_punto": "Paseo Turístico"
   },
   {
     "zona": "ZONA 3",
@@ -14495,8 +14495,8 @@
     "distrito": "PASTAZA",
     "circuito": "PUYO NORTE",
     "subcircuito": "PUYO NORTE 1",
-    "id": "PASEO-TUR?STICO-3TA-ETAPA-Z3-P-P-P",
-    "nombre_punto": "Paseo Tur?stico 3ta Etapa"
+    "id": "PASEO-TURÍSTICO-3TA-ETAPA-Z3-P-P-P",
+    "nombre_punto": "Paseo Turístico 3ta Etapa"
   },
   {
     "zona": "ZONA 4",
@@ -14522,8 +14522,8 @@
     "distrito": "PASTAZA",
     "circuito": "PUYO NORTE",
     "subcircuito": "PUYO NORTE 2",
-    "id": "AV.-CRIST?BAL-COLON-Y-?LVARO-VALLADARES-Z3-P-P-P",
-    "nombre_punto": "Av. Crist?bal Colon y ?lvaro Valladares"
+    "id": "AV.-CRISTÓBAL-COLON-Y-ÁLVARO-VALLADARES-Z3-P-P-P",
+    "nombre_punto": "Av. Cristóbal Colon y Álvaro Valladares"
   },
   {
     "zona": "ZONA 3",
@@ -14585,15 +14585,15 @@
     "distrito": "SAN MIGUEL",
     "circuito": "SAN MIGUEL",
     "subcircuito": "SAN MIGUEL 1",
-    "id": "IMPRENTA-Y-LIBRER?A-GUTEMBERG-Z5-B-S-S",
-    "nombre_punto": "Imprenta y librer?a Gutemberg"
+    "id": "IMPRENTA-Y-LIBRERÍA-GUTEMBERG-Z5-B-S-S",
+    "nombre_punto": "Imprenta y librería Gutemberg"
   },
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
     "distrito": "AMBATO SUR",
-    "circuito": "MI?ARICA",
-    "subcircuito": "MI?ARICA 2",
+    "circuito": "MIÑARICA",
+    "subcircuito": "MIÑARICA 2",
     "id": "PARQUE-LA-PRESIDENCIA-Z3-T-A-M",
     "nombre_punto": "PARQUE LA PRESIDENCIA "
   },
@@ -14648,8 +14648,8 @@
     "distrito": "DANSANTE",
     "circuito": "SAQUISILI",
     "subcircuito": "SAQUISILI 1",
-    "id": "V?VERES-GERACHO-Z3-C-D-S",
-    "nombre_punto": "V?veres Geracho"
+    "id": "VÍVERES-GERACHO-Z3-C-D-S",
+    "nombre_punto": "Víveres Geracho"
   },
   {
     "zona": "ZONA 3",
@@ -14666,8 +14666,8 @@
     "distrito": "LATACUNGA",
     "circuito": "BETHLEMITAS",
     "subcircuito": "BETHLEMITAS 1",
-    "id": "PANADER?A-Z3-C-L-B",
-    "nombre_punto": "Panader?a"
+    "id": "PANADERÍA-Z3-C-L-B",
+    "nombre_punto": "Panadería"
   },
   {
     "zona": "ZONA 3",
@@ -14675,8 +14675,8 @@
     "distrito": "LATACUNGA",
     "circuito": "BETHLEMITAS",
     "subcircuito": "BETHLEMITAS 1",
-    "id": "PANADER?A-SM-Z3-C-L-B",
-    "nombre_punto": "Panader?a SM"
+    "id": "PANADERÍA-SM-Z3-C-L-B",
+    "nombre_punto": "Panadería SM"
   },
   {
     "zona": "ZONA 3",
@@ -14684,8 +14684,8 @@
     "distrito": "LATACUNGA",
     "circuito": "TERMINAL TERRESTRE",
     "subcircuito": "TERMINAL TERRESTRE 1",
-    "id": "LOCAL-?PTICA-IMBABURA-Z3-C-L-T",
-    "nombre_punto": "LOCAL ?PTICA IMBABURA"
+    "id": "LOCAL-ÓPTICA-IMBABURA-Z3-C-L-T",
+    "nombre_punto": "LOCAL ÓPTICA IMBABURA"
   },
   {
     "zona": "ZONA 5",
@@ -14693,8 +14693,8 @@
     "distrito": "CHILLANES",
     "circuito": "CHILLANES",
     "subcircuito": "CHILLANES 1",
-    "id": "UNIDAD-EDUCATIVA-CHILL?NES-Y-HOSPITAL-B?SICO-EDUARDO-MONTENEGRO-Z5-B-C-C",
-    "nombre_punto": "UNIDAD EDUCATIVA CHILL?NES Y HOSPITAL B?SICO EDUARDO MONTENEGRO"
+    "id": "UNIDAD-EDUCATIVA-CHILLÁNES-Y-HOSPITAL-BÁSICO-EDUARDO-MONTENEGRO-Z5-B-C-C",
+    "nombre_punto": "UNIDAD EDUCATIVA CHILLÁNES Y HOSPITAL BÁSICO EDUARDO MONTENEGRO"
   },
   {
     "zona": "ZONA 3",
@@ -14729,8 +14729,8 @@
     "distrito": "LATACUNGA",
     "circuito": "TERMINAL TERRESTRE",
     "subcircuito": "TERMINAL TERRESTRE 1",
-    "id": "LOCAL-PELUQUER?A-SUCRE-Z3-C-L-T",
-    "nombre_punto": "LOCAL PELUQUER?A SUCRE"
+    "id": "LOCAL-PELUQUERÍA-SUCRE-Z3-C-L-T",
+    "nombre_punto": "LOCAL PELUQUERÍA SUCRE"
   },
   {
     "zona": "ZONA 3",
@@ -14747,8 +14747,8 @@
     "distrito": "MENDEZ",
     "circuito": "LIMON",
     "subcircuito": "LIMON 1",
-    "id": "TERMINAL-TERRESTRE-LIM?N-Z6-M-M-L",
-    "nombre_punto": "Terminal Terrestre Lim?n"
+    "id": "TERMINAL-TERRESTRE-LIMÓN-Z6-M-M-L",
+    "nombre_punto": "Terminal Terrestre Limón"
   },
   {
     "zona": "ZONA 4",
@@ -14801,8 +14801,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA NORTE",
     "subcircuito": "LA MANA NORTE 1",
-    "id": "ASADERO-MAR?A.-JOS?-Z3-C-L-L",
-    "nombre_punto": "Asadero Mar?a. Jos?"
+    "id": "ASADERO-MARÍA.-JOSÉ-Z3-C-L-L",
+    "nombre_punto": "Asadero María. José"
   },
   {
     "zona": "ZONA 4",
@@ -14855,8 +14855,8 @@
     "distrito": "MENDEZ",
     "circuito": "LIMON",
     "subcircuito": "LIMON 1",
-    "id": "CANCHAS-TERMINAL-TERRESTRE-LIM?N-Z6-M-M-L",
-    "nombre_punto": "Canchas Terminal Terrestre Lim?n"
+    "id": "CANCHAS-TERMINAL-TERRESTRE-LIMÓN-Z6-M-M-L",
+    "nombre_punto": "Canchas Terminal Terrestre Limón"
   },
   {
     "zona": "ZONA 6",
@@ -14864,8 +14864,8 @@
     "distrito": "MENDEZ",
     "circuito": "LIMON",
     "subcircuito": "LIMON 1",
-    "id": "PARQUE-CENTRAL-LIM?N-PLAZA-Z6-M-M-L",
-    "nombre_punto": "Parque Central Lim?n Plaza"
+    "id": "PARQUE-CENTRAL-LIMÓN-PLAZA-Z6-M-M-L",
+    "nombre_punto": "Parque Central Limón Plaza"
   },
   {
     "zona": "ZONA 2",
@@ -14891,8 +14891,8 @@
     "distrito": "SANTO DOMINGO OESTE",
     "circuito": "JUAN EULOGIO",
     "subcircuito": "JUAN EULOGIO 3",
-    "id": "CAFETER?A-JUAN-VALDEZ-Z4-S-S-J",
-    "nombre_punto": "CAFETER?A JUAN VALDEZ"
+    "id": "CAFETERÍA-JUAN-VALDEZ-Z4-S-S-J",
+    "nombre_punto": "CAFETERÍA JUAN VALDEZ"
   },
   {
     "zona": "ZONA 3",
@@ -14936,8 +14936,8 @@
     "distrito": "VENTANAS",
     "circuito": "ZAPOTAL NUEVO",
     "subcircuito": "ZAPOTAL NUEVO 1",
-    "id": "FERRETER?A-OLDA-Z5-L-V-Z",
-    "nombre_punto": "Ferreter?a Olda"
+    "id": "FERRETERÍA-OLDA-Z5-L-V-Z",
+    "nombre_punto": "Ferretería Olda"
   },
   {
     "zona": "ZONA 3",
@@ -14969,7 +14969,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "SANGOLQUI",
     "subcircuito": "SANGOLQUI 2",
     "id": "LOCAL-DE-ROPA-DENISSE-Z2-P-R-S",
@@ -14981,13 +14981,13 @@
     "distrito": "VENTANAS",
     "circuito": "ZAPOTAL NUEVO",
     "subcircuito": "ZAPOTAL NUEVO 1",
-    "id": "INSUMOS-AGR?COLAS-SU-AGRO-Z5-L-V-Z",
-    "nombre_punto": "Insumos Agr?colas Su-Agro"
+    "id": "INSUMOS-AGRÍCOLAS-SU-AGRO-Z5-L-V-Z",
+    "nombre_punto": "Insumos Agrícolas Su-Agro"
   },
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "SANGOLQUI",
     "subcircuito": "SANGOLQUI 2",
     "id": "VIVERES-PAOLITO-Z2-P-R-S",
@@ -14999,8 +14999,8 @@
     "distrito": "AMBATO SUR",
     "circuito": "NUEVA AMBATO",
     "subcircuito": "NUEVA AMBATO 2",
-    "id": "UNIVERSIDAD-T?CNICA-DE-AMBATO-Z3-T-A-N",
-    "nombre_punto": "Universidad T?cnica de Ambato"
+    "id": "UNIVERSIDAD-TÉCNICA-DE-AMBATO-Z3-T-A-N",
+    "nombre_punto": "Universidad Técnica de Ambato"
   },
   {
     "zona": "ZONA 3",
@@ -15017,8 +15017,8 @@
     "distrito": "LATACUNGA",
     "circuito": "BETHLEMITAS",
     "subcircuito": "BETHLEMITAS 1",
-    "id": "FERRETER?A-UNIDAD-NACIONAL-Z3-C-L-B",
-    "nombre_punto": "Ferreter?a Unidad Nacional"
+    "id": "FERRETERÍA-UNIDAD-NACIONAL-Z3-C-L-B",
+    "nombre_punto": "Ferretería Unidad Nacional"
   },
   {
     "zona": "ZONA 3",
@@ -15242,8 +15242,8 @@
     "distrito": "PATATE",
     "circuito": "PELILEO SUR",
     "subcircuito": "PELILEO SUR 1",
-    "id": "REDONDEL-DE-LA-HUAMBALE?A-Z3-T-P-P",
-    "nombre_punto": "REDONDEL DE LA HUAMBALE?A"
+    "id": "REDONDEL-DE-LA-HUAMBALEÑA-Z3-T-P-P",
+    "nombre_punto": "REDONDEL DE LA HUAMBALEÑA"
   },
   {
     "zona": "ZONA 5",
@@ -15260,8 +15260,8 @@
     "distrito": "PASTAZA",
     "circuito": "PUYO SUR",
     "subcircuito": "PUYO SUR 1",
-    "id": "CENTRO-DE-SALUD-LOS-?NGELES-Z3-P-P-P",
-    "nombre_punto": "CENTRO DE SALUD LOS ?NGELES"
+    "id": "CENTRO-DE-SALUD-LOS-ÁNGELES-Z3-P-P-P",
+    "nombre_punto": "CENTRO DE SALUD LOS ÁNGELES"
   },
   {
     "zona": "ZONA 4",
@@ -15287,8 +15287,8 @@
     "distrito": "EL TRIUNFO BUCAY",
     "circuito": "BUCAY",
     "subcircuito": "BUCAY 1",
-    "id": "COMISARIATO-PA?ORA-Z5-G-E-B",
-    "nombre_punto": "COMISARIATO PA?ORA"
+    "id": "COMISARIATO-PAÑORA-Z5-G-E-B",
+    "nombre_punto": "COMISARIATO PAÑORA"
   },
   {
     "zona": "ZONA 5",
@@ -15296,8 +15296,8 @@
     "distrito": "EL TRIUNFO BUCAY",
     "circuito": "BUCAY",
     "subcircuito": "BUCAY 1",
-    "id": "RESTAURANTE-PA?ORA-Z5-G-E-B",
-    "nombre_punto": "RESTAURANTE PA?ORA"
+    "id": "RESTAURANTE-PAÑORA-Z5-G-E-B",
+    "nombre_punto": "RESTAURANTE PAÑORA"
   },
   {
     "zona": "ZONA 1",
@@ -15350,8 +15350,8 @@
     "distrito": "SAN MIGUEL",
     "circuito": "SAN PABLO",
     "subcircuito": "SAN PABLO 1",
-    "id": "IGLESIA-SAN-PABLO-AP?STOL-Z5-B-S-S",
-    "nombre_punto": "IGLESIA SAN PABLO AP?STOL"
+    "id": "IGLESIA-SAN-PABLO-APÓSTOL-Z5-B-S-S",
+    "nombre_punto": "IGLESIA SAN PABLO APÓSTOL"
   },
   {
     "zona": "ZONA 1",
@@ -15413,8 +15413,8 @@
     "distrito": "ELOY ALFARO - ESM",
     "circuito": "BORBON",
     "subcircuito": "BORBON 1",
-    "id": "DO?A-LUSMI-Z1-E-E-B",
-    "nombre_punto": "DO?A LUSMI"
+    "id": "DOÑA-LUSMI-Z1-E-E-B",
+    "nombre_punto": "DOÑA LUSMI"
   },
   {
     "zona": "ZONA 3",
@@ -15445,7 +15445,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "AZOGUES",
     "circuito": "AZOGUES NORTE",
     "subcircuito": "AZOGUES NORTE 2",
@@ -15485,8 +15485,8 @@
     "distrito": "HUAQUILLAS",
     "circuito": "UNION LOJANA",
     "subcircuito": "",
-    "id": "ESCUELA-DE-F?TBOL-16-DE-JULIO-Z7-E-H-U",
-    "nombre_punto": "ESCUELA DE F?TBOL 16 DE JULIO"
+    "id": "ESCUELA-DE-FÚTBOL-16-DE-JULIO-Z7-E-H-U",
+    "nombre_punto": "ESCUELA DE FÚTBOL 16 DE JULIO"
   },
   {
     "zona": "ZONA 1",
@@ -15512,8 +15512,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA NORTE",
     "subcircuito": "LA MANA NORTE 1",
-    "id": "DISTRIBUIDORA-DE-L?CTEOS-Z3-C-L-L",
-    "nombre_punto": "Distribuidora de l?cteos"
+    "id": "DISTRIBUIDORA-DE-LÁCTEOS-Z3-C-L-L",
+    "nombre_punto": "Distribuidora de lácteos"
   },
   {
     "zona": "ZONA 3",
@@ -15539,8 +15539,8 @@
     "distrito": "CUENCA SUR",
     "circuito": "EL BATAN",
     "subcircuito": "EL BATAN 1",
-    "id": "PASTELER?A-MARCELITO-Z6-A-C-E",
-    "nombre_punto": "Pasteler?a Marcelito"
+    "id": "PASTELERÍA-MARCELITO-Z6-A-C-E",
+    "nombre_punto": "Pastelería Marcelito"
   },
   {
     "zona": "ZONA 3",
@@ -15575,8 +15575,8 @@
     "distrito": "PATATE",
     "circuito": "PATATE",
     "subcircuito": "PATATE 1",
-    "id": "PARQUE-SIM?N-BOLIVAR-&-COOPERATIVA-OSCUS-Z3-T-P-P",
-    "nombre_punto": "Parque Sim?n bolivar & Cooperativa oscus"
+    "id": "PARQUE-SIMÓN-BOLIVAR-&-COOPERATIVA-OSCUS-Z3-T-P-P",
+    "nombre_punto": "Parque Simón bolivar & Cooperativa oscus"
   },
   {
     "zona": "ZONA 6",
@@ -15644,7 +15644,7 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "SAN ROQUE",
     "subcircuito": "SAN ROQUE 2",
     "id": "SAN-ROQUE-Z7-E-P-S",
@@ -15656,8 +15656,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA NORTE",
     "subcircuito": "LA MANA NORTE 2",
-    "id": "CYBER-FUSI?N-Z3-C-L-L",
-    "nombre_punto": "Cyber fusi?n"
+    "id": "CYBER-FUSIÓN-Z3-C-L-L",
+    "nombre_punto": "Cyber fusión"
   },
   {
     "zona": "ZONA 5",
@@ -15665,8 +15665,8 @@
     "distrito": "QUEVEDO",
     "circuito": "MOCACHE",
     "subcircuito": "",
-    "id": "JEFATURA-POL?TICA-DE-CANT?N-MOCACHE-Z5-L-Q-M",
-    "nombre_punto": "Jefatura Pol?tica de Cant?n Mocache"
+    "id": "JEFATURA-POLÍTICA-DE-CANTÓN-MOCACHE-Z5-L-Q-M",
+    "nombre_punto": "Jefatura Política de Cantón Mocache"
   },
   {
     "zona": "ZONA 3",
@@ -15683,13 +15683,13 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA NORTE",
     "subcircuito": "LA MANA NORTE 2",
-    "id": "PICADITA-DEL-PORTON-DE-JES?S-Z3-C-L-L",
-    "nombre_punto": "Picadita del porton de Jes?s"
+    "id": "PICADITA-DEL-PORTON-DE-JESÚS-Z3-C-L-L",
+    "nombre_punto": "Picadita del porton de Jesús"
   },
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "SAN ROQUE",
     "subcircuito": "SAN ROQUE 2",
     "id": "FARMACIA-ECONOMICA-Z7-E-P-S",
@@ -15698,7 +15698,7 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "SAN ROQUE",
     "subcircuito": "SAN ROQUE 2",
     "id": "ELECTROCOMERCIAL-R&R-Z7-E-P-S",
@@ -15707,7 +15707,7 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "SAN ROQUE",
     "subcircuito": "SAN ROQUE 2",
     "id": "CYBER@NADRE-Z7-E-P-S",
@@ -15725,7 +15725,7 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "SAN ROQUE",
     "subcircuito": "SAN ROQUE 2",
     "id": "FARMACIA-SANA-SANA-Z7-E-P-S",
@@ -15743,7 +15743,7 @@
   {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
-    "distrito": "PI?AS",
+    "distrito": "PIÑAS",
     "circuito": "SAN ROQUE",
     "subcircuito": "SAN ROQUE 2",
     "id": "FARMACIA-MIA-Z7-E-P-S",
@@ -15816,8 +15816,8 @@
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "QUEVEDO",
-    "circuito": "DIVINO NI?O",
-    "subcircuito": "DIVINO NI?O 2",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
     "id": "AUTO-SERVICIO-LITARDO-Z5-L-Q-D",
     "nombre_punto": "Auto Servicio Litardo"
   },
@@ -15926,8 +15926,8 @@
     "distrito": "QUEVEDO",
     "circuito": "CONTROL",
     "subcircuito": "CONTROL 2",
-    "id": "DIRECCI?N-DE-GESTI?N-DE-DESARROLLO-SOCIAL-Z5-L-Q-C",
-    "nombre_punto": "DIRECCI?N DE GESTI?N DE DESARROLLO SOCIAL"
+    "id": "DIRECCIÓN-DE-GESTIÓN-DE-DESARROLLO-SOCIAL-Z5-L-Q-C",
+    "nombre_punto": "DIRECCIÓN DE GESTIÓN DE DESARROLLO SOCIAL"
   },
   {
     "zona": "ZONA 5",
@@ -15962,8 +15962,8 @@
     "distrito": "QUEVEDO",
     "circuito": "LA MERCED",
     "subcircuito": "LA MERCED 1",
-    "id": "FARMACIA-ECON?MICA-Z5-L-Q-L",
-    "nombre_punto": "FARMACIA ECON?MICA"
+    "id": "FARMACIA-ECONÓMICA-Z5-L-Q-L",
+    "nombre_punto": "FARMACIA ECONÓMICA"
   },
   {
     "zona": "ZONA 5",
@@ -15980,8 +15980,8 @@
     "distrito": "CUENCA SUR",
     "circuito": "NARANCAY",
     "subcircuito": "NARANCAY 1",
-    "id": "PIROTECNIA-DIVINO-NI?O-Z6-A-C-N",
-    "nombre_punto": "PIROTECNIA DIVINO NI?O"
+    "id": "PIROTECNIA-DIVINO-NIÑO-Z6-A-C-N",
+    "nombre_punto": "PIROTECNIA DIVINO NIÑO"
   },
   {
     "zona": "ZONA 1",
@@ -16007,8 +16007,8 @@
     "distrito": "CUENCA SUR",
     "circuito": "MOLLETURO",
     "subcircuito": "MOLLETURO 1",
-    "id": "RESTAURANTE-LAS-PE?AS-Z6-A-C-M",
-    "nombre_punto": "RESTAURANTE LAS PE?AS"
+    "id": "RESTAURANTE-LAS-PEÑAS-Z6-A-C-M",
+    "nombre_punto": "RESTAURANTE LAS PEÑAS"
   },
   {
     "zona": "ZONA 6",
@@ -16034,8 +16034,8 @@
     "distrito": "PEDERNALES",
     "circuito": "10 DE agosto",
     "subcircuito": "2001-08-10T05:00:00.000Z",
-    "id": "TENENCIA-POL?TICA-DIEZ-DE-AGOSTO-Z4-M-P-1",
-    "nombre_punto": "Tenencia Pol?tica Diez de Agosto"
+    "id": "TENENCIA-POLÍTICA-DIEZ-DE-AGOSTO-Z4-M-P-1",
+    "nombre_punto": "Tenencia Política Diez de Agosto"
   },
   {
     "zona": "ZONA 4",
@@ -16052,8 +16052,8 @@
     "distrito": "LA MANA",
     "circuito": "LA MANA NORTE",
     "subcircuito": "LA MANA NORTE 1",
-    "id": "BAZAR-Y-PAPELER?A-Z3-C-L-L",
-    "nombre_punto": "Bazar y papeler?a"
+    "id": "BAZAR-Y-PAPELERÍA-Z3-C-L-L",
+    "nombre_punto": "Bazar y papelería"
   },
   {
     "zona": "ZONA 1",
@@ -16061,8 +16061,8 @@
     "distrito": "ELOY ALFARO - ESM",
     "circuito": "SELVA ALEGRE",
     "subcircuito": "SELVA ALEGRE 2",
-    "id": "FERRETER?A-MORALES-Z1-E-E-S",
-    "nombre_punto": "Ferreter?a Morales"
+    "id": "FERRETERÍA-MORALES-Z1-E-E-S",
+    "nombre_punto": "Ferretería Morales"
   },
   {
     "zona": "ZONA 3",
@@ -16115,8 +16115,8 @@
     "distrito": "DANSANTE",
     "circuito": "SAQUISILI",
     "subcircuito": "SAQUISILI 2",
-    "id": "CASA-DE-2-PISOS-COLOR-VERDE-V?A-LA-CALZADA-Z3-C-D-S",
-    "nombre_punto": "Casa de 2 pisos color verde v?a la calzada"
+    "id": "CASA-DE-2-PISOS-COLOR-VERDE-VÍA-LA-CALZADA-Z3-C-D-S",
+    "nombre_punto": "Casa de 2 pisos color verde vía la calzada"
   },
   {
     "zona": "ZONA 1",
@@ -16239,10 +16239,10 @@
     "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
     "distrito": "CENTRO SUR",
-    "circuito": "LOGRO?O",
-    "subcircuito": "LOGRO?O 1",
-    "id": "PARQUE-SERAFIN-VALLEJO-LOGRO?O-Z6-M-C-L",
-    "nombre_punto": "PARQUE SERAFIN VALLEJO LOGRO?O"
+    "circuito": "LOGROÑO",
+    "subcircuito": "LOGROÑO 1",
+    "id": "PARQUE-SERAFIN-VALLEJO-LOGROÑO-Z6-M-C-L",
+    "nombre_punto": "PARQUE SERAFIN VALLEJO LOGROÑO"
   },
   {
     "zona": "ZONA 5",
@@ -16313,8 +16313,8 @@
     "distrito": "PICHINCHA",
     "circuito": "SAN SEBASTIAN",
     "subcircuito": "SAN SEBASTIAN 1",
-    "id": "NAYIMAR-HELADER?A-Z4-M-P-S",
-    "nombre_punto": "NAYIMAR HELADER?A"
+    "id": "NAYIMAR-HELADERÍA-Z4-M-P-S",
+    "nombre_punto": "NAYIMAR HELADERÍA"
   },
   {
     "zona": "ZONA 5",
@@ -16376,8 +16376,8 @@
     "distrito": "PICHINCHA",
     "circuito": "SAN SEBASTIAN",
     "subcircuito": "SAN SEBASTIAN 1",
-    "id": "PANADER?A-Y-PASTELER?A-STESFANY-Z4-M-P-S",
-    "nombre_punto": "PANADER?A Y PASTELER?A STESFANY"
+    "id": "PANADERÍA-Y-PASTELERÍA-STESFANY-Z4-M-P-S",
+    "nombre_punto": "PANADERÍA Y PASTELERÍA STESFANY"
   },
   {
     "zona": "ZONA 4",
@@ -16394,8 +16394,8 @@
     "distrito": "DANSANTE",
     "circuito": "SAQUISILI",
     "subcircuito": "SAQUISILI 2",
-    "id": "CASA-COLOR-CELESTE-SRA.-MARIA-MARTINEZ-SECTOR-UNI?N-NARVAEZ-Z3-C-D-S",
-    "nombre_punto": "Casa color celeste Sra. Maria Martinez sector Uni?n Narvaez"
+    "id": "CASA-COLOR-CELESTE-SRA.-MARIA-MARTINEZ-SECTOR-UNIÓN-NARVAEZ-Z3-C-D-S",
+    "nombre_punto": "Casa color celeste Sra. Maria Martinez sector Unión Narvaez"
   },
   {
     "zona": "ZONA 4",
@@ -16430,8 +16430,8 @@
     "distrito": "LATACUNGA",
     "circuito": "LASSO",
     "subcircuito": "LASSO 1",
-    "id": "BAZAR-Y-PAPELER?A-TU-BANQUITO-DIGITAL-Z3-C-L-L",
-    "nombre_punto": "BAZAR Y PAPELER?A TU BANQUITO DIGITAL"
+    "id": "BAZAR-Y-PAPELERÍA-TU-BANQUITO-DIGITAL-Z3-C-L-L",
+    "nombre_punto": "BAZAR Y PAPELERÍA TU BANQUITO DIGITAL"
   },
   {
     "zona": "ZONA 3",
@@ -16493,8 +16493,8 @@
     "distrito": "LATACUNGA",
     "circuito": "LASSO",
     "subcircuito": "LASSO 1",
-    "id": "ABARROTES-V?RGEN-DEL-CISNE-Z3-C-L-L",
-    "nombre_punto": "ABARROTES V?RGEN DEL CISNE"
+    "id": "ABARROTES-VÍRGEN-DEL-CISNE-Z3-C-L-L",
+    "nombre_punto": "ABARROTES VÍRGEN DEL CISNE"
   },
   {
     "zona": "ZONA 1",
@@ -16538,8 +16538,8 @@
     "distrito": "ELOY ALFARO - ESM",
     "circuito": "BORBON",
     "subcircuito": "BORBON 1",
-    "id": "PA?ALERA-JOSEPH-Z1-E-E-B",
-    "nombre_punto": "PA?ALERA JOSEPH"
+    "id": "PAÑALERA-JOSEPH-Z1-E-E-B",
+    "nombre_punto": "PAÑALERA JOSEPH"
   },
   {
     "zona": "ZONA 1",
@@ -16547,8 +16547,8 @@
     "distrito": "ELOY ALFARO - ESM",
     "circuito": "BORBON",
     "subcircuito": "BORBON 1",
-    "id": "FARMACIAS-ECON?MICAS-Z1-E-E-B",
-    "nombre_punto": "FARMACIAS ECON?MICAS"
+    "id": "FARMACIAS-ECONÓMICAS-Z1-E-E-B",
+    "nombre_punto": "FARMACIAS ECONÓMICAS"
   },
   {
     "zona": "ZONA 4",
@@ -16572,8 +16572,8 @@
     "zona": "ZONA 6",
     "subzona": "AZUAY",
     "distrito": "CUENCA SUR",
-    "circuito": "BA?OS",
-    "subcircuito": "BA?OS 1",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
     "id": "SPA-PIEDRA-DE-AGUA-Z6-A-C-B",
     "nombre_punto": "Spa Piedra de Agua"
   },
@@ -16581,8 +16581,8 @@
     "zona": "ZONA 6",
     "subzona": "AZUAY",
     "distrito": "CUENCA SUR",
-    "circuito": "BA?OS",
-    "subcircuito": "BA?OS 1",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
     "id": "FARMACIA-SUIZA-Z6-A-C-B",
     "nombre_punto": "Farmacia SUIZA"
   },
@@ -16619,8 +16619,8 @@
     "distrito": "SALCEDO",
     "circuito": "SALCEDO",
     "subcircuito": "SALCEDO 1",
-    "id": "PANADER?A-MASHCA-PAN-Z3-C-S-S",
-    "nombre_punto": "Panader?a Mashca Pan"
+    "id": "PANADERÍA-MASHCA-PAN-Z3-C-S-S",
+    "nombre_punto": "Panadería Mashca Pan"
   },
   {
     "zona": "ZONA 3",
@@ -16628,17 +16628,17 @@
     "distrito": "SALCEDO",
     "circuito": "SALCEDO",
     "subcircuito": "SALCEDO 1",
-    "id": "FERRER?A-CASA-DEL-PERNO-Z3-C-S-S",
-    "nombre_punto": "Ferrer?a casa del Perno"
+    "id": "FERRERÍA-CASA-DEL-PERNO-Z3-C-S-S",
+    "nombre_punto": "Ferrería casa del Perno"
   },
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
-    "distrito": "BA?OS",
-    "circuito": "BA?OS",
-    "subcircuito": "BA?OS 1",
-    "id": "MINIMARKET-CALIDAD-Y-ECONOM?A-Z3-T-B-B",
-    "nombre_punto": "Minimarket calidad y econom?a"
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "MINIMARKET-CALIDAD-Y-ECONOMÍA-Z3-T-B-B",
+    "nombre_punto": "Minimarket calidad y economía"
   },
   {
     "zona": "ZONA 3",
@@ -16700,8 +16700,8 @@
     "distrito": "CHONE",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 1",
-    "id": "LA-PI?ATA-Z4-M-C-C",
-    "nombre_punto": "La pi?ata"
+    "id": "LA-PIÑATA-Z4-M-C-C",
+    "nombre_punto": "La piñata"
   },
   {
     "zona": "ZONA 4",
@@ -16718,8 +16718,8 @@
     "distrito": "CHONE",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 1",
-    "id": "ESTACI?N-DE-SERVICIO-CHIMBORAZO-Z4-M-C-C",
-    "nombre_punto": "Estaci?n de servicio Chimborazo"
+    "id": "ESTACIÓN-DE-SERVICIO-CHIMBORAZO-Z4-M-C-C",
+    "nombre_punto": "Estación de servicio Chimborazo"
   },
   {
     "zona": "ZONA 5",
@@ -16754,8 +16754,8 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 4",
-    "id": "FLORISTER?A-LEITO-Z4-S-S-C",
-    "nombre_punto": "Florister?a Leito"
+    "id": "FLORISTERÍA-LEITO-Z4-S-S-C",
+    "nombre_punto": "Floristería Leito"
   },
   {
     "zona": "ZONA 4",
@@ -16799,8 +16799,8 @@
     "distrito": "SAN MIGUEL",
     "circuito": "SAN MIGUEL",
     "subcircuito": "SAN MIGUEL 1",
-    "id": "DOMICILIO-PUNTO-CR?TICO-Z5-B-S-S",
-    "nombre_punto": "Domicilio punto cr?tico"
+    "id": "DOMICILIO-PUNTO-CRÍTICO-Z5-B-S-S",
+    "nombre_punto": "Domicilio punto crítico"
   },
   {
     "zona": "ZONA 5",
@@ -16808,8 +16808,8 @@
     "distrito": "SAN MIGUEL",
     "circuito": "SAN MIGUEL",
     "subcircuito": "SAN MIGUEL 1",
-    "id": "MONUMENTO-DEL-ARC?NGEL-SAN-MIGUEL-Z5-B-S-S",
-    "nombre_punto": "Monumento del Arc?ngel San Miguel"
+    "id": "MONUMENTO-DEL-ARCÁNGEL-SAN-MIGUEL-Z5-B-S-S",
+    "nombre_punto": "Monumento del Arcángel San Miguel"
   },
   {
     "zona": "ZONA 5",
@@ -16853,8 +16853,8 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 1",
-    "id": "PLAZA-23-OR?GENES-Z4-S-S-C",
-    "nombre_punto": "PLAZA 23 OR?GENES"
+    "id": "PLAZA-23-ORÍGENES-Z4-S-S-C",
+    "nombre_punto": "PLAZA 23 ORÍGENES"
   },
   {
     "zona": "ZONA 3",
@@ -16898,8 +16898,8 @@
     "distrito": "SANTO DOMINGO OESTE",
     "circuito": "PUERTO LIMON",
     "subcircuito": "PUERTO LIMON 1",
-    "id": "FERRETER?A-TRES-HERMANOS-Z4-S-S-P",
-    "nombre_punto": "FERRETER?A TRES HERMANOS"
+    "id": "FERRETERÍA-TRES-HERMANOS-Z4-S-S-P",
+    "nombre_punto": "FERRETERÍA TRES HERMANOS"
   },
   {
     "zona": "ZONA 4",
@@ -16952,8 +16952,8 @@
     "distrito": "SAN MIGUEL",
     "circuito": "SAN MIGUEL",
     "subcircuito": "SAN MIGUEL 1",
-    "id": "CALLE-GUAYAS-REFERENCIA-LIBRER?A-DR-PARRA-FRENTE-A-TAXIS-CARRETERA-Z5-B-S-S",
-    "nombre_punto": "Calle Guayas referencia Librer?a Dr Parra frente a taxis Carretera"
+    "id": "CALLE-GUAYAS-REFERENCIA-LIBRERÍA-DR-PARRA-FRENTE-A-TAXIS-CARRETERA-Z5-B-S-S",
+    "nombre_punto": "Calle Guayas referencia Librería Dr Parra frente a taxis Carretera"
   },
   {
     "zona": "ZONA 7",
@@ -16970,8 +16970,8 @@
     "distrito": "PONCE ENRIQUEZ",
     "circuito": "CAMILO PONCE ENRIQUEZ",
     "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
-    "id": "FERRETER?A-DISENSA-Z6-A-P-C",
-    "nombre_punto": "FERRETER?A DISENSA"
+    "id": "FERRETERÍA-DISENSA-Z6-A-P-C",
+    "nombre_punto": "FERRETERÍA DISENSA"
   },
   {
     "zona": "ZONA 6",
@@ -16988,8 +16988,8 @@
     "distrito": "CATACOCHA",
     "circuito": "CATACOCHA",
     "subcircuito": "CATACOCHA 1",
-    "id": "HOSPITAL-B?SICO-CATACOCHA-Z7-L-C-C",
-    "nombre_punto": "Hospital B?sico Catacocha"
+    "id": "HOSPITAL-BÁSICO-CATACOCHA-Z7-L-C-C",
+    "nombre_punto": "Hospital Básico Catacocha"
   },
   {
     "zona": "ZONA 3",
@@ -17015,8 +17015,8 @@
     "distrito": "PASTAZA",
     "circuito": "PUYO NORTE",
     "subcircuito": "PUYO NORTE 2",
-    "id": "GASOLINERA-DEL-SINDICATO-DE-CH?FERES-DE-PASTAZA-Z3-P-P-P",
-    "nombre_punto": "GASOLINERA DEL SINDICATO DE CH?FERES DE PASTAZA"
+    "id": "GASOLINERA-DEL-SINDICATO-DE-CHÓFERES-DE-PASTAZA-Z3-P-P-P",
+    "nombre_punto": "GASOLINERA DEL SINDICATO DE CHÓFERES DE PASTAZA"
   },
   {
     "zona": "ZONA 5",
@@ -17132,8 +17132,8 @@
     "distrito": "DAULE",
     "circuito": "DAULE CENTRO",
     "subcircuito": "DAULE CENTRO 2",
-    "id": "UNIDAD-EDUCATIVA-DR.-JOS?-MARIA-CARBO-Z5-G-D-D",
-    "nombre_punto": "Unidad Educativa DR. Jos? Maria Carbo"
+    "id": "UNIDAD-EDUCATIVA-DR.-JOSÉ-MARIA-CARBO-Z5-G-D-D",
+    "nombre_punto": "Unidad Educativa DR. José Maria Carbo"
   },
   {
     "zona": "ZONA 5",
@@ -17150,8 +17150,8 @@
     "distrito": "ZAMORA",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 1",
-    "id": "PANADER?A-SANTA-ELENA-Z7-Z-Z-C",
-    "nombre_punto": "PANADER?A SANTA ELENA"
+    "id": "PANADERÍA-SANTA-ELENA-Z7-Z-Z-C",
+    "nombre_punto": "PANADERÍA SANTA ELENA"
   },
   {
     "zona": "ZONA 5",
@@ -17168,8 +17168,8 @@
     "distrito": "NOROCCIDENTE",
     "circuito": "LOS BANCOS",
     "subcircuito": "LOS BANCOS 2",
-    "id": "BAZAR-Y-PAPELER?A-P&P-Z2-P-N-L",
-    "nombre_punto": "BAZAR Y PAPELER?A P&P"
+    "id": "BAZAR-Y-PAPELERÍA-P&P-Z2-P-N-L",
+    "nombre_punto": "BAZAR Y PAPELERÍA P&P"
   },
   {
     "zona": "ZONA 5",
@@ -17195,8 +17195,8 @@
     "distrito": "PASTAZA",
     "circuito": "PUYO NORTE",
     "subcircuito": "PUYO NORTE 1",
-    "id": "GASOLINERA-LAS-AM?RICAS-Z3-P-P-P",
-    "nombre_punto": "GASOLINERA LAS AM?RICAS"
+    "id": "GASOLINERA-LAS-AMÉRICAS-Z3-P-P-P",
+    "nombre_punto": "GASOLINERA LAS AMÉRICAS"
   },
   {
     "zona": "ZONA 5",
@@ -17213,8 +17213,8 @@
     "distrito": "RIO VERDE",
     "circuito": "PALESTINA",
     "subcircuito": "PALESTINA 1",
-    "id": "BAZAR-Y-NOVEDADES-DO?A-TO?I-Z1-E-R-P",
-    "nombre_punto": "Bazar y novedades do?a To?i"
+    "id": "BAZAR-Y-NOVEDADES-DOÑA-TOÑI-Z1-E-R-P",
+    "nombre_punto": "Bazar y novedades doña Toñi"
   },
   {
     "zona": "ZONA 5",
@@ -17312,8 +17312,8 @@
     "distrito": "PUEBLOVIEJO",
     "circuito": "PUEBLO VIEJO",
     "subcircuito": "PUEBLO VIEJO 1",
-    "id": "FARMACIA-CRUZ-AZUL-CALLE-FERM?N-CH?VEZ-Y-E25-Z5-L-P-P",
-    "nombre_punto": "Farmacia Cruz azul calle Ferm?n Ch?vez y E25"
+    "id": "FARMACIA-CRUZ-AZUL-CALLE-FERMÍN-CHÁVEZ-Y-E25-Z5-L-P-P",
+    "nombre_punto": "Farmacia Cruz azul calle Fermín Chávez y E25"
   },
   {
     "zona": "ZONA 5",
@@ -17330,8 +17330,8 @@
     "distrito": "SAN MIGUEL",
     "circuito": "MAGDALENA",
     "subcircuito": "MAGDALENA 1",
-    "id": "PLAZA-CENTRAL-LA-ASUNCI?N-Z5-B-S-M",
-    "nombre_punto": "PLAZA CENTRAL LA ASUNCI?N"
+    "id": "PLAZA-CENTRAL-LA-ASUNCIÓN-Z5-B-S-M",
+    "nombre_punto": "PLAZA CENTRAL LA ASUNCIÓN"
   },
   {
     "zona": "ZONA 5",
@@ -17357,8 +17357,8 @@
     "distrito": "PUEBLOVIEJO",
     "circuito": "PIJULLO",
     "subcircuito": "PIJULLO 1",
-    "id": "CANCHA-SINT?TICA-SAN-JOSE-DE-PIJULLO-Z5-L-P-P",
-    "nombre_punto": "CANCHA SINT?TICA SAN JOSE DE PIJULLO"
+    "id": "CANCHA-SINTÉTICA-SAN-JOSE-DE-PIJULLO-Z5-L-P-P",
+    "nombre_punto": "CANCHA SINTÉTICA SAN JOSE DE PIJULLO"
   },
   {
     "zona": "ZONA 2",
@@ -17447,8 +17447,8 @@
     "distrito": "PUEBLOVIEJO",
     "circuito": "RICAURTE",
     "subcircuito": "RICAURTE 1",
-    "id": "COMERCIAL-EL-TI?E-Z5-L-P-R",
-    "nombre_punto": "COMERCIAL EL TI?E"
+    "id": "COMERCIAL-EL-TIÑE-Z5-L-P-R",
+    "nombre_punto": "COMERCIAL EL TIÑE"
   },
   {
     "zona": "ZONA 5",
@@ -17597,7 +17597,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "SANGOLQUI",
     "subcircuito": "SANGOLQUI 2",
     "id": "HOSPITAL-BASICO-DE-SANGOLQUI-Z2-P-R-S",
@@ -17699,8 +17699,8 @@
     "distrito": "QUININDE",
     "circuito": "MALIMPIA",
     "subcircuito": "MALIMPIA 1",
-    "id": "ASADERO-LAS-DELICIAS-DE-DO?A-YETTY-Z1-E-Q-M",
-    "nombre_punto": "Asadero Las Delicias de Do?a Yetty"
+    "id": "ASADERO-LAS-DELICIAS-DE-DOÑA-YETTY-Z1-E-Q-M",
+    "nombre_punto": "Asadero Las Delicias de Doña Yetty"
   },
   {
     "zona": "ZONA 7",
@@ -17888,8 +17888,8 @@
     "distrito": "TULCAN",
     "circuito": "KENNEDY",
     "subcircuito": "KENNEDY 1",
-    "id": "TERMINAL-TULC?N-Z1-C-T-K",
-    "nombre_punto": "TERMINAL TULC?N"
+    "id": "TERMINAL-TULCÁN-Z1-C-T-K",
+    "nombre_punto": "TERMINAL TULCÁN"
   },
   {
     "zona": "ZONA 7",
@@ -17906,8 +17906,8 @@
     "distrito": "PAUTE",
     "circuito": "PAUTE",
     "subcircuito": "PAUTE 2",
-    "id": "SUBCENTRO-DE-SALUD-SAN-CRIST?BAL-Z6-A-P-P",
-    "nombre_punto": "SUBCENTRO DE SALUD  SAN CRIST?BAL"
+    "id": "SUBCENTRO-DE-SALUD-SAN-CRISTÓBAL-Z6-A-P-P",
+    "nombre_punto": "SUBCENTRO DE SALUD  SAN CRISTÓBAL"
   },
   {
     "zona": "ZONA 1",
@@ -17987,8 +17987,8 @@
     "distrito": "TULCAN",
     "circuito": "EL MAESTRO",
     "subcircuito": "EL MAESTRO 1",
-    "id": "MERCADO-POPULAR-VISI?NFUND-Z1-C-T-E",
-    "nombre_punto": "MERCADO POPULAR VISI?NFUND"
+    "id": "MERCADO-POPULAR-VISIÓNFUND-Z1-C-T-E",
+    "nombre_punto": "MERCADO POPULAR VISIÓNFUND"
   },
   {
     "zona": "ZONA 3",
@@ -17996,8 +17996,8 @@
     "distrito": "PILLARO",
     "circuito": "SAN ANDRES",
     "subcircuito": "SAN ANDRES 2",
-    "id": "TESORO-PILLARE?O-Z3-T-P-S",
-    "nombre_punto": "Tesoro Pillare?o"
+    "id": "TESORO-PILLAREÑO-Z3-T-P-S",
+    "nombre_punto": "Tesoro Pillareño"
   },
   {
     "zona": "ZONA 7",
@@ -18059,8 +18059,8 @@
     "distrito": "TULCAN",
     "circuito": "COMUNEROS",
     "subcircuito": "COMUNEROS 1",
-    "id": "CABINAS-WESTER-UNI?N-Z1-C-T-C",
-    "nombre_punto": "Cabinas-Wester Uni?n"
+    "id": "CABINAS-WESTER-UNIÓN-Z1-C-T-C",
+    "nombre_punto": "Cabinas-Wester Unión"
   },
   {
     "zona": "ZONA 7",
@@ -18084,8 +18084,8 @@
     "zona": "ZONA 6",
     "subzona": "AZUAY",
     "distrito": "NABON",
-    "circuito": "O?A",
-    "subcircuito": "O?A 1",
+    "circuito": "OÑA",
+    "subcircuito": "OÑA 1",
     "id": "GASOLINERA-SAN-FELIPE-Z6-A-N-O",
     "nombre_punto": "Gasolinera San Felipe"
   },
@@ -18095,8 +18095,8 @@
     "distrito": "BABAHOYO",
     "circuito": "UNIVERSIDAD",
     "subcircuito": "UNIVERSIDAD 2",
-    "id": "LICORER?A-ANTHONY-EXPRES-Z5-L-B-U",
-    "nombre_punto": "Licorer?a Anthony expres"
+    "id": "LICORERÍA-ANTHONY-EXPRES-Z5-L-B-U",
+    "nombre_punto": "Licorería Anthony expres"
   },
   {
     "zona": "ZONA 5",
@@ -18104,8 +18104,8 @@
     "distrito": "BABAHOYO",
     "circuito": "UNIVERSIDAD",
     "subcircuito": "UNIVERSIDAD 2",
-    "id": "FERRETER?A-AMARILLA-Z5-L-B-U",
-    "nombre_punto": "FERRETER?A AMARILLA"
+    "id": "FERRETERÍA-AMARILLA-Z5-L-B-U",
+    "nombre_punto": "FERRETERÍA AMARILLA"
   },
   {
     "zona": "ZONA 5",
@@ -18118,7 +18118,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL NORTE",
     "subcircuito": "TRONCAL NORTE 1",
@@ -18136,7 +18136,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL NORTE",
     "subcircuito": "TRONCAL NORTE 1",
@@ -18145,7 +18145,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "AZOGUES",
     "circuito": "AZOGUES SUR",
     "subcircuito": "AZOGUES SUR 1",
@@ -18154,7 +18154,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "AZOGUES",
     "circuito": "AZOGUES SUR",
     "subcircuito": "AZOGUES SUR 1",
@@ -18163,7 +18163,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "AZOGUES",
     "circuito": "AZOGUES SUR",
     "subcircuito": "AZOGUES SUR 1",
@@ -18172,7 +18172,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "AZOGUES",
     "circuito": "AZOGUES SUR",
     "subcircuito": "AZOGUES SUR 1",
@@ -18374,8 +18374,8 @@
     "distrito": "SUCUMBIOS",
     "circuito": "LUMBAQUI",
     "subcircuito": "LUMBAQUI 1",
-    "id": "TECNOLOG?A-Y-BAZAR-MIA-Z1-S-S-L",
-    "nombre_punto": "TECNOLOG?A Y BAZAR MIA"
+    "id": "TECNOLOGÍA-Y-BAZAR-MIA-Z1-S-S-L",
+    "nombre_punto": "TECNOLOGÍA Y BAZAR MIA"
   },
   {
     "zona": "ZONA 6",
@@ -18392,8 +18392,8 @@
     "distrito": "SUCUMBIOS",
     "circuito": "LUMBAQUI",
     "subcircuito": "LUMBAQUI 1",
-    "id": "TERCENA-FRIGOR?FICO-JHADIEL-Z1-S-S-L",
-    "nombre_punto": "TERCENA FRIGOR?FICO JHADIEL"
+    "id": "TERCENA-FRIGORÍFICO-JHADIEL-Z1-S-S-L",
+    "nombre_punto": "TERCENA FRIGORÍFICO JHADIEL"
   },
   {
     "zona": "ZONA 1",
@@ -18451,7 +18451,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL NORTE",
     "subcircuito": "TRONCAL NORTE 1",
@@ -18460,7 +18460,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL NORTE",
     "subcircuito": "TRONCAL NORTE 1",
@@ -18469,7 +18469,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL CENTRO",
     "subcircuito": "TRONCAL CENTRO 1",
@@ -18478,25 +18478,25 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL CENTRO",
     "subcircuito": "TRONCAL CENTRO 1",
-    "id": "CREDITOS-ANDRE?TA-Z6-C-L-T",
-    "nombre_punto": "CREDITOS ANDRE?TA"
+    "id": "CREDITOS-ANDREÍTA-Z6-C-L-T",
+    "nombre_punto": "CREDITOS ANDREÍTA"
   },
   {
     "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
     "distrito": "CENTRO SUR",
-    "circuito": "LOGRO?O",
-    "subcircuito": "LOGRO?O 1",
-    "id": "GASOLINERA-ENERGY-GAS-LOGRO?O-Z6-M-C-L",
-    "nombre_punto": "GASOLINERA ENERGY GAS LOGRO?O"
+    "circuito": "LOGROÑO",
+    "subcircuito": "LOGROÑO 1",
+    "id": "GASOLINERA-ENERGY-GAS-LOGROÑO-Z6-M-C-L",
+    "nombre_punto": "GASOLINERA ENERGY GAS LOGROÑO"
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL CENTRO",
     "subcircuito": "TRONCAL CENTRO 2",
@@ -18505,19 +18505,19 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
-    "distrito": "CA?AR",
-    "circuito": "CA?AR",
-    "subcircuito": "CA?AR 1",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
     "id": "MIRADOR-SAN-ANTONIO-Z6-C-C-C",
     "nombre_punto": "MIRADOR SAN ANTONIO"
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
-    "distrito": "CA?AR",
-    "circuito": "CA?AR",
-    "subcircuito": "CA?AR 1",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
     "id": "CANCHAS-BARRIO-QUILLIGANES-Z6-C-C-C",
     "nombre_punto": "CANCHAS BARRIO QUILLIGANES"
   },
@@ -18527,8 +18527,8 @@
     "distrito": "AGUARICO",
     "circuito": "NUEVO ROCAFUERTE",
     "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "MALEC?N-NUEVO-ROCAFUERTE-Z2-O-A-N",
-    "nombre_punto": "Malec?n Nuevo  Rocafuerte"
+    "id": "MALECÓN-NUEVO-ROCAFUERTE-Z2-O-A-N",
+    "nombre_punto": "Malecón Nuevo  Rocafuerte"
   },
   {
     "zona": "ZONA 3",
@@ -18608,8 +18608,8 @@
     "distrito": "QUERO",
     "circuito": "TISALEO",
     "subcircuito": "TISALEO 1",
-    "id": "TISALEO-SAN-MART?N-MERCADO-CENTRAL-Z3-T-Q-T",
-    "nombre_punto": "Tisaleo San Mart?n Mercado Central"
+    "id": "TISALEO-SAN-MARTÍN-MERCADO-CENTRAL-Z3-T-Q-T",
+    "nombre_punto": "Tisaleo San Martín Mercado Central"
   },
   {
     "zona": "ZONA 2",
@@ -18617,8 +18617,8 @@
     "distrito": "AGUARICO",
     "circuito": "AGUARICO",
     "subcircuito": "AGUARICO 1",
-    "id": "PLAZA-C?VICA-DE-TIPUTINI-Z2-O-A-A",
-    "nombre_punto": "Plaza C?vica de Tiputini"
+    "id": "PLAZA-CÍVICA-DE-TIPUTINI-Z2-O-A-A",
+    "nombre_punto": "Plaza Cívica de Tiputini"
   },
   {
     "zona": "ZONA 4",
@@ -18653,8 +18653,8 @@
     "distrito": "QUERO",
     "circuito": "CEVALLOS",
     "subcircuito": "CEVALLOS 1",
-    "id": "INGRESO-AL-CANT?N-CEVALLOS-FERRETER?A-FERRIMAXI-Z3-T-Q-C",
-    "nombre_punto": "Ingreso al Cant?n Cevallos Ferreter?a Ferrimaxi"
+    "id": "INGRESO-AL-CANTÓN-CEVALLOS-FERRETERÍA-FERRIMAXI-Z3-T-Q-C",
+    "nombre_punto": "Ingreso al Cantón Cevallos Ferretería Ferrimaxi"
   },
   {
     "zona": "ZONA 1",
@@ -18694,17 +18694,17 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
-    "distrito": "CA?AR",
-    "circuito": "CA?AR",
-    "subcircuito": "CA?AR 1",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
     "id": "PARQUE-GUANTUNG-MUSEO-ARQUEOLOGICO-Z6-C-C-C",
     "nombre_punto": "PARQUE GUANTUNG MUSEO ARQUEOLOGICO"
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
-    "distrito": "CA?AR",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
     "circuito": "INGAPIRCA",
     "subcircuito": "INGAPIRCA 1",
     "id": "MUSEO-INGAPIRCA-Z6-C-C-I",
@@ -18721,8 +18721,8 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
-    "distrito": "CA?AR",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
     "circuito": "EL TAMBO",
     "subcircuito": "EL TAMBO 1",
     "id": "PARQUE-CENTRAL-EL-TAMBO-Z6-C-C-E",
@@ -18770,8 +18770,8 @@
     "distrito": "EL CARMEN",
     "circuito": "EL CARMEN",
     "subcircuito": "EL CARMEN 2",
-    "id": "FISCAL?A-DEL-CANT?N-EL-CARMEN-Z4-M-E-E",
-    "nombre_punto": "FISCAL?A DEL CANT?N EL CARMEN"
+    "id": "FISCALÍA-DEL-CANTÓN-EL-CARMEN-Z4-M-E-E",
+    "nombre_punto": "FISCALÍA DEL CANTÓN EL CARMEN"
   },
   {
     "zona": "ZONA 1",
@@ -18779,15 +18779,15 @@
     "distrito": "SUCUMBIOS",
     "circuito": "CASCALES",
     "subcircuito": "CASCALES 1",
-    "id": "PAPELER?A-LA-TRONCAL-Z1-S-S-C",
-    "nombre_punto": "Papeler?a la troncal"
+    "id": "PAPELERÍA-LA-TRONCAL-Z1-S-S-C",
+    "nombre_punto": "Papelería la troncal"
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
-    "distrito": "CA?AR",
-    "circuito": "CA?AR",
-    "subcircuito": "CA?AR 1",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
     "id": "MERCADO-EL-VERGEL-Z6-C-C-C",
     "nombre_punto": "MERCADO EL VERGEL"
   },
@@ -18802,10 +18802,10 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
-    "distrito": "CA?AR",
-    "circuito": "CA?AR",
-    "subcircuito": "CA?AR 1",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
     "id": "PARROQUIA-HONORATO-VASQUEZ-Z6-C-C-C",
     "nombre_punto": "PARROQUIA HONORATO VASQUEZ"
   },
@@ -18842,8 +18842,8 @@
     "distrito": "SALCEDO",
     "circuito": "SALCEDO",
     "subcircuito": "SALCEDO 1",
-    "id": "FERRETER?A-SAN-MIGUEL-Z3-C-S-S",
-    "nombre_punto": "Ferreter?a San Miguel"
+    "id": "FERRETERÍA-SAN-MIGUEL-Z3-C-S-S",
+    "nombre_punto": "Ferretería San Miguel"
   },
   {
     "zona": "ZONA 3",
@@ -18869,8 +18869,8 @@
     "distrito": "PICHINCHA",
     "circuito": "PICHINCHA",
     "subcircuito": "PICHINCHA 1",
-    "id": "FISCAL?A-DISTRITO-PICHINCHA-Z4-M-P-P",
-    "nombre_punto": "Fiscal?a distrito Pichincha"
+    "id": "FISCALÍA-DISTRITO-PICHINCHA-Z4-M-P-P",
+    "nombre_punto": "Fiscalía distrito Pichincha"
   },
   {
     "zona": "ZONA 1",
@@ -18887,8 +18887,8 @@
     "distrito": "SIGCHOS",
     "circuito": "SIGCHOS",
     "subcircuito": "SIGCHOS 1",
-    "id": "HOSPITAL-B?SICO-SIGCHOS-Z3-C-S-S",
-    "nombre_punto": "HOSPITAL B?SICO SIGCHOS"
+    "id": "HOSPITAL-BÁSICO-SIGCHOS-Z3-C-S-S",
+    "nombre_punto": "HOSPITAL BÁSICO SIGCHOS"
   },
   {
     "zona": "ZONA 3",
@@ -18977,8 +18977,8 @@
     "distrito": "COLTA",
     "circuito": "CAJABAMBA",
     "subcircuito": "CAJABAMBA 1",
-    "id": "JUAN-BERNARDO-DE-LE?N-Y-CALLE-C4-Z3-C-C-C",
-    "nombre_punto": "JUAN BERNARDO DE LE?N Y CALLE C4"
+    "id": "JUAN-BERNARDO-DE-LEÓN-Y-CALLE-C4-Z3-C-C-C",
+    "nombre_punto": "JUAN BERNARDO DE LEÓN Y CALLE C4"
   },
   {
     "zona": "ZONA 3",
@@ -19004,8 +19004,8 @@
     "distrito": "RIOBAMBA",
     "circuito": "CAMILO PONCE",
     "subcircuito": "CAMILO PONCE 2",
-    "id": "SECTOR-LA-VASIJA-AV.-ALFONSO-CH?VEZ-Y-AV.-EDELVERTO-BONILLA-Z3-C-R-C",
-    "nombre_punto": "Sector La Vasija Av. Alfonso Ch?vez y Av. Edelverto Bonilla"
+    "id": "SECTOR-LA-VASIJA-AV.-ALFONSO-CHÁVEZ-Y-AV.-EDELVERTO-BONILLA-Z3-C-R-C",
+    "nombre_punto": "Sector La Vasija Av. Alfonso Chávez y Av. Edelverto Bonilla"
   },
   {
     "zona": "ZONA 3",
@@ -19058,8 +19058,8 @@
     "distrito": "MANTA",
     "circuito": "MIRAFLORES",
     "subcircuito": "MIRAFLORES 2",
-    "id": "FISCAL?A-FGE-Z4-M-M-M",
-    "nombre_punto": "FISCAL?A F.G.E. "
+    "id": "FISCALÍA-FGE-Z4-M-M-M",
+    "nombre_punto": "FISCALÍA F.G.E. "
   },
   {
     "zona": "ZONA 4",
@@ -19072,7 +19072,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL CENTRO",
     "subcircuito": "TRONCAL CENTRO 2",
@@ -19081,7 +19081,7 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CA?AR",
+    "subzona": "CAÑAR",
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL NORTE",
     "subcircuito": "TRONCAL NORTE 1",
@@ -19202,8 +19202,8 @@
     "distrito": "CHONE",
     "circuito": "FLAVIO ALFARO",
     "subcircuito": "FLAVIO ALFARO 1",
-    "id": "FISCAL?A-DE-FLAVIO-ALFARO-Z4-M-C-F",
-    "nombre_punto": "FISCAL?A DE FLAVIO ALFARO"
+    "id": "FISCALÍA-DE-FLAVIO-ALFARO-Z4-M-C-F",
+    "nombre_punto": "FISCALÍA DE FLAVIO ALFARO"
   },
   {
     "zona": "ZONA 4",
@@ -19319,8 +19319,8 @@
     "distrito": "ROCAFUERTE",
     "circuito": "ROCAFUERTE",
     "subcircuito": "ROCAFUERTE 2",
-    "id": "HOSPITAL-B?SICO-NATALIA-HUERTA-DE-NIEMES-Z4-M-R-R",
-    "nombre_punto": "HOSPITAL B?SICO NATALIA HUERTA DE NIEMES"
+    "id": "HOSPITAL-BÁSICO-NATALIA-HUERTA-DE-NIEMES-Z4-M-R-R",
+    "nombre_punto": "HOSPITAL BÁSICO NATALIA HUERTA DE NIEMES"
   },
   {
     "zona": "ZONA 4",
@@ -19373,8 +19373,8 @@
     "distrito": "YANTZAZA",
     "circuito": "TUNDAYME",
     "subcircuito": "TUNDAYME 1",
-    "id": "HOSTER?A-LA-GABARRA-Z7-Z-Y-T",
-    "nombre_punto": "Hoster?a la gabarra"
+    "id": "HOSTERÍA-LA-GABARRA-Z7-Z-Y-T",
+    "nombre_punto": "Hostería la gabarra"
   },
   {
     "zona": "ZONA 5",
@@ -19472,8 +19472,8 @@
     "distrito": "LIBERTAD SALINAS",
     "circuito": "LIBERTAD CENTRO",
     "subcircuito": "LIBERTAD CENTRO 3",
-    "id": "LOTER?A-NACIONAL-Z5-S-L-L",
-    "nombre_punto": "Loter?a nacional"
+    "id": "LOTERÍA-NACIONAL-Z5-S-L-L",
+    "nombre_punto": "Lotería nacional"
   },
   {
     "zona": "ZONA 1",
@@ -19508,8 +19508,8 @@
     "distrito": "LIBERTAD SALINAS",
     "circuito": "LIBERTAD CENTRO",
     "subcircuito": "LIBERTAD CENTRO 3",
-    "id": "EL-PARA?SO-DE-LOS-JUGOS-Z5-S-L-L",
-    "nombre_punto": "El para?so de los jugos"
+    "id": "EL-PARAÍSO-DE-LOS-JUGOS-Z5-S-L-L",
+    "nombre_punto": "El paraíso de los jugos"
   },
   {
     "zona": "ZONA 5",
@@ -19517,8 +19517,8 @@
     "distrito": "LIBERTAD SALINAS",
     "circuito": "LIBERTAD CENTRO",
     "subcircuito": "LIBERTAD CENTRO 3",
-    "id": "PAYJOY-CELULARES-A-CR?DITO-Z5-S-L-L",
-    "nombre_punto": "Payjoy Celulares a cr?dito"
+    "id": "PAYJOY-CELULARES-A-CRÉDITO-Z5-S-L-L",
+    "nombre_punto": "Payjoy Celulares a crédito"
   },
   {
     "zona": "ZONA 1",
@@ -19544,8 +19544,8 @@
     "distrito": "VEINTICUATRO DE MAYO",
     "circuito": "VEINTICUATRO DE MAYO",
     "subcircuito": "VEINTICUATRO DE MAYO",
-    "id": "FISCALIA-CANT?N-24-DE-MAYO-Z4-M-V-V",
-    "nombre_punto": "Fiscalia Cant?n 24 de Mayo"
+    "id": "FISCALIA-CANTÓN-24-DE-MAYO-Z4-M-V-V",
+    "nombre_punto": "Fiscalia Cantón 24 de Mayo"
   },
   {
     "zona": "ZONA 3",
@@ -19733,8 +19733,8 @@
     "distrito": "SANTA ROSA",
     "circuito": "SANTA ROSA OESTE",
     "subcircuito": "SANTA ROSA OESTE 1",
-    "id": "HOSPITAL-B?SICO-SANTA-TERESITA-Z7-E-S-S",
-    "nombre_punto": "Hospital B?sico Santa Teresita"
+    "id": "HOSPITAL-BÁSICO-SANTA-TERESITA-Z7-E-S-S",
+    "nombre_punto": "Hospital Básico Santa Teresita"
   },
   {
     "zona": "ZONA 3",
@@ -19769,8 +19769,8 @@
     "distrito": "CHONE",
     "circuito": "ELOY ALFARO",
     "subcircuito": "ELOY ALFARO 1",
-    "id": "COMERCIAL-ECON?MICO-ELOY-ALFARO-Z4-M-C-E",
-    "nombre_punto": "Comercial Econ?mico Eloy Alfaro"
+    "id": "COMERCIAL-ECONÓMICO-ELOY-ALFARO-Z4-M-C-E",
+    "nombre_punto": "Comercial Económico Eloy Alfaro"
   },
   {
     "zona": "ZONA 5",
@@ -19841,8 +19841,8 @@
     "distrito": "SANTA ELENA",
     "circuito": "SAN PABLO",
     "subcircuito": "SAN PABLO 1",
-    "id": "RESTAURANTE-GALE?N-PRINCESA-GINA-Z5-S-S-S",
-    "nombre_punto": "Restaurante Gale?n Princesa Gina"
+    "id": "RESTAURANTE-GALEÓN-PRINCESA-GINA-Z5-S-S-S",
+    "nombre_punto": "Restaurante Galeón Princesa Gina"
   },
   {
     "zona": "ZONA 5",
@@ -19940,8 +19940,8 @@
     "distrito": "RIOBAMBA",
     "circuito": "CAMILO PONCE",
     "subcircuito": "CAMILO PONCE 1",
-    "id": "MERCADO-LA-ESPERANZA-(PLAZA-DE-LOS-ANIMALES)-CALLE-LARREA-ENTRE-PL?CIDO-CAAMA?O-Y-PASAJE-SIN-NOMBRE-Z3-C-R-C",
-    "nombre_punto": "Mercado La Esperanza (Plaza de los animales) Calle Larrea entre Pl?cido Caama?o y Pasaje sin nombre"
+    "id": "MERCADO-LA-ESPERANZA-(PLAZA-DE-LOS-ANIMALES)-CALLE-LARREA-ENTRE-PLÁCIDO-CAAMAÑO-Y-PASAJE-SIN-NOMBRE-Z3-C-R-C",
+    "nombre_punto": "Mercado La Esperanza (Plaza de los animales) Calle Larrea entre Plácido Caamaño y Pasaje sin nombre"
   },
   {
     "zona": "ZONA 3",
@@ -19976,8 +19976,8 @@
     "distrito": "RIOBAMBA",
     "circuito": "CAMILO PONCE",
     "subcircuito": "CAMILO PONCE 1",
-    "id": "CALLE-VICENTE-RAM?N-ROCA-Y-BAQUERIZO-MORENO-(FRENTE-A-LAS-CANCHAS-CDLA.-GAL?PAGOS)-JUNTO-A-LA-PISTA-DE-YELO-Z3-C-R-C",
-    "nombre_punto": "Calle Vicente Ram?n Roca y Baquerizo Moreno (Frente a las canchas Cdla. Gal?pagos) junto a la Pista de Yelo"
+    "id": "CALLE-VICENTE-RAMÓN-ROCA-Y-BAQUERIZO-MORENO-(FRENTE-A-LAS-CANCHAS-CDLA.-GALÁPAGOS)-JUNTO-A-LA-PISTA-DE-YELO-Z3-C-R-C",
+    "nombre_punto": "Calle Vicente Ramón Roca y Baquerizo Moreno (Frente a las canchas Cdla. Galápagos) junto a la Pista de Yelo"
   },
   {
     "zona": "ZONA 3",
@@ -20057,8 +20057,8 @@
     "distrito": "RIOBAMBA",
     "circuito": "LA ESTACION",
     "subcircuito": "LA ESTACION 1",
-    "id": "PRIMERA-CONSTITUYENTE-Y-ESPA?A-Z3-C-R-L",
-    "nombre_punto": "Primera Constituyente y espa?a"
+    "id": "PRIMERA-CONSTITUYENTE-Y-ESPAÑA-Z3-C-R-L",
+    "nombre_punto": "Primera Constituyente y españa"
   },
   {
     "zona": "ZONA 3",
@@ -20093,8 +20093,8 @@
     "distrito": "RIOBAMBA",
     "circuito": "POLITECNICA",
     "subcircuito": "POLITECNICA 2",
-    "id": "MONSE?OR-LEONIDAS-PROA?O-Y-NAPO-Z3-C-R-P",
-    "nombre_punto": "Monse?or Leonidas Proa?o y Napo"
+    "id": "MONSEÑOR-LEONIDAS-PROAÑO-Y-NAPO-Z3-C-R-P",
+    "nombre_punto": "Monseñor Leonidas Proaño y Napo"
   },
   {
     "zona": "ZONA 3",
@@ -20120,13 +20120,13 @@
     "distrito": "RIOBAMBA",
     "circuito": "POLITECNICA",
     "subcircuito": "POLITECNICA 2",
-    "id": "CANONIM?-RAMOS-ALTURA-DEL-TERMINAL-INTERCANTONAL-Z3-C-R-P",
-    "nombre_punto": "Canonim? Ramos altura del Terminal Intercantonal"
+    "id": "CANONIMÓ-RAMOS-ALTURA-DEL-TERMINAL-INTERCANTONAL-Z3-C-R-P",
+    "nombre_punto": "Canonimó Ramos altura del Terminal Intercantonal"
   },
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "SANGOLQUI",
     "subcircuito": "SANGOLQUI 2",
     "id": "MUNDO-NET-Z2-P-R-S",
@@ -20162,7 +20162,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
-    "distrito": "RUMI?AHUI - MEJIA",
+    "distrito": "RUMIÑAHUI - MEJIA",
     "circuito": "SANGOLQUI",
     "subcircuito": "SANGOLQUI 2",
     "id": "BAZAR-TABATA-Z2-P-R-S",
@@ -20183,8 +20183,8 @@
     "distrito": "RIOBAMBA",
     "circuito": "CAMILO PONCE",
     "subcircuito": "CAMILO PONCE 2",
-    "id": "CALLE-C?RDOVA-Y-VALENCIA-(ESQUINA-FRENTE-A-LA-IGLESIA)-Z3-C-R-C",
-    "nombre_punto": "Calle C?rdova y Valencia (esquina frente a la iglesia)"
+    "id": "CALLE-CÓRDOVA-Y-VALENCIA-(ESQUINA-FRENTE-A-LA-IGLESIA)-Z3-C-R-C",
+    "nombre_punto": "Calle Córdova y Valencia (esquina frente a la iglesia)"
   },
   {
     "zona": "ZONA 3",
@@ -20210,8 +20210,8 @@
     "distrito": "GUARANDA",
     "circuito": "GUANUJO",
     "subcircuito": "GUANUJO 1",
-    "id": "V?VERES-SISITA,-V?A-A-LAS-COCHAS-FRENTE-AL-MERCADO-MAYORISTA-Z5-B-G-G",
-    "nombre_punto": "V?VERES SISITA, V?A A LAS COCHAS FRENTE AL MERCADO MAYORISTA"
+    "id": "VÍVERES-SISITA,-VÍA-A-LAS-COCHAS-FRENTE-AL-MERCADO-MAYORISTA-Z5-B-G-G",
+    "nombre_punto": "VÍVERES SISITA, VÍA A LAS COCHAS FRENTE AL MERCADO MAYORISTA"
   },
   {
     "zona": "ZONA 3",
@@ -20219,8 +20219,8 @@
     "distrito": "ALAUSI",
     "circuito": "ALAUSI",
     "subcircuito": "ALAUSI 1",
-    "id": "FARMACIA-CORAZ?N-DE-JES?S-Z3-C-A-A",
-    "nombre_punto": "FARMACIA CORAZ?N DE JES?S"
+    "id": "FARMACIA-CORAZÓN-DE-JESÚS-Z3-C-A-A",
+    "nombre_punto": "FARMACIA CORAZÓN DE JESÚS"
   },
   {
     "zona": "ZONA 4",
@@ -20237,7 +20237,7 @@
     "distrito": "PAUTE",
     "circuito": "GUACHAPALA",
     "subcircuito": "GUACHAPALA 1",
-    "id": "PARQUE-ACU?TICO-GUACHAPALA-Z6-A-P-G",
-    "nombre_punto": "PARQUE ACU?TICO GUACHAPALA"
+    "id": "PARQUE-ACUÁTICO-GUACHAPALA-Z6-A-P-G",
+    "nombre_punto": "PARQUE ACUÁTICO GUACHAPALA"
   }
 ]
