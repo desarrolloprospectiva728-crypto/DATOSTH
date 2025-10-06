@@ -20239,5 +20239,14 @@
     "subcircuito": "GUACHAPALA 1",
     "id": "PARQUE-ACUÁTICO-GUACHAPALA-Z6-A-P-G",
     "nombre_punto": "PARQUE ACUÁTICO GUACHAPALA"
+  },
+  {
+    "zona": "ALTA MAR",
+    "subzona": "ALTA MAR",
+    "distrito": "ALTA MAR",
+    "circuito": "ALTA MAR",
+    "subcircuito": "ALTA MAR",
+    "id": "EJEMPLO-ALTAMAR-A-A-A",
+    "nombre_punto": "EJEMPLO_2"
   }
 ]
