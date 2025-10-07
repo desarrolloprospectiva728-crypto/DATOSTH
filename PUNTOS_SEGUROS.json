@@ -20329,5 +20329,23 @@
     "subcircuito": "SAN JOSE DEL TAMBO 1",
     "id": "UNIDAD-EDUCATIVA-SAN-JOSE-Z5-B-C-S",
     "nombre_punto": "UNIDAD EDUCATIVA SAN JOSE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CONVENTO",
+    "subcircuito": "CONVENTO 1",
+    "id": "COMISARIATO-ECONOMICO-Z4-M-C-C",
+    "nombre_punto": "Comisariato Economico"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CONVENTO",
+    "subcircuito": "CONVENTO 1",
+    "id": "COMISARIATO-ECONOMICO-Z4-M-C-C",
+    "nombre_punto": "Comisariato Economico"
   }
 ]
