@@ -20383,5 +20383,14 @@
     "subcircuito": "SANTA ROSA 3",
     "id": "CABINAS-CLARO-GUCHYCELL-Z5-S-L-S",
     "nombre_punto": "Cabinas Claro Guchycell"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "TORATA",
+    "subcircuito": "TORATA 1",
+    "id": "UNIDAD-MEDICA-TORATA-DISPENSARIO-SEGURO-SOCIAL-CAMPESINO-Z7-E-S-T",
+    "nombre_punto": "Unidad Medica Torata Dispensario Seguro Social Campesino"
   }
 ]
