@@ -20374,5 +20374,14 @@
     "subcircuito": "SAN JOSE DEL TAMBO 1",
     "id": "CENTRO-DE-SALUD-LA-COLOMBIA-ALTA-Z5-B-C-S",
     "nombre_punto": "CENTRO DE SALUD LA COLOMBIA ALTA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 3",
+    "id": "CABINAS-CLARO-GUCHYCELL-Z5-S-L-S",
+    "nombre_punto": "Cabinas Claro Guchycell"
   }
 ]
