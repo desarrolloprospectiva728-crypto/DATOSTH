@@ -20266,5 +20266,41 @@
     "subcircuito": "CHUNCHI 1",
     "id": "CALLE-E-Y-ELOY-ALFARO-Z3-C-A-C",
     "nombre_punto": "Calle E y Eloy Alfaro"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "RIOBAMBA",
+    "circuito": "LA ESTACION",
+    "subcircuito": "LA ESTACION 1",
+    "id": "JOSÉ-DE-OROZCO-Z3-C-R-L",
+    "nombre_punto": "José de orozco"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
