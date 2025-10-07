@@ -20284,5 +20284,14 @@
     "subcircuito": "LA ESTACION 1",
     "id": "LUIS-CORDOVEZ-Z3-C-R-L",
     "nombre_punto": "Luis Cordovez"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "QUERO",
+    "circuito": "TISALEO",
+    "subcircuito": "TISALEO 1",
+    "id": "EJEMPLO-JM-Z3-T-Q-T",
+    "nombre_punto": "EJEMPLO JM"
   }
 ]
