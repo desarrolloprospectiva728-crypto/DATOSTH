@@ -20284,5 +20284,14 @@
     "subcircuito": "LA ESTACION 1",
     "id": "LUIS-CORDOVEZ-Z3-C-R-L",
     "nombre_punto": "Luis Cordovez"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SALINAS CENTRO",
+    "subcircuito": "SALINAS CENTRO 2",
+    "id": "FARMACIA-911-Z5-S-L-S",
+    "nombre_punto": "FARMACIA 911"
   }
 ]
