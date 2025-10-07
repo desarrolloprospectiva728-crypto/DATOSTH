@@ -20347,5 +20347,14 @@
     "subcircuito": "CONVENTO 1",
     "id": "COMISARIATO-ECONOMICO-Z4-M-C-C",
     "nombre_punto": "Comisariato Economico"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CONVENTO",
+    "subcircuito": "CONVENTO 1",
+    "id": "COMISARIATO-ECONOMICO-Z4-M-C-C",
+    "nombre_punto": "Comisariato Economico"
   }
 ]
