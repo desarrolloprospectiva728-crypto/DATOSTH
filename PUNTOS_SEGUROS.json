@@ -20392,5 +20392,14 @@
     "subcircuito": "TORATA 1",
     "id": "UNIDAD-MEDICA-TORATA-DISPENSARIO-SEGURO-SOCIAL-CAMPESINO-Z7-E-S-T",
     "nombre_punto": "Unidad Medica Torata Dispensario Seguro Social Campesino"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "ANCONCITO",
+    "subcircuito": "ANCONCITO 1",
+    "id": "PUERTO-PESQUERO-ANCONCITO-Z5-S-L-A",
+    "nombre_punto": "PUERTO PESQUERO ANCONCITO"
   }
 ]
