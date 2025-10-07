@@ -20320,5 +20320,14 @@
     "subcircuito": "FLAVIO ALFARO 1",
     "id": "RESTAURANTE-NEGRO-VICO-Z4-M-C-F",
     "nombre_punto": "Restaurante Negro Vico"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "CHILLANES",
+    "circuito": "SAN JOSE DEL TAMBO",
+    "subcircuito": "SAN JOSE DEL TAMBO 1",
+    "id": "UNIDAD-EDUCATIVA-SAN-JOSE-Z5-B-C-S",
+    "nombre_punto": "UNIDAD EDUCATIVA SAN JOSE"
   }
 ]
