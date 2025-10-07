@@ -20419,5 +20419,14 @@
     "subcircuito": "CONVENTO 1",
     "id": "RESTAURANTE-NEGRO-VICO-Z4-M-C-C",
     "nombre_punto": "Restaurante Negro Vico"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CONVENTO",
+    "subcircuito": "CONVENTO 1",
+    "id": "RESTAURANTE-NEGRO-VICO-Z4-M-C-C",
+    "nombre_punto": "Restaurante Negro Vico"
   }
 ]
