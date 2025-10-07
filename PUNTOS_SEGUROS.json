@@ -20311,5 +20311,14 @@
     "subcircuito": "SALINAS CENTRO 1",
     "id": "CEVICHERIA-DON-WACHO-Z5-S-L-S",
     "nombre_punto": "Cevicheria Don Wacho"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "FLAVIO ALFARO",
+    "subcircuito": "FLAVIO ALFARO 1",
+    "id": "RESTAURANTE-NEGRO-VICO-Z4-M-C-F",
+    "nombre_punto": "Restaurante Negro Vico"
   }
 ]
