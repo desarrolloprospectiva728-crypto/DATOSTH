@@ -20365,5 +20365,14 @@
     "subcircuito": "CONVENTO 1",
     "id": "COMISARIATO-ECONOMICO-Z4-M-C-C",
     "nombre_punto": "Comisariato Economico"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "CHILLANES",
+    "circuito": "SAN JOSE DEL TAMBO",
+    "subcircuito": "SAN JOSE DEL TAMBO 1",
+    "id": "CENTRO-DE-SALUD-LA-COLOMBIA-ALTA-Z5-B-C-S",
+    "nombre_punto": "CENTRO DE SALUD LA COLOMBIA ALTA"
   }
 ]
