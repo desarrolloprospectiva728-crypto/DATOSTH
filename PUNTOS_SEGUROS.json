@@ -20482,5 +20482,14 @@
     "subcircuito": "TORATA 2",
     "id": "CENTRO-DE-SALUD-SAN-ANTONIO-Z7-E-S-T",
     "nombre_punto": "Centro de salud San Antonio"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "ISINLIVI",
+    "subcircuito": "ISINLIVI 1",
+    "id": "CENTRO-DE-SALUD-ISINLIVI-Z3-C-S-I",
+    "nombre_punto": "CENTRO DE SALUD ISINLIVI"
   }
 ]
