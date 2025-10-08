@@ -20473,5 +20473,14 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "SUBCENTRO-NUCARAGUA-Z5-L-V-V",
     "nombre_punto": "SUBCENTRO NUCARAGUA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "TORATA",
+    "subcircuito": "TORATA 2",
+    "id": "CENTRO-DE-SALUD-SAN-ANTONIO-Z7-E-S-T",
+    "nombre_punto": "Centro de salud San Antonio"
   }
 ]
