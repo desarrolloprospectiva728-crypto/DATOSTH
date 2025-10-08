@@ -20527,5 +20527,14 @@
     "subcircuito": "CELICA 1",
     "id": "PETRO-ECUADOR-Z7-L-S-C",
     "nombre_punto": "PETRO ECUADOR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SABANILLA",
+    "circuito": "CELICA",
+    "subcircuito": "CELICA 1",
+    "id": "PETROECUADOR-Z7-L-S-C",
+    "nombre_punto": "PETROECUADOR"
   }
 ]
