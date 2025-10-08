@@ -20392,5 +20392,14 @@
     "subcircuito": "SANTA ROSA ESTE 2",
     "id": "CENTRO-DE-SALUD-TIPO-A-JUMÓN-Z7-E-S-S",
     "nombre_punto": "Centro de Salud Tipo A Jumón"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 1",
+    "id": "CDI-LUNITA-Z4-M-P-P",
+    "nombre_punto": "CDI LUNITA"
   }
 ]
