@@ -20498,16 +20498,16 @@
     "distrito": "VINCES",
     "circuito": "VINCES CENTRO",
     "subcircuito": "VINCES CENTRO 1",
-    "id": "CURZ-AZUL-NICARAGUA-Z5-L-V-V",
-    "nombre_punto": "Curz azul Nicaragua"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "VINCES CENTRO",
-    "subcircuito": "VINCES CENTRO 1",
     "id": "CRUZ-AZUL-NICARAGUA-Z5-L-V-V",
     "nombre_punto": "CRUZ AZUL NICARAGUA"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
