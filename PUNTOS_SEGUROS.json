@@ -20428,5 +20428,14 @@
     "subcircuito": "BELLA MARIA 1",
     "id": "PUESTO-DE-SALUD-VALLE-HERMOSO-Z7-E-S-B",
     "nombre_punto": "PUESTO DE SALUD VALLE HERMOSO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES NORTE",
+    "subcircuito": "VINCES NORTE 1",
+    "id": "COMERCIAL-BURGOS-Z5-L-V-V",
+    "nombre_punto": "COMERCIAL BURGOS"
   }
 ]
