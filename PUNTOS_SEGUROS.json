@@ -20563,5 +20563,23 @@
     "subcircuito": "MORASPUNGO 1",
     "id": "SUBCENTRO-DE-SALUD-MORASPUNGO-Z3-C-P-M",
     "nombre_punto": "SUBCENTRO DE SALUD MORASPUNGO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "MORASPUNGO",
+    "subcircuito": "MORASPUNGO 1",
+    "id": "SUBCENTRO-DE-SALUD-MORASPUNGO-Z3-C-P-M",
+    "nombre_punto": "SUBCENTRO DE SALUD MORASPUNGO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "MORASPUNGO",
+    "subcircuito": "MORASPUNGO 1",
+    "id": "SUBCENTRO-DE-SALUD-MORASPUNGO-Z3-C-P-M",
+    "nombre_punto": "SUBCENTRO DE SALUD MORASPUNGO"
   }
 ]
