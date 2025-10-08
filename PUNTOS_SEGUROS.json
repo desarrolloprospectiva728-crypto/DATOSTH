@@ -20383,5 +20383,14 @@
     "subcircuito": "CONVENTO 1",
     "id": "RESTAURANTE-NEGRO-VICO-Z4-M-C-C",
     "nombre_punto": "Restaurante Negro Vico"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 2",
+    "id": "CENTRO-DE-SALUD-TIPO-A-JUMÓN-Z7-E-S-S",
+    "nombre_punto": "Centro de Salud Tipo A Jumón"
   }
 ]
