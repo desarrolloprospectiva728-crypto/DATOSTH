@@ -20500,5 +20500,14 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "CRUZ-AZUL-NICARAGUA-Z5-L-V-V",
     "nombre_punto": "CRUZ AZUL NICARAGUA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "ISINLIVI",
+    "subcircuito": "ISINLIVI 1",
+    "id": "GAD-PARROQUIAL-ISINLIVI-Z3-C-S-I",
+    "nombre_punto": "GAD PARROQUIAL ISINLIVI"
   }
 ]
