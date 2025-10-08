@@ -20437,5 +20437,14 @@
     "subcircuito": "VINCES NORTE 1",
     "id": "COMERCIAL-BURGOS-Z5-L-V-V",
     "nombre_punto": "COMERCIAL BURGOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "YAGUACHI NORTE",
+    "subcircuito": "YAGUACHI NORTE 1",
+    "id": "AGRIPAC-3-POSTE-Z5-G-Y-Y",
+    "nombre_punto": "AGRIPAC 3 POSTE"
   }
 ]
