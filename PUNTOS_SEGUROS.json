@@ -20455,5 +20455,14 @@
     "subcircuito": "PALANDACOCHA 2",
     "id": "ECO-TENA-FARMACIA-ECONÓMICA-Z2-N-T-P",
     "nombre_punto": "ECO TENA FARMACIA ECONÓMICA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "YAGUACHI NORTE",
+    "subcircuito": "YAGUACHI NORTE 1",
+    "id": "CERVECERÍA-NACIONAL-Z5-G-Y-Y",
+    "nombre_punto": "CERVECERÍA NACIONAL"
   }
 ]
