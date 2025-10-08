@@ -20419,5 +20419,14 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "COMERCIAL-LLORENTY-Z5-L-V-V",
     "nombre_punto": "Comercial Llorenty"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "BELLA MARIA",
+    "subcircuito": "BELLA MARIA 1",
+    "id": "PUESTO-DE-SALUD-VALLE-HERMOSO-Z7-E-S-B",
+    "nombre_punto": "PUESTO DE SALUD VALLE HERMOSO"
   }
 ]
