@@ -20464,5 +20464,14 @@
     "subcircuito": "YAGUACHI NORTE 1",
     "id": "CERVECERÍA-NACIONAL-Z5-G-Y-Y",
     "nombre_punto": "CERVECERÍA NACIONAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "SUBCENTRO-NUCARAGUA-Z5-L-V-V",
+    "nombre_punto": "SUBCENTRO NUCARAGUA"
   }
 ]
