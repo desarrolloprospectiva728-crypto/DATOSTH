@@ -20401,5 +20401,14 @@
     "subcircuito": "PUEBLO NUEVO 1",
     "id": "CDI-LUNITA-Z4-M-P-P",
     "nombre_punto": "CDI LUNITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "YAGUACHI SUR",
+    "subcircuito": "YAGUACHI SUR 1",
+    "id": "NO-LIMIIT-SERVICE-S.-A-Z5-G-Y-Y",
+    "nombre_punto": "NO LIMIIT SERVICE S. A"
   }
 ]
