@@ -20410,5 +20410,14 @@
     "subcircuito": "YAGUACHI SUR 1",
     "id": "NO-LIMIIT-SERVICE-S.-A-Z5-G-Y-Y",
     "nombre_punto": "NO LIMIIT SERVICE S. A"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "COMERCIAL-LLORENTY-Z5-L-V-V",
+    "nombre_punto": "Comercial Llorenty"
   }
 ]
