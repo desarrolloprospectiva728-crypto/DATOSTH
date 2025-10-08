@@ -20545,5 +20545,14 @@
     "subcircuito": "AMALUZA 1",
     "id": "UNIDAD-DE-TURISMO-Z7-L-E-A",
     "nombre_punto": "Unidad de Turismo"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "AMALUZA",
+    "subcircuito": "AMALUZA 1",
+    "id": "UNIDAD-EDUCATIVA-MONSEÑOR-LUIS-ALFONSO-CRESPO-CHIRIBOGA-Z7-L-E-A",
+    "nombre_punto": "UNIDAD EDUCATIVA MONSEÑOR LUIS ALFONSO CRESPO CHIRIBOGA"
   }
 ]
