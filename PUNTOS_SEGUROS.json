@@ -20509,5 +20509,14 @@
     "subcircuito": "ISINLIVI 1",
     "id": "GAD-PARROQUIAL-ISINLIVI-Z3-C-S-I",
     "nombre_punto": "GAD PARROQUIAL ISINLIVI"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SABANILLA",
+    "circuito": "PINDAL",
+    "subcircuito": "PINDAL 1",
+    "id": "GASOLINERA-PETROECUADOR-Z7-L-S-P",
+    "nombre_punto": "GASOLINERA PETROECUADOR"
   }
 ]
