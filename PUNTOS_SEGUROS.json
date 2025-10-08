@@ -20599,5 +20599,14 @@
     "subcircuito": "MISAHUALLI 2",
     "id": "ELADERIA-PUERTO-NAPO-Z2-N-T-M",
     "nombre_punto": "Eladeria Puerto Napo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "MUNDO-SABORES-Z2-N-T-M",
+    "nombre_punto": "MUNDO SABORES"
   }
 ]
