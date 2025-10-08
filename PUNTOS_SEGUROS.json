@@ -20446,5 +20446,14 @@
     "subcircuito": "YAGUACHI NORTE 1",
     "id": "AGRIPAC-3-POSTE-Z5-G-Y-Y",
     "nombre_punto": "AGRIPAC 3 POSTE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "ECO-TENA-FARMACIA-ECONÓMICA-Z2-N-T-P",
+    "nombre_punto": "ECO TENA FARMACIA ECONÓMICA"
   }
 ]
