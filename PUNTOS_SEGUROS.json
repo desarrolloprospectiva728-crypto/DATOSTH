@@ -21166,5 +21166,14 @@
     "subcircuito": "LA MERCED 1",
     "id": "MINI-MARKET-SAN-CRIS-Z5-L-Q-L",
     "nombre_punto": "Mini market San Cris"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "ESQUINA-DE-ALEX-ASADERO-Z4-M-V-V",
+    "nombre_punto": "Esquina de Alex Asadero"
   }
 ]
