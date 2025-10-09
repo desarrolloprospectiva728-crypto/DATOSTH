@@ -21751,5 +21751,14 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "ESCUELA-DE-EDUCACIÓN-DR.-FRANCISCO-MARTÍNEZ-AGUIRRE-Z5-L-V-A",
     "nombre_punto": "Escuela de educación Dr. FRANCISCO MARTÍNEZ AGUIRRE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "CONTROL",
+    "subcircuito": "CONTROL 1",
+    "id": "GASOLINERA-FONFAY-Z5-L-Q-C",
+    "nombre_punto": "GASOLINERA FONFAY"
   }
 ]
