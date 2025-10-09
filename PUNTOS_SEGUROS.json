@@ -21841,5 +21841,14 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "TIENDA-DON-CAICEDO-Z5-L-B-U",
     "nombre_punto": "TIENDA DON CAICEDO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "COMERCIAL-EL-MANABA-Z5-L-V-B",
+    "nombre_punto": "COMERCIAL EL MANABA"
   }
 ]
