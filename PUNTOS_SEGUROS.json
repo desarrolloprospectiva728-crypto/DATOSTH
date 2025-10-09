@@ -21661,5 +21661,14 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "SANA-SANA-Z5-L-V-A",
     "nombre_punto": "SANA SANA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 1",
+    "id": "COMISARIATO-EL-MINI-Z5-L-B-B",
+    "nombre_punto": "COMISARIATO EL MINI"
   }
 ]
