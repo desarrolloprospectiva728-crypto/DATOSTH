@@ -19485,15 +19485,6 @@
     "nombre_punto": "UNIDAD EDUCATIVA JUAN JOSE FLORES"
   },
   {
-    "zona": "ZONA 5",
-    "subzona": "SANTA ELENA",
-    "distrito": "LIBERTAD SALINAS",
-    "circuito": "LIBERTAD CENTRO",
-    "subcircuito": "LIBERTAD CENTRO 3",
-    "id": "PAYJOY-CELULARES-A-CRÉDITO-Z5-S-L-L",
-    "nombre_punto": "Payjoy Celulares a crédito"
-  },
-  {
     "zona": "ZONA 1",
     "subzona": "CARCHI",
     "distrito": "TULCAN",
@@ -19870,15 +19861,6 @@
     "subcircuito": "PALANQUITA 1",
     "id": "DULCERIA-JUANITO-Z4-M-C-P",
     "nombre_punto": "Dulceria Juanito"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "SANTA ELENA",
-    "distrito": "LIBERTAD SALINAS",
-    "circuito": "LIBERTAD CENTRO",
-    "subcircuito": "LIBERTAD CENTRO 3",
-    "id": "FIRST-CLASS-CELULARES-Z5-S-L-L",
-    "nombre_punto": "First Class Celulares"
   },
   {
     "zona": "ZONA 3",
@@ -21850,5 +21832,23 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "ALMACEN-TORITO-Z5-L-Q-S",
     "nombre_punto": "Almacen Torito"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
