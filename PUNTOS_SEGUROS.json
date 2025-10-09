@@ -21202,5 +21202,23 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "1204903064-Z5-L-V-V",
     "nombre_punto": 1204903064
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "DISTRIBUIDORA-DE-ARROZ-BONILLA-Z5-L-B-B",
+    "nombre_punto": "DISTRIBUIDORA DE ARROZ BONILLA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "INTELCOMEX-Z5-L-B-V",
+    "nombre_punto": "INTELCOMEX"
   }
 ]
