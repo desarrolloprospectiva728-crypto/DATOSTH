@@ -22066,5 +22066,14 @@
     "subcircuito": "SABANA 1",
     "id": "BARBADUM-Z5-L-B-S",
     "nombre_punto": "BARBADUM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "PISTA-DE-PATINAJE-Z5-L-B-T",
+    "nombre_punto": "Pista de patinaje"
   }
 ]
