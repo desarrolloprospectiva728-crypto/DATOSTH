@@ -19449,15 +19449,6 @@
     "nombre_punto": "Clemer canuto"
   },
   {
-    "zona": "ZONA 5",
-    "subzona": "SANTA ELENA",
-    "distrito": "LIBERTAD SALINAS",
-    "circuito": "LIBERTAD CENTRO",
-    "subcircuito": "LIBERTAD CENTRO 3",
-    "id": "CHILANCELL-Z5-S-L-5",
-    "nombre_punto": "Chilancell"
-  },
-  {
     "zona": "ZONA 3",
     "subzona": "COTOPAXI",
     "distrito": "SIGCHOS",
@@ -19465,15 +19456,6 @@
     "subcircuito": "CHUGCHILLAN 1",
     "id": "GAD-PARROQUIAL-CHUGCHILAN-Z3-C-S-S",
     "nombre_punto": "GAD PARROQUIAL CHUGCHILAN"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "SANTA ELENA",
-    "distrito": "LIBERTAD SALINAS",
-    "circuito": "LIBERTAD CENTRO",
-    "subcircuito": "LIBERTAD CENTRO 3",
-    "id": "LOTERÍA-NACIONAL-Z5-S-L-L",
-    "nombre_punto": "Lotería nacional"
   },
   {
     "zona": "ZONA 1",
@@ -21823,5 +21805,32 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "MEGA-REGALÓN-#2-Z5-L-V-A",
     "nombre_punto": "Mega Regalón #2"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "LICORERIA-ROMANOS-Z5-L-B-U",
+    "nombre_punto": "LICORERIA ROMANOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "PANADERÍA-ADONAY-Z5-L-B-E",
+    "nombre_punto": "Panadería ADONAY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "COMERCIAL-ALBERTO-LITARDO-Z5-L-Q-D",
+    "nombre_punto": "Comercial Alberto Litardo"
   }
 ]
