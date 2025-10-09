@@ -20896,5 +20896,14 @@
     "subcircuito": "CENTRO 1",
     "id": "MODA-Y-ESTILO-Z5-L-B-C",
     "nombre_punto": "Moda y Estilo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 2",
+    "id": "HOSPITAL-IESS-Z5-L-Q-G",
+    "nombre_punto": "HOSPITAL IESS"
   }
 ]
