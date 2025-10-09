@@ -21157,5 +21157,14 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "FARMACIA-INGLESA-DECIMA-3RA-Z5-L-Q-S",
     "nombre_punto": "Farmacia Inglesa decima 3ra"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "MINI-MARKET-SAN-CRIS-Z5-L-Q-L",
+    "nombre_punto": "Mini market San Cris"
   }
 ]
