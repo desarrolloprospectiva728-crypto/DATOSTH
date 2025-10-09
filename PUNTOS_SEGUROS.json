@@ -21643,5 +21643,23 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "MI-PANDITA-Z5-L-V-B",
     "nombre_punto": "MI PANDITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "1850330661-Z5-L-Q-D",
+    "nombre_punto": "Pan y pastel colombia expres"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "SANA-SANA-Z5-L-V-A",
+    "nombre_punto": "SANA SANA"
   }
 ]
