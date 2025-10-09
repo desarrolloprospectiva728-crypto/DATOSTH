@@ -21679,5 +21679,23 @@
     "subcircuito": "LA ESPERANZA 1",
     "id": "DESPENSA-GENESIS-/-BANCO-PICHINCHA-MI-VECINO-Z5-L-Q-L",
     "nombre_punto": "DESPENSA GENESIS / BANCO PICHINCHA MI VECINO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "EL-BOGATI-Z5-L-V-B",
+    "nombre_punto": "EL BOGATII"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BARREIRO",
+    "subcircuito": "BARREIRO 1",
+    "id": "ASADERO-LA-FAMILIA-Z5-L-B-B",
+    "nombre_punto": "Asadero la familia"
   }
 ]
