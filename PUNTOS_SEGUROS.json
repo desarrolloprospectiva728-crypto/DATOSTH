@@ -21940,5 +21940,14 @@
     "subcircuito": "BUENA FE ESTE 2",
     "id": "BOUTIQUE-LA-CANASTA-Z5-L-B-B",
     "nombre_punto": "Boutique La Canasta"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "RICOS-ALMUERZOS-Z5-L-B-U",
+    "nombre_punto": "RICOS ALMUERZOS"
   }
 ]
