@@ -21259,24 +21259,6 @@
   },
   {
     "zona": "ZONA 5",
-    "subzona": "SANTA ELENA",
-    "distrito": "SANTA ELENA",
-    "circuito": "MONTAÑITA",
-    "subcircuito": "MONTAÑITA 1",
-    "id": "MINI-MARKET-DON-FLAVIO-Z5-S-S-M",
-    "nombre_punto": "Mini market Don Flavio"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "SANTA ELENA",
-    "distrito": "SANTA ELENA",
-    "circuito": "MONTAÑITA",
-    "subcircuito": "MONTAÑITA 1",
-    "id": "MINI-MARKET-DON-FLAVIO-Z5-S-S-M",
-    "nombre_punto": "Mini market Don Flavio"
-  },
-  {
-    "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "BUENA FE",
     "circuito": "VALENCIA",
@@ -21373,5 +21355,32 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "SU-FAMARCIA-Z5-L-V-A",
     "nombre_punto": "SU FAMARCIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 1",
+    "id": "CENTRO-COMERCIAL-EL-TUTI-Z5-L-B-B",
+    "nombre_punto": "CENTRO COMERCIAL EL TUTI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "MONTAÑITA",
+    "subcircuito": "MONTAÑITA 1",
+    "id": "CARNISARIATO-PILATAXI-Z5-S-S-M",
+    "nombre_punto": "Carnisariato Pilataxi"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BARREIRO",
+    "subcircuito": "BARREIRO 1",
+    "id": "TIENDA-EL-BARBAS-Z5-L-B-B",
+    "nombre_punto": "Tienda El Barbas"
   }
 ]
