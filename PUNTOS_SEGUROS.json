@@ -22030,5 +22030,14 @@
     "subcircuito": "CENTRO 1",
     "id": "PANADERÍA-PAN-DE-LA-ABUELA-Z5-L-B-C",
     "nombre_punto": "Panadería Pan de la abuela"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "ALMACÉN-JAHER-Z5-L-B-B",
+    "nombre_punto": "Almacén Jaher"
   }
 ]
