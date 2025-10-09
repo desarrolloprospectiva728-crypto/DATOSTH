@@ -21832,5 +21832,14 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "ALMACEN-TORITO-Z5-L-Q-S",
     "nombre_punto": "Almacen Torito"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "TIENDA-DON-CAICEDO-Z5-L-B-U",
+    "nombre_punto": "TIENDA DON CAICEDO"
   }
 ]
