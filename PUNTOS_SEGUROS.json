@@ -20734,5 +20734,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "FRIGORIFICO-JIMAY-Z5-L-B-C",
     "nombre_punto": "Frigorifico Jimay"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BARREIRO",
+    "subcircuito": "BARREIRO 1",
+    "id": "LA-GATA-Z5-L-B-B",
+    "nombre_punto": "La Gata"
   }
 ]
