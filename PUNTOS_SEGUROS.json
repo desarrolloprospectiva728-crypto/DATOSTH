@@ -20626,5 +20626,14 @@
     "subcircuito": "ECHEANDIA 1",
     "id": "MALECON-BAJO-Z5-B-S-E",
     "nombre_punto": "MALECON BAJO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "YAGUACHI SUR",
+    "subcircuito": "YAGUACHI SUR 1",
+    "id": "FARMACIA-SANA-SANA-Z5-G-Y-Y",
+    "nombre_punto": "FARMACIA SANA SANA"
   }
 ]
