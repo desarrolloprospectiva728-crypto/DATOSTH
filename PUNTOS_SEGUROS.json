@@ -21490,5 +21490,14 @@
     "subcircuito": "LA ESPERANZA 1",
     "id": "WESTERN-UNION-LA-ESPERANZA-Z5-L-Q-L",
     "nombre_punto": "WESTERN UNION LA ESPERANZA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "CONTROL",
+    "subcircuito": "CONTROL 2",
+    "id": "FARMACIA-EL-DESCUENTO-Z5-L-Q-C",
+    "nombre_punto": "FARMACIA EL DESCUENTO"
   }
 ]
