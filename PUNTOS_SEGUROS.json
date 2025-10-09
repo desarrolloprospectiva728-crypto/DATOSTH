@@ -21670,5 +21670,14 @@
     "subcircuito": "BUENA FE OESTE 1",
     "id": "COMISARIATO-EL-MINI-Z5-L-B-B",
     "nombre_punto": "COMISARIATO EL MINI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA ESPERANZA",
+    "subcircuito": "LA ESPERANZA 1",
+    "id": "DESPENSA-GENESIS-/-BANCO-PICHINCHA-MI-VECINO-Z5-L-Q-L",
+    "nombre_punto": "DESPENSA GENESIS / BANCO PICHINCHA MI VECINO"
   }
 ]
