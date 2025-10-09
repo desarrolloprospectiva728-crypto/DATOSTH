@@ -20761,5 +20761,14 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "TIENDA-SILVA-PAC.-Z5-L-B-T",
     "nombre_punto": "Tienda Silva Pac."
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "PANADERIA-Y-PASTELERIA-NARCISA-DE-JESUS-Z5-L-B-C",
+    "nombre_punto": "PANADERIA Y PASTELERIA NARCISA DE  JESUS"
   }
 ]
