@@ -21355,5 +21355,23 @@
     "subcircuito": "BUENA FE OESTE 1",
     "id": "ASADERO-TODOS-VUELVEN-Z5-L-B-B",
     "nombre_punto": "ASADERO TODOS VUELVEN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "285-TUTI-QUEVEDO-Z5-L-Q-S",
+    "nombre_punto": "285 TUTI QUEVEDO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "SU-FAMARCIA-Z5-L-V-A",
+    "nombre_punto": "SU FAMARCIA"
   }
 ]
