@@ -22111,5 +22111,14 @@
     "subcircuito": "BABA 1",
     "id": "HELADERÍA-EL-PADRINO.-Z5-L-B-B",
     "nombre_punto": "Heladería el padrino."
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "DESPENSA-EMANUEL-Z5-L-B-E",
+    "nombre_punto": "DESPENSA EMANUEL"
   }
 ]
