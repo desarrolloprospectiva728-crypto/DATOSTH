@@ -20725,5 +20725,14 @@
     "subcircuito": "NUEVO SUCUMBIOS 1",
     "id": "ENVÍA-RAPIDÍSIMO-Z1-S-L-N",
     "nombre_punto": "Envía rapidísimo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "FRIGORIFICO-JIMAY-Z5-L-B-C",
+    "nombre_punto": "Frigorifico Jimay"
   }
 ]
