@@ -21832,5 +21832,14 @@
     "subcircuito": "EL SALTO 1",
     "id": "FARMACIA-COMUNITARIA-Z5-L-B-E",
     "nombre_punto": "FARMACIA COMUNITARIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "EL-MANGLAR-2-Z5-L-B-C",
+    "nombre_punto": "El Manglar 2"
   }
 ]
