@@ -21004,5 +21004,14 @@
     "subcircuito": "QUINCE DE MAYO 1",
     "id": "BANECUADOR,-CALLE:-7-DE-MAYO-Y-10-DE-AGOSTO-Z5-B-G-Q",
     "nombre_punto": "BANECUADOR, CALLE: 7 DE MAYO Y 10 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "QUEVEREDES-Z5-L-Q-S",
+    "nombre_punto": "QueveRedes"
   }
 ]
