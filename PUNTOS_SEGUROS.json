@@ -21499,5 +21499,23 @@
     "subcircuito": "CONTROL 2",
     "id": "FARMACIA-EL-DESCUENTO-Z5-L-Q-C",
     "nombre_punto": "FARMACIA EL DESCUENTO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "COSITAS-Y-VARIEDADES-Z5-L-B-C",
+    "nombre_punto": "Cositas y Variedades"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BARREIRO",
+    "subcircuito": "BARREIRO 1",
+    "id": "TIENDA-PASTELERÍA-Z5-L-B-B",
+    "nombre_punto": "Tienda Pastelería"
   }
 ]
