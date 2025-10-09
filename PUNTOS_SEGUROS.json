@@ -21580,5 +21580,23 @@
     "subcircuito": "CONTROL 2",
     "id": "BARBERÍA-EL-RUSO-Z5-L-Q-C",
     "nombre_punto": "BARBERÍA EL RUSO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "HOSPITAL-BÁSICO-IESS-DE-ANCÓN-Z5-S-S-A",
+    "nombre_punto": "Hospital Básico IESS de Ancón"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "SANA-SANA-Z5-L-V-V",
+    "nombre_punto": "SANA SANA"
   }
 ]
