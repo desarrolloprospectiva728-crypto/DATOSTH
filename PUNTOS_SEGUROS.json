@@ -20923,5 +20923,14 @@
     "subcircuito": "LA VALDRAMINA 1",
     "id": "MAXX-FERRETERÍA-Z5-L-Q-L",
     "nombre_punto": "Maxx Ferretería"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "MUNDO-LED-Z5-L-Q-L",
+    "nombre_punto": "Mundo Led"
   }
 ]
