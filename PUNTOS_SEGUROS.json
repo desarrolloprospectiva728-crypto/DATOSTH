@@ -21886,5 +21886,32 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "PINCANTERIA-HERMANOS-CALVACHE-Z5-L-B-T",
     "nombre_punto": "Pincanteria Hermanos Calvache"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "DISBARATA-3D-Z5-L-B-B",
+    "nombre_punto": "DISBARATA 3D"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 1",
+    "id": "DISBARATA-3D-Z5-L-B-B",
+    "nombre_punto": "DISBARATA 3D"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "PICANTERIA-HERMANOS-CALVACHE-Z5-L-B-C",
+    "nombre_punto": "Picanteria Hermanos Calvache"
   }
 ]
