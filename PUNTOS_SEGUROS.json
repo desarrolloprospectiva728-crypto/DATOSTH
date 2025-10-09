@@ -22057,5 +22057,14 @@
     "subcircuito": "EL SALTO 1",
     "id": "SUPERMARKET-SU-ECONOMÍA-Z5-L-B-E",
     "nombre_punto": "SUPERMARKET SU ECONOMÍA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SABANA",
+    "subcircuito": "SABANA 1",
+    "id": "BARBADUM-Z5-L-B-S",
+    "nombre_punto": "BARBADUM"
   }
 ]
