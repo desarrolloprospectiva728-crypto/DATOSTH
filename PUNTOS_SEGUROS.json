@@ -21319,5 +21319,14 @@
     "subcircuito": "CASCOL 1",
     "id": "MINIMARKET-CERCADO-Z4-M-P-C",
     "nombre_punto": "Minimarket cercado"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "DISPENSARIO-MÉDICO-DE-ANCÓN-Z5-S-S-A",
+    "nombre_punto": "Dispensario Médico de Ancón"
   }
 ]
