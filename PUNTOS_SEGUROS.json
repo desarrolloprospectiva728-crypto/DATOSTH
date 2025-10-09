@@ -21922,5 +21922,14 @@
     "subcircuito": "BARREIRO 1",
     "id": "TIENDA-SHADDAI-Z5-L-B-B",
     "nombre_punto": "Tienda shaddai"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "DON-PAPO-Z5-L-B-E",
+    "nombre_punto": "DON PAPO"
   }
 ]
