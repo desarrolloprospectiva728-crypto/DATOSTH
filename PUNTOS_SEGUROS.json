@@ -21517,5 +21517,14 @@
     "subcircuito": "BARREIRO 1",
     "id": "TIENDA-PASTELERÍA-Z5-L-B-B",
     "nombre_punto": "Tienda Pastelería"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "MINIMARKET-JUANITA-Z5-L-B-T",
+    "nombre_punto": "Minimarket Juanita"
   }
 ]
