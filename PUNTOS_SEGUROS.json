@@ -20968,5 +20968,14 @@
     "subcircuito": "LA VALDRAMINA 1",
     "id": "GASOLINERA-PETROLRIOS-Z5-L-Q-L",
     "nombre_punto": "Gasolinera Petrolrios"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "BANCO-PICHINCHA-Z5-L-Q-L",
+    "nombre_punto": "Banco Pichincha"
   }
 ]
