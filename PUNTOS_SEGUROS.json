@@ -22147,5 +22147,14 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "HERMANOS-NYN-Z5-L-B-T",
     "nombre_punto": "Hermanos NyN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "OLON",
+    "subcircuito": "OLON 1",
+    "id": "SUPER-MARKET-OLON-Z5-S-S-O",
+    "nombre_punto": "Super Market olon"
   }
 ]
