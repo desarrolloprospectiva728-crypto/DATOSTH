@@ -20851,5 +20851,14 @@
     "subcircuito": "SAN CARLOS 1",
     "id": "COMERCIAL-LAURITA-Z5-L-Q-S",
     "nombre_punto": "COMERCIAL LAURITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 1",
+    "id": "BANCO-BOLIVARIANO-Z5-L-Q-G",
+    "nombre_punto": "BANCO BOLIVARIANO"
   }
 ]
