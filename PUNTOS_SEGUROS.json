@@ -21868,5 +21868,23 @@
     "subcircuito": "GALO PLAZA 1",
     "id": "TIENDA-ALEXANDRA-Z5-L-Q-G",
     "nombre_punto": "TIENDA ALEXANDRA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "EL-SOL-SALE-PARA-TODOS-Z5-L-B-E",
+    "nombre_punto": "EL SOL SALE PARA TODOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "PINCANTERIA-HERMANOS-CALVACHE-Z5-L-B-T",
+    "nombre_punto": "Pincanteria Hermanos Calvache"
   }
 ]
