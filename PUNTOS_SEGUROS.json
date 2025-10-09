@@ -21301,5 +21301,14 @@
     "subcircuito": "SAN CARLOS 1",
     "id": "SUPER-TIENDA-SAN-CARLOS-Z5-L-Q-S",
     "nombre_punto": "SUPER TIENDA SAN CARLOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "MONTAÑITA",
+    "subcircuito": "MONTAÑITA 1",
+    "id": "GITANA-SWIMWEAR-Z5-S-S-M",
+    "nombre_punto": "Gitana swimwear"
   }
 ]
