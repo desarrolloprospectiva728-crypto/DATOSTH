@@ -21463,5 +21463,23 @@
     "subcircuito": "BUENA FE ESTE 1",
     "id": "BANCO-DEL-PICHINCHA-Z5-L-B-B",
     "nombre_punto": "BANCO DEL PICHINCHA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "COMERCIAL-VALDI-Z5-L-B-C",
+    "nombre_punto": "Comercial Valdi"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA NUEVA UNION",
+    "subcircuito": "LA NUEVA UNION 1",
+    "id": "FARMACIA-FARMAREDS-Z5-L-B-L",
+    "nombre_punto": "FARMACIA FARMAREDS"
   }
 ]
