@@ -20914,5 +20914,14 @@
     "subcircuito": "LA VALDRAMINA 1",
     "id": "RULIMANES-Y-PERNOS-LÍAN-CHU-Z5-L-Q-L",
     "nombre_punto": "Rulimanes y Pernos Lían Chu"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "MAXX-FERRETERÍA-Z5-L-Q-L",
+    "nombre_punto": "Maxx Ferretería"
   }
 ]
