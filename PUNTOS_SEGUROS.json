@@ -21328,5 +21328,14 @@
     "subcircuito": "ATAHUALPA 1",
     "id": "DISPENSARIO-MÉDICO-DE-ANCÓN-Z5-S-S-A",
     "nombre_punto": "Dispensario Médico de Ancón"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA NUEVA UNION",
+    "subcircuito": "LA NUEVA UNION 1",
+    "id": "TIENDAS-ASOCIADAS-TIA-Z5-L-B-L",
+    "nombre_punto": "TIENDAS ASOCIADAS TIA"
   }
 ]
