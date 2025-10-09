@@ -20617,5 +20617,14 @@
     "subcircuito": "PUEBLO NUEVO 2",
     "id": "COMERCIAL-VERGARA-Z4-M-P-P",
     "nombre_punto": "COMERCIAL VERGARA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "ECHEANDIA",
+    "subcircuito": "ECHEANDIA 1",
+    "id": "MALECON-BAJO-Z5-B-S-E",
+    "nombre_punto": "MALECON BAJO"
   }
 ]
