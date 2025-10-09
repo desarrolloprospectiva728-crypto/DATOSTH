@@ -21400,5 +21400,23 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "FARMACIA-ECONOMICA-Z5-L-B-U",
     "nombre_punto": "FARMACIA ECONOMICA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "FARMACIA-ECONOMICA-Z5-L-B-U",
+    "nombre_punto": "FARMACIA ECONOMICA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "HOTEL-AZUAY-Z5-L-V-A",
+    "nombre_punto": "Hotel Azuay"
   }
 ]
