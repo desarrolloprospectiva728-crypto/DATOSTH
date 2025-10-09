@@ -22021,5 +22021,14 @@
     "subcircuito": "CENTRO 1",
     "id": "PATO-JUNIOR-Z5-L-B-C",
     "nombre_punto": "Pato junior"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "PANADERÍA-PAN-DE-LA-ABUELA-Z5-L-B-C",
+    "nombre_punto": "Panadería Pan de la abuela"
   }
 ]
