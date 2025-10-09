@@ -21913,5 +21913,14 @@
     "subcircuito": "CENTRO 1",
     "id": "PICANTERIA-HERMANOS-CALVACHE-Z5-L-B-C",
     "nombre_punto": "Picanteria Hermanos Calvache"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BARREIRO",
+    "subcircuito": "BARREIRO 1",
+    "id": "TIENDA-SHADDAI-Z5-L-B-B",
+    "nombre_punto": "Tienda shaddai"
   }
 ]
