@@ -21598,5 +21598,23 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "SANA-SANA-Z5-L-V-V",
     "nombre_punto": "SANA SANA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BARREIRO",
+    "subcircuito": "BARREIRO 1",
+    "id": "TIENDA-4-HERMANOS-Z5-L-B-B",
+    "nombre_punto": "Tienda 4 Hermanos"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "SANA-SANA-Z5-L-V-V",
+    "nombre_punto": "SANA SANA"
   }
 ]
