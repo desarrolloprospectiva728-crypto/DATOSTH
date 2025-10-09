@@ -21760,5 +21760,23 @@
     "subcircuito": "CONTROL 1",
     "id": "GASOLINERA-FONFAY-Z5-L-Q-C",
     "nombre_punto": "GASOLINERA FONFAY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "PANADERÍA-DULCESA-Z5-L-B-U",
+    "nombre_punto": "PANADERÍA DULCESA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "LA-SAZÓN-DE-MECHITA-Z5-L-B-T",
+    "nombre_punto": "La sazón de Mechita"
   }
 ]
