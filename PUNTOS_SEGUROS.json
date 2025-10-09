@@ -20860,5 +20860,14 @@
     "subcircuito": "GALO PLAZA 1",
     "id": "BANCO-BOLIVARIANO-Z5-L-Q-G",
     "nombre_punto": "BANCO BOLIVARIANO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "MI-MULTISERVICIOS-Z5-L-Q-L",
+    "nombre_punto": "Mi Multiservicios"
   }
 ]
