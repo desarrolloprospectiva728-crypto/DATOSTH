@@ -21526,5 +21526,23 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "MINIMARKET-JUANITA-Z5-L-B-T",
     "nombre_punto": "Minimarket Juanita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "FARMACIA-LA-CADENA-Z5-L-B-C",
+    "nombre_punto": "Farmacia la Cadena"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "CARRETA-AZUL-Z5-L-B-U",
+    "nombre_punto": "CARRETA AZUL"
   }
 ]
