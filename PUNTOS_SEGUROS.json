@@ -20752,5 +20752,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "PELUQUERÍA-COSTA-AZUL-Z5-L-B-C",
     "nombre_punto": "Peluquería Costa Azul"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "TIENDA-SILVA-PAC.-Z5-L-B-T",
+    "nombre_punto": "Tienda Silva Pac."
   }
 ]
