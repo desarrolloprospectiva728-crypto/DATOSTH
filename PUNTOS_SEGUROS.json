@@ -21202,5 +21202,14 @@
     "subcircuito": "MONTAÑITA 1",
     "id": "TIENDA-BYC-Z5-S-S-M",
     "nombre_punto": "Tienda ByC"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "MONTAÑITA",
+    "subcircuito": "MONTAÑITA 1",
+    "id": "TIENDA-BYC-Z5-S-S-M",
+    "nombre_punto": "Tienda ByC"
   }
 ]
