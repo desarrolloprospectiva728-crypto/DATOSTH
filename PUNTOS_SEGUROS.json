@@ -21139,5 +21139,23 @@
     "subcircuito": "SAN CARLOS 1",
     "id": "FERTISA-A.G.I.F.-Z5-L-Q-S",
     "nombre_punto": "FERTISA A.G.I.F."
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "DISTRIBUIDORA-DE-CARNICOS-PUCAYACU-Z5-L-B-V",
+    "nombre_punto": "DISTRIBUIDORA DE CARNICOS PUCAYACU"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "FARMACIA-INGLESA-DECIMA-3RA-Z5-L-Q-S",
+    "nombre_punto": "Farmacia Inglesa decima 3ra"
   }
 ]
