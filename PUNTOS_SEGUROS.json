@@ -21346,5 +21346,14 @@
     "subcircuito": "GALO PLAZA 1",
     "id": "CENTRO-NATURISTA-\"PERUCHITOS\"-Z5-L-Q-G",
     "nombre_punto": "CENTRO NATURISTA \"PERUCHITOS\""
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 1",
+    "id": "ASADERO-TODOS-VUELVEN-Z5-L-B-B",
+    "nombre_punto": "ASADERO TODOS VUELVEN"
   }
 ]
