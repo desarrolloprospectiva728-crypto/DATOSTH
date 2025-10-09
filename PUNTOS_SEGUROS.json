@@ -21562,5 +21562,14 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "RESTAURANTE-MARISQUERÍA-CALLE-BALZAR-Z5-L-V-A",
     "nombre_punto": "Restaurante Marisquería Calle Balzar"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "ASADERO-SABOR-&-FUEGO-Z5-L-B-U",
+    "nombre_punto": "ASADERO SABOR & FUEGO"
   }
 ]
