@@ -21994,5 +21994,14 @@
     "subcircuito": "BUENA FE ESTE 2",
     "id": "PLAZA-CENTENARIO-Z5-L-B-B",
     "nombre_punto": "PLAZA CENTENARIO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "ALMACÉN-TÍA-Z5-L-B-B",
+    "nombre_punto": "Almacén Tía"
   }
 ]
