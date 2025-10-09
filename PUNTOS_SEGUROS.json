@@ -20590,5 +20590,14 @@
     "subcircuito": "MISAHUALLI 2",
     "id": "MUNDO-SABORES-Z2-N-T-M",
     "nombre_punto": "MUNDO SABORES"
+  },
+  {
+    "zona": "ALTA MAR",
+    "subzona": "ALTA MAR",
+    "distrito": "ALTA MAR",
+    "circuito": "ALTA MAR",
+    "subcircuito": "ALTA MAR",
+    "id": "GSCOP-ALTAMAR-A-A-A",
+    "nombre_punto": "Gscop"
   }
 ]
