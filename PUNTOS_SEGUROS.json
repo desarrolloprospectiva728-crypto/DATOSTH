@@ -21544,5 +21544,14 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "CARRETA-AZUL-Z5-L-B-U",
     "nombre_punto": "CARRETA AZUL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "UNIDAD-EDUCATIVA-GUAYAQUIL-Z5-L-V-A",
+    "nombre_punto": "UNIDAD EDUCATIVA GUAYAQUIL"
   }
 ]
