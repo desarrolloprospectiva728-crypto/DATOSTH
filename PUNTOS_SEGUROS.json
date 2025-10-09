@@ -21814,5 +21814,14 @@
     "subcircuito": "CENTRO 2",
     "id": "TIENDA-MARIANITA-Z5-L-B-C",
     "nombre_punto": "Tienda Marianita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "MEGA-REGALÓN-#2-Z5-L-V-A",
+    "nombre_punto": "Mega Regalón #2"
   }
 ]
