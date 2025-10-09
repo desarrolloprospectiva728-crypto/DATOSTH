@@ -21436,5 +21436,23 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "ALMACEN-TIA-Z5-L-B-U",
     "nombre_punto": "ALMACEN TIA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SABANILLA",
+    "circuito": "ALAMOR",
+    "subcircuito": "ALAMOR 1",
+    "id": "GASOLINERA-PETROECUADOR-Z7-L-S-A",
+    "nombre_punto": "GASOLINERA PETROECUADOR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA NUEVA UNION",
+    "subcircuito": "LA NUEVA UNION 1",
+    "id": "PAÑALES-ENRIQUE-Z5-L-B-L",
+    "nombre_punto": "PAÑALES ENRIQUE"
   }
 ]
