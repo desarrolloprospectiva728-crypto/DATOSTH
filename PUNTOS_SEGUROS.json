@@ -20653,5 +20653,14 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "COMISARIATO-Z5-L-V-B",
     "nombre_punto": "COMISARIATO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 2",
+    "id": "PATIO-DE-COMIDA-RÁPIDAS-CÓLISEO-CLUP-PATRIA-Z5-L-B-B",
+    "nombre_punto": "PATIO DE COMIDA RÁPIDAS CÓLISEO CLUP PATRIA"
   }
 ]
