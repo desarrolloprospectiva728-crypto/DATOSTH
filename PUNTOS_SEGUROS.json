@@ -20644,5 +20644,14 @@
     "subcircuito": "BUENA FE OESTE 2",
     "id": "PLAZA-CÍVICA---PARQUE-CENTRAL-Z5-L-B-B",
     "nombre_punto": "PLAZA CÍVICA - PARQUE CENTRAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "COMISARIATO-Z5-L-V-B",
+    "nombre_punto": "COMISARIATO"
   }
 ]
