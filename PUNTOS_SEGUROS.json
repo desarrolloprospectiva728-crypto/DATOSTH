@@ -20608,5 +20608,14 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "PLAZA-PARIS-Z5-L-V-B",
     "nombre_punto": "PLAZA PARIS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 2",
+    "id": "COMERCIAL-VERGARA-Z4-M-P-P",
+    "nombre_punto": "COMERCIAL VERGARA"
   }
 ]
