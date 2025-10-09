@@ -21184,5 +21184,14 @@
     "subcircuito": "LA MERCED 1",
     "id": "MINI-MARKET-SAN-CRIS-Z5-L-Q-L",
     "nombre_punto": "Mini market San Cris"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "ISLA DE BEJUCAL",
+    "subcircuito": "ISLA DE BEJUCAL 1",
+    "id": "CYBER-JEIV.COM-Z5-L-B-I",
+    "nombre_punto": "Cyber jeiv.com"
   }
 ]
