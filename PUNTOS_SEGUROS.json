@@ -21805,5 +21805,14 @@
     "subcircuito": "CONTROL 1",
     "id": "GASOLINERA-FONFAY-Z5-L-Q-C",
     "nombre_punto": "GASOLINERA FONFAY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "TIENDA-MARIANITA-Z5-L-B-C",
+    "nombre_punto": "Tienda Marianita"
   }
 ]
