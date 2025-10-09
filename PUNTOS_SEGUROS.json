@@ -20770,5 +20770,23 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "PANADERIA-Y-PASTELERIA-NARCISA-DE-JESUS-Z5-L-B-C",
     "nombre_punto": "PANADERIA Y PASTELERIA NARCISA DE  JESUS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "TIENDA-Z5-L-B-T",
+    "nombre_punto": "Tienda Melani"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "DISENSA-Z5-L-Q-S",
+    "nombre_punto": "DISENSA"
   }
 ]
