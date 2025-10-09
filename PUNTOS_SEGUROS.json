@@ -22129,5 +22129,14 @@
     "subcircuito": "CENTRO 1",
     "id": "ALMACÉN-BABAHOYO-Z5-L-B-C",
     "nombre_punto": "Almacén Babahoyo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "EUROZZ-BABAHOYO-Z5-L-B-C",
+    "nombre_punto": "EUROZZ BABAHOYO 1"
   }
 ]
