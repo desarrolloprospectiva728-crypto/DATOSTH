@@ -21931,5 +21931,14 @@
     "subcircuito": "EL SALTO 1",
     "id": "DON-PAPO-Z5-L-B-E",
     "nombre_punto": "DON PAPO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "BOUTIQUE-LA-CANASTA-Z5-L-B-B",
+    "nombre_punto": "Boutique La Canasta"
   }
 ]
