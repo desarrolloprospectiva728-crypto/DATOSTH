@@ -21553,5 +21553,14 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "UNIDAD-EDUCATIVA-GUAYAQUIL-Z5-L-V-A",
     "nombre_punto": "UNIDAD EDUCATIVA GUAYAQUIL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "RESTAURANTE-MARISQUERÍA-CALLE-BALZAR-Z5-L-V-A",
+    "nombre_punto": "Restaurante Marisquería Calle Balzar"
   }
 ]
