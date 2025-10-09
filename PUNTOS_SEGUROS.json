@@ -21247,5 +21247,14 @@
     "subcircuito": "MONTAÑITA 1",
     "id": "MINI-MARKET-DON-FLAVIO-Z5-S-S-M",
     "nombre_punto": "Mini market Don Flavio"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "PUNTO-AGIL-Z5-L-B-V",
+    "nombre_punto": "PUNTO AGIL"
   }
 ]
