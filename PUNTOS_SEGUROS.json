@@ -20932,5 +20932,23 @@
     "subcircuito": "LA VALDRAMINA 1",
     "id": "MUNDO-LED-Z5-L-Q-L",
     "nombre_punto": "Mundo Led"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 1",
+    "id": "FISCALIA-GENERAL-DEL-CANTÓN-QUEVEDO-Z5-L-Q-G",
+    "nombre_punto": "FISCALIA GENERAL DEL CANTÓN QUEVEDO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "FARMACIA-SANTA-MARTA-Z5-L-Q-S",
+    "nombre_punto": "Farmacia Santa Marta"
   }
 ]
