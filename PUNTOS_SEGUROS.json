@@ -20707,5 +20707,14 @@
     "subcircuito": "BUENA FE ESTE 2",
     "id": "SECTOR-LA-CARAGUAY-FARMACIA-MEDICAL-NURSE-Z5-L-B-B",
     "nombre_punto": "SECTOR LA CARAGUAY FARMACIA MEDICAL NURSE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BARREIRO",
+    "subcircuito": "BARREIRO 1",
+    "id": "FARMACIA-OCEANPHARM-Z5-L-B-B",
+    "nombre_punto": "Farmacia Oceanpharm"
   }
 ]
