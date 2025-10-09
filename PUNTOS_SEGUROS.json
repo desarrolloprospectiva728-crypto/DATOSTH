@@ -21013,5 +21013,23 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "QUEVEREDES-Z5-L-Q-S",
     "nombre_punto": "QueveRedes"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "OMNILIFE-Z5-L-Q-S",
+    "nombre_punto": "OMNILIFE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 1",
+    "id": "PASEO-SHOPPING-QUEVEDO-Z5-L-Q-G",
+    "nombre_punto": "Paseo Shopping Quevedo"
   }
 ]
