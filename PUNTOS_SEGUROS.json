@@ -21427,5 +21427,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "AGRO-SPORT-BM-Z5-L-B-C",
     "nombre_punto": "Agro Sport BM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "ALMACEN-TIA-Z5-L-B-U",
+    "nombre_punto": "ALMACEN TIA"
   }
 ]
