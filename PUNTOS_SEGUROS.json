@@ -20599,5 +20599,14 @@
     "subcircuito": "ALTA MAR",
     "id": "GSCOP-ALTAMAR-A-A-A",
     "nombre_punto": "Gscop"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "REGISTRO-CIVIL-Z5-L-V-B",
+    "nombre_punto": "REGISTRO CIVIL"
   }
 ]
