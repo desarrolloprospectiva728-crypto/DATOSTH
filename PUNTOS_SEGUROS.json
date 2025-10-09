@@ -21418,5 +21418,14 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "HOTEL-AZUAY-Z5-L-V-A",
     "nombre_punto": "Hotel Azuay"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "AGRO-SPORT-BM-Z5-L-B-C",
+    "nombre_punto": "Agro Sport BM"
   }
 ]
