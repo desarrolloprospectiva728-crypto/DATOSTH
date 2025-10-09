@@ -21040,5 +21040,14 @@
     "subcircuito": "VALENCIA 1",
     "id": "PUNTO-DE-LA-SUERTE-Z5-L-B-V",
     "nombre_punto": "PUNTO DE LA SUERTE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "PUNTO-DE-LA-SUERTE-Z5-L-B-V",
+    "nombre_punto": "PUNTO DE LA SUERTE"
   }
 ]
