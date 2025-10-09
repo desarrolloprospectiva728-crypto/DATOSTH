@@ -21571,5 +21571,14 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "ASADERO-SABOR-&-FUEGO-Z5-L-B-U",
     "nombre_punto": "ASADERO SABOR & FUEGO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "CONTROL",
+    "subcircuito": "CONTROL 2",
+    "id": "BARBERÍA-EL-RUSO-Z5-L-Q-C",
+    "nombre_punto": "BARBERÍA EL RUSO"
   }
 ]
