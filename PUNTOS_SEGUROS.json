@@ -21193,5 +21193,14 @@
     "subcircuito": "ISLA DE BEJUCAL 1",
     "id": "CYBER-JEIV.COM-Z5-L-B-I",
     "nombre_punto": "Cyber jeiv.com"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "MONTAÑITA",
+    "subcircuito": "MONTAÑITA 1",
+    "id": "TIENDA-BYC-Z5-S-S-M",
+    "nombre_punto": "Tienda ByC"
   }
 ]
