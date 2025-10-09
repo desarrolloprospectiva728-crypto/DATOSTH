@@ -21220,5 +21220,14 @@
     "subcircuito": "VALENCIA 1",
     "id": "INTELCOMEX-Z5-L-B-V",
     "nombre_punto": "INTELCOMEX"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "TIENDA-PILAR-Z4-M-V-V",
+    "nombre_punto": "Tienda pilar"
   }
 ]
