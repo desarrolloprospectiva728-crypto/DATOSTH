@@ -20673,24 +20673,6 @@
     "nombre_punto": "Dr. Gregory González López"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PICHINCHA",
-    "circuito": "PICHINCHA",
-    "subcircuito": "PICHINCHA 1",
-    "id": "DR.-GREGORY-GONZÁLEZ-LÓPEZ-Z4-M-P-P",
-    "nombre_punto": "Dr. Gregory González López"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PICHINCHA",
-    "circuito": "PICHINCHA",
-    "subcircuito": "PICHINCHA 1",
-    "id": "DR.-GREGORY-GONZÁLEZ-LÓPEZ-Z4-M-P-P",
-    "nombre_punto": "Dr. Gregory González López"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "VINCES",
@@ -20720,19 +20702,37 @@
   {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "VINCES SUR",
-    "subcircuito": "VINCES SUR 1",
-    "id": "COLEGIO-VINCES-Z5-L-V-V",
-    "nombre_punto": "COLEGIO VINCES"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
     "distrito": "BUENA FE",
     "circuito": "BUENA FE ESTE",
     "subcircuito": "BUENA FE ESTE 2",
     "id": "SECTOR-LA-CARAGUAY-FARMACIA-MEDICAL-NURSE-Z5-L-B-B",
     "nombre_punto": "SECTOR LA CARAGUAY FARMACIA MEDICAL NURSE"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
