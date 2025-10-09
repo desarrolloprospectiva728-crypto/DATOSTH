@@ -19490,15 +19490,6 @@
     "distrito": "LIBERTAD SALINAS",
     "circuito": "LIBERTAD CENTRO",
     "subcircuito": "LIBERTAD CENTRO 3",
-    "id": "EL-PARAÍSO-DE-LOS-JUGOS-Z5-S-L-L",
-    "nombre_punto": "El paraíso de los jugos"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "SANTA ELENA",
-    "distrito": "LIBERTAD SALINAS",
-    "circuito": "LIBERTAD CENTRO",
-    "subcircuito": "LIBERTAD CENTRO 3",
     "id": "PAYJOY-CELULARES-A-CRÉDITO-Z5-S-L-L",
     "nombre_punto": "Payjoy Celulares a crédito"
   },
@@ -21832,5 +21823,14 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "COMERCIAL-ALBERTO-LITARDO-Z5-L-Q-D",
     "nombre_punto": "Comercial Alberto Litardo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "FARMACIA-COMUNITARIA-Z5-L-B-E",
+    "nombre_punto": "FARMACIA COMUNITARIA"
   }
 ]
