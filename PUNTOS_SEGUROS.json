@@ -21391,5 +21391,14 @@
     "subcircuito": "CONTROL 2",
     "id": "TIENDA-DE-ABARROTES-YADIRITA-Z5-L-Q-C",
     "nombre_punto": "TIENDA DE ABARROTES YADIRITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "FARMACIA-ECONOMICA-Z5-L-B-U",
+    "nombre_punto": "FARMACIA ECONOMICA"
   }
 ]
