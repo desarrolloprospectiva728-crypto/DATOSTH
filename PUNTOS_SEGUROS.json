@@ -20689,5 +20689,14 @@
     "subcircuito": "PICHINCHA 1",
     "id": "DR.-GREGORY-GONZÁLEZ-LÓPEZ-Z4-M-P-P",
     "nombre_punto": "Dr. Gregory González López"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "COLEGIO-VINCES-Z5-L-V-V",
+    "nombre_punto": "COLEGIO VINCES"
   }
 ]
