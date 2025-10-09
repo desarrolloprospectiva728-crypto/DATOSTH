@@ -21238,5 +21238,14 @@
     "subcircuito": "SAN CARLOS 1",
     "id": "PILADORA-LA-ESPIGA-Z5-L-Q-S",
     "nombre_punto": "PILADORA LA ESPIGA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "MONTAÑITA",
+    "subcircuito": "MONTAÑITA 1",
+    "id": "MINI-MARKET-DON-FLAVIO-Z5-S-S-M",
+    "nombre_punto": "Mini market Don Flavio"
   }
 ]
