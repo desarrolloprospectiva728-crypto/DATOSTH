@@ -20905,5 +20905,14 @@
     "subcircuito": "GALO PLAZA 2",
     "id": "HOSPITAL-IESS-Z5-L-Q-G",
     "nombre_punto": "HOSPITAL IESS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "RULIMANES-Y-PERNOS-LÍAN-CHU-Z5-L-Q-L",
+    "nombre_punto": "Rulimanes y Pernos Lían Chu"
   }
 ]
