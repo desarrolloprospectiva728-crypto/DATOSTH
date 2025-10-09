@@ -21985,5 +21985,14 @@
     "subcircuito": "EL SALTO 1",
     "id": "REINA-DEL-CISNE-Z5-L-B-E",
     "nombre_punto": "REINA DEL CISNE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "PLAZA-CENTENARIO-Z5-L-B-B",
+    "nombre_punto": "PLAZA CENTENARIO"
   }
 ]
