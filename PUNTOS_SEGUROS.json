@@ -20716,5 +20716,14 @@
     "subcircuito": "BARREIRO 1",
     "id": "FARMACIA-OCEANPHARM-Z5-L-B-B",
     "nombre_punto": "Farmacia Oceanpharm"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "NUEVO SUCUMBIOS",
+    "subcircuito": "NUEVO SUCUMBIOS 1",
+    "id": "ENVÍA-RAPIDÍSIMO-Z1-S-L-N",
+    "nombre_punto": "Envía rapidísimo"
   }
 ]
