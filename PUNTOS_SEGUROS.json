@@ -21454,5 +21454,14 @@
     "subcircuito": "LA NUEVA UNION 1",
     "id": "PAÑALES-ENRIQUE-Z5-L-B-L",
     "nombre_punto": "PAÑALES ENRIQUE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 1",
+    "id": "BANCO-DEL-PICHINCHA-Z5-L-B-B",
+    "nombre_punto": "BANCO DEL PICHINCHA"
   }
 ]
