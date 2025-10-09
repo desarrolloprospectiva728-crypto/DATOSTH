@@ -20635,5 +20635,14 @@
     "subcircuito": "YAGUACHI SUR 1",
     "id": "FARMACIA-SANA-SANA-Z5-G-Y-Y",
     "nombre_punto": "FARMACIA SANA SANA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 2",
+    "id": "PLAZA-CÍVICA---PARQUE-CENTRAL-Z5-L-B-B",
+    "nombre_punto": "PLAZA CÍVICA - PARQUE CENTRAL"
   }
 ]
