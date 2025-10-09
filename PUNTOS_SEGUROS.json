@@ -21310,5 +21310,14 @@
     "subcircuito": "MONTAÑITA 1",
     "id": "GITANA-SWIMWEAR-Z5-S-S-M",
     "nombre_punto": "Gitana swimwear"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "CASCOL",
+    "subcircuito": "CASCOL 1",
+    "id": "MINIMARKET-CERCADO-Z4-M-P-C",
+    "nombre_punto": "Minimarket cercado"
   }
 ]
