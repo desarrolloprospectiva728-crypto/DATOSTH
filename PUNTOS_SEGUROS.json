@@ -20797,5 +20797,14 @@
     "subcircuito": "GALO PLAZA 1",
     "id": "BANCO-DE-MACHALA-Z5-L-Q-G",
     "nombre_punto": "BANCO DE MACHALA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 3",
+    "id": "BANCO-DEL-PACÍFICO-Z5-L-Q-G",
+    "nombre_punto": "BANCO DEL PACÍFICO"
   }
 ]
