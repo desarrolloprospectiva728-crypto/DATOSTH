@@ -21616,5 +21616,32 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "SANA-SANA-Z5-L-V-V",
     "nombre_punto": "SANA SANA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "SANA-SANA-Z5-L-V-V",
+    "nombre_punto": "SANA SANA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "HOTEL-INGLES-Z5-L-Q-S",
+    "nombre_punto": "Hotel Ingles"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "MI-PANDITA-Z5-L-V-B",
+    "nombre_punto": "MI PANDITA"
   }
 ]
