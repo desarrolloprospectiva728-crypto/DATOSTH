@@ -21841,5 +21841,14 @@
     "subcircuito": "CENTRO 1",
     "id": "EL-MANGLAR-2-Z5-L-B-C",
     "nombre_punto": "El Manglar 2"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "ALMACEN-TORITO-Z5-L-Q-S",
+    "nombre_punto": "Almacen Torito"
   }
 ]
