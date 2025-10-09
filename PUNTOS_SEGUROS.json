@@ -20959,5 +20959,14 @@
     "subcircuito": "LA VALDRAMINA 1",
     "id": "FRIO-AU-VILLACIS-Z5-L-Q-L",
     "nombre_punto": "Frio AU-Villacis"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "GASOLINERA-PETROLRIOS-Z5-L-Q-L",
+    "nombre_punto": "Gasolinera Petrolrios"
   }
 ]
