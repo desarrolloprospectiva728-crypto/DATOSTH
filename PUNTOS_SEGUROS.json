@@ -22003,5 +22003,14 @@
     "subcircuito": "BUENA FE ESTE 2",
     "id": "ALMACÉN-TÍA-Z5-L-B-B",
     "nombre_punto": "Almacén Tía"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "REINA-DEL-CISNE-Z5-L-B-E",
+    "nombre_punto": "REINA DEL CISNE"
   }
 ]
