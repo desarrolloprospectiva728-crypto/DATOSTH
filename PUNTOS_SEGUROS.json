@@ -20592,15 +20592,6 @@
     "nombre_punto": "MUNDO SABORES"
   },
   {
-    "zona": "ALTA MAR",
-    "subzona": "ALTA MAR",
-    "distrito": "ALTA MAR",
-    "circuito": "ALTA MAR",
-    "subcircuito": "ALTA MAR",
-    "id": "GSCOP-ALTAMAR-A-A-A",
-    "nombre_punto": "Gscop"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "VINCES",
@@ -20608,5 +20599,14 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "REGISTRO-CIVIL-Z5-L-V-B",
     "nombre_punto": "REGISTRO CIVIL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "PLAZA-PARIS-Z5-L-V-B",
+    "nombre_punto": "PLAZA PARIS"
   }
 ]
