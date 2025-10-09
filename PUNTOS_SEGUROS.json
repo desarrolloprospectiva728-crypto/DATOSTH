@@ -20824,5 +20824,23 @@
     "subcircuito": "GALO PLAZA 3",
     "id": "BANCO-DEL-PACÍFICO-Z5-L-Q-G",
     "nombre_punto": "BANCO DEL PACÍFICO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 3",
+    "id": "BANCO-INTERNACIONAL-Z5-L-Q-G",
+    "nombre_punto": "BANCO INTERNACIONAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 1",
+    "id": "SRI-Z5-L-Q-G",
+    "nombre_punto": "SERVICIO DE RENTAS INTERNAS \"SRI\""
   }
 ]
