@@ -22138,5 +22138,14 @@
     "subcircuito": "CENTRO 1",
     "id": "EUROZZ-BABAHOYO-Z5-L-B-C",
     "nombre_punto": "EUROZZ BABAHOYO 1"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "HERMANOS-NYN-Z5-L-B-T",
+    "nombre_punto": "Hermanos NyN"
   }
 ]
