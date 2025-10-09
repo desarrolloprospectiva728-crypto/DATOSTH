@@ -21211,5 +21211,14 @@
     "subcircuito": "MONTAÑITA 1",
     "id": "TIENDA-BYC-Z5-S-S-M",
     "nombre_punto": "Tienda ByC"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "REGISTRO-DE-LA-PROPIEDAD-Z5-L-B-V",
+    "nombre_punto": "REGISTRO DE LA PROPIEDAD"
   }
 ]
