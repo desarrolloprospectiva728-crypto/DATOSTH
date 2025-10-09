@@ -20743,5 +20743,14 @@
     "subcircuito": "BARREIRO 1",
     "id": "LA-GATA-Z5-L-B-B",
     "nombre_punto": "La Gata"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "PELUQUERÍA-COSTA-AZUL-Z5-L-B-C",
+    "nombre_punto": "Peluquería Costa Azul"
   }
 ]
