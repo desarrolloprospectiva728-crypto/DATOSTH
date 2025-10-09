@@ -22102,5 +22102,14 @@
     "subcircuito": "SABANA 1",
     "id": "BARBADUM-Z5-L-B-S",
     "nombre_punto": "BARBADUM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BABA",
+    "subcircuito": "BABA 1",
+    "id": "HELADERÍA-EL-PADRINO.-Z5-L-B-B",
+    "nombre_punto": "Heladería el padrino."
   }
 ]
