@@ -21283,5 +21283,23 @@
     "subcircuito": "VALENCIA 1",
     "id": "CASA-DEL-CELULAR-Z5-L-B-V",
     "nombre_punto": "CASA DEL CELULAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 1",
+    "id": "SUBCENTRO-LA-VENUS-Z5-L-Q-G",
+    "nombre_punto": "SUBCENTRO LA VENUS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "SUPER-TIENDA-SAN-CARLOS-Z5-L-Q-S",
+    "nombre_punto": "SUPER TIENDA SAN CARLOS"
   }
 ]
