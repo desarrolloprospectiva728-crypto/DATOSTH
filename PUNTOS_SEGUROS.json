@@ -21229,5 +21229,14 @@
     "subcircuito": "VEINTICUATRO DE MAYO",
     "id": "TIENDA-PILAR-Z4-M-V-V",
     "nombre_punto": "Tienda pilar"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "PILADORA-LA-ESPIGA-Z5-L-Q-S",
+    "nombre_punto": "PILADORA LA ESPIGA"
   }
 ]
