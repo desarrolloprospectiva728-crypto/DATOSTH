@@ -21733,5 +21733,23 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "ESCUELA-DE-EDUCACIÓN-DR.-FRANCISCO-MARTÍNEZ-AGUIRRE-Z5-L-V-A",
     "nombre_punto": "Escuela de educación Dr. FRANCISCO MARTÍNEZ AGUIRRE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "TOTTO-DISTRIBUIDOR-AUTORZADO-Z5-L-Q-S",
+    "nombre_punto": "Totto Distribuidor Autorzado"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "ESCUELA-DE-EDUCACIÓN-DR.-FRANCISCO-MARTÍNEZ-AGUIRRE-Z5-L-V-A",
+    "nombre_punto": "Escuela de educación Dr. FRANCISCO MARTÍNEZ AGUIRRE"
   }
 ]
