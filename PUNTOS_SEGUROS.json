@@ -21085,5 +21085,32 @@
     "subcircuito": "SAN CARLOS 1",
     "id": "FERTISA-A.G.I.F.-Z5-L-Q-S",
     "nombre_punto": "FERTISA A.G.I.F."
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "LOCAL-CALZADO-D'-DOMINIK-Z5-L-B-B",
+    "nombre_punto": "Local CALZADO D' DOMINIK"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "HOTEL-BARROS-Z5-L-Q-S",
+    "nombre_punto": "Hotel Barros"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "HELADERIA-GREENFROST-Z5-L-B-V",
+    "nombre_punto": "HELADERIA GREENFROST"
   }
 ]
