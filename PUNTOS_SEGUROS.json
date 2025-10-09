@@ -21859,5 +21859,14 @@
     "subcircuito": "BARREIRO 1",
     "id": "TIENDA-BARCO-Z5-L-B-B",
     "nombre_punto": "Tienda barco"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 1",
+    "id": "TIENDA-ALEXANDRA-Z5-L-Q-G",
+    "nombre_punto": "TIENDA ALEXANDRA"
   }
 ]
