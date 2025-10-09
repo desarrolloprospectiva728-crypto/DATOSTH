@@ -21949,5 +21949,23 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "RICOS-ALMUERZOS-Z5-L-B-U",
     "nombre_punto": "RICOS ALMUERZOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "PANADERÍA-NUEVA-GENERACIÓN-Z5-L-B-C",
+    "nombre_punto": "Panadería Nueva Generación"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "BANCO-BOLIVARIANO-Z5-L-B-B",
+    "nombre_punto": "Banco Bolivariano"
   }
 ]
