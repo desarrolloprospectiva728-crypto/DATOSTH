@@ -22075,5 +22075,32 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "PISTA-DE-PATINAJE-Z5-L-B-T",
     "nombre_punto": "Pista de patinaje"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "LOCAL-DON-PATO-Z5-L-B-C",
+    "nombre_punto": "Local Don Pato"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "TIENDA-DON-PANCHO-Z5-L-B-E",
+    "nombre_punto": "TIENDA DON PANCHO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SABANA",
+    "subcircuito": "SABANA 1",
+    "id": "BARBADUM-Z5-L-B-S",
+    "nombre_punto": "BARBADUM"
   }
 ]
