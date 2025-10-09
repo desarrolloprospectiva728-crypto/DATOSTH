@@ -22120,5 +22120,14 @@
     "subcircuito": "EL SALTO 1",
     "id": "DESPENSA-EMANUEL-Z5-L-B-E",
     "nombre_punto": "DESPENSA EMANUEL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "ALMACÉN-BABAHOYO-Z5-L-B-C",
+    "nombre_punto": "Almacén Babahoyo"
   }
 ]
