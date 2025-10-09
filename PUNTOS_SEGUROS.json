@@ -21850,5 +21850,14 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "COMERCIAL-EL-MANABA-Z5-L-V-B",
     "nombre_punto": "COMERCIAL EL MANABA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BARREIRO",
+    "subcircuito": "BARREIRO 1",
+    "id": "TIENDA-BARCO-Z5-L-B-B",
+    "nombre_punto": "Tienda barco"
   }
 ]
