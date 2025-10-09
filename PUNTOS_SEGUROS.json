@@ -22012,5 +22012,14 @@
     "subcircuito": "EL SALTO 1",
     "id": "REINA-DEL-CISNE-Z5-L-B-E",
     "nombre_punto": "REINA DEL CISNE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "PATO-JUNIOR-Z5-L-B-C",
+    "nombre_punto": "Pato junior"
   }
 ]
