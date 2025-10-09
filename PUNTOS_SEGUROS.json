@@ -20986,5 +20986,14 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "LA-CASA-DE-LA-CARNE-Z5-L-Q-S",
     "nombre_punto": "La Casa de la Carne"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "ELECTRON-FERRETERIA-Z5-L-Q-S",
+    "nombre_punto": "Electron Ferreteria"
   }
 ]
