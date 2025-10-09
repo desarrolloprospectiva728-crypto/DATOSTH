@@ -20662,5 +20662,14 @@
     "subcircuito": "BUENA FE OESTE 2",
     "id": "PATIO-DE-COMIDA-RÁPIDAS-CÓLISEO-CLUP-PATRIA-Z5-L-B-B",
     "nombre_punto": "PATIO DE COMIDA RÁPIDAS CÓLISEO CLUP PATRIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "DR.-GREGORY-GONZÁLEZ-LÓPEZ-Z4-M-P-P",
+    "nombre_punto": "Dr. Gregory González López"
   }
 ]
