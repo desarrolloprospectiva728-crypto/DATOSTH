@@ -20842,5 +20842,14 @@
     "subcircuito": "GALO PLAZA 1",
     "id": "SRI-Z5-L-Q-G",
     "nombre_punto": "SERVICIO DE RENTAS INTERNAS \"SRI\""
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "COMERCIAL-LAURITA-Z5-L-Q-S",
+    "nombre_punto": "COMERCIAL LAURITA"
   }
 ]
