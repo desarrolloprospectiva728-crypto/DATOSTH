@@ -21112,5 +21112,32 @@
     "subcircuito": "VALENCIA 1",
     "id": "HELADERIA-GREENFROST-Z5-L-B-V",
     "nombre_punto": "HELADERIA GREENFROST"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "COOPERATIVA-CALCETA-Z4-M-V-V",
+    "nombre_punto": "Cooperativa Calceta"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "LOCAL-ESCOBAR-Z5-L-V-A",
+    "nombre_punto": "LOCAL ESCOBAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "FERTISA-A.G.I.F.-Z5-L-Q-S",
+    "nombre_punto": "FERTISA A.G.I.F."
   }
 ]
