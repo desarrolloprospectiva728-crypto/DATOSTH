@@ -21058,5 +21058,23 @@
     "subcircuito": "VALENCIA 1",
     "id": "FARMACIA-SANA-SANA-Z5-L-B-V",
     "nombre_punto": "FARMACIA SANA SANA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "CINCUENTAZO-Z4-M-V-V",
+    "nombre_punto": "Cincuentazo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "TIENDA-QUEVEDO-FRENTE-A-HOTEL-BARROS-Z5-L-Q-S",
+    "nombre_punto": "TIENDA QUEVEDO FRENTE A HOTEL BARROS"
   }
 ]
