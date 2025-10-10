@@ -22192,5 +22192,14 @@
     "subcircuito": "OLON 1",
     "id": "MUNDO-CANGREJO-Z5-S-S-O",
     "nombre_punto": "Mundo cangrejo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "SWTELECOM-Z5-L-B-E",
+    "nombre_punto": "SWTELECOM"
   }
 ]
