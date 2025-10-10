@@ -22246,5 +22246,14 @@
     "subcircuito": "SABANA 1",
     "id": "FARMACIA-ECONÓMICA-Z5-L-B-S",
     "nombre_punto": "Farmacia Económica"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SABANA",
+    "subcircuito": "SABANA 1",
+    "id": "BABAHOYO-GESU-ORIENTAL-Z5-L-B-S",
+    "nombre_punto": "Babahoyo Gesu Oriental"
   }
 ]
