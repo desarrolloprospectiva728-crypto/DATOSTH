@@ -22255,5 +22255,14 @@
     "subcircuito": "SABANA 1",
     "id": "BABAHOYO-GESU-ORIENTAL-Z5-L-B-S",
     "nombre_punto": "Babahoyo Gesu Oriental"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "MINIMARKET-BERITO-Z5-L-B-T",
+    "nombre_punto": "Minimarket Berito"
   }
 ]
