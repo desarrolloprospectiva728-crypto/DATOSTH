@@ -23002,5 +23002,23 @@
     "subcircuito": "PARQUE ECOLOGICO 1",
     "id": "FARMACIA-SANA-SANA-Z1-S-L-P",
     "nombre_punto": "FARMACIA SANA SANA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "TÍA-DEL-PUENTE-Z5-L-V-V",
+    "nombre_punto": "TÍA DEL PUENTE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "TÍA-DEL-PUENTE-Z5-L-V-V",
+    "nombre_punto": "TÍA DEL PUENTE"
   }
 ]
