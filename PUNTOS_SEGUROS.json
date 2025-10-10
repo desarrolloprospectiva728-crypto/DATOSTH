@@ -22507,5 +22507,14 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "WINDOWS-COFFE-Z5-L-V-V",
     "nombre_punto": "Windows coffe"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 2",
+    "id": "LOTERÍA-NACIONAL-BUENA-FE-Z5-L-B-B",
+    "nombre_punto": "LOTERÍA NACIONAL BUENA FE"
   }
 ]
