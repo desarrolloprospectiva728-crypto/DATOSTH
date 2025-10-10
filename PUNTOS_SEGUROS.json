@@ -22651,5 +22651,14 @@
     "subcircuito": "BUENA FE ESTE 2",
     "id": "LOCAL-BABY-MAE-TIENDA-DE-ROPA-DE-BEBE-Z5-L-B-B",
     "nombre_punto": "LOCAL BABY MAE TIENDA DE ROPA DE BEBE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "VENTA-DE-REPUESTO5-PARA-AUTOS-LOCURA-Z5-L-B-B",
+    "nombre_punto": "VENTA DE REPUESTO5 PARA AUTOS LOCURA"
   }
 ]
