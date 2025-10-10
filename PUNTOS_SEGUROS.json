@@ -22606,5 +22606,23 @@
     "subcircuito": "BUENA FE ESTE 2",
     "id": "ALAMCENES-SUZUKY-Z5-L-B-B",
     "nombre_punto": "ALAMCENES SUZUKY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "CLÍNICA-NARCISA-DE-JESÚS-Z5-L-B-B",
+    "nombre_punto": "CLÍNICA NARCISA DE JESÚS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "SERVICIO-TÉCNICO-LEIDY-VIB-COMUNICACIONES-Z2-N-T-P",
+    "nombre_punto": "SERVICIO TÉCNICO LEIDY VIB COMUNICACIONES"
   }
 ]
