@@ -22570,5 +22570,23 @@
     "subcircuito": "LA MERCED 1",
     "id": "EXPORTADORA-AGROLAYA-Z5-L-Q-L",
     "nombre_punto": "Exportadora Agrolaya"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "EXPORTADORA-AGROLAYA-Z5-L-Q-L",
+    "nombre_punto": "Exportadora Agrolaya"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "EXPORTADORA-AGROLAYA-Z5-L-Q-L",
+    "nombre_punto": "Exportadora Agrolaya"
   }
 ]
