@@ -22669,5 +22669,14 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "YANEZ-Y-YANEZ-Z5-L-Q-S",
     "nombre_punto": "YANEZ Y YANEZ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "CASA-DEPORTIVA-OLIMPICA-Z5-L-Q-S",
+    "nombre_punto": "CASA DEPORTIVA OLIMPICA"
   }
 ]
