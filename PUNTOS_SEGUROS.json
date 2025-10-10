@@ -22957,5 +22957,14 @@
     "subcircuito": "NUEVO SUCUMBIOS 1",
     "id": "HOTEL-REY-SALOMON-Z1-S-L-N",
     "nombre_punto": "HOTEL REY SALOMON"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "NUEVO SUCUMBIOS",
+    "subcircuito": "NUEVO SUCUMBIOS 1",
+    "id": "HOTEL-REY-SALOMON-Z1-S-L-N",
+    "nombre_punto": "HOTEL REY SALOMON"
   }
 ]
