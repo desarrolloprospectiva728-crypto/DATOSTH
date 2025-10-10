@@ -22300,5 +22300,14 @@
     "subcircuito": "SABANA 2",
     "id": "AZUL-Z5-L-B-S",
     "nombre_punto": "Azul"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "GASOLINERA-TERPEL-Z5-L-Q-D",
+    "nombre_punto": "Gasolinera Terpel"
   }
 ]
