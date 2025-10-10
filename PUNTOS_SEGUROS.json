@@ -22696,5 +22696,14 @@
     "subcircuito": "PALANDACOCHA 2",
     "id": "HOSPITAL-GENERAL-JOSE-MARIA-VELASCO-IBARRA-Z2-N-T-P",
     "nombre_punto": "HOSPITAL GENERAL JOSE MARIA VELASCO IBARRA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "PRODUCTOS-NATURALES-SAVI-PLANTS-Z5-L-Q-L",
+    "nombre_punto": "Productos Naturales Savi Plants"
   }
 ]
