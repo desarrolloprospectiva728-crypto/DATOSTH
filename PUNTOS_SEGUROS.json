@@ -22174,5 +22174,14 @@
     "subcircuito": "EL SALTO 1",
     "id": "COMERCIAL-FIGUEROA-Z5-L-B-E",
     "nombre_punto": "COMERCIAL FIGUEROA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "ANTHONY-MARKET-Z5-L-B-T",
+    "nombre_punto": "Anthony Market"
   }
 ]
