@@ -22597,5 +22597,14 @@
     "subcircuito": "LA MERCED 1",
     "id": "EXPORTADORA-AGROLAYA-Z5-L-Q-L",
     "nombre_punto": "Exportadora Agrolaya"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "PICADITAS-DEL-CHINO-Z5-L-Q-D",
+    "nombre_punto": "Picaditas del chino"
   }
 ]
