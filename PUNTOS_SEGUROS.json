@@ -22552,5 +22552,14 @@
     "subcircuito": "CENTRO 1",
     "id": "COMEDOR-DE-MAYI-Z5-L-B-C",
     "nombre_punto": "Comedor de Mayi"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "MINI-DESPENSA-JEHOVA-Z5-L-B-C",
+    "nombre_punto": "Mini Despensa Jehova"
   }
 ]
