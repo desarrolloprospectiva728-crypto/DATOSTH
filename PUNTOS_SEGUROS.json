@@ -22795,5 +22795,14 @@
     "subcircuito": "PALANDACOCHA 2",
     "id": "FYBECA-Z2-N-T-P",
     "nombre_punto": "FYBECA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "CHARAPOTO",
+    "subcircuito": "CHARAPOTO 1",
+    "id": "LETRAS-SAN-JACINTO-Z4-M-S-C",
+    "nombre_punto": "LETRAS SAN JACINTO"
   }
 ]
