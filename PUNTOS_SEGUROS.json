@@ -22435,5 +22435,14 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "TIENDA-RUTA-DEL-SUR-Z5-L-Q-D",
     "nombre_punto": "Tienda Ruta del sur"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 3",
+    "id": "PUPUSA-Z4-S-S-C",
+    "nombre_punto": "PUPUSA"
   }
 ]
