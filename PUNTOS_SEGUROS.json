@@ -23155,5 +23155,14 @@
     "subcircuito": "MONUMENTOS 1",
     "id": "HOSPITAL-QUINTERO-Z4-M-P-M",
     "nombre_punto": "Hospital Quintero"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "UNIDAD-JUDICIAL-Z4-M-P-M",
+    "nombre_punto": "Unidad Judicial"
   }
 ]
