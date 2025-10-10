@@ -22750,5 +22750,14 @@
     "subcircuito": "PALANDACOCHA 2",
     "id": "GALENUS-CCNI-DE-ESPECIALIDADES-Z2-N-T-P",
     "nombre_punto": "GALENUS CCNI DE ESPECIALIDADES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "IMPORTADORA-ANGIE-Z5-L-Q-L",
+    "nombre_punto": "Importadora Angie"
   }
 ]
