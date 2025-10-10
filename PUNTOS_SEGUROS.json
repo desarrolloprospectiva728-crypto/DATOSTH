@@ -22210,5 +22210,14 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "TUTI-Z5-L-B-T",
     "nombre_punto": "Tuti"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BARREIRO",
+    "subcircuito": "BARREIRO 1",
+    "id": "COMEDOR-2-HERMANOS-Z5-L-B-B",
+    "nombre_punto": "Comedor 2 Hermanos"
   }
 ]
