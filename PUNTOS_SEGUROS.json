@@ -22606,5 +22606,14 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "PICADITAS-DEL-CHINO-Z5-L-Q-D",
     "nombre_punto": "Picaditas del chino"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "GRUPO-JATIVA-Z5-L-Q-D",
+    "nombre_punto": "Grupo Jativa"
   }
 ]
