@@ -22264,5 +22264,14 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "MINIMARKET-BERITO-Z5-L-B-T",
     "nombre_punto": "Minimarket Berito"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SABANA",
+    "subcircuito": "SABANA 2",
+    "id": "ECONÓMICA-Z5-L-B-S",
+    "nombre_punto": "ECONÓMICA"
   }
 ]
