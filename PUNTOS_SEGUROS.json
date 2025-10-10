@@ -22993,5 +22993,14 @@
     "subcircuito": "ROCAFUERTE 2",
     "id": "BANECUADOR-Z4-M-R-R",
     "nombre_punto": "BanEcuador"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "PARQUE ECOLOGICO",
+    "subcircuito": "PARQUE ECOLOGICO 1",
+    "id": "FARMACIA-SANA-SANA-Z1-S-L-P",
+    "nombre_punto": "FARMACIA SANA SANA"
   }
 ]
