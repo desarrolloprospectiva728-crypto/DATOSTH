@@ -21557,24 +21557,6 @@
   {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "VINCES CENTRO",
-    "subcircuito": "VINCES CENTRO 1",
-    "id": "SANA-SANA-Z5-L-V-V",
-    "nombre_punto": "SANA SANA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "VINCES CENTRO",
-    "subcircuito": "VINCES CENTRO 1",
-    "id": "SANA-SANA-Z5-L-V-V",
-    "nombre_punto": "SANA SANA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
     "distrito": "QUEVEDO",
     "circuito": "SIETE DE OCTUBRE",
     "subcircuito": "SIETE DE OCTUBRE 1",
@@ -21647,29 +21629,11 @@
   {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "AUGUSTO VALENCIA",
-    "subcircuito": "AUGUSTO VALENCIA 1",
-    "id": "ESCUELA-DE-EDUCACIÓN-DR.-FRANCISCO-MARTÍNEZ-AGUIRRE-Z5-L-V-A",
-    "nombre_punto": "Escuela de educación Dr. FRANCISCO MARTÍNEZ AGUIRRE"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
     "distrito": "QUEVEDO",
     "circuito": "DIVINO NIÑO",
     "subcircuito": "DIVINO NIÑO 2",
     "id": "FARMACIA-SAN-FRANCISCO-Z5-L-Q-D",
     "nombre_punto": "Farmacia San Francisco"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "CONTROL",
-    "subcircuito": "CONTROL 1",
-    "id": "GASOLINERA-FONFAY-Z5-L-Q-C",
-    "nombre_punto": "GASOLINERA FONFAY"
   },
   {
     "zona": "ZONA 5",
@@ -22588,15 +22552,6 @@
     "subcircuito": "PALANDACOCHA 1",
     "id": "PAPELERIA-VITERI-Z2-N-T-P",
     "nombre_punto": "PAPELERIA VITERI"
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
   },
   {
     "zona": "",
