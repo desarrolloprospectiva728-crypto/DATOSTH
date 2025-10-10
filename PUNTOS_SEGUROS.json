@@ -22489,5 +22489,14 @@
     "subcircuito": "MOCACHE 2",
     "id": "AGROVENT-Z5-L-Q-M",
     "nombre_punto": "Agrovent"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "AGROVENT-Z5-L-Q-M",
+    "nombre_punto": "Agrovent"
   }
 ]
