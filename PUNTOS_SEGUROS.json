@@ -22723,5 +22723,14 @@
     "subcircuito": "PALANDACOCHA 1",
     "id": "LIBRERIA-Y-PAPELERIA-AMAZONAS-Z2-N-T-P",
     "nombre_punto": "LIBRERIA Y PAPELERIA AMAZONAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "CHISBETH-Z2-N-T-P",
+    "nombre_punto": "CHISBETH"
   }
 ]
