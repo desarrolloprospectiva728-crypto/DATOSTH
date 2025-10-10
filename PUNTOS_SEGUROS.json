@@ -23128,5 +23128,14 @@
     "subcircuito": "PEDERNALES NORTE 1",
     "id": "CUERPO-DE-BOMBEROS-DE-PEDERNALES-Z4-M-P-P",
     "nombre_punto": "CUERPO DE BOMBEROS DE PEDERNALES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "HOSPITAL-IESS-Z4-M-P-M",
+    "nombre_punto": "Hospital IESS"
   }
 ]
