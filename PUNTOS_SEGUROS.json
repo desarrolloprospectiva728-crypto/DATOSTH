@@ -22759,5 +22759,14 @@
     "subcircuito": "LA MERCED 1",
     "id": "IMPORTADORA-ANGIE-Z5-L-Q-L",
     "nombre_punto": "Importadora Angie"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "CHARAPOTO",
+    "subcircuito": "CHARAPOTO 2",
+    "id": "CENTRO-COMERCIAL-CHARAPOTO-Z4-M-S-C",
+    "nombre_punto": "Centro Comercial Charapoto"
   }
 ]
