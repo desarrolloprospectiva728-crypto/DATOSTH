@@ -21359,15 +21359,6 @@
   {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
-    "distrito": "BABAHOYO",
-    "circuito": "UNIVERSIDAD",
-    "subcircuito": "UNIVERSIDAD 2",
-    "id": "FARMACIA-ECONOMICA-Z5-L-B-U",
-    "nombre_punto": "FARMACIA ECONOMICA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
     "distrito": "VINCES",
     "circuito": "AUGUSTO VALENCIA",
     "subcircuito": "AUGUSTO VALENCIA 1",
@@ -21701,15 +21692,6 @@
   {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "AUGUSTO VALENCIA",
-    "subcircuito": "AUGUSTO VALENCIA 1",
-    "id": "ESCUELA-DE-EDUCACIÓN-DR.-FRANCISCO-MARTÍNEZ-AGUIRRE-Z5-L-V-A",
-    "nombre_punto": "Escuela de educación Dr. FRANCISCO MARTÍNEZ AGUIRRE"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
     "distrito": "QUEVEDO",
     "circuito": "CONTROL",
     "subcircuito": "CONTROL 1",
@@ -21737,38 +21719,11 @@
   {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
-    "distrito": "BABAHOYO",
-    "circuito": "CENTRO",
-    "subcircuito": "CENTRO 2",
-    "id": "TIENDA-MARIANITA-Z5-L-B-C",
-    "nombre_punto": "Tienda Marianita"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
     "distrito": "QUEVEDO",
     "circuito": "DIVINO NIÑO",
     "subcircuito": "DIVINO NIÑO 2",
     "id": "CHIFA-EXPRESS-Z5-L-Q-D",
     "nombre_punto": "Chifa Express"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "CONTROL",
-    "subcircuito": "CONTROL 1",
-    "id": "GASOLINERA-FONFAY-Z5-L-Q-C",
-    "nombre_punto": "GASOLINERA FONFAY"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BABAHOYO",
-    "circuito": "CENTRO",
-    "subcircuito": "CENTRO 2",
-    "id": "TIENDA-MARIANITA-Z5-L-B-C",
-    "nombre_punto": "Tienda Marianita"
   },
   {
     "zona": "ZONA 5",
@@ -22741,5 +22696,50 @@
     "subcircuito": "PALANDACOCHA 1",
     "id": "PAPELERIA-VITERI-Z2-N-T-P",
     "nombre_punto": "PAPELERIA VITERI"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
