@@ -22714,5 +22714,14 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "VARIEDADES-LILIBETH-Z5-L-Q-S",
     "nombre_punto": "VARIEDADES LILIBETH"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "BIESS-Z5-L-Q-S",
+    "nombre_punto": "BIESS"
   }
 ]
