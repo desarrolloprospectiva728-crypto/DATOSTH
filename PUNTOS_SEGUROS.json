@@ -22768,5 +22768,14 @@
     "subcircuito": "CHARAPOTO 2",
     "id": "CENTRO-COMERCIAL-CHARAPOTO-Z4-M-S-C",
     "nombre_punto": "Centro Comercial Charapoto"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "AEROBRANDS-Z2-N-T-P",
+    "nombre_punto": "AEROBRANDS"
   }
 ]
