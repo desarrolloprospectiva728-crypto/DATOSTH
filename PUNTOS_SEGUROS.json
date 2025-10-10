@@ -22876,5 +22876,14 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "TUTI-CENTRO-Z5-L-V-V",
     "nombre_punto": "TUTI CENTRO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "TUTI-CENTRO-Z5-L-V-V",
+    "nombre_punto": "TUTI CENTRO"
   }
 ]
