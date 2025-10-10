@@ -22867,5 +22867,14 @@
     "subcircuito": "VALENCIA 1",
     "id": "FISCALÍA-DEL-CANTON-VALENCIA-Z5-L-B-V",
     "nombre_punto": "FISCALÍA DEL CANTON VALENCIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "TUTI-CENTRO-Z5-L-V-V",
+    "nombre_punto": "TUTI CENTRO"
   }
 ]
