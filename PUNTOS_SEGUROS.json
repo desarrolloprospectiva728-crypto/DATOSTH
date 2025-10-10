@@ -22723,5 +22723,14 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "BIESS-Z5-L-Q-S",
     "nombre_punto": "BIESS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "REPUESTOS-LENNIN-Z5-L-Q-L",
+    "nombre_punto": "Repuestos Lennin"
   }
 ]
