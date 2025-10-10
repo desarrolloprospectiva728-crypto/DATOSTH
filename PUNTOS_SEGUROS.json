@@ -22705,5 +22705,14 @@
     "subcircuito": "LA MERCED 1",
     "id": "PRODUCTOS-NATURALES-SAVI-PLANTS-Z5-L-Q-L",
     "nombre_punto": "Productos Naturales Savi Plants"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "VARIEDADES-LILIBETH-Z5-L-Q-S",
+    "nombre_punto": "VARIEDADES LILIBETH"
   }
 ]
