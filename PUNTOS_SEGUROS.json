@@ -23056,5 +23056,14 @@
     "subcircuito": "NUEVO SUCUMBIOS 1",
     "id": "MUNDO-SPORT-JOAN-Z1-S-L-N",
     "nombre_punto": "MUNDO SPORT JOAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "CENTRO-DE-SALUD-TIPO-C-Z4-M-R-L",
+    "nombre_punto": "Centro de Salud Tipo C"
   }
 ]
