@@ -22786,5 +22786,14 @@
     "subcircuito": "PALANDACOCHA 2",
     "id": "PAPU-KIDS-Z2-N-T-P",
     "nombre_punto": "PAPU KIDS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "FYBECA-Z2-N-T-P",
+    "nombre_punto": "FYBECA"
   }
 ]
