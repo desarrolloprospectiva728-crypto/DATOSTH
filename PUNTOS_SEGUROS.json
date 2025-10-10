@@ -22687,5 +22687,14 @@
     "subcircuito": "LA VALDRAMINA 1",
     "id": "ASADERO-DE-POLLO-PICAMANGO-Z5-L-Q-L",
     "nombre_punto": "Asadero de pollo Picamango"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "HOSPITAL-GENERAL-JOSE-MARIA-VELASCO-IBARRA-Z2-N-T-P",
+    "nombre_punto": "HOSPITAL GENERAL JOSE MARIA VELASCO IBARRA"
   }
 ]
