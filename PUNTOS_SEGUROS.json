@@ -22678,5 +22678,14 @@
     "subcircuito": "SANCAN 1",
     "id": "CHIFA-LUCIA-Z4-M-J-S",
     "nombre_punto": "CHIFA LUCIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CREDITO-CHIBULEO-Z2-N-T-P",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CREDITO CHIBULEO"
   }
 ]
