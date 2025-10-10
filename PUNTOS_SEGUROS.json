@@ -22831,5 +22831,14 @@
     "subcircuito": "VALENCIA 1",
     "id": "BANCO-PICHINCHA-Z5-L-B-V",
     "nombre_punto": "BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "FARMACIA-ECONÓMICA-Z5-L-B-V",
+    "nombre_punto": "FARMACIA ECONÓMICA"
   }
 ]
