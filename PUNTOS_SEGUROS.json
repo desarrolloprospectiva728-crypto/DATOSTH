@@ -23146,5 +23146,14 @@
     "subcircuito": "BUENA FE ESTE 1",
     "id": "ASADERO-POLLOS-EL-REY-Z5-L-B-B",
     "nombre_punto": "ASADERO POLLOS EL REY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "HOSPITAL-QUINTERO-Z4-M-P-M",
+    "nombre_punto": "Hospital Quintero"
   }
 ]
