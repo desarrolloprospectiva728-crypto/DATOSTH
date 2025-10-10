@@ -22669,5 +22669,14 @@
     "subcircuito": "BUENA FE ESTE 2",
     "id": "VENTA-DE-REPUESTO5-PARA-AUTOS-LOCURA-Z5-L-B-B",
     "nombre_punto": "VENTA DE REPUESTO5 PARA AUTOS LOCURA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "SANCAN",
+    "subcircuito": "SANCAN 1",
+    "id": "CHIFA-LUCIA-Z4-M-J-S",
+    "nombre_punto": "CHIFA LUCIA"
   }
 ]
