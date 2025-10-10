@@ -22219,5 +22219,14 @@
     "subcircuito": "BARREIRO 1",
     "id": "COMEDOR-2-HERMANOS-Z5-L-B-B",
     "nombre_punto": "Comedor 2 Hermanos"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SABANA",
+    "subcircuito": "SABANA 2",
+    "id": "CRUZ-AZUL-Z5-L-B-S",
+    "nombre_punto": "CRUZ AZUL"
   }
 ]
