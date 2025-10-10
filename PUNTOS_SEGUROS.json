@@ -22390,5 +22390,32 @@
     "subcircuito": "PATRICIA PILAR 1",
     "id": "LOS-REUBICADOS-Z5-L-B-P",
     "nombre_punto": "LOS REUBICADOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "PATRICIA PILAR",
+    "subcircuito": "PATRICIA PILAR 1",
+    "id": "LOS-REUBICADOS-Z5-L-B-P",
+    "nombre_punto": "LOS REUBICADOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "DESPENSA-SAN-FRANCISCO-Z5-S-S-A",
+    "nombre_punto": "Despensa San Francisco"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "PATRICIA PILAR",
+    "subcircuito": "PATRICIA PILAR 1",
+    "id": "LOS-REUBICADOS-Z5-L-B-P",
+    "nombre_punto": "LOS REUBICADOS"
   }
 ]
