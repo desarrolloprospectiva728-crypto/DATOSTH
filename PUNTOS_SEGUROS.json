@@ -22705,5 +22705,14 @@
     "subcircuito": "PALANDACOCHA 1",
     "id": "BRITEL-FIBRA-ÓPTICA-Z2-N-T-P",
     "nombre_punto": "BRITEL FIBRA ÓPTICA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "ZAPOTAL NUEVO",
+    "subcircuito": "ZAPOTAL NUEVO 1",
+    "id": "KIOSKO-SODA-TROPICAL-Z5-L-V-Z",
+    "nombre_punto": "Kiosko Soda Tropical"
   }
 ]
