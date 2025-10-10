@@ -23137,5 +23137,14 @@
     "subcircuito": "MONUMENTOS 1",
     "id": "HOSPITAL-IESS-Z4-M-P-M",
     "nombre_punto": "Hospital IESS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 1",
+    "id": "ASADERO-POLLOS-EL-REY-Z5-L-B-B",
+    "nombre_punto": "ASADERO POLLOS EL REY"
   }
 ]
