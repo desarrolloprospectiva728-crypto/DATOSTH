@@ -22615,5 +22615,14 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "GRUPO-JATIVA-Z5-L-Q-D",
     "nombre_punto": "Grupo Jativa"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "SUPER-PATO-Z5-L-Q-S",
+    "nombre_punto": "Super Pato"
   }
 ]
