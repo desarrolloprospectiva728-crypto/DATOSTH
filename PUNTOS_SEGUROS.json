@@ -23110,5 +23110,14 @@
     "subcircuito": "MONUMENTOS 1",
     "id": "TOMA-DE-AGUA-Z4-M-P-M",
     "nombre_punto": "Toma de Agua"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "COLIMES-DE-PAJAN-Z4-M-P-M",
+    "nombre_punto": "Colimes de Pajan"
   }
 ]
