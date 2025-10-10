@@ -22318,5 +22318,23 @@
     "subcircuito": "SABANA 2",
     "id": "EL-MANGLAR-Z5-L-B-S",
     "nombre_punto": "El Manglar"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SABANA",
+    "subcircuito": "SABANA 1",
+    "id": "HUMO-Y-LEÑA-Z5-L-B-S",
+    "nombre_punto": "HUMO Y LEÑA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "GASOLINERA-SOCIO-CHOQUE-Z5-L-Q-D",
+    "nombre_punto": "Gasolinera Socio Choque"
   }
 ]
