@@ -21899,15 +21899,6 @@
   {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE ESTE",
-    "subcircuito": "BUENA FE ESTE 1",
-    "id": "DISBARATA-3D-Z5-L-B-B",
-    "nombre_punto": "DISBARATA 3D"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
     "distrito": "BABAHOYO",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 1",
@@ -21980,24 +21971,6 @@
   {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
-    "distrito": "BABAHOYO",
-    "circuito": "EL SALTO",
-    "subcircuito": "EL SALTO 1",
-    "id": "REINA-DEL-CISNE-Z5-L-B-E",
-    "nombre_punto": "REINA DEL CISNE"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE ESTE",
-    "subcircuito": "BUENA FE ESTE 2",
-    "id": "PLAZA-CENTENARIO-Z5-L-B-B",
-    "nombre_punto": "PLAZA CENTENARIO"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
     "distrito": "BUENA FE",
     "circuito": "BUENA FE ESTE",
     "subcircuito": "BUENA FE ESTE 2",
@@ -22057,15 +22030,6 @@
     "subcircuito": "EL SALTO 1",
     "id": "SUPERMARKET-SU-ECONOMÍA-Z5-L-B-E",
     "nombre_punto": "SUPERMARKET SU ECONOMÍA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BABAHOYO",
-    "circuito": "SABANA",
-    "subcircuito": "SABANA 1",
-    "id": "BARBADUM-Z5-L-B-S",
-    "nombre_punto": "BARBADUM"
   },
   {
     "zona": "ZONA 5",
@@ -22234,15 +22198,6 @@
     "subzona": "LOS RIOS",
     "distrito": "BABAHOYO",
     "circuito": "SABANA",
-    "subcircuito": "SABANA 2",
-    "id": "CRUZ-AZUL-Z5-L-B-S",
-    "nombre_punto": "CRUZ AZUL"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BABAHOYO",
-    "circuito": "SABANA",
     "subcircuito": "SABANA 1",
     "id": "FARMACIA-ECONÓMICA-Z5-L-B-S",
     "nombre_punto": "Farmacia Económica"
@@ -22350,15 +22305,6 @@
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "BABAHOYO",
-    "circuito": "SABANA",
-    "subcircuito": "SABANA 2",
-    "id": "LA-VIANDA-Z5-L-B-S",
-    "nombre_punto": "La Vianda"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BABAHOYO",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 1",
     "id": "EL-MANGLAR-1-Z5-L-B-C",
@@ -22390,5 +22336,32 @@
     "subcircuito": "EL INGENIO 1",
     "id": "PARQUE-CENTRAL-DE-LA-PARROQUIA-27-DE-ABRIL-Z7-L-E-E",
     "nombre_punto": "PARQUE CENTRAL DE LA PARROQUIA 27 DE ABRIL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "ZAPOTAL NUEVO",
+    "subcircuito": "ZAPOTAL NUEVO 1",
+    "id": "GASOLINERA-PRIMAX-Z5-L-V-Z",
+    "nombre_punto": "Gasolinera Primax"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MATA DE CACAO",
+    "subcircuito": "MATA DE CACAO 4",
+    "id": "MEGATIENDA-FASHON-GG-Z5-L-B-M",
+    "nombre_punto": "MEGATIENDA FASHON GG"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "ZAPOTAL NUEVO",
+    "subcircuito": "ZAPOTAL NUEVO 1",
+    "id": "GASOLINERA-PRIMAX-Z5-L-V-Z",
+    "nombre_punto": "Gasolinera Primax"
   }
 ]
