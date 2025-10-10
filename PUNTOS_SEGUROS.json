@@ -22165,5 +22165,14 @@
     "subcircuito": "CENTRO 1",
     "id": "COMEDOR-CHEN-Z5-L-B-C",
     "nombre_punto": "Comedor Chen"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "COMERCIAL-FIGUEROA-Z5-L-B-E",
+    "nombre_punto": "COMERCIAL FIGUEROA"
   }
 ]
