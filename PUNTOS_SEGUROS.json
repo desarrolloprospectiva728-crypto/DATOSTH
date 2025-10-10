@@ -22426,5 +22426,14 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "REPUESTOS-\"PERALTA\"-Z5-L-Q-D",
     "nombre_punto": "Repuestos \"Peralta\""
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "TIENDA-RUTA-DEL-SUR-Z5-L-Q-D",
+    "nombre_punto": "Tienda Ruta del sur"
   }
 ]
