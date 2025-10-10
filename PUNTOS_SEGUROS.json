@@ -22624,5 +22624,23 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "SUPER-PATO-Z5-L-Q-S",
     "nombre_punto": "Super Pato"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "TIENDA-MARIANITA-Z5-L-B-C",
+    "nombre_punto": "Tienda Marianita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "SERVIMOTRIZ-Z5-L-Q-L",
+    "nombre_punto": "Servimotriz"
   }
 ]
