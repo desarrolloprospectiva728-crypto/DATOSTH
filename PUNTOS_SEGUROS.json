@@ -22237,5 +22237,14 @@
     "subcircuito": "SABANA 2",
     "id": "CRUZ-AZUL-Z5-L-B-S",
     "nombre_punto": "CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SABANA",
+    "subcircuito": "SABANA 1",
+    "id": "FARMACIA-ECONÓMICA-Z5-L-B-S",
+    "nombre_punto": "Farmacia Económica"
   }
 ]
