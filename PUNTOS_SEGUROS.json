@@ -22696,5 +22696,14 @@
     "subcircuito": "GENERAL FARFAN 1",
     "id": "COMERCIAL-TITO-Z1-S-L-G",
     "nombre_punto": "COMERCIAL TITO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "BRITEL-FIBRA-ÓPTICA-Z2-N-T-P",
+    "nombre_punto": "BRITEL FIBRA ÓPTICA"
   }
 ]
