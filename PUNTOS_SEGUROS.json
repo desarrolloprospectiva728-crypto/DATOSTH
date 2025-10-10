@@ -22858,5 +22858,14 @@
     "subcircuito": "LA ERCILIA 1",
     "id": "ASADERO-TIPI-TAPA-Z5-L-V-L",
     "nombre_punto": "Asadero Tipi Tapa"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "FISCALÍA-DEL-CANTON-VALENCIA-Z5-L-B-V",
+    "nombre_punto": "FISCALÍA DEL CANTON VALENCIA"
   }
 ]
