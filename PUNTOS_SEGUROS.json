@@ -22732,5 +22732,14 @@
     "subcircuito": "PALANDACOCHA 1",
     "id": "CHISBETH-Z2-N-T-P",
     "nombre_punto": "CHISBETH"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "PAPELERIA-VITERI-Z2-N-T-P",
+    "nombre_punto": "PAPELERIA VITERI"
   }
 ]
