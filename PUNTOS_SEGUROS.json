@@ -22336,5 +22336,14 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "GASOLINERA-SOCIO-CHOQUE-Z5-L-Q-D",
     "nombre_punto": "Gasolinera Socio Choque"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SABANA",
+    "subcircuito": "SABANA 2",
+    "id": "LA-VIANDA-Z5-L-B-S",
+    "nombre_punto": "La Vianda"
   }
 ]
