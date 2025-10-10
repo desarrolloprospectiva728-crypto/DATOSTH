@@ -22372,5 +22372,14 @@
     "subcircuito": "SABANA 1",
     "id": "REY-POLLO-Z5-L-B-S",
     "nombre_punto": "Rey pollo"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "EL INGENIO",
+    "subcircuito": "EL INGENIO 1",
+    "id": "IINGRESO-A-LA-PARROQUIA-27-DE-ABRIL-Z7-L-E-E",
+    "nombre_punto": "IINGRESO A LA PARROQUIA 27 DE ABRIL"
   }
 ]
