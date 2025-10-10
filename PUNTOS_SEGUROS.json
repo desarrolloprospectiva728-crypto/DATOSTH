@@ -22714,5 +22714,14 @@
     "subcircuito": "ZAPOTAL NUEVO 1",
     "id": "KIOSKO-SODA-TROPICAL-Z5-L-V-Z",
     "nombre_punto": "Kiosko Soda Tropical"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "LIBRERIA-Y-PAPELERIA-AMAZONAS-Z2-N-T-P",
+    "nombre_punto": "LIBRERIA Y PAPELERIA AMAZONAS"
   }
 ]
