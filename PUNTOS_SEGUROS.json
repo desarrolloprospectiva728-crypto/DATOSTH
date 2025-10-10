@@ -22291,5 +22291,14 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "HOTEL-JADE-Z5-L-Q-D",
     "nombre_punto": "Hotel Jade"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SABANA",
+    "subcircuito": "SABANA 2",
+    "id": "AZUL-Z5-L-B-S",
+    "nombre_punto": "Azul"
   }
 ]
