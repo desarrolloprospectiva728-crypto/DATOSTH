@@ -14436,15 +14436,6 @@
     "nombre_punto": "LOCAL DE CELULARES PARA SMART CELL"
   },
   {
-    "zona": "ZONA 3",
-    "subzona": "COTOPAXI",
-    "distrito": "LATACUNGA",
-    "circuito": "NUEVA VIDA",
-    "subcircuito": "NUEVA VIDA 1",
-    "id": "TUTI-Z3-C-L-N",
-    "nombre_punto": "TUTI"
-  },
-  {
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
     "distrito": "ORELLANA LORETO",
@@ -22561,5 +22552,14 @@
     "subcircuito": "CENTRO 1",
     "id": "COMEDOR-DE-MAYI-Z5-L-B-C",
     "nombre_punto": "Comedor de Mayi"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
