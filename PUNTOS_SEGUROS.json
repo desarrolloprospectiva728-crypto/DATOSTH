@@ -22525,5 +22525,14 @@
     "subcircuito": "EL ENO 1",
     "id": "CYBER-LAURITA-Z1-S-L-E",
     "nombre_punto": "CYBER LAURITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "SANCAN",
+    "subcircuito": "SANCAN 1",
+    "id": "TIENDA-JEREMIAS-Z4-M-J-S",
+    "nombre_punto": "TIENDA JEREMIAS"
   }
 ]
