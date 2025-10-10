@@ -22687,5 +22687,14 @@
     "subcircuito": "PALANDACOCHA 1",
     "id": "COOPERATIVA-DE-AHORRO-Y-CREDITO-CHIBULEO-Z2-N-T-P",
     "nombre_punto": "COOPERATIVA DE AHORRO Y CREDITO CHIBULEO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "GENERAL FARFAN",
+    "subcircuito": "GENERAL FARFAN 1",
+    "id": "COMERCIAL-TITO-Z1-S-L-G",
+    "nombre_punto": "COMERCIAL TITO"
   }
 ]
