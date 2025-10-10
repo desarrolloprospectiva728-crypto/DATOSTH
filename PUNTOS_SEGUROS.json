@@ -23092,5 +23092,14 @@
     "subcircuito": "MONUMENTOS 1",
     "id": "TIENDA-JOSTEIN-LA-INVASION-Z4-M-P-M",
     "nombre_punto": "Tienda Jostein La Invasion"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "TORRE-SALVA-VIDA-SOCORRISTA-Z4-M-P-P",
+    "nombre_punto": "Torre Salva Vida Socorrista"
   }
 ]
