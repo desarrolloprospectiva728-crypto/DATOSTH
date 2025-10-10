@@ -22282,5 +22282,14 @@
     "subcircuito": "SABANA 2",
     "id": "MARGARITA-ASADO-Z5-L-B-S",
     "nombre_punto": "Margarita Asado"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "HOTEL-JADE-Z5-L-Q-D",
+    "nombre_punto": "Hotel Jade"
   }
 ]
