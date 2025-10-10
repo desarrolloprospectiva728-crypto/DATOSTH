@@ -22813,5 +22813,14 @@
     "subcircuito": "CHARAPOTO 1",
     "id": "LETRAS-SAN-JACINTO-Z4-M-S-C",
     "nombre_punto": "LETRAS SAN JACINTO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "LA ERCILIA",
+    "subcircuito": "LA ERCILIA 1",
+    "id": "CAMPELO-STOP-Z5-L-V-L",
+    "nombre_punto": "CAMPELO STOP"
   }
 ]
