@@ -22358,24 +22358,6 @@
   {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
-    "distrito": "VENTANAS",
-    "circuito": "ZAPOTAL NUEVO",
-    "subcircuito": "ZAPOTAL NUEVO 1",
-    "id": "GASOLINERA-PRIMAX-Z5-L-V-Z",
-    "nombre_punto": "Gasolinera Primax"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "PATRICIA PILAR",
-    "subcircuito": "PATRICIA PILAR 1",
-    "id": "LOS-REUBICADOS-Z5-L-B-P",
-    "nombre_punto": "LOS REUBICADOS"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
     "distrito": "BUENA FE",
     "circuito": "PATRICIA PILAR",
     "subcircuito": "PATRICIA PILAR 1",
@@ -22660,5 +22642,23 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "GASOLINERA-TRANSPORTE-VENTANAS-CTV-Z5-L-V-V",
     "nombre_punto": "Gasolinera Transporte Ventanas CTV"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "LOCAL-BABY-MAE-TIENDA-DE-ROPA-DE-BEBE-Z5-L-B-B",
+    "nombre_punto": "LOCAL BABY MAE TIENDA DE ROPA DE BEBE"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
