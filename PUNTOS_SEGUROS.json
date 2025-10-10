@@ -23029,5 +23029,14 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "TÍA-DEL-PUENTE-Z5-L-V-V",
     "nombre_punto": "TÍA DEL PUENTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "CALLE-FLORESTA-Z4-M-P-M",
+    "nombre_punto": "Night Club Calle Floresta"
   }
 ]
