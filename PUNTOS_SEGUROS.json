@@ -22552,5 +22552,14 @@
     "subcircuito": "SAN CARLOS 1",
     "id": "TIA-SAN-CARLOS-Z5-L-Q-S",
     "nombre_punto": "TIA SAN CARLOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "COMEDOR-DE-MAYI-Z5-L-B-C",
+    "nombre_punto": "Comedor de Mayi"
   }
 ]
