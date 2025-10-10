@@ -23101,5 +23101,14 @@
     "subcircuito": "PEDERNALES SUR 1",
     "id": "TORRE-SALVA-VIDA-SOCORRISTA-Z4-M-P-P",
     "nombre_punto": "Torre Salva Vida Socorrista"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "TOMA-DE-AGUA-Z4-M-P-M",
+    "nombre_punto": "Toma de Agua"
   }
 ]
