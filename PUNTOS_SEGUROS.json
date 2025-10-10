@@ -22732,5 +22732,23 @@
     "subcircuito": "LA MERCED 1",
     "id": "REPUESTOS-LENNIN-Z5-L-Q-L",
     "nombre_punto": "Repuestos Lennin"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "ALMACENES-TIA-Z5-L-Q-S",
+    "nombre_punto": "Almacenes Tia"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "GALENUS-CCNI-DE-ESPECIALIDADES-Z2-N-T-P",
+    "nombre_punto": "GALENUS CCNI DE ESPECIALIDADES"
   }
 ]
