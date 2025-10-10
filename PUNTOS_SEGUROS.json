@@ -22201,5 +22201,14 @@
     "subcircuito": "EL SALTO 1",
     "id": "SWTELECOM-Z5-L-B-E",
     "nombre_punto": "SWTELECOM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "TUTI-Z5-L-B-T",
+    "nombre_punto": "Tuti"
   }
 ]
