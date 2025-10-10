@@ -22579,5 +22579,14 @@
     "subcircuito": "OLMEDO 1",
     "id": "EXCLUSIVIDADES-NEYGIN-Z4-M-V-O",
     "nombre_punto": "EXCLUSIVIDADES NEYGIN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "ALAMCENES-SUZUKY-Z5-L-B-B",
+    "nombre_punto": "ALAMCENES SUZUKY"
   }
 ]
