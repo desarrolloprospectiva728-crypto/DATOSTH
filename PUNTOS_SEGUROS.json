@@ -22966,5 +22966,32 @@
     "subcircuito": "NUEVO SUCUMBIOS 1",
     "id": "HOTEL-REY-SALOMON-Z1-S-L-N",
     "nombre_punto": "HOTEL REY SALOMON"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "PARQUE ECOLOGICO",
+    "subcircuito": "PARQUE ECOLOGICO 1",
+    "id": "GRAN-AKI-Z1-S-L-P",
+    "nombre_punto": "GRAN AKI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "NUEVO SUCUMBIOS",
+    "subcircuito": "NUEVO SUCUMBIOS 1",
+    "id": "HOTEL-REY-SALOMON-Z1-S-L-N",
+    "nombre_punto": "HOTEL REY SALOMON"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "BANECUADOR-Z4-M-R-R",
+    "nombre_punto": "BanEcuador"
   }
 ]
