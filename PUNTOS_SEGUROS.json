@@ -22804,5 +22804,14 @@
     "subcircuito": "CHARAPOTO 1",
     "id": "LETRAS-SAN-JACINTO-Z4-M-S-C",
     "nombre_punto": "LETRAS SAN JACINTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "CHARAPOTO",
+    "subcircuito": "CHARAPOTO 1",
+    "id": "LETRAS-SAN-JACINTO-Z4-M-S-C",
+    "nombre_punto": "LETRAS SAN JACINTO"
   }
 ]
