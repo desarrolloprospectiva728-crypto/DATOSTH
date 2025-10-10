@@ -22354,5 +22354,14 @@
     "subcircuito": "SABANA 2",
     "id": "LA-VIANDA-Z5-L-B-S",
     "nombre_punto": "La Vianda"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "EL-MANGLAR-1-Z5-L-B-C",
+    "nombre_punto": "El Manglar 1"
   }
 ]
