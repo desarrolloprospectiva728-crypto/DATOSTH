@@ -22444,5 +22444,23 @@
     "subcircuito": "CENTRO 3",
     "id": "PUPUSA-Z4-S-S-C",
     "nombre_punto": "PUPUSA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 3",
+    "id": "PUPUSA-Z4-S-S-C",
+    "nombre_punto": "PUPUSA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "ZAPOTAL NUEVO",
+    "subcircuito": "ZAPOTAL NUEVO 1",
+    "id": "LAS-CABAÑITAS-Z5-L-V-Z",
+    "nombre_punto": "Las Cabañitas"
   }
 ]
