@@ -22516,5 +22516,14 @@
     "subcircuito": "BUENA FE OESTE 2",
     "id": "LOTERÍA-NACIONAL-BUENA-FE-Z5-L-B-B",
     "nombre_punto": "LOTERÍA NACIONAL BUENA FE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "EL ENO",
+    "subcircuito": "EL ENO 1",
+    "id": "CYBER-LAURITA-Z1-S-L-E",
+    "nombre_punto": "CYBER LAURITA"
   }
 ]
