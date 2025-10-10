@@ -22570,5 +22570,14 @@
     "subcircuito": "BUENA FE OESTE 2",
     "id": "FARMACIA-CRUZ-AZUL-Z5-L-B-B",
     "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "EXCLUSIVIDADES-NEYGIN-Z4-M-V-O",
+    "nombre_punto": "EXCLUSIVIDADES NEYGIN"
   }
 ]
