@@ -23047,5 +23047,14 @@
     "subcircuito": "NUEVO SUCUMBIOS 1",
     "id": "MUNDO-SPORT-JOAN-Z1-S-L-N",
     "nombre_punto": "MUNDO SPORT JOAN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "NUEVO SUCUMBIOS",
+    "subcircuito": "NUEVO SUCUMBIOS 1",
+    "id": "MUNDO-SPORT-JOAN-Z1-S-L-N",
+    "nombre_punto": "MUNDO SPORT JOAN"
   }
 ]
