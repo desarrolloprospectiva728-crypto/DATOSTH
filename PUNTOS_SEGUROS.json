@@ -23065,5 +23065,14 @@
     "subcircuito": "LA FLORIDA 1",
     "id": "CENTRO-DE-SALUD-TIPO-C-Z4-M-R-L",
     "nombre_punto": "Centro de Salud Tipo C"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "MUNICIPIO-Z4-M-P-M",
+    "nombre_punto": "Municipio"
   }
 ]
