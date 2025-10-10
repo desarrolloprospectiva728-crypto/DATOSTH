@@ -22624,5 +22624,23 @@
     "subcircuito": "PALANDACOCHA 1",
     "id": "SERVICIO-TÉCNICO-LEIDY-VIB-COMUNICACIONES-Z2-N-T-P",
     "nombre_punto": "SERVICIO TÉCNICO LEIDY VIB COMUNICACIONES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "CLÍNICA-NARCISA-DE-JESÚS-Z5-L-B-B",
+    "nombre_punto": "CLÍNICA NARCISA DE JESÚS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "GASOLINERA-TRANSPORTE-VENTANAS-CTV-Z5-L-V-V",
+    "nombre_punto": "Gasolinera Transporte Ventanas CTV"
   }
 ]
