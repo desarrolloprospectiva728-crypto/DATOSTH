@@ -23119,5 +23119,14 @@
     "subcircuito": "MONUMENTOS 1",
     "id": "COLIMES-DE-PAJAN-Z4-M-P-M",
     "nombre_punto": "Colimes de Pajan"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "CUERPO-DE-BOMBEROS-DE-PEDERNALES-Z4-M-P-P",
+    "nombre_punto": "CUERPO DE BOMBEROS DE PEDERNALES"
   }
 ]
