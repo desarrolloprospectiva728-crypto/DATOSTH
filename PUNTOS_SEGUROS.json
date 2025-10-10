@@ -22534,5 +22534,14 @@
     "subcircuito": "PALANDACOCHA 1",
     "id": "PAPELERIA-VITERI-Z2-N-T-P",
     "nombre_punto": "PAPELERIA VITERI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "MAICAO-Z5-L-Q-M",
+    "nombre_punto": "MAICAO"
   }
 ]
