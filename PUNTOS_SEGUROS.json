@@ -22363,5 +22363,14 @@
     "subcircuito": "CENTRO 1",
     "id": "EL-MANGLAR-1-Z5-L-B-C",
     "nombre_punto": "El Manglar 1"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SABANA",
+    "subcircuito": "SABANA 1",
+    "id": "REY-POLLO-Z5-L-B-S",
+    "nombre_punto": "Rey pollo"
   }
 ]
