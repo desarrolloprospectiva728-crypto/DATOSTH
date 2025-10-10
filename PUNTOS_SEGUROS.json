@@ -22534,5 +22534,14 @@
     "subcircuito": "SANCAN 1",
     "id": "TIENDA-JEREMIAS-Z4-M-J-S",
     "nombre_punto": "TIENDA JEREMIAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 2",
+    "id": "COMISARIATO-MAX-Z5-L-B-B",
+    "nombre_punto": "COMISARIATO MAX"
   }
 ]
