@@ -22381,5 +22381,14 @@
     "subcircuito": "EL INGENIO 1",
     "id": "IINGRESO-A-LA-PARROQUIA-27-DE-ABRIL-Z7-L-E-E",
     "nombre_punto": "IINGRESO A LA PARROQUIA 27 DE ABRIL"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "EL INGENIO",
+    "subcircuito": "EL INGENIO 1",
+    "id": "PARQUE-CENTRAL-DE-LA-PARROQUIA-27-DE-ABRIL-Z7-L-E-E",
+    "nombre_punto": "PARQUE CENTRAL DE LA PARROQUIA 27 DE ABRIL"
   }
 ]
