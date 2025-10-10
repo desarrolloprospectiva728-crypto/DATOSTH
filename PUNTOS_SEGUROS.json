@@ -22651,5 +22651,14 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "GASOLINERA-TRANSPORTE-VENTANAS-CTV-Z5-L-V-V",
     "nombre_punto": "Gasolinera Transporte Ventanas CTV"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "GASOLINERA-TRANSPORTE-VENTANAS-CTV-Z5-L-V-V",
+    "nombre_punto": "Gasolinera Transporte Ventanas CTV"
   }
 ]
