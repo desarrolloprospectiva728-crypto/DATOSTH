@@ -22561,5 +22561,14 @@
     "subcircuito": "CENTRO 2",
     "id": "MINI-DESPENSA-JEHOVA-Z5-L-B-C",
     "nombre_punto": "Mini Despensa Jehova"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "EXPORTADORA-AGROLAYA-Z5-L-Q-L",
+    "nombre_punto": "Exportadora Agrolaya"
   }
 ]
