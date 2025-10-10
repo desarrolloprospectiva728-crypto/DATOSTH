@@ -22678,5 +22678,14 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "CASA-DEPORTIVA-OLIMPICA-Z5-L-Q-S",
     "nombre_punto": "CASA DEPORTIVA OLIMPICA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "ASADERO-DE-POLLO-PICAMANGO-Z5-L-Q-L",
+    "nombre_punto": "Asadero de pollo Picamango"
   }
 ]
