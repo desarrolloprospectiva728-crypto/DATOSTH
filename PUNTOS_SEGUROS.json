@@ -22321,39 +22321,12 @@
   },
   {
     "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "PATRICIA PILAR",
-    "subcircuito": "PATRICIA PILAR 1",
-    "id": "LOS-REUBICADOS-Z5-L-B-P",
-    "nombre_punto": "LOS REUBICADOS"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "PATRICIA PILAR",
-    "subcircuito": "PATRICIA PILAR 1",
-    "id": "LOS-REUBICADOS-Z5-L-B-P",
-    "nombre_punto": "LOS REUBICADOS"
-  },
-  {
-    "zona": "ZONA 5",
     "subzona": "SANTA ELENA",
     "distrito": "SANTA ELENA",
     "circuito": "ATAHUALPA",
     "subcircuito": "ATAHUALPA 1",
     "id": "DESPENSA-SAN-FRANCISCO-Z5-S-S-A",
     "nombre_punto": "Despensa San Francisco"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "PATRICIA PILAR",
-    "subcircuito": "PATRICIA PILAR 1",
-    "id": "LOS-REUBICADOS-Z5-L-B-P",
-    "nombre_punto": "LOS REUBICADOS"
   },
   {
     "zona": "ZONA 5",
@@ -22383,15 +22356,6 @@
     "nombre_punto": "PUPUSA"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
-    "distrito": "SANTO DOMINGO ESTE",
-    "circuito": "CENTRO",
-    "subcircuito": "CENTRO 3",
-    "id": "PUPUSA-Z4-S-S-C",
-    "nombre_punto": "PUPUSA"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "VENTANAS",
@@ -22408,24 +22372,6 @@
     "subcircuito": "OLMEDO 1",
     "id": "KIOSKO-CACHARRI-Z4-M-V-O",
     "nombre_punto": "KIOSKO CACHARRI"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "VEINTICUATRO DE MAYO",
-    "circuito": "OLMEDO",
-    "subcircuito": "OLMEDO 1",
-    "id": "KIOSKO-CACHARRI-Z4-M-V-O",
-    "nombre_punto": "KIOSKO CACHARRI"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "MOCACHE",
-    "subcircuito": "MOCACHE 2",
-    "id": "AGROVENT-Z5-L-Q-M",
-    "nombre_punto": "Agrovent"
   },
   {
     "zona": "ZONA 5",
@@ -22532,24 +22478,6 @@
     "distrito": "BUENA FE",
     "circuito": "BUENA FE ESTE",
     "subcircuito": "BUENA FE ESTE 2",
-    "id": "ALAMCENES-SUZUKY-Z5-L-B-B",
-    "nombre_punto": "ALAMCENES SUZUKY"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE ESTE",
-    "subcircuito": "BUENA FE ESTE 2",
-    "id": "ALAMCENES-SUZUKY-Z5-L-B-B",
-    "nombre_punto": "ALAMCENES SUZUKY"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE ESTE",
-    "subcircuito": "BUENA FE ESTE 2",
     "id": "CLÍNICA-NARCISA-DE-JESÚS-Z5-L-B-B",
     "nombre_punto": "CLÍNICA NARCISA DE JESÚS"
   },
@@ -22561,33 +22489,6 @@
     "subcircuito": "PALANDACOCHA 1",
     "id": "SERVICIO-TÉCNICO-LEIDY-VIB-COMUNICACIONES-Z2-N-T-P",
     "nombre_punto": "SERVICIO TÉCNICO LEIDY VIB COMUNICACIONES"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE ESTE",
-    "subcircuito": "BUENA FE ESTE 2",
-    "id": "CLÍNICA-NARCISA-DE-JESÚS-Z5-L-B-B",
-    "nombre_punto": "CLÍNICA NARCISA DE JESÚS"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VENTANAS",
-    "circuito": "VENTANAS NORTE",
-    "subcircuito": "VENTANAS NORTE 1",
-    "id": "GASOLINERA-TRANSPORTE-VENTANAS-CTV-Z5-L-V-V",
-    "nombre_punto": "Gasolinera Transporte Ventanas CTV"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VENTANAS",
-    "circuito": "VENTANAS NORTE",
-    "subcircuito": "VENTANAS NORTE 1",
-    "id": "GASOLINERA-TRANSPORTE-VENTANAS-CTV-Z5-L-V-V",
-    "nombre_punto": "Gasolinera Transporte Ventanas CTV"
   },
   {
     "zona": "ZONA 5",
@@ -22606,15 +22507,6 @@
     "subcircuito": "BUENA FE ESTE 2",
     "id": "LOCAL-BABY-MAE-TIENDA-DE-ROPA-DE-BEBE-Z5-L-B-B",
     "nombre_punto": "LOCAL BABY MAE TIENDA DE ROPA DE BEBE"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE ESTE",
-    "subcircuito": "BUENA FE ESTE 2",
-    "id": "VENTA-DE-REPUESTO5-PARA-AUTOS-LOCURA-Z5-L-B-B",
-    "nombre_punto": "VENTA DE REPUESTO5 PARA AUTOS LOCURA"
   },
   {
     "zona": "ZONA 5",
@@ -22696,6 +22588,114 @@
     "subcircuito": "PALANDACOCHA 1",
     "id": "PAPELERIA-VITERI-Z2-N-T-P",
     "nombre_punto": "PAPELERIA VITERI"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   },
   {
     "zona": "",
