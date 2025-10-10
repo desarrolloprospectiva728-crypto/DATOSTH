@@ -23074,5 +23074,14 @@
     "subcircuito": "MONUMENTOS 1",
     "id": "MUNICIPIO-Z4-M-P-M",
     "nombre_punto": "Municipio"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "BANECUADOR-Z4-M-P-M",
+    "nombre_punto": "BanEcuador"
   }
 ]
