@@ -22597,5 +22597,14 @@
     "subcircuito": "BUENA FE ESTE 2",
     "id": "ALAMCENES-SUZUKY-Z5-L-B-B",
     "nombre_punto": "ALAMCENES SUZUKY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "ALAMCENES-SUZUKY-Z5-L-B-B",
+    "nombre_punto": "ALAMCENES SUZUKY"
   }
 ]
