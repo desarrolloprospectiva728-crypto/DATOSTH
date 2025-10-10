@@ -22471,5 +22471,23 @@
     "subcircuito": "OLMEDO 1",
     "id": "KIOSKO-CACHARRI-Z4-M-V-O",
     "nombre_punto": "KIOSKO CACHARRI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "KIOSKO-CACHARRI-Z4-M-V-O",
+    "nombre_punto": "KIOSKO CACHARRI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "AGROVENT-Z5-L-Q-M",
+    "nombre_punto": "Agrovent"
   }
 ]
