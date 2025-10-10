@@ -22543,5 +22543,14 @@
     "subcircuito": "MOCACHE 2",
     "id": "MAICAO-Z5-L-Q-M",
     "nombre_punto": "MAICAO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "TIA-SAN-CARLOS-Z5-L-Q-S",
+    "nombre_punto": "TIA SAN CARLOS"
   }
 ]
