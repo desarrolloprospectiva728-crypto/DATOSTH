@@ -22462,5 +22462,14 @@
     "subcircuito": "ZAPOTAL NUEVO 1",
     "id": "LAS-CABAÑITAS-Z5-L-V-Z",
     "nombre_punto": "Las Cabañitas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "KIOSKO-CACHARRI-Z4-M-V-O",
+    "nombre_punto": "KIOSKO CACHARRI"
   }
 ]
