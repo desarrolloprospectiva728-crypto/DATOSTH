@@ -22183,5 +22183,14 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "ANTHONY-MARKET-Z5-L-B-T",
     "nombre_punto": "Anthony Market"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "OLON",
+    "subcircuito": "OLON 1",
+    "id": "MUNDO-CANGREJO-Z5-S-S-O",
+    "nombre_punto": "Mundo cangrejo"
   }
 ]
