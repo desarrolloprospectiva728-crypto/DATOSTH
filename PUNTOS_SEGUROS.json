@@ -22156,5 +22156,14 @@
     "subcircuito": "OLON 1",
     "id": "SUPER-MARKET-OLON-Z5-S-S-O",
     "nombre_punto": "Super Market olon"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "COMEDOR-CHEN-Z5-L-B-C",
+    "nombre_punto": "Comedor Chen"
   }
 ]
