@@ -22561,5 +22561,14 @@
     "subcircuito": "BUENA FE OESTE 2",
     "id": "FARMACIA-CRUZ-Z5-L-B-B",
     "nombre_punto": "FARMACIA CRUZ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 2",
+    "id": "FARMACIA-CRUZ-AZUL-Z5-L-B-B",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
   }
 ]
