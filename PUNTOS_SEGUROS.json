@@ -22363,5 +22363,14 @@
     "subcircuito": "ZAPOTAL NUEVO 1",
     "id": "GASOLINERA-PRIMAX-Z5-L-V-Z",
     "nombre_punto": "Gasolinera Primax"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "PATRICIA PILAR",
+    "subcircuito": "PATRICIA PILAR 1",
+    "id": "LOS-REUBICADOS-Z5-L-B-P",
+    "nombre_punto": "LOS REUBICADOS"
   }
 ]
