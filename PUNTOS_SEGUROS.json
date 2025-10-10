@@ -22642,5 +22642,23 @@
     "subcircuito": "LA MERCED 1",
     "id": "SERVIMOTRIZ-Z5-L-Q-L",
     "nombre_punto": "Servimotriz"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "UNIVERSIDAD-LA-MARIA-Z5-L-Q-M",
+    "nombre_punto": "Universidad La Maria"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "ALBERCA-DEPORTIVO-CLUB-Z5-L-Q-D",
+    "nombre_punto": "Alberca deportivo club"
   }
 ]
