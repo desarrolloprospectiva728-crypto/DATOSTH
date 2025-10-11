@@ -23362,5 +23362,14 @@
     "subcircuito": "PALANDACOCHA 2",
     "id": "MECÁNICA-POPULAR-15-DE-NOVIEMBRE-Z2-N-T-P",
     "nombre_punto": "Mecánica Popular 15 de Noviembre"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "IMPORTADORA-LA-FAMILIA-Z2-N-T-P",
+    "nombre_punto": "IMPORTADORA LA FAMILIA"
   }
 ]
