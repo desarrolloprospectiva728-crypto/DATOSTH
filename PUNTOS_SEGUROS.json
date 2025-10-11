@@ -23254,5 +23254,14 @@
     "subcircuito": "LIMONCOCHA 1",
     "id": "YESYUNE-Z1-S-S-L",
     "nombre_punto": "Yesyune"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "2025-05-03T05:00:00.000Z",
+    "subcircuito": "2001-05-03T05:00:00.000Z",
+    "id": "SERVIENTREGA-Z4-M-J-3",
+    "nombre_punto": "SERVIENTREGA"
   }
 ]
