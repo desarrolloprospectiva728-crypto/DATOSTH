@@ -23434,5 +23434,14 @@
     "subcircuito": "MIRAFLORES 2",
     "id": "UNIDAD-EDUCATIVA-GIRÓN-Z4-M-M-M",
     "nombre_punto": "Unidad Educativa Girón"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "SAN VICENTE",
+    "subcircuito": "SAN VICENTE 1",
+    "id": "LOS-PERALES-AV-LEONIDAS-VEGA-AEROPUERTO-Z4-M-S-S",
+    "nombre_punto": "LOS PERALES Av LEONIDAS VEGA AEROPUERTO"
   }
 ]
