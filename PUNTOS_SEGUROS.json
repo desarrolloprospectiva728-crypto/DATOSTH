@@ -23398,5 +23398,14 @@
     "subcircuito": "ABRAS DE MANTEQUILLA 1",
     "id": "ESCUELA-PROF-JACINTO-CARLIER-Z5-L-V-A",
     "nombre_punto": "Escuela prof Jacinto Carlier"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ABRAS DE MANTEQUILLA",
+    "subcircuito": "ABRAS DE MANTEQUILLA 1",
+    "id": "EXPORTADORA-GUANGALA-Z5-L-V-A",
+    "nombre_punto": "EXPORTADORA GUANGALA"
   }
 ]
