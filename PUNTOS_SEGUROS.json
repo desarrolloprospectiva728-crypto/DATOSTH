@@ -23515,5 +23515,14 @@
     "subcircuito": "MISAHUALLI 2",
     "id": "LOCAL-Z2-N-T-M",
     "nombre_punto": "LOCAL MARIANITA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "TIENDA-EL-SUCO-Z2-N-T-M",
+    "nombre_punto": "TIENDA EL SUCO"
   }
 ]
