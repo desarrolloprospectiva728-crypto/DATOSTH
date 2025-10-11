@@ -23299,5 +23299,14 @@
     "subcircuito": "LIMONCOCHA 1",
     "id": "VÍVERES-SEBASTIÁN-Z1-S-S-L",
     "nombre_punto": "Víveres Sebastián"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "CASCOL",
+    "subcircuito": "CASCOL 1",
+    "id": "TITO-MARKET-Z4-M-P-C",
+    "nombre_punto": "Tito Market"
   }
 ]
