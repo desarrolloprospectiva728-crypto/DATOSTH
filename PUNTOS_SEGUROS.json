@@ -23191,5 +23191,23 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "IMPORTADORA-CASTRO-Z5-L-Q-S",
     "nombre_punto": "Importadora Castro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "GLOBAL-NET-Z4-M-P-P",
+    "nombre_punto": "Global net"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "SUPER-MERCADO-MARSCOL-2-Z5-L-Q-S",
+    "nombre_punto": "SUPER MERCADO MARSCOL 2"
   }
 ]
