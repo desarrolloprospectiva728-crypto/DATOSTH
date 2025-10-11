@@ -23182,5 +23182,14 @@
     "subcircuito": "LA PRADERA 1",
     "id": "U.E.-PEDRO-BALDA-CUCALON-Z4-M-M-L",
     "nombre_punto": "U.E. PEDRO BALDA CUCALON"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "IMPORTADORA-CASTRO-Z5-L-Q-S",
+    "nombre_punto": "Importadora Castro"
   }
 ]
