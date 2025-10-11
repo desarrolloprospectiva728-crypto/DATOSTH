@@ -23488,5 +23488,23 @@
     "subcircuito": "MISAHUALLI 2",
     "id": "GASONINERA-JUANITA-DE-CASTRO-Z2-N-T-M",
     "nombre_punto": "GASONINERA JUANITA DE CASTRO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "MINI-MARKET-URDESA-Z2-N-T-M",
+    "nombre_punto": "MINI MARKET URDESA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "MINI-MARKET-URDESA-Z2-N-T-M",
+    "nombre_punto": "MINI MARKET URDESA"
   }
 ]
