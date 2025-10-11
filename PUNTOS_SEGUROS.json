@@ -23236,5 +23236,14 @@
     "subcircuito": "MOCACHE 2",
     "id": "TIA-MOCACHE-Z5-L-Q-M",
     "nombre_punto": "TIA MOCACHE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LA PRIMAVERA",
+    "subcircuito": "LA PRIMAVERA 1",
+    "id": "TIENDA-MELISA-Z1-S-S-L",
+    "nombre_punto": "Tienda Melisa"
   }
 ]
