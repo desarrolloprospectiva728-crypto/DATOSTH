@@ -23317,5 +23317,14 @@
     "subcircuito": "CASCOL 1",
     "id": "COMERCIAL-DELBERT-ANDRÉS-Z4-M-P-C",
     "nombre_punto": "Comercial Delbert Andrés"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 1",
+    "id": "MECÁNICA-AUTOMOTRIZ-ELECTROMECÁNICA-VILTAJE-Z5-L-B-B",
+    "nombre_punto": "MECÁNICA AUTOMOTRIZ ELECTROMECÁNICA VILTAJE"
   }
 ]
