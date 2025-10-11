@@ -23281,5 +23281,14 @@
     "subcircuito": "LIMONCOCHA 1",
     "id": "JEYSLADY-PELUQUERIA-Z1-S-S-L",
     "nombre_punto": "JEYSLADY PELUQUERIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "AMÉRICAN-JEANS-Z2-N-T-P",
+    "nombre_punto": "AMÉRICAN JEANS"
   }
 ]
