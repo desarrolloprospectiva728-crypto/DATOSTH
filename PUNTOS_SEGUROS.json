@@ -23227,5 +23227,14 @@
     "subcircuito": "SHUSHUFINDI CENTRO 1",
     "id": "COMERCIAL-PAUTA-Z1-S-S-S",
     "nombre_punto": "Comercial Pauta"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "TIA-MOCACHE-Z5-L-Q-M",
+    "nombre_punto": "TIA MOCACHE"
   }
 ]
