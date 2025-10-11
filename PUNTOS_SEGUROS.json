@@ -23461,5 +23461,23 @@
     "subcircuito": "MISAHUALLI 2",
     "id": "LOCAL-C-L-DISTRIBUCIÓNES-Z2-N-T-M",
     "nombre_punto": "LOCAL C-L DISTRIBUCIÓNES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "MINI-MARKET-Z2-N-T-M",
+    "nombre_punto": "MINI MARKET"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "MINI-MARKET-Z2-N-T-M",
+    "nombre_punto": "MINI MARKET"
   }
 ]
