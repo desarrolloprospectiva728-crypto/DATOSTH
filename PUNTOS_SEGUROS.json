@@ -23389,5 +23389,14 @@
     "subcircuito": "PALANDACOCHA 2",
     "id": "H2OLAM-AGUA-PURIFICADA-OZONIZADA-Z2-N-T-P",
     "nombre_punto": "H2OLAM AGUA PURIFICADA OZONIZADA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ABRAS DE MANTEQUILLA",
+    "subcircuito": "ABRAS DE MANTEQUILLA 1",
+    "id": "ESCUELA-PROF-JACINTO-CARLIER-Z5-L-V-A",
+    "nombre_punto": "Escuela prof Jacinto Carlier"
   }
 ]
