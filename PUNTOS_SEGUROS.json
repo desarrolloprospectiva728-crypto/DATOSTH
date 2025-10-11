@@ -23245,5 +23245,14 @@
     "subcircuito": "LA PRIMAVERA 1",
     "id": "TIENDA-MELISA-Z1-S-S-L",
     "nombre_punto": "Tienda Melisa"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LIMONCOCHA",
+    "subcircuito": "LIMONCOCHA 1",
+    "id": "YESYUNE-Z1-S-S-L",
+    "nombre_punto": "Yesyune"
   }
 ]
