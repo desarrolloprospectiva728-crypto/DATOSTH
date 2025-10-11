@@ -23380,5 +23380,14 @@
     "subcircuito": "PALANDACOCHA 2",
     "id": "AMERICAN-CORAZON-VALIENTE-Z2-N-T-P",
     "nombre_punto": "AMERICAN CORAZON VALIENTE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "H2OLAM-AGUA-PURIFICADA-OZONIZADA-Z2-N-T-P",
+    "nombre_punto": "H2OLAM AGUA PURIFICADA OZONIZADA"
   }
 ]
