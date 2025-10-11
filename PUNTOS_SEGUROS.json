@@ -23371,5 +23371,14 @@
     "subcircuito": "PALANDACOCHA 2",
     "id": "IMPORTADORA-LA-FAMILIA-Z2-N-T-P",
     "nombre_punto": "IMPORTADORA LA FAMILIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "AMERICAN-CORAZON-VALIENTE-Z2-N-T-P",
+    "nombre_punto": "AMERICAN CORAZON VALIENTE"
   }
 ]
