@@ -23209,5 +23209,23 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "SUPER-MERCADO-MARSCOL-2-Z5-L-Q-S",
     "nombre_punto": "SUPER MERCADO MARSCOL 2"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 1",
+    "id": "COMERCIAL-PAUTA-Z1-S-S-S",
+    "nombre_punto": "Comercial Pauta"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 1",
+    "id": "COMERCIAL-PAUTA-Z1-S-S-S",
+    "nombre_punto": "Comercial Pauta"
   }
 ]
