@@ -23173,5 +23173,14 @@
     "subcircuito": "MONUMENTOS 1",
     "id": "FISCALIA-Z4-M-P-M",
     "nombre_punto": "Fiscalia"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PRADERA",
+    "subcircuito": "LA PRADERA 1",
+    "id": "U.E.-PEDRO-BALDA-CUCALON-Z4-M-M-L",
+    "nombre_punto": "U.E. PEDRO BALDA CUCALON"
   }
 ]
