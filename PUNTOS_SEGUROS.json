@@ -23407,5 +23407,14 @@
     "subcircuito": "ABRAS DE MANTEQUILLA 1",
     "id": "EXPORTADORA-GUANGALA-Z5-L-V-A",
     "nombre_punto": "EXPORTADORA GUANGALA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 2",
+    "id": "FUNDACIÓN-RÍO-MANTA-Z4-M-M-M",
+    "nombre_punto": "Fundación Río Manta"
   }
 ]
