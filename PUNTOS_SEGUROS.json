@@ -23290,5 +23290,14 @@
     "subcircuito": "PALANDACOCHA 2",
     "id": "AMÉRICAN-JEANS-Z2-N-T-P",
     "nombre_punto": "AMÉRICAN JEANS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LIMONCOCHA",
+    "subcircuito": "LIMONCOCHA 1",
+    "id": "VÍVERES-SEBASTIÁN-Z1-S-S-L",
+    "nombre_punto": "Víveres Sebastián"
   }
 ]
