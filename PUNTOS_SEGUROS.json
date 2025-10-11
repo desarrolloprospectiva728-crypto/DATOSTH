@@ -23272,5 +23272,14 @@
     "subcircuito": "LIMONCOCHA 1",
     "id": "JEYSLI-Z1-S-S-L",
     "nombre_punto": "Jeysli"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LIMONCOCHA",
+    "subcircuito": "LIMONCOCHA 1",
+    "id": "JEYSLADY-PELUQUERIA-Z1-S-S-L",
+    "nombre_punto": "JEYSLADY PELUQUERIA"
   }
 ]
