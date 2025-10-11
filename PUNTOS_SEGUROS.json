@@ -23335,5 +23335,14 @@
     "subcircuito": "BUENA FE ESTE 1",
     "id": "CENTRO-DE-FAENAMIENTO-MUNICIPAL-Z5-L-B-B",
     "nombre_punto": "CENTRO DE FAENAMIENTO MUNICIPAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 1",
+    "id": "AGRÍVOLA-PORCINO-MACHETE-Z5-L-B-B",
+    "nombre_punto": "AGRÍVOLA-PORCINO MACHETE"
   }
 ]
