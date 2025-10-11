@@ -23443,5 +23443,14 @@
     "subcircuito": "SAN VICENTE 1",
     "id": "LOS-PERALES-AV-LEONIDAS-VEGA-AEROPUERTO-Z4-M-S-S",
     "nombre_punto": "LOS PERALES Av LEONIDAS VEGA AEROPUERTO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "GYM-OLYMPUS-Z5-L-V-B",
+    "nombre_punto": "GYM OLYMPUS"
   }
 ]
