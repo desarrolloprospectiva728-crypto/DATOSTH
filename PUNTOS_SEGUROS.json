@@ -23344,5 +23344,23 @@
     "subcircuito": "BUENA FE ESTE 1",
     "id": "AGRÍVOLA-PORCINO-MACHETE-Z5-L-B-B",
     "nombre_punto": "AGRÍVOLA-PORCINO MACHETE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "MECÁNICA-POPULAR-15-DE-NOVIEMBRE-Z2-N-T-P",
+    "nombre_punto": "Mecánica Popular 15 de Noviembre"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "MECÁNICA-POPULAR-15-DE-NOVIEMBRE-Z2-N-T-P",
+    "nombre_punto": "Mecánica Popular 15 de Noviembre"
   }
 ]
