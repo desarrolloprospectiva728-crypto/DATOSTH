@@ -23308,5 +23308,14 @@
     "subcircuito": "CASCOL 1",
     "id": "TITO-MARKET-Z4-M-P-C",
     "nombre_punto": "Tito Market"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "CASCOL",
+    "subcircuito": "CASCOL 1",
+    "id": "COMERCIAL-DELBERT-ANDRÉS-Z4-M-P-C",
+    "nombre_punto": "Comercial Delbert Andrés"
   }
 ]
