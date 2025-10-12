@@ -23785,5 +23785,14 @@
     "subcircuito": "SAN SEBASTIAN 1",
     "id": "FUNERARIA-MUÑOZ-Z4-M-P-S",
     "nombre_punto": "FUNERARIA MUÑOZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 2",
+    "id": "TIA-Z4-S-S-S",
+    "nombre_punto": "Tia"
   }
 ]
