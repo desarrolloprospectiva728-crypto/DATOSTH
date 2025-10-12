@@ -23596,5 +23596,14 @@
     "subcircuito": "CENTRO 1",
     "id": "NOVICOMPU-Z4-M-M-C",
     "nombre_punto": "Novicompu"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "UPC-Z4-M-M-L",
+    "nombre_punto": "Iglesia la Merced"
   }
 ]
