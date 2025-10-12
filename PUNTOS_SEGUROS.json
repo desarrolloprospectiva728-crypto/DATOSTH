@@ -23623,5 +23623,14 @@
     "subcircuito": "MARIA AUXILIADORA 2",
     "id": "TUTI-INYERBARRIAL-Z4-M-M-M",
     "nombre_punto": "TUTI INYERBARRIAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "TIA-Z4-M-M-C",
+    "nombre_punto": "TIA"
   }
 ]
