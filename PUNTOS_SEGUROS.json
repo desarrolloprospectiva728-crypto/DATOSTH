@@ -23587,5 +23587,14 @@
     "subcircuito": "PALENQUE 1",
     "id": "SHOPPING-PALENQUE-Z5-L-V-P",
     "nombre_punto": "Shopping Palenque"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "NOVICOMPU-Z4-M-M-C",
+    "nombre_punto": "Novicompu"
   }
 ]
