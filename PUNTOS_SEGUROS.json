@@ -23830,5 +23830,23 @@
     "subcircuito": "SANTA MARTHA NORTE 2",
     "id": "TUTI-Z4-S-S-S",
     "nombre_punto": "Tuti"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ABRAS DE MANTEQUILLA",
+    "subcircuito": "ABRAS DE MANTEQUILLA 1",
+    "id": "MINI-TIENDA-ANIXA-Z5-L-V-A",
+    "nombre_punto": "Mini tienda Anixa"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ABRAS DE MANTEQUILLA",
+    "subcircuito": "ABRAS DE MANTEQUILLA 1",
+    "id": "TIENDA-YEYE-Z5-L-V-A",
+    "nombre_punto": "Tienda Yeye"
   }
 ]
