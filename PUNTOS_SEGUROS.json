@@ -23812,5 +23812,14 @@
     "subcircuito": "LOS ESTEROS 1",
     "id": "TERMINAL-TERRESTRE-CARLOS-ALBERTO-ARAY-Z4-M-M-L",
     "nombre_punto": "Terminal Terrestre Carlos Alberto Aray"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ABRAS DE MANTEQUILLA",
+    "subcircuito": "ABRAS DE MANTEQUILLA 1",
+    "id": "TALLER-DON-EPI-Z5-L-V-A",
+    "nombre_punto": "Taller Don Epi"
   }
 ]
