@@ -23821,5 +23821,14 @@
     "subcircuito": "ABRAS DE MANTEQUILLA 1",
     "id": "TALLER-DON-EPI-Z5-L-V-A",
     "nombre_punto": "Taller Don Epi"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 2",
+    "id": "TUTI-Z4-S-S-S",
+    "nombre_punto": "Tuti"
   }
 ]
