@@ -23569,5 +23569,14 @@
     "subcircuito": "MARIA AUXILIADORA 1",
     "id": "UNIDAD-EDUCATIVA-NORMA-GUERRERO-DE-CASTILLO-Z4-M-M-M",
     "nombre_punto": "UNIDAD EDUCATIVA NORMA GUERRERO DE CASTILLO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "PALENQUE",
+    "subcircuito": "PALENQUE 1",
+    "id": "PANADERI-MAZON-Z5-L-V-P",
+    "nombre_punto": "Panaderi Mazon"
   }
 ]
