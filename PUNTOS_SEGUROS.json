@@ -23506,5 +23506,14 @@
     "subcircuito": "CENTRO 1",
     "id": "COMERCIAL-AKI-Z4-M-M-C",
     "nombre_punto": "Comercial AKI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "CHONEPORT-Z4-M-M-C",
+    "nombre_punto": "Choneport"
   }
 ]
