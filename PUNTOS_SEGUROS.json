@@ -23533,5 +23533,14 @@
     "subcircuito": "LOS BAJOS 1",
     "id": "MUEBLERÍA-ISAI-Z4-M-M-L",
     "nombre_punto": "Mueblería Isai"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS BAJOS",
+    "subcircuito": "LOS BAJOS 1",
+    "id": "MUEBLERÍA-SHIRLEY-Z4-M-M-L",
+    "nombre_punto": "Mueblería Shirley"
   }
 ]
