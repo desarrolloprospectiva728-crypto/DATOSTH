@@ -23605,5 +23605,14 @@
     "subcircuito": "LEONIDAS PROAÑO 1",
     "id": "UPC-Z4-M-M-L",
     "nombre_punto": "Iglesia la Merced"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "SAN PLACIDO",
+    "subcircuito": "SAN PLACIDO 1",
+    "id": "PAPELERÍA-Y-BAZAR-KAMILITA-Z4-M-P-S",
+    "nombre_punto": "papelería y bazar kamilita"
   }
 ]
