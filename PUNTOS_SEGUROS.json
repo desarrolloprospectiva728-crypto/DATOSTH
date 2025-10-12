@@ -23875,5 +23875,14 @@
     "subcircuito": "LOS ESTEROS 1",
     "id": "TUTI-EL-PALMAR-Z4-M-M-L",
     "nombre_punto": "TUTI EL PALMAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ABRAS DE MANTEQUILLA",
+    "subcircuito": "ABRAS DE MANTEQUILLA 1",
+    "id": "LA-BENDICIÓN-DE-DIOS-Z5-L-V-A",
+    "nombre_punto": "La bendición de Dios"
   }
 ]
