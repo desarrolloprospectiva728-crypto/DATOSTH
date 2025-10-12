@@ -23848,5 +23848,14 @@
     "subcircuito": "ABRAS DE MANTEQUILLA 1",
     "id": "TIENDA-YEYE-Z5-L-V-A",
     "nombre_punto": "Tienda Yeye"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 2",
+    "id": "BARRIO-OARAISO-Z4-S-S-S",
+    "nombre_punto": "Barrio oaraiso"
   }
 ]
