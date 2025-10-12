@@ -23533,5 +23533,14 @@
     "subcircuito": "PALENQUE 1",
     "id": "TUTI-Z5-L-V-P",
     "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "PALENQUE",
+    "subcircuito": "PALENQUE 1",
+    "id": "AGROVENT-Z5-L-V-P",
+    "nombre_punto": "Agrovent"
   }
 ]
