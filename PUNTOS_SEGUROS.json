@@ -24019,5 +24019,23 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "LAS-PAPAS-D'ARO-REVELO-Z5-L-V-V",
     "nombre_punto": "Las Papas D'aro Revelo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 2",
+    "id": "PARQUE-DE-LA-MADRE-Z4-M-M-M",
+    "nombre_punto": "PARQUE DE LA MADRE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "MUNICIPIO-DE-ROCAFUERTE-Z4-M-R-R",
+    "nombre_punto": "MUNICIPIO DE ROCAFUERTE"
   }
 ]
