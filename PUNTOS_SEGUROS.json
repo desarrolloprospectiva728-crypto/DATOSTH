@@ -23947,5 +23947,14 @@
     "subcircuito": "QUINCE DE MAYO 1",
     "id": "CNE-Z5-B-G-Q",
     "nombre_punto": "CNE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "KFC-Z4-M-M-M",
+    "nombre_punto": "KFC"
   }
 ]
