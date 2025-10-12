@@ -23560,5 +23560,14 @@
     "subcircuito": "PALENQUE 1",
     "id": "TRASPORTE-FIFA-Z5-L-V-P",
     "nombre_punto": "Trasporte Fifa"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 1",
+    "id": "UNIDAD-EDUCATIVA-NORMA-GUERRERO-DE-CASTILLO-Z4-M-M-M",
+    "nombre_punto": "UNIDAD EDUCATIVA NORMA GUERRERO DE CASTILLO"
   }
 ]
