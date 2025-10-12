@@ -23220,15 +23220,6 @@
     "nombre_punto": "Comercial Pauta"
   },
   {
-    "zona": "ZONA 1",
-    "subzona": "SUCUMBIOS",
-    "distrito": "SHUSHUFINDI",
-    "circuito": "SHUSHUFINDI CENTRO",
-    "subcircuito": "SHUSHUFINDI CENTRO 1",
-    "id": "COMERCIAL-PAUTA-Z1-S-S-S",
-    "nombre_punto": "Comercial Pauta"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "QUEVEDO",
@@ -23351,24 +23342,6 @@
     "distrito": "TENA",
     "circuito": "PALANDACOCHA",
     "subcircuito": "PALANDACOCHA 2",
-    "id": "MECÁNICA-POPULAR-15-DE-NOVIEMBRE-Z2-N-T-P",
-    "nombre_punto": "Mecánica Popular 15 de Noviembre"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "PALANDACOCHA",
-    "subcircuito": "PALANDACOCHA 2",
-    "id": "MECÁNICA-POPULAR-15-DE-NOVIEMBRE-Z2-N-T-P",
-    "nombre_punto": "Mecánica Popular 15 de Noviembre"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "PALANDACOCHA",
-    "subcircuito": "PALANDACOCHA 2",
     "id": "IMPORTADORA-LA-FAMILIA-Z2-N-T-P",
     "nombre_punto": "IMPORTADORA LA FAMILIA"
   },
@@ -23477,26 +23450,8 @@
     "distrito": "TENA",
     "circuito": "MISAHUALLI",
     "subcircuito": "MISAHUALLI 2",
-    "id": "MINI-MARKET-Z2-N-T-M",
-    "nombre_punto": "MINI MARKET"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "MISAHUALLI",
-    "subcircuito": "MISAHUALLI 2",
     "id": "GASONINERA-JUANITA-DE-CASTRO-Z2-N-T-M",
     "nombre_punto": "GASONINERA JUANITA DE CASTRO"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "MISAHUALLI",
-    "subcircuito": "MISAHUALLI 2",
-    "id": "MINI-MARKET-URDESA-Z2-N-T-M",
-    "nombre_punto": "MINI MARKET URDESA"
   },
   {
     "zona": "ZONA 2",
@@ -23542,5 +23497,50 @@
     "subcircuito": "LOS BAJOS 1",
     "id": "MUEBLERÍA-SHIRLEY-Z4-M-M-L",
     "nombre_punto": "Mueblería Shirley"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
