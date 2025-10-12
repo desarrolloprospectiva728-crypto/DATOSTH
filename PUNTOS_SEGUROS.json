@@ -24046,5 +24046,14 @@
     "subcircuito": "MURCIELAGO 2",
     "id": "IGLESIA-LA-MERCED-Z4-M-M-M",
     "nombre_punto": "IGLESIA LA MERCED"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "UNIDAD-EDUCATIVA-DIEZ-DE-AGOSTO-Z5-L-V-V",
+    "nombre_punto": "Unidad Educativa Diez De Agosto"
   }
 ]
