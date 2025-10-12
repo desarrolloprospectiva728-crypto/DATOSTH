@@ -23902,5 +23902,14 @@
     "subcircuito": "SANTA MARTHA NORTE 2",
     "id": "PLAZA-SANTA-MARTHA-Z4-S-S-S",
     "nombre_punto": "Plaza santa martha"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "COMEDOR-COSTA-AZUL-Z2-N-T-M",
+    "nombre_punto": "COMEDOR COSTA AZUL"
   }
 ]
