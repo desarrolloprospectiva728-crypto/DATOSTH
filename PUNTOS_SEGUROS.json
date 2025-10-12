@@ -23803,5 +23803,14 @@
     "subcircuito": "LOS ESTEROS 3",
     "id": "TERMINAL-TERRESTRE-REINA-DEL-CAMINO-Z4-M-M-L",
     "nombre_punto": "Terminal Terrestre Reina del Camino"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 1",
+    "id": "TERMINAL-TERRESTRE-CARLOS-ALBERTO-ARAY-Z4-M-M-L",
+    "nombre_punto": "Terminal Terrestre Carlos Alberto Aray"
   }
 ]
