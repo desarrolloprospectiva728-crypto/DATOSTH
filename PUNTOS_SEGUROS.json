@@ -24055,5 +24055,14 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "UNIDAD-EDUCATIVA-DIEZ-DE-AGOSTO-Z5-L-V-V",
     "nombre_punto": "Unidad Educativa Diez De Agosto"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PILA",
+    "subcircuito": "LA PILA 1",
+    "id": "GASOLINERA-LA-PILA-JIPIJAPA-Z4-M-M-L",
+    "nombre_punto": "Gasolinera la Pila-Jipijapa"
   }
 ]
