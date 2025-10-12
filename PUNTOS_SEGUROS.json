@@ -23929,5 +23929,14 @@
     "subcircuito": "TRES DE JULIO 2",
     "id": "UNIDAD-JUDICIAL-DE-SANTO-DOMINGO-DE-LOS-TSÁCHILAS.-Z4-S-S-T",
     "nombre_punto": "UNIDAD JUDICIAL DE SANTO DOMINGO DE LOS TSÁCHILAS."
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 2",
+    "id": "SUPERMERCADOS-TUTI-Z4-S-S-T",
+    "nombre_punto": "SUPERMERCADOS TUTI"
   }
 ]
