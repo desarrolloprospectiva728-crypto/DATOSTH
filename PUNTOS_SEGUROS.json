@@ -24073,5 +24073,14 @@
     "subcircuito": "LA PILA 1",
     "id": "GASOLINERA-LA-PILA-JIPIJAPA-Z4-M-M-L",
     "nombre_punto": "Gasolinera la Pila-Jipijapa"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PILA",
+    "subcircuito": "LA PILA 1",
+    "id": "CERÁMICA-LA-PILA-Z4-M-M-L",
+    "nombre_punto": "Cerámica La Pila"
   }
 ]
