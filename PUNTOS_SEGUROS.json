@@ -23704,5 +23704,14 @@
     "subcircuito": "PALENQUE 1",
     "id": "AGROCOMERCIAL-EL-CAPITÁN-Z5-L-V-P",
     "nombre_punto": "AGROCOMERCIAL EL CAPITÁN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "PALENQUE",
+    "subcircuito": "PALENQUE 1",
+    "id": "TIENDA-IMBABURA-Z5-L-V-P",
+    "nombre_punto": "TIENDA IMBABURA"
   }
 ]
