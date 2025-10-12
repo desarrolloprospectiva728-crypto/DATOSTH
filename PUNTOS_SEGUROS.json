@@ -23983,5 +23983,23 @@
     "subcircuito": "MURCIELAGO 1",
     "id": "CASA-NIKE-Z4-M-M-M",
     "nombre_punto": "CASA NIKE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS BAJOS",
+    "subcircuito": "LOS BAJOS 1",
+    "id": "MUEBLERÍA-DON-MERO-Z4-M-M-L",
+    "nombre_punto": "Mueblería Don Mero"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "TUTI-Z4-M-M-M",
+    "nombre_punto": "TUTI"
   }
 ]
