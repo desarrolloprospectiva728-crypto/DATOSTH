@@ -23911,5 +23911,14 @@
     "subcircuito": "MISAHUALLI 2",
     "id": "COMEDOR-COSTA-AZUL-Z2-N-T-M",
     "nombre_punto": "COMEDOR COSTA AZUL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 1",
+    "id": "ALMACEN-ZONA-FRANCA-Z4-S-S-T",
+    "nombre_punto": "ALMACEN ZONA FRANCA"
   }
 ]
