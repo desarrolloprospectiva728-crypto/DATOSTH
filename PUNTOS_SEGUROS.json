@@ -23974,5 +23974,14 @@
     "subcircuito": "SANTA RITA 1",
     "id": "UNIDAD-EDUCATIVA-SANTA-RITA-Z4-M-C-S",
     "nombre_punto": "Unidad Educativa Santa Rita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "CASA-NIKE-Z4-M-M-M",
+    "nombre_punto": "CASA NIKE"
   }
 ]
