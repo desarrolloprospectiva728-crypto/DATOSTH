@@ -23542,5 +23542,23 @@
     "subcircuito": "PALENQUE 1",
     "id": "AGROVENT-Z5-L-V-P",
     "nombre_punto": "Agrovent"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "IGLESIA-LA-DOLOROSA-Z4-M-M-C",
+    "nombre_punto": "iglesia la Dolorosa"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "PALENQUE",
+    "subcircuito": "PALENQUE 1",
+    "id": "TRASPORTE-FIFA-Z5-L-V-P",
+    "nombre_punto": "Trasporte Fifa"
   }
 ]
