@@ -24037,5 +24037,14 @@
     "subcircuito": "ROCAFUERTE 2",
     "id": "MUNICIPIO-DE-ROCAFUERTE-Z4-M-R-R",
     "nombre_punto": "MUNICIPIO DE ROCAFUERTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 2",
+    "id": "IGLESIA-LA-MERCED-Z4-M-M-M",
+    "nombre_punto": "IGLESIA LA MERCED"
   }
 ]
