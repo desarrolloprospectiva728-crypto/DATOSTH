@@ -23713,5 +23713,14 @@
     "subcircuito": "PALENQUE 1",
     "id": "TIENDA-IMBABURA-Z5-L-V-P",
     "nombre_punto": "TIENDA IMBABURA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "GASOLINERA-PRIMAX-Z4-M-M-S",
+    "nombre_punto": "Gasolinera PRIMAX"
   }
 ]
