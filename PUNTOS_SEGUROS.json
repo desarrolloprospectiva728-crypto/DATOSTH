@@ -23641,5 +23641,14 @@
     "subcircuito": "PALENQUE 1",
     "id": "COMERCIAL-ESCOBAR-Z5-L-V-P",
     "nombre_punto": "COMERCIAL ESCOBAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "FIBECA-Z5-L-V-B",
+    "nombre_punto": "FIBECA"
   }
 ]
