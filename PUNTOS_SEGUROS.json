@@ -24001,5 +24001,14 @@
     "subcircuito": "MURCIELAGO 1",
     "id": "TUTI-Z4-M-M-M",
     "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "COMEDOR-DUBAI-Z4-M-M-M",
+    "nombre_punto": "COMEDOR DUBAI"
   }
 ]
