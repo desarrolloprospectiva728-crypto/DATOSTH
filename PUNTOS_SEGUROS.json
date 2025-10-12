@@ -23632,5 +23632,14 @@
     "subcircuito": "CENTRO 1",
     "id": "TIA-Z4-M-M-C",
     "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "PALENQUE",
+    "subcircuito": "PALENQUE 1",
+    "id": "COMERCIAL-ESCOBAR-Z5-L-V-P",
+    "nombre_punto": "COMERCIAL ESCOBAR"
   }
 ]
