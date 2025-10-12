@@ -23515,5 +23515,14 @@
     "subcircuito": "CENTRO 1",
     "id": "CHONEPORT-Z4-M-M-C",
     "nombre_punto": "Choneport"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "PALENQUE",
+    "subcircuito": "PALENQUE 1",
+    "id": "PAPELERÍA-PALENQUE-Z5-L-V-P",
+    "nombre_punto": "Papelería Palenque"
   }
 ]
