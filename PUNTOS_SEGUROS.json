@@ -24010,5 +24010,14 @@
     "subcircuito": "MURCIELAGO 1",
     "id": "COMEDOR-DUBAI-Z4-M-M-M",
     "nombre_punto": "COMEDOR DUBAI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "LAS-PAPAS-D'ARO-REVELO-Z5-L-V-V",
+    "nombre_punto": "Las Papas D'aro Revelo"
   }
 ]
