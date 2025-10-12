@@ -23524,5 +23524,14 @@
     "subcircuito": "MISAHUALLI 2",
     "id": "TIENDA-EL-SUCO-Z2-N-T-M",
     "nombre_punto": "TIENDA EL SUCO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS BAJOS",
+    "subcircuito": "LOS BAJOS 1",
+    "id": "MUEBLERÍA-ISAI-Z4-M-M-L",
+    "nombre_punto": "Mueblería Isai"
   }
 ]
