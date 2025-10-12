@@ -23767,5 +23767,23 @@
     "subcircuito": "SAN SEBASTIAN 1",
     "id": "CREDITOS-JORDAN-Z4-M-P-S",
     "nombre_punto": "CREDITOS JORDAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "NUEVO-TARQUI-BANECUADOR-Z4-M-M-C",
+    "nombre_punto": "NUEVO TARQUI BANECUADOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "NUEVO-TARQUI-BANECUADOR-Z4-M-M-C",
+    "nombre_punto": "NUEVO TARQUI BANECUADOR"
   }
 ]
