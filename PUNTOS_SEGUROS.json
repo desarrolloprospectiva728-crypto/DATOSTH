@@ -23884,5 +23884,14 @@
     "subcircuito": "ABRAS DE MANTEQUILLA 1",
     "id": "LA-BENDICIÓN-DE-DIOS-Z5-L-V-A",
     "nombre_punto": "La bendición de Dios"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 2",
+    "id": "PANADERIA-EL-ENCANTO-Z4-S-S-S",
+    "nombre_punto": "Panaderia el encanto"
   }
 ]
