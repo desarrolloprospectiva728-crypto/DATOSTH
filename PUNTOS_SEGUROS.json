@@ -23780,10 +23780,19 @@
   {
     "zona": "ZONA 4",
     "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CENTRO",
-    "subcircuito": "CENTRO 2",
-    "id": "NUEVO-TARQUI-BANECUADOR-Z4-M-M-C",
-    "nombre_punto": "NUEVO TARQUI BANECUADOR"
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "FUNERARIA-MUÑOZ-Z4-M-P-S",
+    "nombre_punto": "FUNERARIA MUÑOZ"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
