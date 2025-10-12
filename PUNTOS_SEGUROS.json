@@ -23722,5 +23722,14 @@
     "subcircuito": "SAN JUAN 1",
     "id": "GASOLINERA-PRIMAX-Z4-M-M-S",
     "nombre_punto": "Gasolinera PRIMAX"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "JOMAS-Z4-M-M-C",
+    "nombre_punto": "JOMAS"
   }
 ]
