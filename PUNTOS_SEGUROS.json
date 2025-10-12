@@ -23614,5 +23614,14 @@
     "subcircuito": "SAN PLACIDO 1",
     "id": "PAPELERÍA-Y-BAZAR-KAMILITA-Z4-M-P-S",
     "nombre_punto": "papelería y bazar kamilita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 2",
+    "id": "TUTI-INYERBARRIAL-Z4-M-M-M",
+    "nombre_punto": "TUTI INYERBARRIAL"
   }
 ]
