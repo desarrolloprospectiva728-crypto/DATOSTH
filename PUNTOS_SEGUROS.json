@@ -23857,5 +23857,23 @@
     "subcircuito": "SANTA MARTHA NORTE 2",
     "id": "BARRIO-OARAISO-Z4-S-S-S",
     "nombre_punto": "Barrio oaraiso"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ABRAS DE MANTEQUILLA",
+    "subcircuito": "ABRAS DE MANTEQUILLA 1",
+    "id": "PILADORA-JMM-Z5-L-V-A",
+    "nombre_punto": "Piladora JMM"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 1",
+    "id": "TUTI-EL-PALMAR-Z4-M-M-L",
+    "nombre_punto": "TUTI EL PALMAR"
   }
 ]
