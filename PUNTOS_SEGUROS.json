@@ -23758,5 +23758,14 @@
     "subcircuito": "SAN SEBASTIAN 1",
     "id": "CREDITOS-JORDAN-Z4-M-P-S",
     "nombre_punto": "CREDITOS JORDAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "CREDITOS-JORDAN-Z4-M-P-S",
+    "nombre_punto": "CREDITOS JORDAN"
   }
 ]
