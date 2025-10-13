@@ -24244,5 +24244,14 @@
     "subcircuito": "LOS ESTEROS 3",
     "id": "TIA-ESTEROS-Z4-M-M-L",
     "nombre_punto": "TIA Esteros"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 2",
+    "id": "IGLESIA-CATÓLICA-SAN-PEDRO-Y-SAN-PABLO-Z4-M-M-T",
+    "nombre_punto": "IGLESIA CATÓLICA SAN PEDRO Y SAN PABLO"
   }
 ]
