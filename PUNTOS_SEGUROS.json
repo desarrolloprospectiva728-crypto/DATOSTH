@@ -24217,5 +24217,14 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "GASOLINERA-SHELL--CALLE-15-AV-28-Z4-M-M-U",
     "nombre_punto": "GASOLINERA SHELL- CALLE 15  AV 28"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 2",
+    "id": "UE.-SAN-JOSE-Z4-M-M-T",
+    "nombre_punto": "UE. SAN JOSE"
   }
 ]
