@@ -24127,5 +24127,14 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "BADARACCO-PLAZA-Z4-M-M-U",
     "nombre_punto": "BADARACCO PLAZA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 2",
+    "id": "GASOLINERA-PRIMAX-CALLE-321-CUBA-Z4-M-M-C",
+    "nombre_punto": "GASOLINERA PRIMAX CALLE 321 CUBA"
   }
 ]
