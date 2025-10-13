@@ -24091,5 +24091,14 @@
     "subcircuito": "LA PILA 1",
     "id": "ZONA-FRANCA-Z4-M-M-L",
     "nombre_punto": "Zona Franca"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 2",
+    "id": "PARRILLADAS-PUERTO-MADERO-Z7-E-S-S",
+    "nombre_punto": "PARRILLADAS PUERTO MADERO"
   }
 ]
