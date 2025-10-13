@@ -24262,5 +24262,14 @@
     "subcircuito": "JARAMIJO 1",
     "id": "GASOLINERA-PRIMAX-FARYB-Z4-M-M-J",
     "nombre_punto": "Gasolinera Primax Faryb"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 2",
+    "id": "MECÁNICA-DG-MOTOS-Z4-M-M-J",
+    "nombre_punto": "Mecánica DG Motos"
   }
 ]
