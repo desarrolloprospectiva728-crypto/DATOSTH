@@ -24307,5 +24307,14 @@
     "subcircuito": "JARAMIJO 2",
     "id": "TÍA-JARAMIJO-Z4-M-M-J",
     "nombre_punto": "Tía Jaramijo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "2025-06-05T05:00:00.000Z",
+    "subcircuito": "2002-06-05T05:00:00.000Z",
+    "id": "COOPERATIVA-TRANSPORTE-URBANO-PUERTO-PENÍNSULAR-Z5-S-L-5",
+    "nombre_punto": "Cooperativa Transporte Urbano Puerto Penínsular"
   }
 ]
