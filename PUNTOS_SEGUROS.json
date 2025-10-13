@@ -24109,5 +24109,14 @@
     "subcircuito": "TARQUI 1",
     "id": "TIA-S.A.-TARQUII-Z4-M-M-T",
     "nombre_punto": "TIA S.A. TARQUII"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "TIA-S.A.-TARQUII-Z4-M-M-T",
+    "nombre_punto": "TIA S.A. TARQUII"
   }
 ]
