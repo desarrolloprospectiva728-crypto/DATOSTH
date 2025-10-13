@@ -24361,5 +24361,14 @@
     "subcircuito": "BABA 1",
     "id": "SUPER-MERCADO-JOSELITO-Z5-L-B-B",
     "nombre_punto": "Super mercado joselito"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 1",
+    "id": "OFICINAS-DE-LA-CTM-DEL-REDONDEL-DE-LA-TEJEDORA-Z4-M-M-M",
+    "nombre_punto": "OFICINAS DE LA CTM DEL REDONDEL DE LA TEJEDORA"
   }
 ]
