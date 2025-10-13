@@ -24100,5 +24100,14 @@
     "subcircuito": "SANTA ROSA ESTE 2",
     "id": "PARRILLADAS-PUERTO-MADERO-Z7-E-S-S",
     "nombre_punto": "PARRILLADAS PUERTO MADERO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 1",
+    "id": "CENTRO-DE-SALUD-AUGUSTO-EGAS-Z4-S-S-T",
+    "nombre_punto": "CENTRO DE SALUD AUGUSTO EGAS"
   }
 ]
