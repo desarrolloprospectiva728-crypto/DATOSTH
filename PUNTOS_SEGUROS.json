@@ -24325,5 +24325,14 @@
     "subcircuito": "TARQUI 2",
     "id": "PLAZA-DEL-MAR-Z4-M-M-T",
     "nombre_punto": "PLAZA DEL MAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BABA",
+    "subcircuito": "BABA 1",
+    "id": "TIENDA-EL-PEPIN-Z5-L-B-B",
+    "nombre_punto": "Tienda el pepin"
   }
 ]
