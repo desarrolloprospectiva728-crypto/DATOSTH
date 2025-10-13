@@ -24334,5 +24334,14 @@
     "subcircuito": "BABA 1",
     "id": "TIENDA-EL-PEPIN-Z5-L-B-B",
     "nombre_punto": "Tienda el pepin"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 2",
+    "id": "TUTI-COSTA-AZUL-Z4-M-M-L",
+    "nombre_punto": "TUTI Costa Azul"
   }
 ]
