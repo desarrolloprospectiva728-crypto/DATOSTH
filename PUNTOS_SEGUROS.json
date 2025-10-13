@@ -24379,5 +24379,14 @@
     "subcircuito": "JARAMIJO 1",
     "id": "GASOLINERA-PYS-JARAMIJO-Z4-M-M-J",
     "nombre_punto": "Gasolinera PYS Jaramijo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 3",
+    "id": "PARQUE-CRISTO-REY-Z4-M-M-T",
+    "nombre_punto": "PARQUE CRISTO REY"
   }
 ]
