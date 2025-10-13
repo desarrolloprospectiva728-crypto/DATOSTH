@@ -24136,5 +24136,14 @@
     "subcircuito": "KM 24 1",
     "id": "TENENCIA-POLÍTICA-Z2-N-T-K",
     "nombre_punto": "Tenencia Política"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "GRAN-AKI-TARQUI-Z4-M-M-T",
+    "nombre_punto": "GRAN AKI TARQUI"
   }
 ]
