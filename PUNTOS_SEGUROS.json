@@ -23949,15 +23949,6 @@
     "nombre_punto": "COMISARÍA NACIONAL DE SANTA ROSA"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "SANTA ROSA ESTE",
-    "subcircuito": "SANTA ROSA ESTE 1",
-    "id": "COMISARÍA-NACIONAL-DE-SANTA-ROSA-Z7-E-S-S",
-    "nombre_punto": "COMISARÍA NACIONAL DE SANTA ROSA"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
@@ -23976,15 +23967,6 @@
     "nombre_punto": "COMISARÍA NACIONAL DE SANTA ROSA"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "SANTA ROSA ESTE",
-    "subcircuito": "SANTA ROSA ESTE 1",
-    "id": "COMISARÍA-NACIONAL-DE-SANTA-ROSA-Z7-E-S-S",
-    "nombre_punto": "COMISARÍA NACIONAL DE SANTA ROSA"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "ROCAFUERTE",
@@ -23992,15 +23974,6 @@
     "subcircuito": "JUNCO 1",
     "id": "MUNICIPIO-DEL-CANTÓN-TOSAGUA-Z4-M-R-J",
     "nombre_punto": "Municipio del Cantón Tosagua"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "SANTA ROSA ESTE",
-    "subcircuito": "SANTA ROSA ESTE 1",
-    "id": "COMISARÍA-NACIONAL-DE-SANTA-ROSA-Z7-E-S-S",
-    "nombre_punto": "COMISARÍA NACIONAL DE SANTA ROSA"
   },
   {
     "zona": "ZONA 7",
@@ -24010,15 +23983,6 @@
     "subcircuito": "VEGA RIVERA 1",
     "id": "CENTRO-DE-SALUD-TIPO-\"A\"-LA-VICTORIA-Z7-E-S-V",
     "nombre_punto": "CENTRO DE SALUD TIPO \"A\" LA VICTORIA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "ROCAFUERTE",
-    "circuito": "JUNCO",
-    "subcircuito": "JUNCO 1",
-    "id": "MUNICIPIO-DEL-CANTÓN-TOSAGUA-Z4-M-R-J",
-    "nombre_punto": "Municipio del Cantón Tosagua"
   },
   {
     "zona": "ZONA 7",
@@ -24055,15 +24019,6 @@
     "subcircuito": "UNIVERSIDAD 1",
     "id": "PUERTA-1-ULEAM-Z4-M-M-U",
     "nombre_punto": "PUERTA 1 ULEAM"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "SANTA ROSA ESTE",
-    "subcircuito": "SANTA ROSA ESTE 1",
-    "id": "COMISARIO-DE-SANTA-ROSA-Z7-E-S-S",
-    "nombre_punto": "COMISARIO DE SANTA ROSA"
   },
   {
     "zona": "ZONA 5",
@@ -24127,5 +24082,59 @@
     "subcircuito": "SANTA ROSA ESTE 1",
     "id": "COMISARIA-Z7-E-S-S",
     "nombre_punto": "COMISARIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "AGROVIV-Z5-L-B-C",
+    "nombre_punto": "Agroviv"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 3",
+    "id": "UE-GIL-DELGADO-PINTO-Z4-M-M-T",
+    "nombre_punto": "UE GIL DELGADO PINTO"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
