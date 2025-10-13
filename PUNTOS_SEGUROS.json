@@ -24235,5 +24235,14 @@
     "subcircuito": "JARAMIJO 1",
     "id": "GASOLINERA-MAS-GAS-Z4-M-M-J",
     "nombre_punto": "Gasolinera Mas Gas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 3",
+    "id": "TIA-ESTEROS-Z4-M-M-L",
+    "nombre_punto": "TIA Esteros"
   }
 ]
