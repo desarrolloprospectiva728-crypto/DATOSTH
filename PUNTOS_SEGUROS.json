@@ -24424,5 +24424,14 @@
     "subcircuito": "TARQUI 2",
     "id": "CALLE-110-Y-AV.-111-ENTRADA-AL-7-PUÑALADAS-Z4-M-M-T",
     "nombre_punto": "CALLE 110 Y AV. 111 ENTRADA AL 7 PUÑALADAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "TENENCIA-POLÍTICA-Z2-N-T-A",
+    "nombre_punto": "Tenencia Política"
   }
 ]
