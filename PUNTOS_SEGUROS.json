@@ -24071,15 +24071,6 @@
     "distrito": "MANTA",
     "circuito": "LA PILA",
     "subcircuito": "LA PILA 1",
-    "id": "GASOLINERA-LA-PILA-JIPIJAPA-Z4-M-M-L",
-    "nombre_punto": "Gasolinera la Pila-Jipijapa"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "LA PILA",
-    "subcircuito": "LA PILA 1",
     "id": "CERÁMICA-LA-PILA-Z4-M-M-L",
     "nombre_punto": "Cerámica La Pila"
   },
@@ -24109,5 +24100,14 @@
     "subcircuito": "TRES DE JULIO 1",
     "id": "CENTRO-DE-SALUD-AUGUSTO-EGAS-Z4-S-S-T",
     "nombre_punto": "CENTRO DE SALUD AUGUSTO EGAS"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
