@@ -24316,5 +24316,14 @@
     "subcircuito": "2002-06-05T05:00:00.000Z",
     "id": "COOPERATIVA-TRANSPORTE-URBANO-PUERTO-PENÍNSULAR-Z5-S-L-5",
     "nombre_punto": "Cooperativa Transporte Urbano Puerto Penínsular"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 2",
+    "id": "PLAZA-DEL-MAR-Z4-M-M-T",
+    "nombre_punto": "PLAZA DEL MAR"
   }
 ]
