@@ -24100,5 +24100,23 @@
     "subcircuito": "LA FABRIL 2",
     "id": "LA-CABAÑA-DE-YAHVEH-Z4-M-M-L",
     "nombre_punto": "La cabaña de Yahveh"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-ANÍBAL-SAN-ANDRÉS-1-Z4-M-M-M",
+    "nombre_punto": "UNIDAD EDUCATIVA FISCAL ANÍBAL SAN ANDRÉS 1"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "FARMACIA-CRUZ-AZUL-CALLE-319-INTERBARRIAL-Z4-M-M-C",
+    "nombre_punto": "FARMACIA CRUZ AZUL CALLE 319 INTERBARRIAL"
   }
 ]
