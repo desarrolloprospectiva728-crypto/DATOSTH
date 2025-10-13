@@ -24037,5 +24037,86 @@
     "subcircuito": "TARQUI 1",
     "id": "MEGAPARQUE-CENTENARIO-AGUSTÍN-INTRIAGO-Z4-M-M-T",
     "nombre_punto": "MEGAPARQUE CENTENARIO AGUSTÍN INTRIAGO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 1",
+    "id": "COMISARIO-DE-SANTA-ROSA-Z7-E-S-S",
+    "nombre_punto": "COMISARIO DE SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "PUERTA-1-ULEAM-Z4-M-M-U",
+    "nombre_punto": "PUERTA 1 ULEAM"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 1",
+    "id": "COMISARIO-DE-SANTA-ROSA-Z7-E-S-S",
+    "nombre_punto": "COMISARIO DE SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "PIZZERIA-EL-PARCERITO-Z5-L-B-C",
+    "nombre_punto": "Pizzeria el parcerito"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "PIZZA-PARCERITO-Z5-L-B-C",
+    "nombre_punto": "Pizza Parcerito"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 1",
+    "id": "COMISARIA-DE-SANTA-ROSA-Z7-E-S-S",
+    "nombre_punto": "COMISARIA DE SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "PIZERRIA-EL-PARCERITO-Z5-L-B-C",
+    "nombre_punto": "Pizerria el Parcerito"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "UE-MARUJA-CEDEÑO-DE-DELGADO-Z4-M-M-T",
+    "nombre_punto": "UE MARUJA CEDEÑO DE DELGADO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "PAPAS,-HAMBURGUESAS-DE-BURGER-Z5-L-B-C",
+    "nombre_punto": "Papas, hamburguesas de Burger"
   }
 ]
