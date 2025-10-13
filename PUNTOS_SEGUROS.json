@@ -24118,5 +24118,23 @@
     "subcircuito": "TARQUI 1",
     "id": "TIA-S.A.-TARQUII-Z4-M-M-T",
     "nombre_punto": "TIA S.A. TARQUII"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "CENTRO-COMERCIAL-GRAN-AQUÍ-Z4-M-M-T",
+    "nombre_punto": "CENTRO COMERCIAL GRAN AQUÍ"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "TENENCIA-POLÍTICA-Z2-N-T-K",
+    "nombre_punto": "Tenencia Política"
   }
 ]
