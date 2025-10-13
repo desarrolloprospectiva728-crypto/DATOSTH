@@ -24163,5 +24163,14 @@
     "subcircuito": "LOMAS DE SARGENTILLO 1",
     "id": "LOS-ASADOS-DEL-PILA-Z5-G-P-L",
     "nombre_punto": "Los asados del Pila"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MATA DE CACAO",
+    "subcircuito": "MATA DE CACAO 4",
+    "id": "AGROQUIMICOS-SAN-ANTONIO-Z5-L-B-M",
+    "nombre_punto": "AGROQUIMICOS SAN ANTONIO"
   }
 ]
