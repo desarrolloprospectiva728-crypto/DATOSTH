@@ -24190,5 +24190,14 @@
     "subcircuito": "CASCOL 1",
     "id": "COMEDOR-BACHITA-Z4-M-P-C",
     "nombre_punto": "Comedor Bachita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z4-M-M-U",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
   }
 ]
