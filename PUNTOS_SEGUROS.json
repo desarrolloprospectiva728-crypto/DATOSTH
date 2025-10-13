@@ -24100,5 +24100,14 @@
     "subcircuito": "TRES DE JULIO 1",
     "id": "CENTRO-DE-SALUD-AUGUSTO-EGAS-Z4-S-S-T",
     "nombre_punto": "CENTRO DE SALUD AUGUSTO EGAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "TIA-S.A.-TARQUII-Z4-M-M-T",
+    "nombre_punto": "TIA S.A. TARQUII"
   }
 ]
