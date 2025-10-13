@@ -24343,5 +24343,14 @@
     "subcircuito": "LOS ESTEROS 2",
     "id": "TUTI-COSTA-AZUL-Z4-M-M-L",
     "nombre_punto": "TUTI Costa Azul"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "FERRETERÍA-MALUCIN-Z2-N-T-A",
+    "nombre_punto": "Ferretería Malucin"
   }
 ]
