@@ -24172,5 +24172,14 @@
     "subcircuito": "MATA DE CACAO 4",
     "id": "AGROQUIMICOS-SAN-ANTONIO-Z5-L-B-M",
     "nombre_punto": "AGROQUIMICOS SAN ANTONIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 1",
+    "id": "SOLUCIONES-Y-SERVICIOS-Z4-M-P-P",
+    "nombre_punto": "Soluciones y servicios"
   }
 ]
