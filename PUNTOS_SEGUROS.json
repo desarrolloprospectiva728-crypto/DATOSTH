@@ -24415,5 +24415,14 @@
     "subcircuito": "AROSEMENA TOLA 1",
     "id": "ASADERO-CONEJITO-Z2-N-T-A",
     "nombre_punto": "ASADERO CONEJITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 2",
+    "id": "CALLE-110-Y-AV.-111-ENTRADA-AL-7-PUÑALADAS-Z4-M-M-T",
+    "nombre_punto": "CALLE 110 Y AV. 111 ENTRADA AL 7 PUÑALADAS"
   }
 ]
