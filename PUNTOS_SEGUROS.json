@@ -24226,5 +24226,14 @@
     "subcircuito": "TARQUI 2",
     "id": "UE.-SAN-JOSE-Z4-M-M-T",
     "nombre_punto": "UE. SAN JOSE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 1",
+    "id": "GASOLINERA-MAS-GAS-Z4-M-M-J",
+    "nombre_punto": "Gasolinera Mas Gas"
   }
 ]
