@@ -24253,5 +24253,14 @@
     "subcircuito": "TARQUI 2",
     "id": "IGLESIA-CATÓLICA-SAN-PEDRO-Y-SAN-PABLO-Z4-M-M-T",
     "nombre_punto": "IGLESIA CATÓLICA SAN PEDRO Y SAN PABLO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 1",
+    "id": "GASOLINERA-PRIMAX-FARYB-Z4-M-M-J",
+    "nombre_punto": "Gasolinera Primax Faryb"
   }
 ]
