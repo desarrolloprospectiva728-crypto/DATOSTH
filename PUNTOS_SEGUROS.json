@@ -24136,5 +24136,14 @@
     "subcircuito": "CUBA 2",
     "id": "GASOLINERA-PRIMAX-CALLE-321-CUBA-Z4-M-M-C",
     "nombre_punto": "GASOLINERA PRIMAX CALLE 321 CUBA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "BLESSED-PHONE-Z4-M-M-M",
+    "nombre_punto": "BLESSED PHONE"
   }
 ]
