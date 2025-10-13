@@ -24442,5 +24442,14 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "PUERTA-3-ULEAM.-Z4-M-M-U",
     "nombre_punto": "PUERTA 3-ULEAM."
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "PARQUE-ANIBAL-SAN-ANDRES-Z4-M-M-M",
+    "nombre_punto": "PARQUE ANIBAL SAN ANDRES"
   }
 ]
