@@ -23958,15 +23958,6 @@
     "nombre_punto": "PUERTA 1-ULEAM"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "SANTA ROSA ESTE",
-    "subcircuito": "SANTA ROSA ESTE 1",
-    "id": "COMISARÍA-NACIONAL-DE-SANTA-ROSA-Z7-E-S-S",
-    "nombre_punto": "COMISARÍA NACIONAL DE SANTA ROSA"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "ROCAFUERTE",
@@ -23985,15 +23976,6 @@
     "nombre_punto": "CENTRO DE SALUD TIPO \"A\" LA VICTORIA"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "SANTA ROSA ESTE",
-    "subcircuito": "SANTA ROSA ESTE 1",
-    "id": "COMISARÍA-NACIONAL-DE-SANTA-ROSA-Z7-E-S-S",
-    "nombre_punto": "COMISARÍA NACIONAL DE SANTA ROSA"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
@@ -24010,15 +23992,6 @@
     "subcircuito": "SANTA ROSA ESTE 1",
     "id": "COMISARIO-DE-SANTA-ROSA-Z7-E-S-S",
     "nombre_punto": "COMISARIO DE SANTA ROSA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "UNIVERSIDAD",
-    "subcircuito": "UNIVERSIDAD 1",
-    "id": "PUERTA-1-ULEAM-Z4-M-M-U",
-    "nombre_punto": "PUERTA 1 ULEAM"
   },
   {
     "zona": "ZONA 5",
@@ -24102,22 +24075,13 @@
     "nombre_punto": "UE GIL DELGADO PINTO"
   },
   {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 2",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-CARLOS-POLIT-ORTIZ-Z4-M-M-C",
+    "nombre_punto": "UNIDAD EDUCATIVA FISCAL CARLOS POLIT ORTIZ"
   },
   {
     "zona": "",
