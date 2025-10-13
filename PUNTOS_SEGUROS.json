@@ -23929,5 +23929,14 @@
     "subcircuito": "TARQUI 1",
     "id": "GRAN-AKI-TARQUI-Z4-M-M-T",
     "nombre_punto": "GRAN AKI TARQUI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 1",
+    "id": "TIA-BAHIA-AV.-ASCAZUBI-Y-AV.-ALBERTO-SANTOS-Z4-M-S-B",
+    "nombre_punto": "TIA BAHIA AV ASCAZUBI Y AV ALBERTO SANTOS"
   }
 ]
