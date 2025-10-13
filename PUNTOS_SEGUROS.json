@@ -24208,5 +24208,14 @@
     "subcircuito": "UNIVERSIDAD 1",
     "id": "FARMACIA-CRUZ-AZUL-FRENTE-A-URB.-MANTA-2000-Z4-M-M-U",
     "nombre_punto": "FARMACIA CRUZ AZUL FRENTE A URB. MANTA 2000"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "GASOLINERA-SHELL--CALLE-15-AV-28-Z4-M-M-U",
+    "nombre_punto": "GASOLINERA SHELL- CALLE 15  AV 28"
   }
 ]
