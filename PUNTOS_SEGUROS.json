@@ -24388,5 +24388,14 @@
     "subcircuito": "TARQUI 3",
     "id": "PARQUE-CRISTO-REY-Z4-M-M-T",
     "nombre_punto": "PARQUE CRISTO REY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "MINIMARKET-YULEXI-Z2-N-T-A",
+    "nombre_punto": "Minimarket Yulexi"
   }
 ]
