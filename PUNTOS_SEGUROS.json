@@ -24145,5 +24145,14 @@
     "subcircuito": "MONTECRISTI 2",
     "id": "BLESSED-PHONE-Z4-M-M-M",
     "nombre_punto": "BLESSED PHONE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "LOMAS DE SARGENTILLO",
+    "subcircuito": "LOMAS DE SARGENTILLO 1",
+    "id": "LOS-ASADOS-DEL-PILA-Z5-G-P-L",
+    "nombre_punto": "Los asados del Pila"
   }
 ]
