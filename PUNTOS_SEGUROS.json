@@ -24397,5 +24397,14 @@
     "subcircuito": "AROSEMENA TOLA 1",
     "id": "MINIMARKET-YULEXI-Z2-N-T-A",
     "nombre_punto": "Minimarket Yulexi"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 1",
+    "id": "PARQUE-JARAMISOL-NUEVO-AMANECER-Z4-M-M-J",
+    "nombre_punto": "Parque Jaramisol Nuevo Amanecer"
   }
 ]
