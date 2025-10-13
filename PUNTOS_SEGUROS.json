@@ -24280,5 +24280,23 @@
     "subcircuito": "TARQUI 2",
     "id": "LOS-ASADOS-DE-LA-108-Z4-M-M-T",
     "nombre_punto": "LOS ASADOS DE LA 108"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "REGISTRO-CIVIL-PEDERNALES-Z4-M-P-P",
+    "nombre_punto": "Registro Civil Pedernales"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BABA",
+    "subcircuito": "BABA 1",
+    "id": "FERRETERÍA-EL-MAESTRO-BODEGA-Z5-L-B-B",
+    "nombre_punto": "Ferretería el maestro bodega"
   }
 ]
