@@ -24118,5 +24118,14 @@
     "subcircuito": "CUBA 3",
     "id": "FARMACIA-CRUZ-AZUL-CALLE-319-INTERBARRIAL-Z4-M-M-C",
     "nombre_punto": "FARMACIA CRUZ AZUL CALLE 319 INTERBARRIAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "BADARACCO-PLAZA-Z4-M-M-U",
+    "nombre_punto": "BADARACCO PLAZA"
   }
 ]
