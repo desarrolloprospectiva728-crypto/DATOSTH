@@ -24298,5 +24298,14 @@
     "subcircuito": "BABA 1",
     "id": "FERRETERÍA-EL-MAESTRO-BODEGA-Z5-L-B-B",
     "nombre_punto": "Ferretería el maestro bodega"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 2",
+    "id": "TÍA-JARAMIJO-Z4-M-M-J",
+    "nombre_punto": "Tía Jaramijo"
   }
 ]
