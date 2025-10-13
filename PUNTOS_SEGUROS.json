@@ -24370,5 +24370,14 @@
     "subcircuito": "MONTECRISTI 1",
     "id": "OFICINAS-DE-LA-CTM-DEL-REDONDEL-DE-LA-TEJEDORA-Z4-M-M-M",
     "nombre_punto": "OFICINAS DE LA CTM DEL REDONDEL DE LA TEJEDORA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 1",
+    "id": "GASOLINERA-PYS-JARAMIJO-Z4-M-M-J",
+    "nombre_punto": "Gasolinera PYS Jaramijo"
   }
 ]
