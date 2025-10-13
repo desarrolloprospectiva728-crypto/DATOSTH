@@ -24271,5 +24271,14 @@
     "subcircuito": "JARAMIJO 2",
     "id": "MECÁNICA-DG-MOTOS-Z4-M-M-J",
     "nombre_punto": "Mecánica DG Motos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 2",
+    "id": "LOS-ASADOS-DE-LA-108-Z4-M-M-T",
+    "nombre_punto": "LOS ASADOS DE LA 108"
   }
 ]
