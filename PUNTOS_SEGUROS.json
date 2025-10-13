@@ -24352,5 +24352,14 @@
     "subcircuito": "AROSEMENA TOLA 1",
     "id": "FERRETERÍA-MALUCIN-Z2-N-T-A",
     "nombre_punto": "Ferretería Malucin"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BABA",
+    "subcircuito": "BABA 1",
+    "id": "SUPER-MERCADO-JOSELITO-Z5-L-B-B",
+    "nombre_punto": "Super mercado joselito"
   }
 ]
