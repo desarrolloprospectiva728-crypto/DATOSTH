@@ -24082,5 +24082,23 @@
     "subcircuito": "CUBA 2",
     "id": "UNIDAD-EDUCATIVA-FISCAL-CARLOS-POLIT-ORTIZ-Z4-M-M-C",
     "nombre_punto": "UNIDAD EDUCATIVA FISCAL CARLOS POLIT ORTIZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "PUERTA-2-ULEAM-Z4-M-M-U",
+    "nombre_punto": "PUERTA 2 ULEAM"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 2",
+    "id": "LA-CABAÑA-DE-YAHVEH-Z4-M-M-L",
+    "nombre_punto": "La cabaña de Yahveh"
   }
 ]
