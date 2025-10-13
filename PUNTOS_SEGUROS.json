@@ -24181,5 +24181,14 @@
     "subcircuito": "PUEBLO NUEVO 1",
     "id": "SOLUCIONES-Y-SERVICIOS-Z4-M-P-P",
     "nombre_punto": "Soluciones y servicios"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "CASCOL",
+    "subcircuito": "CASCOL 1",
+    "id": "COMEDOR-BACHITA-Z4-M-P-C",
+    "nombre_punto": "Comedor Bachita"
   }
 ]
