@@ -24154,5 +24154,14 @@
     "subcircuito": "LOMAS DE SARGENTILLO 1",
     "id": "LOS-ASADOS-DEL-PILA-Z5-G-P-L",
     "nombre_punto": "Los asados del Pila"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "LOMAS DE SARGENTILLO",
+    "subcircuito": "LOMAS DE SARGENTILLO 1",
+    "id": "LOS-ASADOS-DEL-PILA-Z5-G-P-L",
+    "nombre_punto": "Los asados del Pila"
   }
 ]
