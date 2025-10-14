@@ -24487,5 +24487,14 @@
     "subcircuito": "MURCIELAGO 2",
     "id": "CASA-ROSADA-Z4-M-M-M",
     "nombre_punto": "CASA ROSADA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 2",
+    "id": "MEGAMADERA-Z4-S-S-S",
+    "nombre_punto": "Megamadera"
   }
 ]
