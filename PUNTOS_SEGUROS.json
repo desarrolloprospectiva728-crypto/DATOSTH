@@ -24883,5 +24883,32 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "PAPELERÍA-ARCHIDONA-Z2-N-T-A",
     "nombre_punto": "Papelería Archidona"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "COJIMIES",
+    "subcircuito": "COJIMIES 1",
+    "id": "TIENDA-ELIAS-Z4-M-P-C",
+    "nombre_punto": "Tienda Elias"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "COJIMIES",
+    "subcircuito": "COJIMIES 1",
+    "id": "TIENDA-ELIAS-Z4-M-P-C",
+    "nombre_punto": "Tienda Elias"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PAPELERÍA-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "Papelería Archidona"
   }
 ]
