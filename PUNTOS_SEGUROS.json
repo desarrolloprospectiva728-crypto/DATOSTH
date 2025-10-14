@@ -24820,5 +24820,14 @@
     "subcircuito": "SANTA ROSA OESTE 1",
     "id": "CRINAE--UNIDAD-DE-SERVICIO-SOCIAL-DRA-MARLENE-NIETO-DE-ESPINOZA-Z7-E-S-S",
     "nombre_punto": "CRINAE- UNIDAD DE SERVICIO SOCIAL DRA MARLENE NIETO DE ESPINOZA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "KFC-VENTANAS-Z5-L-V-V",
+    "nombre_punto": "KFC  VENTANAS"
   }
 ]
