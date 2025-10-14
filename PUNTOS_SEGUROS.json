@@ -24919,5 +24919,14 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "PAPELERÍA-ARCHIDONA-Z2-N-T-A",
     "nombre_punto": "Papelería Archidona"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PIJULLO",
+    "subcircuito": "PIJULLO 1",
+    "id": "BOTICA-MAS-SALUD-Z5-L-P-P",
+    "nombre_punto": "BOTICA MAS SALUD"
   }
 ]
