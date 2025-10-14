@@ -24478,5 +24478,14 @@
     "subcircuito": "SANTA ROSA ESTE 2",
     "id": "RESTAURANTE-CHOZA-DE-KOKO-Z7-E-S-S",
     "nombre_punto": "RESTAURANTE CHOZA DE KOKO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 2",
+    "id": "CASA-ROSADA-Z4-M-M-M",
+    "nombre_punto": "CASA ROSADA"
   }
 ]
