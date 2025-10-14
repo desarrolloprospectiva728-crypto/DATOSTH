@@ -24694,5 +24694,14 @@
     "subcircuito": "KM 24 1",
     "id": "ESTACIÓN-PLUSPETROL-Z2-N-T-K",
     "nombre_punto": "Estación Pluspetrol"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "ESTACIÓN-PLUSPETROL-Z2-N-T-K",
+    "nombre_punto": "Estación Pluspetrol"
   }
 ]
