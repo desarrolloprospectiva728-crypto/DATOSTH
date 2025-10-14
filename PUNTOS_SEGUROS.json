@@ -25027,5 +25027,14 @@
     "subcircuito": "MONTECRISTI 2",
     "id": "FARMACIA-FIBECCA-A-LADO-DE-LA-PLAZA-CIVICA-Z4-M-M-M",
     "nombre_punto": "FARMACIA FIBECCA  A LADO DE LA PLAZA CIVICA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "FARMACIA-FIBECCA-A-LADO-DE-LA-PLAZA-CIVICA-Z4-M-M-M",
+    "nombre_punto": "FARMACIA FIBECCA  A LADO DE LA PLAZA CIVICA"
   }
 ]
