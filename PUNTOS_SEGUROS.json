@@ -24730,5 +24730,14 @@
     "subcircuito": "SAN JUAN 1",
     "id": "CANCHA-TOMALA-Z5-L-P-S",
     "nombre_punto": "CANCHA TOMALA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "GASOLINERA-DOLE-Z5-L-P-S",
+    "nombre_punto": "GASOLINERA DOLE"
   }
 ]
