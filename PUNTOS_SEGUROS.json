@@ -24775,5 +24775,23 @@
     "subcircuito": "MONTECRISTI 2",
     "id": "LOCAL-ALMACENES-TÍA-Z4-M-M-M",
     "nombre_punto": "LOCAL ALMACENES TÍA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 1",
+    "id": "C.D.I.-10-DE-AGOSTO-Z4-M-P-E",
+    "nombre_punto": "C.D.I. 10 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 1",
+    "id": "C.D.I.-10-DE-AGOSTO-Z4-M-P-E",
+    "nombre_punto": "C.D.I. 10 DE AGOSTO"
   }
 ]
