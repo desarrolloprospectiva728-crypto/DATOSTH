@@ -24964,5 +24964,14 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
     "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
+    "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
   }
 ]
