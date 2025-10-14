@@ -24451,5 +24451,14 @@
     "subcircuito": "MONTECRISTI 2",
     "id": "PARQUE-ANIBAL-SAN-ANDRES-Z4-M-M-M",
     "nombre_punto": "PARQUE ANIBAL SAN ANDRES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "RESTAURANTE-ROLLWINGS-Z4-M-M-U",
+    "nombre_punto": "RESTAURANTE ROLLWINGS"
   }
 ]
