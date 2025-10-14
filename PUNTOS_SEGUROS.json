@@ -24161,15 +24161,6 @@
     "distrito": "MANTA",
     "circuito": "UNIVERSIDAD",
     "subcircuito": "UNIVERSIDAD 1",
-    "id": "FARMACIA-CRUZ-AZUL-Z4-M-M-U",
-    "nombre_punto": "FARMACIA CRUZ AZUL"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "UNIVERSIDAD",
-    "subcircuito": "UNIVERSIDAD 1",
     "id": "FARMACIA-CRUZ-AZUL-FRENTE-A-URB.-MANTA-2000-Z4-M-M-U",
     "nombre_punto": "FARMACIA CRUZ AZUL FRENTE A URB. MANTA 2000"
   },
@@ -24568,5 +24559,23 @@
     "subcircuito": "AROSEMENA TOLA 1",
     "id": "TSATSAYAKU-Z2-N-T-A",
     "nombre_punto": "TSATSAYAKU"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LA CALERA",
+    "subcircuito": "LA CALERA 1",
+    "id": "LOCAL-MEGA-SPEEDY-Z3-C-L-L",
+    "nombre_punto": "LOCAL MEGA SPEEDY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "TIENDA-MARIUXI-/-CDLA.-25-(FONDO)-Z5-L-P-P",
+    "nombre_punto": "Tienda Mariuxi / Cdla. 25 (Fondo)"
   }
 ]
