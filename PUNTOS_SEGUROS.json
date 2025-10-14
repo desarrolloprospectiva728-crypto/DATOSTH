@@ -24577,5 +24577,50 @@
     "subcircuito": "PUEBLO VIEJO 1",
     "id": "TIENDA-MARIUXI-/-CDLA.-25-(FONDO)-Z5-L-P-P",
     "nombre_punto": "Tienda Mariuxi / Cdla. 25 (Fondo)"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LA CALERA",
+    "subcircuito": "LA CALERA 1",
+    "id": "LOCAL-MEGA-SPEEDY-Z3-C-L-L",
+    "nombre_punto": "LOCAL MEGA SPEEDY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LA CALERA",
+    "subcircuito": "LA CALERA 1",
+    "id": "LOCAL-MEGA-SPEEDY-Z3-C-L-L",
+    "nombre_punto": "LOCAL MEGA SPEEDY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "BLANQUIS-PLAZA-Z4-M-R-L",
+    "nombre_punto": "Blanquis Plaza"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "BOTICA-ECONOFAR-Z2-N-T-K",
+    "nombre_punto": "Botica Econofar"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "BLANQUIS-PLAZA-Z4-M-R-L",
+    "nombre_punto": "Blanquis Plaza"
   }
 ]
