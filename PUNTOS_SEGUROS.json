@@ -24910,5 +24910,14 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "PAPELERÍA-ARCHIDONA-Z2-N-T-A",
     "nombre_punto": "Papelería Archidona"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PAPELERÍA-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "Papelería Archidona"
   }
 ]
