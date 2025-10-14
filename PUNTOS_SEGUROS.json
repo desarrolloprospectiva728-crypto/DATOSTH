@@ -24496,5 +24496,14 @@
     "subcircuito": "SANTA MARTHA NORTE 2",
     "id": "MEGAMADERA-Z4-S-S-S",
     "nombre_punto": "Megamadera"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "LA ERCILIA",
+    "subcircuito": "LA ERCILIA 1",
+    "id": "FERRETERÍA-LA-ERCILIA-Z5-L-V-L",
+    "nombre_punto": "Ferretería La Ercilia"
   }
 ]
