@@ -24811,5 +24811,14 @@
     "subcircuito": "PUEBLO VIEJO 1",
     "id": "TIENDA-CDLA.-SAN-FELIPE-/-CASA-BLANCA-1-PISO-Z5-L-P-P",
     "nombre_punto": "Tienda Cdla. San Felipe / Casa Blanca 1 piso"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA OESTE",
+    "subcircuito": "SANTA ROSA OESTE 1",
+    "id": "CRINAE--UNIDAD-DE-SERVICIO-SOCIAL-DRA-MARLENE-NIETO-DE-ESPINOZA-Z7-E-S-S",
+    "nombre_punto": "CRINAE- UNIDAD DE SERVICIO SOCIAL DRA MARLENE NIETO DE ESPINOZA"
   }
 ]
