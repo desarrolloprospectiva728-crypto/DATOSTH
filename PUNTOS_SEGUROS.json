@@ -24622,5 +24622,23 @@
     "subcircuito": "LA FLORIDA 1",
     "id": "BLANQUIS-PLAZA-Z4-M-R-L",
     "nombre_punto": "Blanquis Plaza"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "BLANQUIS-PLAZA-Z4-M-R-L",
+    "nombre_punto": "Blanquis Plaza"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "TIENDA-SANTIAGUITO-Z2-N-T-K",
+    "nombre_punto": "Tienda Santiaguito"
   }
 ]
