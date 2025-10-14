@@ -24739,5 +24739,14 @@
     "subcircuito": "SAN JUAN 1",
     "id": "GASOLINERA-DOLE-Z5-L-P-S",
     "nombre_punto": "GASOLINERA DOLE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "GASOLINERA-PRIMAX-Y-DE-MONTECRISTI-Z4-M-M-M",
+    "nombre_punto": "GASOLINERA PRIMAX Y DE MONTECRISTI"
   }
 ]
