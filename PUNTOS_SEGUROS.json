@@ -24505,5 +24505,14 @@
     "subcircuito": "LA ERCILIA 1",
     "id": "FERRETERÍA-LA-ERCILIA-Z5-L-V-L",
     "nombre_punto": "Ferretería La Ercilia"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "LA ERCILIA",
+    "subcircuito": "LA ERCILIA 1",
+    "id": "LUBRICENTRO-LA-ERCILIA-Z5-L-V-L",
+    "nombre_punto": "Lubricentro La Ercilia"
   }
 ]
