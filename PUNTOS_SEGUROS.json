@@ -24793,5 +24793,14 @@
     "subcircuito": "EL FLORON 1",
     "id": "C.D.I.-10-DE-AGOSTO-Z4-M-P-E",
     "nombre_punto": "C.D.I. 10 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 2",
+    "id": "C.D.I.-LA-ORQUÍDEAS-Z4-M-P-E",
+    "nombre_punto": "C.D.I. LA ORQUÍDEAS"
   }
 ]
