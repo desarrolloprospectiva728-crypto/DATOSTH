@@ -24838,5 +24838,23 @@
     "subcircuito": "MURCIELAGO 1",
     "id": "BANCO-DE-GUAYAQUIL-Z4-M-M-M",
     "nombre_punto": "BANCO DE GUAYAQUIL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "DISENSA-LA-UNIÓN-Z5-L-B-L",
+    "nombre_punto": "Disensa La Unión"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 1",
+    "id": "UNIDAD-EDUCATIVA-TIERRA-SANTA-Z4-M-M-M",
+    "nombre_punto": "UNIDAD EDUCATIVA TIERRA SANTA"
   }
 ]
