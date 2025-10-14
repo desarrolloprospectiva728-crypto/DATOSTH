@@ -24559,5 +24559,14 @@
     "subcircuito": "KM 24 1",
     "id": "PANADERÍA-EL-DORADO-Z2-N-T-K",
     "nombre_punto": "Panadería El dorado"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "EL-GRAN-CHONERO-Z4-M-P-P",
+    "nombre_punto": "El Gran Chonero"
   }
 ]
