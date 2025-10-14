@@ -24829,5 +24829,14 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "KFC-VENTANAS-Z5-L-V-V",
     "nombre_punto": "KFC  VENTANAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "BANCO-DE-GUAYAQUIL-Z4-M-M-M",
+    "nombre_punto": "BANCO DE GUAYAQUIL"
   }
 ]
