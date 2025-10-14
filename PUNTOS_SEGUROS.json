@@ -24523,5 +24523,14 @@
     "subcircuito": "MEJIA 1",
     "id": "LOCAL-VERDURAS-Y-FRUTAS-Z4-M-P-M",
     "nombre_punto": "Local Verduras y Frutas"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "TIENDA-GALO-CEDEÑO-/-FRENTE-A-LA-CANCHA-Z5-L-P-P",
+    "nombre_punto": "Tienda Galo Cedeño / Frente a la cancha"
   }
 ]
