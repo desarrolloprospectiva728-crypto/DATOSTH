@@ -24469,5 +24469,14 @@
     "subcircuito": "MONTECRISTI 1",
     "id": "GASOLINERA-SAN-ANTONIO-PETROECUADOR-Z4-M-M-M",
     "nombre_punto": "Gasolinera San Antonio Petroecuador"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 2",
+    "id": "RESTAURANTE-CHOZA-DE-KOKO-Z7-E-S-S",
+    "nombre_punto": "RESTAURANTE CHOZA DE KOKO"
   }
 ]
