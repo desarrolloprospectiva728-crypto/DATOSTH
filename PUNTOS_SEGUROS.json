@@ -24757,5 +24757,14 @@
     "subcircuito": "EL FLORON 3",
     "id": "C.D.I.-NUEVO-AMANECER-Z4-M-P-E",
     "nombre_punto": "C.D.I. NUEVO AMANECER"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 3",
+    "id": "C.D.I.-NUEVO-AMANECER-Z4-M-P-E",
+    "nombre_punto": "C.D.I. NUEVO AMANECER"
   }
 ]
