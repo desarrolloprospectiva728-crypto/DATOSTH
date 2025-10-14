@@ -24856,5 +24856,23 @@
     "subcircuito": "MONTECRISTI 1",
     "id": "UNIDAD-EDUCATIVA-TIERRA-SANTA-Z4-M-M-M",
     "nombre_punto": "UNIDAD EDUCATIVA TIERRA SANTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "COJIMIES",
+    "subcircuito": "COJIMIES 1",
+    "id": "TIENDA-RAQUELITA-Z4-M-P-C",
+    "nombre_punto": "Tienda raquelita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "COJIMIES",
+    "subcircuito": "COJIMIES 1",
+    "id": "BAR-3-HERMANOS-Z4-M-P-C",
+    "nombre_punto": "Bar 3 hermanos"
   }
 ]
