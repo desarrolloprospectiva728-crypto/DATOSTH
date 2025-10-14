@@ -24514,5 +24514,14 @@
     "subcircuito": "MEJIA 1",
     "id": "LOCAL-VERDURAS-Y-FRUTAS-Z4-M-P-M",
     "nombre_punto": "Local Verduras y Frutas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "MEJIA",
+    "subcircuito": "MEJIA 1",
+    "id": "LOCAL-VERDURAS-Y-FRUTAS-Z4-M-P-M",
+    "nombre_punto": "Local Verduras y Frutas"
   }
 ]
