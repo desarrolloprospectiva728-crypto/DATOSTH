@@ -24460,5 +24460,14 @@
     "subcircuito": "UNIVERSIDAD 1",
     "id": "RESTAURANTE-ROLLWINGS-Z4-M-M-U",
     "nombre_punto": "RESTAURANTE ROLLWINGS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 1",
+    "id": "GASOLINERA-SAN-ANTONIO-PETROECUADOR-Z4-M-M-M",
+    "nombre_punto": "Gasolinera San Antonio Petroecuador"
   }
 ]
