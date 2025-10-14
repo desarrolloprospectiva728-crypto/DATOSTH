@@ -25036,5 +25036,14 @@
     "subcircuito": "MONTECRISTI 2",
     "id": "FARMACIA-FIBECCA-A-LADO-DE-LA-PLAZA-CIVICA-Z4-M-M-M",
     "nombre_punto": "FARMACIA FIBECCA  A LADO DE LA PLAZA CIVICA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "BODEGA-MOYA-2-Z2-N-T-A",
+    "nombre_punto": "Bodega Moya 2"
   }
 ]
