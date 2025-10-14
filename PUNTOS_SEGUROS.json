@@ -24712,5 +24712,14 @@
     "subcircuito": "DANZARIN 1",
     "id": "HOSPITAL-ENERGIA-Y-VIDA-Z4-M-R-D",
     "nombre_punto": "HOSPITAL ENERGIA Y VIDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "IGLESIA-MONSERRATE-MONTECRISTI-Z4-M-M-M",
+    "nombre_punto": "IGLESIA MONSERRATE MONTECRISTI"
   }
 ]
