@@ -24685,5 +24685,14 @@
     "subcircuito": "EL FLORON 3",
     "id": "C.D.I.-CORAZÓN-DE-NIÑO.-Z4-M-P-E",
     "nombre_punto": "C.D.I. Corazón de Niño."
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "ESTACIÓN-PLUSPETROL-Z2-N-T-K",
+    "nombre_punto": "Estación Pluspetrol"
   }
 ]
