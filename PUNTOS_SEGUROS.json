@@ -25000,5 +25000,23 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
     "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "GRAL SERRANO",
+    "subcircuito": "GRAL SERRANO 1",
+    "id": "DISTRIBUIDORA-FEIJOO-Z7-E-M-G",
+    "nombre_punto": "DISTRIBUIDORA FEIJOO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
+    "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
   }
 ]
