@@ -24802,5 +24802,14 @@
     "subcircuito": "EL FLORON 2",
     "id": "C.D.I.-LA-ORQUÍDEAS-Z4-M-P-E",
     "nombre_punto": "C.D.I. LA ORQUÍDEAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "TIENDA-CDLA.-SAN-FELIPE-/-CASA-BLANCA-1-PISO-Z5-L-P-P",
+    "nombre_punto": "Tienda Cdla. San Felipe / Casa Blanca 1 piso"
   }
 ]
