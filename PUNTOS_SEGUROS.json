@@ -24874,5 +24874,14 @@
     "subcircuito": "COJIMIES 1",
     "id": "BAR-3-HERMANOS-Z4-M-P-C",
     "nombre_punto": "Bar 3 hermanos"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PAPELERÍA-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "Papelería Archidona"
   }
 ]
