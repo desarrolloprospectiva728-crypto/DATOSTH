@@ -25018,5 +25018,14 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
     "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "FARMACIA-FIBECCA-A-LADO-DE-LA-PLAZA-CIVICA-Z4-M-M-M",
+    "nombre_punto": "FARMACIA FIBECCA  A LADO DE LA PLAZA CIVICA"
   }
 ]
