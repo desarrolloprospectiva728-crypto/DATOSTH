@@ -24516,15 +24516,6 @@
     "nombre_punto": "Local Verduras y Frutas"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "MEJIA",
-    "subcircuito": "MEJIA 1",
-    "id": "LOCAL-VERDURAS-Y-FRUTAS-Z4-M-P-M",
-    "nombre_punto": "Local Verduras y Frutas"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "PUEBLOVIEJO",
@@ -24568,5 +24559,23 @@
     "subcircuito": "PORTOVIEJO 3",
     "id": "EL-GRAN-CHONERO-Z4-M-P-P",
     "nombre_punto": "El Gran Chonero"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "TIA-CENTRO-Z5-L-V-V",
+    "nombre_punto": "TIA CENTRO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "COMEDOR-QUINTA-FOOD-GRILL-/-VÍA-CATARAMA-Z5-L-P-P",
+    "nombre_punto": "Comedor Quinta Food Grill / Vía Catarama"
   }
 ]
