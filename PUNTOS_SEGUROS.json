@@ -23985,15 +23985,6 @@
     "nombre_punto": "MEGAPARQUE CENTENARIO AGUSTÍN INTRIAGO"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "SANTA ROSA ESTE",
-    "subcircuito": "SANTA ROSA ESTE 1",
-    "id": "COMISARIO-DE-SANTA-ROSA-Z7-E-S-S",
-    "nombre_punto": "COMISARIO DE SANTA ROSA"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "BABAHOYO",
@@ -24010,15 +24001,6 @@
     "subcircuito": "CENTRO 1",
     "id": "PIZZA-PARCERITO-Z5-L-B-C",
     "nombre_punto": "Pizza Parcerito"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "SANTA ROSA ESTE",
-    "subcircuito": "SANTA ROSA ESTE 1",
-    "id": "COMISARIA-DE-SANTA-ROSA-Z7-E-S-S",
-    "nombre_punto": "COMISARIA DE SANTA ROSA"
   },
   {
     "zona": "ZONA 5",
@@ -24046,15 +24028,6 @@
     "subcircuito": "CENTRO 1",
     "id": "PAPAS,-HAMBURGUESAS-DE-BURGER-Z5-L-B-C",
     "nombre_punto": "Papas, hamburguesas de Burger"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "SANTA ROSA ESTE",
-    "subcircuito": "SANTA ROSA ESTE 1",
-    "id": "COMISARIA-Z7-E-S-S",
-    "nombre_punto": "COMISARIA"
   },
   {
     "zona": "ZONA 5",
@@ -24577,5 +24550,41 @@
     "subcircuito": "PUEBLO VIEJO 1",
     "id": "COMEDOR-QUINTA-FOOD-GRILL-/-VÍA-CATARAMA-Z5-L-P-P",
     "nombre_punto": "Comedor Quinta Food Grill / Vía Catarama"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "VILORE-RESTAURANT-Z4-M-P-P",
+    "nombre_punto": "Vilore Restaurant"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "TSATSAYAKU-Z2-N-T-A",
+    "nombre_punto": "TSATSAYAKU"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
