@@ -24721,5 +24721,14 @@
     "subcircuito": "MONTECRISTI 2",
     "id": "IGLESIA-MONSERRATE-MONTECRISTI-Z4-M-M-M",
     "nombre_punto": "IGLESIA MONSERRATE MONTECRISTI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "CANCHA-TOMALA-Z5-L-P-S",
+    "nombre_punto": "CANCHA TOMALA"
   }
 ]
