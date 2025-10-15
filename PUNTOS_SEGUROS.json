@@ -25207,5 +25207,32 @@
     "subcircuito": "CHARAPOTO 1",
     "id": "SECTOR-SAN-CLEMENTE-Z4-M-S-C",
     "nombre_punto": "SECTOR SAN CLEMENTE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "TUTI-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "TUTI ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LA CALERA",
+    "subcircuito": "LA CALERA 1",
+    "id": "MULTISA-Z3-C-L-L",
+    "nombre_punto": "MULTISA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "LA CALERA",
+    "subcircuito": "LA CALERA 1",
+    "id": "MULTISA-Z3-C-L-L",
+    "nombre_punto": "MULTISA"
   }
 ]
