@@ -24928,5 +24928,50 @@
     "subcircuito": "SAN PLACIDO 1",
     "id": "PARQUE-SAN-PLÁCIDO-Z4-M-P-S",
     "nombre_punto": "parque san plácido"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "TIENDA-LALITA-Z3-C-A-A",
+    "nombre_punto": "TIENDA LALITA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "TIENDA-LALITA-Z3-C-A-A",
+    "nombre_punto": "TIENDA LALITA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "TIENDA-LALITA-Z3-C-A-A",
+    "nombre_punto": "TIENDA LALITA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "DIECINUEVE DE NOVIEMBRE ",
+    "subcircuito": "DIECINUEVE DE NOVIEMBRE 1",
+    "id": "CENTRO-COMERCIAL-LAS-PALMERAS-Z7-E-M-D",
+    "nombre_punto": "Centro Comercial Las Palmeras"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "COMERCIAL-DANIELITO-1-Z2-N-T-A",
+    "nombre_punto": "Comercial Danielito 1"
   }
 ]
