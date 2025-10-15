@@ -25135,5 +25135,14 @@
     "subcircuito": "EL CHACO 1",
     "id": "TERCENA-DON-PATITO-Z2-N-E-E",
     "nombre_punto": "TERCENA DON PATITO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "SERVIENTREGA-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "SERVIENTREGA ARCHIDONA"
   }
 ]
