@@ -25261,5 +25261,14 @@
     "subcircuito": "PORTOVIEJO 3",
     "id": "SODA-BAR-CARAMEL-Z4-M-P-P",
     "nombre_punto": "Soda Bar Caramel"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "HOSPITAL-JAIME-ROLDOS-AGUILERA-Z5-L-V-V",
+    "nombre_punto": "Hospital Jaime Roldos Aguilera"
   }
 ]
