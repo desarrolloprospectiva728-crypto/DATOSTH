@@ -23457,15 +23457,6 @@
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
-    "circuito": "MARIA AUXILIADORA",
-    "subcircuito": "MARIA AUXILIADORA 2",
-    "id": "TUTI-INYERBARRIAL-Z4-M-M-M",
-    "nombre_punto": "TUTI INYERBARRIAL"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 1",
     "id": "TIA-Z4-M-M-C",
@@ -25198,5 +25189,41 @@
     "subcircuito": "MISAHUALLI 2",
     "id": "FERRETERIA-FEGA-Z2-N-T-M",
     "nombre_punto": "FERRETERIA FEGA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUERTO PECHICHE",
+    "subcircuito": "PUERTO PECHICHE 1",
+    "id": "BANCO-DEL-BARRIO-VENTA-DE-ARROZ-EMILY-Z5-L-P-P",
+    "nombre_punto": "BANCO DEL BARRIO VENTA DE ARROZ EMILY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUERTO PECHICHE",
+    "subcircuito": "PUERTO PECHICHE 1",
+    "id": "BANCO-DEL-BARRIO-VENTA-DE-ARROZ-EMILY-Z5-L-P-P",
+    "nombre_punto": "BANCO DEL BARRIO VENTA DE ARROZ EMILY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUERTO PECHICHE",
+    "subcircuito": "PUERTO PECHICHE 1",
+    "id": "VENTA-DE-ARROZ-EMILY-BANCO-DEL-BARRIO---BANCO-MI-VECINO-BANCO-PACIFICO-Z5-L-P-P",
+    "nombre_punto": "VENTA DE ARROZ EMILY  BANCO DEL BARRIO - BANCO MI VECINO BANCO PACIFICO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "HOTEL-QUINSALOMA-Z5-L-V-Q",
+    "nombre_punto": "HOTEL QUINSALOMA"
   }
 ]
