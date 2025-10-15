@@ -25324,5 +25324,14 @@
     "subcircuito": "CATARAMA 1",
     "id": "MILLO-GYM-Z5-L-P-C",
     "nombre_punto": "MILLO GYM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "MILLO-GYM-Z5-L-P-C",
+    "nombre_punto": "MILLO GYM"
   }
 ]
