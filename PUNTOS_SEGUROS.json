@@ -25018,5 +25018,59 @@
     "subcircuito": "ALAUSI 1",
     "id": "HOSTAL-EL-PEÑÓN-Z3-C-A-A",
     "nombre_punto": "HOSTAL EL PEÑÓN"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PAPELERIA-AMERICA-Z2-N-T-A",
+    "nombre_punto": "PAPELERIA AMERICA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "BAR-6-DE-DICIEMBRE-Z4-M-P-P",
+    "nombre_punto": "Bar 6 de diciembre"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PAPELERIA-AMERICA-Z2-N-T-A",
+    "nombre_punto": "PAPELERIA AMERICA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "FARMACIAS-COMUNITARIAS-Z2-N-E-S",
+    "nombre_punto": "FARMACIAS COMUNITARIAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "FERRETERÍA-MOLINA-Z2-N-T-A",
+    "nombre_punto": "FERRETERÍA MOLINA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "TIENDA-VERDE-Z5-L-B-U",
+    "nombre_punto": "TIENDA VERDE"
   }
 ]
