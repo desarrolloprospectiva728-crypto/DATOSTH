@@ -25252,5 +25252,14 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "AMAZONTV-NET-Z2-N-T-A",
     "nombre_punto": "AMAZONTV NET"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "AMAZONTV-NET-Z2-N-T-A",
+    "nombre_punto": "AMAZONTV NET"
   }
 ]
