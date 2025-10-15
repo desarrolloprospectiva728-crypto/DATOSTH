@@ -25252,5 +25252,14 @@
     "subcircuito": "PORTOVIEJO 3",
     "id": "SODA-BAR-CARAMEL-1-Z4-M-P-P",
     "nombre_punto": "Soda Bar Caramel 1"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "SODA-BAR-CARAMEL-Z4-M-P-P",
+    "nombre_punto": "Soda Bar Caramel"
   }
 ]
