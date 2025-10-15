@@ -25090,5 +25090,14 @@
     "subcircuito": "PUEBLO NUEVO 1",
     "id": "COMERCIAL-PALACIO-RIOCHICO-Z4-M-P-P",
     "nombre_punto": "COMERCIAL PALACIO RIOCHICO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "SAN PLACIDO",
+    "subcircuito": "SAN PLACIDO 1",
+    "id": "PARQUE-SAN-PLÁCIDO-Z4-M-P-S",
+    "nombre_punto": "parque san plácido"
   }
 ]
