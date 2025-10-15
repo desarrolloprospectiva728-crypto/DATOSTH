@@ -25045,5 +25045,14 @@
     "subcircuito": "AROSEMENA TOLA 1",
     "id": "BODEGA-MOYA-2-Z2-N-T-A",
     "nombre_punto": "Bodega Moya 2"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "LICORERIA-EL-PADRINO-Z4-M-M-U",
+    "nombre_punto": "LICORERIA EL PADRINO"
   }
 ]
