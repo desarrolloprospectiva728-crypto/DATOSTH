@@ -25072,5 +25072,14 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "TIENDA-VERDE-Z5-L-B-U",
     "nombre_punto": "TIENDA VERDE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "TIENDA-NUEVO-AMANECER-SAN-PEDRO-Z2-N-E-E",
+    "nombre_punto": "TIENDA NUEVO AMANECER SAN PEDRO"
   }
 ]
