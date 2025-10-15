@@ -25243,5 +25243,14 @@
     "subcircuito": "QUINSALOMA 1",
     "id": "HOTEL-QUINSALOMA-Z5-L-V-Q",
     "nombre_punto": "HOTEL QUINSALOMA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "SODA-BAR-CARAMEL-1-Z4-M-P-P",
+    "nombre_punto": "Soda Bar Caramel 1"
   }
 ]
