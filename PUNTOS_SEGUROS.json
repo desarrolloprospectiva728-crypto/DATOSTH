@@ -24561,15 +24561,6 @@
     "nombre_punto": "Tienda Mariuxi / Cdla. 25 (Fondo)"
   },
   {
-    "zona": "ZONA 3",
-    "subzona": "COTOPAXI",
-    "distrito": "LATACUNGA",
-    "circuito": "LA CALERA",
-    "subcircuito": "LA CALERA 1",
-    "id": "LOCAL-MEGA-SPEEDY-Z3-C-L-L",
-    "nombre_punto": "LOCAL MEGA SPEEDY"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "ROCAFUERTE",
@@ -24586,15 +24577,6 @@
     "subcircuito": "KM 24 1",
     "id": "BOTICA-ECONOFAR-Z2-N-T-K",
     "nombre_punto": "Botica Econofar"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "ROCAFUERTE",
-    "circuito": "LA FLORIDA",
-    "subcircuito": "LA FLORIDA 1",
-    "id": "BLANQUIS-PLAZA-Z4-M-R-L",
-    "nombre_punto": "Blanquis Plaza"
   },
   {
     "zona": "ZONA 2",
@@ -24804,15 +24786,6 @@
     "nombre_punto": "Tienda Elias"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "PAPELERÍA-ARCHIDONA-Z2-N-T-A",
-    "nombre_punto": "Papelería Archidona"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "PUEBLOVIEJO",
@@ -24838,15 +24811,6 @@
     "subcircuito": "GRAL SERRANO 1",
     "id": "DISTRIBUIDORA-FEIJOO-Z7-E-M-G",
     "nombre_punto": "DISTRIBUIDORA FEIJOO"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
-    "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
   },
   {
     "zona": "ZONA 4",
@@ -24930,24 +24894,6 @@
     "nombre_punto": "TIENDA LALITA"
   },
   {
-    "zona": "ZONA 3",
-    "subzona": "CHIMBORAZO",
-    "distrito": "ALAUSI",
-    "circuito": "ALAUSI",
-    "subcircuito": "ALAUSI 1",
-    "id": "TIENDA-LALITA-Z3-C-A-A",
-    "nombre_punto": "TIENDA LALITA"
-  },
-  {
-    "zona": "ZONA 3",
-    "subzona": "CHIMBORAZO",
-    "distrito": "ALAUSI",
-    "circuito": "ALAUSI",
-    "subcircuito": "ALAUSI 1",
-    "id": "TIENDA-LALITA-Z3-C-A-A",
-    "nombre_punto": "TIENDA LALITA"
-  },
-  {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
     "distrito": "MACHALA",
@@ -24973,15 +24919,6 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "AGROFERRETERO-NAPO-Z2-N-T-A",
     "nombre_punto": "Agroferretero Napo"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "PORTOVIEJO",
-    "subcircuito": "PORTOVIEJO 3",
-    "id": "FARMACIA-CRUZ-AZUL-Z4-M-P-P",
-    "nombre_punto": "Farmacia Cruz azul"
   },
   {
     "zona": "ZONA 4",
@@ -25315,6 +25252,69 @@
     "subcircuito": "PAPALLACTA 1",
     "id": "RESTAURANTE-MI-LAGUNITA---LAGUNA-DE-PAPALLACTA-Z2-N-E-P",
     "nombre_punto": "RESTAURANTE MI LAGUNITA - LAGUNA DE PAPALLACTA"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   },
   {
     "zona": "",
