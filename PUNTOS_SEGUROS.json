@@ -25351,5 +25351,14 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "BRITEL-AGENCIA-ARCHIDONA-Z2-N-T-A",
     "nombre_punto": "BRITEL AGENCIA ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "MUNICIPIO-URDANETA-Z5-L-P-C",
+    "nombre_punto": "MUNICIPIO URDANETA"
   }
 ]
