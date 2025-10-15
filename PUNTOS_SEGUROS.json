@@ -25180,5 +25180,14 @@
     "subcircuito": "JUNCO 1",
     "id": "COMERCIAL-URETA-Z4-M-R-J",
     "nombre_punto": "Comercial Ureta"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "FARMACIAS-COMUNITARIAS-Z2-N-T-A",
+    "nombre_punto": "FARMACIAS COMUNITARIAS"
   }
 ]
