@@ -25225,5 +25225,23 @@
     "subcircuito": "QUINSALOMA 1",
     "id": "HOTEL-QUINSALOMA-Z5-L-V-Q",
     "nombre_punto": "HOTEL QUINSALOMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "HOTEL-QUINSALOMA-Z5-L-V-Q",
+    "nombre_punto": "HOTEL QUINSALOMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "HOTEL-QUINSALOMA-Z5-L-V-Q",
+    "nombre_punto": "HOTEL QUINSALOMA"
   }
 ]
