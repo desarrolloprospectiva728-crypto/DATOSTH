@@ -25243,5 +25243,14 @@
     "subcircuito": "LA CALERA 1",
     "id": "MULTISA-Z3-C-L-L",
     "nombre_punto": "MULTISA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "AMAZONTV-NET-Z2-N-T-A",
+    "nombre_punto": "AMAZONTV NET"
   }
 ]
