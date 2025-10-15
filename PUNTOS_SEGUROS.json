@@ -25270,5 +25270,14 @@
     "subcircuito": "VENTANAS SUR 1",
     "id": "HOSPITAL-JAIME-ROLDOS-AGUILERA-Z5-L-V-V",
     "nombre_punto": "Hospital Jaime Roldos Aguilera"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "VÍCTIMA-DE-AMENAZA-Z5-L-V-V",
+    "nombre_punto": "VÍCTIMA DE AMENAZA"
   }
 ]
