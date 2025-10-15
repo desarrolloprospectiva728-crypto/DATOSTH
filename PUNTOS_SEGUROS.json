@@ -24968,15 +24968,6 @@
   {
     "zona": "ZONA 2",
     "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "PAPELERIA-AMERICA-Z2-N-T-A",
-    "nombre_punto": "PAPELERIA AMERICA"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
     "distrito": "EL VALLE DE QUIJOS",
     "circuito": "SANTA ROSA",
     "subcircuito": "SANTA ROSA 1",
@@ -25058,24 +25049,6 @@
   {
     "zona": "ZONA 2",
     "subzona": "NAPO",
-    "distrito": "EL VALLE DE QUIJOS",
-    "circuito": "EL CHACO",
-    "subcircuito": "EL CHACO 1",
-    "id": "TERCENA-DON-PATITO-Z2-N-E-E",
-    "nombre_punto": "TERCENA DON PATITO"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "SERVIENTREGA-ARCHIDONA-Z2-N-T-A",
-    "nombre_punto": "SERVIENTREGA ARCHIDONA"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
     "distrito": "TENA",
     "circuito": "ARCHIDONA",
     "subcircuito": "ARCHIDONA 1",
@@ -25095,46 +25068,10 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "D'ARELIZ-BOLETERIA-JUMANDY-Z2-N-T-A",
-    "nombre_punto": "D'ARELIZ BOLETERIA JUMANDY"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "SERVIENTREGA-ARCHIDONA-Z2-N-T-A",
-    "nombre_punto": "SERVIENTREGA ARCHIDONA"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
     "circuito": "MISAHUALLI",
     "subcircuito": "MISAHUALLI 2",
     "id": "FERRETERIA-FEGA-Z2-N-T-M",
     "nombre_punto": "FERRETERIA FEGA"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "MISAHUALLI",
-    "subcircuito": "MISAHUALLI 2",
-    "id": "FERRETERIA-FEGA-Z2-N-T-M",
-    "nombre_punto": "FERRETERIA FEGA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "PUEBLOVIEJO",
-    "circuito": "PUERTO PECHICHE",
-    "subcircuito": "PUERTO PECHICHE 1",
-    "id": "BANCO-DEL-BARRIO-VENTA-DE-ARROZ-EMILY-Z5-L-P-P",
-    "nombre_punto": "BANCO DEL BARRIO VENTA DE ARROZ EMILY"
   },
   {
     "zona": "ZONA 5",
@@ -25153,24 +25090,6 @@
     "subcircuito": "PUERTO PECHICHE 1",
     "id": "VENTA-DE-ARROZ-EMILY-BANCO-DEL-BARRIO---BANCO-MI-VECINO-BANCO-PACIFICO-Z5-L-P-P",
     "nombre_punto": "VENTA DE ARROZ EMILY  BANCO DEL BARRIO - BANCO MI VECINO BANCO PACIFICO"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VENTANAS",
-    "circuito": "QUINSALOMA",
-    "subcircuito": "QUINSALOMA 1",
-    "id": "HOTEL-QUINSALOMA-Z5-L-V-Q",
-    "nombre_punto": "HOTEL QUINSALOMA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VENTANAS",
-    "circuito": "QUINSALOMA",
-    "subcircuito": "QUINSALOMA 1",
-    "id": "HOTEL-QUINSALOMA-Z5-L-V-Q",
-    "nombre_punto": "HOTEL QUINSALOMA"
   },
   {
     "zona": "ZONA 5",
@@ -25252,6 +25171,78 @@
     "subcircuito": "PAPALLACTA 1",
     "id": "RESTAURANTE-MI-LAGUNITA---LAGUNA-DE-PAPALLACTA-Z2-N-E-P",
     "nombre_punto": "RESTAURANTE MI LAGUNITA - LAGUNA DE PAPALLACTA"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   },
   {
     "zona": "",
