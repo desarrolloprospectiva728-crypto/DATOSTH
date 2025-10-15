@@ -25288,5 +25288,14 @@
     "subcircuito": "CATARAMA 1",
     "id": "PUNTO-FRÍO-SINGAPUR-Z5-L-P-C",
     "nombre_punto": "PUNTO FRÍO SINGAPUR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "COOP-TENA-LTDA.-Z2-N-T-A",
+    "nombre_punto": "COOP TENA LTDA. AGENCIA ARCHIDONA"
   }
 ]
