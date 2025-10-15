@@ -25171,5 +25171,14 @@
     "subcircuito": "PAPALLACTA 1",
     "id": "RESTAURANTE-MI-LAGUNITA---LAGUNA-DE-PAPALLACTA-Z2-N-E-P",
     "nombre_punto": "RESTAURANTE MI LAGUNITA - LAGUNA DE PAPALLACTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "JUNCO",
+    "subcircuito": "JUNCO 1",
+    "id": "COMERCIAL-URETA-Z4-M-R-J",
+    "nombre_punto": "Comercial Ureta"
   }
 ]
