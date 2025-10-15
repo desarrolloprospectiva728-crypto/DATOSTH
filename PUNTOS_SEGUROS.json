@@ -25009,5 +25009,14 @@
     "subcircuito": "SANTA ROSA 1",
     "id": "BAÑOS-CANCHAS-BARRIO-INTEROCEÁNICA-Z2-N-E-S",
     "nombre_punto": "BAÑOS CANCHAS BARRIO INTEROCEÁNICA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "ALAUSI",
+    "circuito": "ALAUSI",
+    "subcircuito": "ALAUSI 1",
+    "id": "HOSTAL-EL-PEÑÓN-Z3-C-A-A",
+    "nombre_punto": "HOSTAL EL PEÑÓN"
   }
 ]
