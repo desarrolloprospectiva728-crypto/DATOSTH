@@ -25297,5 +25297,14 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "COOP-TENA-LTDA.-Z2-N-T-A",
     "nombre_punto": "COOP TENA LTDA. AGENCIA ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "PUNTO-FRÍO-SINGAPUR-Z5-L-P-C",
+    "nombre_punto": "PUNTO FRÍO SINGAPUR"
   }
 ]
