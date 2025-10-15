@@ -25081,5 +25081,14 @@
     "subcircuito": "PUEBLO NUEVO 1",
     "id": "COMERCIAL-RAYALO-Z4-M-P-P",
     "nombre_punto": "COMERCIAL RAYALO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 1",
+    "id": "COMERCIAL-PALACIO-RIOCHICO-Z4-M-P-P",
+    "nombre_punto": "COMERCIAL PALACIO RIOCHICO"
   }
 ]
