@@ -25360,5 +25360,32 @@
     "subcircuito": "CATARAMA 1",
     "id": "MUNICIPIO-URDANETA-Z5-L-P-C",
     "nombre_punto": "MUNICIPIO URDANETA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA OESTE",
+    "subcircuito": "SANTA ROSA OESTE 1",
+    "id": "AUTOREPUESTOS-FEIJO-SOLUCIONES-AUTOMOTRICES-Z7-E-S-S",
+    "nombre_punto": "AUTOREPUESTOS FEIJO SOLUCIONES AUTOMOTRICES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "PARQUE-RICAURTE-Z5-L-P-R",
+    "nombre_punto": "PARQUE RICAURTE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "PARQUE-RICAURTE-Z5-L-P-R",
+    "nombre_punto": "PARQUE RICAURTE"
   }
 ]
