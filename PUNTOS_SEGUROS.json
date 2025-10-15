@@ -25279,5 +25279,23 @@
     "subcircuito": "VINCES SUR 1",
     "id": "VÍCTIMA-DE-AMENAZA-Z5-L-V-V",
     "nombre_punto": "VÍCTIMA DE AMENAZA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "CENTRO-DE-SALUD-URBANO-VENTANAS-Z5-L-V-V",
+    "nombre_punto": "Centro de salud urbano ventanas"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "LA ERCILIA",
+    "subcircuito": "LA ERCILIA 1",
+    "id": "GASOLINERA-PETRÓLEOS-Y-SERVICIOS-Z5-L-V-L",
+    "nombre_punto": "Gasolinera Petróleos Y Servicios"
   }
 ]
