@@ -25072,5 +25072,14 @@
     "subcircuito": "VENTANAS SUR 1",
     "id": "CENTRO-DE-SALUD-LAS-MALVINAS-Z5-L-V-V",
     "nombre_punto": "Centro de salud las malvinas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 1",
+    "id": "COMERCIAL-RAYALO-Z4-M-P-P",
+    "nombre_punto": "COMERCIAL RAYALO"
   }
 ]
