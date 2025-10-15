@@ -24498,15 +24498,6 @@
     "nombre_punto": "wester union"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "SAN PLACIDO",
-    "subcircuito": "SAN PLACIDO 1",
-    "id": "WESTER-UNION-Z4-M-P-S",
-    "nombre_punto": "wester union"
-  },
-  {
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
@@ -24588,15 +24579,6 @@
     "nombre_punto": "LOCAL MEGA SPEEDY"
   },
   {
-    "zona": "ZONA 3",
-    "subzona": "COTOPAXI",
-    "distrito": "LATACUNGA",
-    "circuito": "LA CALERA",
-    "subcircuito": "LA CALERA 1",
-    "id": "LOCAL-MEGA-SPEEDY-Z3-C-L-L",
-    "nombre_punto": "LOCAL MEGA SPEEDY"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "ROCAFUERTE",
@@ -24613,15 +24595,6 @@
     "subcircuito": "KM 24 1",
     "id": "BOTICA-ECONOFAR-Z2-N-T-K",
     "nombre_punto": "Botica Econofar"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "ROCAFUERTE",
-    "circuito": "LA FLORIDA",
-    "subcircuito": "LA FLORIDA 1",
-    "id": "BLANQUIS-PLAZA-Z4-M-R-L",
-    "nombre_punto": "Blanquis Plaza"
   },
   {
     "zona": "ZONA 4",
@@ -24658,42 +24631,6 @@
     "subcircuito": "EL FLORON 4",
     "id": "C.D.I.-CORAZÓN-DE-NIÑO.-Z4-M-P-E",
     "nombre_punto": "C.D.I. Corazón de Niño."
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "EL FLORON",
-    "subcircuito": "EL FLORON 4",
-    "id": "C.D.I.-CORAZÓN-DE-NIÑO.-Z4-M-P-E",
-    "nombre_punto": "C.D.I. Corazón de Niño."
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "EL FLORON",
-    "subcircuito": "EL FLORON 3",
-    "id": "C.D.I.-CORAZÓN-DE-NIÑO.-Z4-M-P-E",
-    "nombre_punto": "C.D.I. Corazón de Niño."
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "EL FLORON",
-    "subcircuito": "EL FLORON 3",
-    "id": "C.D.I.-CORAZÓN-DE-NIÑO.-Z4-M-P-E",
-    "nombre_punto": "C.D.I. Corazón de Niño."
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
-    "id": "ESTACIÓN-PLUSPETROL-Z2-N-T-K",
-    "nombre_punto": "Estación Pluspetrol"
   },
   {
     "zona": "ZONA 2",
@@ -24761,29 +24698,11 @@
   {
     "zona": "ZONA 4",
     "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "EL FLORON",
-    "subcircuito": "EL FLORON 3",
-    "id": "C.D.I.-NUEVO-AMANECER-Z4-M-P-E",
-    "nombre_punto": "C.D.I. NUEVO AMANECER"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
     "distrito": "MANTA",
     "circuito": "MONTECRISTI",
     "subcircuito": "MONTECRISTI 2",
     "id": "LOCAL-ALMACENES-TÍA-Z4-M-M-M",
     "nombre_punto": "LOCAL ALMACENES TÍA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "EL FLORON",
-    "subcircuito": "EL FLORON 1",
-    "id": "C.D.I.-10-DE-AGOSTO-Z4-M-P-E",
-    "nombre_punto": "C.D.I. 10 DE AGOSTO"
   },
   {
     "zona": "ZONA 4",
@@ -24894,24 +24813,6 @@
     "nombre_punto": "Tienda Elias"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PEDERNALES",
-    "circuito": "COJIMIES",
-    "subcircuito": "COJIMIES 1",
-    "id": "TIENDA-ELIAS-Z4-M-P-C",
-    "nombre_punto": "Tienda Elias"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "PAPELERÍA-ARCHIDONA-Z2-N-T-A",
-    "nombre_punto": "Papelería Archidona"
-  },
-  {
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
@@ -24928,69 +24829,6 @@
     "subcircuito": "PIJULLO 1",
     "id": "BOTICA-MAS-SALUD-Z5-L-P-P",
     "nombre_punto": "BOTICA MAS SALUD"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "PUEBLOVIEJO",
-    "circuito": "PIJULLO",
-    "subcircuito": "PIJULLO 1",
-    "id": "BOTICA-MAS-SALUD-Z5-L-P-P",
-    "nombre_punto": "BOTICA MAS SALUD"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "PUEBLOVIEJO",
-    "circuito": "PIJULLO",
-    "subcircuito": "PIJULLO 1",
-    "id": "BOTICA-MAS-SALUD-Z5-L-P-P",
-    "nombre_punto": "BOTICA MAS SALUD"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
-    "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
-    "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
-    "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
-    "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
-    "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
   },
   {
     "zona": "ZONA 2",
@@ -25018,15 +24856,6 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
     "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "MONTECRISTI",
-    "subcircuito": "MONTECRISTI 2",
-    "id": "FARMACIA-FIBECCA-A-LADO-DE-LA-PLAZA-CIVICA-Z4-M-M-M",
-    "nombre_punto": "FARMACIA FIBECCA  A LADO DE LA PLAZA CIVICA"
   },
   {
     "zona": "ZONA 4",
