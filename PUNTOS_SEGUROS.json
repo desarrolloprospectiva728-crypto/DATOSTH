@@ -25306,5 +25306,14 @@
     "subcircuito": "CATARAMA 1",
     "id": "PUNTO-FRÍO-SINGAPUR-Z5-L-P-C",
     "nombre_punto": "PUNTO FRÍO SINGAPUR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "CANCHA-SINTÉTICA-CATARAMA-Z5-L-P-C",
+    "nombre_punto": "CANCHA SINTÉTICA CATARAMA"
   }
 ]
