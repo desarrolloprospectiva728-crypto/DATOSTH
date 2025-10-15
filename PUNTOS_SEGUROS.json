@@ -25333,5 +25333,14 @@
     "subcircuito": "CATARAMA 1",
     "id": "MILLO-GYM-Z5-L-P-C",
     "nombre_punto": "MILLO GYM"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "BRITEL-AGENCIA-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "BRITEL AGENCIA ARCHIDONA"
   }
 ]
