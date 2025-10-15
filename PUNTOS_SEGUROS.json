@@ -25144,5 +25144,59 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "SERVIENTREGA-ARCHIDONA-Z2-N-T-A",
     "nombre_punto": "SERVIENTREGA ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "SERVIENTREGA-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "SERVIENTREGA ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "D'ARELIZ-BOLETERIA-JUMANDY-Z2-N-T-A",
+    "nombre_punto": "D'ARELIZ BOLETERIA JUMANDY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "D'ARELIZ-BOLETERIA-JUMANDY-Z2-N-T-A",
+    "nombre_punto": "D'ARELIZ BOLETERIA JUMANDY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "SERVIENTREGA-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "SERVIENTREGA ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "FERRETERIA-FEGA-Z2-N-T-M",
+    "nombre_punto": "FERRETERIA FEGA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "FERRETERIA-FEGA-Z2-N-T-M",
+    "nombre_punto": "FERRETERIA FEGA"
   }
 ]
