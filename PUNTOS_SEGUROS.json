@@ -24973,5 +24973,41 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "COMERCIAL-DANIELITO-1-Z2-N-T-A",
     "nombre_punto": "Comercial Danielito 1"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "AGROFERRETERO-NAPO-Z2-N-T-A",
+    "nombre_punto": "Agroferretero Napo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "FARMACIA-CRUZ-AZUL-Z4-M-P-P",
+    "nombre_punto": "Farmacia Cruz azul"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "FARMACIA-CRUZ-AZUL-Z4-M-P-P",
+    "nombre_punto": "Farmacia Cruz azul"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "BAÑOS-CANCHAS-BARRIO-INTEROCEÁNICA-Z2-N-E-S",
+    "nombre_punto": "BAÑOS CANCHAS BARRIO INTEROCEÁNICA"
   }
 ]
