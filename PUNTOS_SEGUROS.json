@@ -25254,15 +25254,6 @@
     "nombre_punto": "Soda Bar Caramel 1"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "PORTOVIEJO",
-    "subcircuito": "PORTOVIEJO 3",
-    "id": "SODA-BAR-CARAMEL-Z4-M-P-P",
-    "nombre_punto": "Soda Bar Caramel"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "VENTANAS",
@@ -25315,5 +25306,23 @@
     "subcircuito": "LA ERCILIA 1",
     "id": "PANADERÍA-Y-PASTELERÍA-ANNA'S-PASTRY-Z5-L-V-L",
     "nombre_punto": "Panadería y pastelería Anna's Pastry"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "RESTAURANTE-MI-LAGUNITA---LAGUNA-DE-PAPALLACTA-Z2-N-E-P",
+    "nombre_punto": "RESTAURANTE MI LAGUNITA - LAGUNA DE PAPALLACTA"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
