@@ -25054,5 +25054,14 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "LICORERIA-EL-PADRINO-Z4-M-M-U",
     "nombre_punto": "LICORERIA EL PADRINO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "LATACUNGA",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "FRADELLA-Z3-C-L-E",
+    "nombre_punto": "FRADELLA"
   }
 ]
