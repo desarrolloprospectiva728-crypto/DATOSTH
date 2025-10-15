@@ -25297,5 +25297,23 @@
     "subcircuito": "LA ERCILIA 1",
     "id": "GASOLINERA-PETRÓLEOS-Y-SERVICIOS-Z5-L-V-L",
     "nombre_punto": "Gasolinera Petróleos Y Servicios"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "TERMAS-PAPALLACTA-Z2-N-E-P",
+    "nombre_punto": "Termas Papallacta"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "LA ERCILIA",
+    "subcircuito": "LA ERCILIA 1",
+    "id": "PANADERÍA-Y-PASTELERÍA-ANNA'S-PASTRY-Z5-L-V-L",
+    "nombre_punto": "Panadería y pastelería Anna's Pastry"
   }
 ]
