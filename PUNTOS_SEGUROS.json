@@ -25261,5 +25261,14 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "AMAZONTV-NET-Z2-N-T-A",
     "nombre_punto": "AMAZONTV NET"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "PUNTO-FRÍO-SINGAPUR-Z5-L-P-C",
+    "nombre_punto": "PUNTO FRÍO SINGAPUR"
   }
 ]
