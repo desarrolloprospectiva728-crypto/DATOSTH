@@ -25693,5 +25693,14 @@
     "subcircuito": "AEROPUERTO 2",
     "id": "SUPER-TIENDA-TRES-HERMANOS-Z2-N-T-A",
     "nombre_punto": "SUPER TIENDA TRES HERMANOS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "RESTAURANT-THE-MARQUIS-Z2-N-T-A",
+    "nombre_punto": "RESTAURANT THE MARQUIS"
   }
 ]
