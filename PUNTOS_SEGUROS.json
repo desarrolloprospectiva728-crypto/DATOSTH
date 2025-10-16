@@ -25594,5 +25594,14 @@
     "subcircuito": "KM 24 1",
     "id": "TIENDA-KALOLO-Z2-N-T-K",
     "nombre_punto": "Tienda  Kalolo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "LOCAL-YOYOS-VARIEDADES-Z2-N-T-K",
+    "nombre_punto": "Local yoyos Variedades"
   }
 ]
