@@ -25684,5 +25684,14 @@
     "subcircuito": "AEROPUERTO 1",
     "id": "IMPRENTA-ALEGRAFIC-Z2-N-T-A",
     "nombre_punto": "IMPRENTA ALEGRAFIC"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "RESTAURANT-SUPER-POLLO-Z2-N-T-A",
+    "nombre_punto": "RESTAURANT SUPER POLLO"
   }
 ]
