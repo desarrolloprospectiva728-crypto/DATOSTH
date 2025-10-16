@@ -25621,5 +25621,14 @@
     "subcircuito": "VINCES SUR 1",
     "id": "FERRETERÍA-ECONÓMICA-Z5-L-V-V",
     "nombre_punto": "Ferretería Económica"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "MI-FIESTA-Z5-L-V-B",
+    "nombre_punto": "MI FIESTA"
   }
 ]
