@@ -25630,5 +25630,59 @@
     "subcircuito": "KM 24 1",
     "id": "CAFÉ-Y-BAR-CHERIE-Z2-N-T-K",
     "nombre_punto": "Café y Bar Cherie"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "FARMACIAS-ECONOMICAS-Z2-N-T-A",
+    "nombre_punto": "FARMACIAS ECONOMICAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "FARMACIAS-ECONOMICAS-Z2-N-T-A",
+    "nombre_punto": "FARMACIAS ECONOMICAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "FARMACIAS-ECONOMICAS-Z2-N-T-A",
+    "nombre_punto": "FARMACIAS ECONOMICAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "FARMACIAS-ECONOMICAS-Z2-N-T-A",
+    "nombre_punto": "FARMACIAS ECONOMICAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "IMPRENTA-ALEGRAFIC-Z2-N-T-A",
+    "nombre_punto": "IMPRENTA ALEGRAFIC"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "IMPRENTA-ALEGRAFIC-Z2-N-T-A",
+    "nombre_punto": "IMPRENTA ALEGRAFIC"
   }
 ]
