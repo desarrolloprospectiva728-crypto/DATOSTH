@@ -25612,5 +25612,14 @@
     "subcircuito": "KM 24 1",
     "id": "VÍVERES-COTUNDO-Z2-N-T-K",
     "nombre_punto": "Víveres Cotundo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "LICORERÍA-MAMBO-Z2-N-T-K",
+    "nombre_punto": "Licorería Mambo"
   }
 ]
