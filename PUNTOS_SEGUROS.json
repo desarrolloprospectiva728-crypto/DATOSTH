@@ -25576,5 +25576,14 @@
     "subcircuito": "KM 24 1",
     "id": "FARMACIA-Z2-N-T-K",
     "nombre_punto": "Farmacia"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "BAZAR-CYBER-Z2-N-T-K",
+    "nombre_punto": "Bazar  Cyber"
   }
 ]
