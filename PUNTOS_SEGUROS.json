@@ -25657,5 +25657,14 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "FARMACIA-FARMAVIDA-Z5-L-V-V",
     "nombre_punto": "Farmacia Farmavida"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "NAPU-MARKA-Z2-N-T-A",
+    "nombre_punto": "NAPU MARKA"
   }
 ]
