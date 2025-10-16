@@ -25495,5 +25495,14 @@
     "subcircuito": "KM 24 1",
     "id": "PANADERÍA-SABOR-QUITEÑO-Z2-N-T-K",
     "nombre_punto": "Panadería  sabor Quiteño"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "TIENDA-DIANITA-Z2-N-T-K",
+    "nombre_punto": "Tienda Dianita"
   }
 ]
