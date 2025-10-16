@@ -25630,5 +25630,23 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "MI-FIESTA-Z5-L-V-B",
     "nombre_punto": "MI FIESTA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "YOGUR-Y-PAN-DE-YUCA-Z2-N-T-A",
+    "nombre_punto": "YOGUR Y PAN DE YUCA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EL TRIUNFO BUCAY",
+    "circuito": "EL TRIUNFO ESTE",
+    "subcircuito": "EL TRIUNFO ESTE 1",
+    "id": "RECINTO-EL-ACHOTE-Z5-G-E-E",
+    "nombre_punto": "RECINTO EL ACHOTE"
   }
 ]
