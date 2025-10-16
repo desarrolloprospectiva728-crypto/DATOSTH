@@ -25603,5 +25603,14 @@
     "subcircuito": "KM 24 1",
     "id": "LOCAL-YOYOS-VARIEDADES-Z2-N-T-K",
     "nombre_punto": "Local yoyos Variedades"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "VÍVERES-COTUNDO-Z2-N-T-K",
+    "nombre_punto": "Víveres Cotundo"
   }
 ]
