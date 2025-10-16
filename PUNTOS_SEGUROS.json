@@ -25684,5 +25684,14 @@
     "subcircuito": "AEROPUERTO 2",
     "id": "PANADERIA-Y-PASTELERIA-EL-BUEN-SABOR-Z2-N-T-A",
     "nombre_punto": "PANADERIA Y PASTELERIA EL BUEN SABOR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "SUPER-TIENDA-TRES-HERMANOS-Z2-N-T-A",
+    "nombre_punto": "SUPER TIENDA TRES HERMANOS"
   }
 ]
