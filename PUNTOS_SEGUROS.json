@@ -25549,5 +25549,14 @@
     "subcircuito": "AEROPUERTO 1",
     "id": "FARMACIAS-SANA-SANA-Z2-N-T-A",
     "nombre_punto": "FARMACIAS SANA SANA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "COLIMES",
+    "subcircuito": "COLIMES 2",
+    "id": "BAN-ECUADOR-Z5-G-B-C",
+    "nombre_punto": "Ban Ecuador"
   }
 ]
