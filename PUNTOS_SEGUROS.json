@@ -25200,15 +25200,6 @@
     "nombre_punto": "SECTOR SAN CLEMENTE"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "SUCRE",
-    "circuito": "CHARAPOTO",
-    "subcircuito": "CHARAPOTO 1",
-    "id": "SECTOR-SAN-CLEMENTE-Z4-M-S-C",
-    "nombre_punto": "SECTOR SAN CLEMENTE"
-  },
-  {
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
@@ -25227,24 +25218,6 @@
     "nombre_punto": "MULTISA"
   },
   {
-    "zona": "ZONA 3",
-    "subzona": "COTOPAXI",
-    "distrito": "LATACUNGA",
-    "circuito": "LA CALERA",
-    "subcircuito": "LA CALERA 1",
-    "id": "MULTISA-Z3-C-L-L",
-    "nombre_punto": "MULTISA"
-  },
-  {
-    "zona": "ZONA 3",
-    "subzona": "COTOPAXI",
-    "distrito": "LATACUNGA",
-    "circuito": "LA CALERA",
-    "subcircuito": "LA CALERA 1",
-    "id": "MULTISA-Z3-C-L-L",
-    "nombre_punto": "MULTISA"
-  },
-  {
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
@@ -25252,33 +25225,6 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "AMAZONTV-NET-Z2-N-T-A",
     "nombre_punto": "AMAZONTV NET"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "AMAZONTV-NET-Z2-N-T-A",
-    "nombre_punto": "AMAZONTV NET"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "PUEBLOVIEJO",
-    "circuito": "CATARAMA",
-    "subcircuito": "CATARAMA 1",
-    "id": "PUNTO-FRÍO-SINGAPUR-Z5-L-P-C",
-    "nombre_punto": "PUNTO FRÍO SINGAPUR"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "PUEBLOVIEJO",
-    "circuito": "CATARAMA",
-    "subcircuito": "CATARAMA 1",
-    "id": "PUNTO-FRÍO-SINGAPUR-Z5-L-P-C",
-    "nombre_punto": "PUNTO FRÍO SINGAPUR"
   },
   {
     "zona": "ZONA 5",
@@ -25304,15 +25250,6 @@
     "distrito": "PUEBLOVIEJO",
     "circuito": "CATARAMA",
     "subcircuito": "CATARAMA 1",
-    "id": "PUNTO-FRÍO-SINGAPUR-Z5-L-P-C",
-    "nombre_punto": "PUNTO FRÍO SINGAPUR"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "PUEBLOVIEJO",
-    "circuito": "CATARAMA",
-    "subcircuito": "CATARAMA 1",
     "id": "CANCHA-SINTÉTICA-CATARAMA-Z5-L-P-C",
     "nombre_punto": "CANCHA SINTÉTICA CATARAMA"
   },
@@ -25324,24 +25261,6 @@
     "subcircuito": "CATARAMA 1",
     "id": "MILLO-GYM-Z5-L-P-C",
     "nombre_punto": "MILLO GYM"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "PUEBLOVIEJO",
-    "circuito": "CATARAMA",
-    "subcircuito": "CATARAMA 1",
-    "id": "MILLO-GYM-Z5-L-P-C",
-    "nombre_punto": "MILLO GYM"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "BRITEL-AGENCIA-ARCHIDONA-Z2-N-T-A",
-    "nombre_punto": "BRITEL AGENCIA ARCHIDONA"
   },
   {
     "zona": "ZONA 2",
@@ -25369,51 +25288,6 @@
     "subcircuito": "SANTA ROSA OESTE 1",
     "id": "AUTOREPUESTOS-FEIJO-SOLUCIONES-AUTOMOTRICES-Z7-E-S-S",
     "nombre_punto": "AUTOREPUESTOS FEIJO SOLUCIONES AUTOMOTRICES"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "PUEBLOVIEJO",
-    "circuito": "RICAURTE",
-    "subcircuito": "RICAURTE 1",
-    "id": "PARQUE-RICAURTE-Z5-L-P-R",
-    "nombre_punto": "PARQUE RICAURTE"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "PUEBLOVIEJO",
-    "circuito": "RICAURTE",
-    "subcircuito": "RICAURTE 1",
-    "id": "PARQUE-RICAURTE-Z5-L-P-R",
-    "nombre_punto": "PARQUE RICAURTE"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "PUEBLOVIEJO",
-    "circuito": "RICAURTE",
-    "subcircuito": "RICAURTE 1",
-    "id": "PARQUE-RICAURTE-Z5-L-P-R",
-    "nombre_punto": "PARQUE RICAURTE"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "PUEBLOVIEJO",
-    "circuito": "RICAURTE",
-    "subcircuito": "RICAURTE 1",
-    "id": "PARQUE-RICAURTE-Z5-L-P-R",
-    "nombre_punto": "PARQUE RICAURTE"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "PUEBLOVIEJO",
-    "circuito": "RICAURTE",
-    "subcircuito": "RICAURTE 1",
-    "id": "PARQUE-RICAURTE-Z5-L-P-R",
-    "nombre_punto": "PARQUE RICAURTE"
   },
   {
     "zona": "ZONA 5",
@@ -25646,42 +25520,6 @@
     "distrito": "TENA",
     "circuito": "AEROPUERTO",
     "subcircuito": "AEROPUERTO 1",
-    "id": "FARMACIAS-ECONOMICAS-Z2-N-T-A",
-    "nombre_punto": "FARMACIAS ECONOMICAS"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "AEROPUERTO",
-    "subcircuito": "AEROPUERTO 1",
-    "id": "FARMACIAS-ECONOMICAS-Z2-N-T-A",
-    "nombre_punto": "FARMACIAS ECONOMICAS"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "AEROPUERTO",
-    "subcircuito": "AEROPUERTO 1",
-    "id": "FARMACIAS-ECONOMICAS-Z2-N-T-A",
-    "nombre_punto": "FARMACIAS ECONOMICAS"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "AEROPUERTO",
-    "subcircuito": "AEROPUERTO 1",
-    "id": "IMPRENTA-ALEGRAFIC-Z2-N-T-A",
-    "nombre_punto": "IMPRENTA ALEGRAFIC"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "AEROPUERTO",
-    "subcircuito": "AEROPUERTO 1",
     "id": "IMPRENTA-ALEGRAFIC-Z2-N-T-A",
     "nombre_punto": "IMPRENTA ALEGRAFIC"
   },
@@ -25693,5 +25531,23 @@
     "subcircuito": "AEROPUERTO 1",
     "id": "RESTAURANT-SUPER-POLLO-Z2-N-T-A",
     "nombre_punto": "RESTAURANT SUPER POLLO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "GASOLINERA-CLYAN-Z5-L-B-L",
+    "nombre_punto": "Gasolinera Clyan"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "FARMACIAS-SANA-SANA-Z2-N-T-A",
+    "nombre_punto": "FARMACIAS SANA SANA"
   }
 ]
