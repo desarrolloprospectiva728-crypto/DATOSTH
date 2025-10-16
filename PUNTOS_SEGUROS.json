@@ -25621,5 +25621,14 @@
     "subcircuito": "KM 24 1",
     "id": "LICORERÍA-MAMBO-Z2-N-T-K",
     "nombre_punto": "Licorería Mambo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "CAFÉ-Y-BAR-CHERIE-Z2-N-T-K",
+    "nombre_punto": "Café y Bar Cherie"
   }
 ]
