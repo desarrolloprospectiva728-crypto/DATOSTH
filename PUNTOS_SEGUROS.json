@@ -25648,5 +25648,14 @@
     "subcircuito": "EL TRIUNFO ESTE 1",
     "id": "RECINTO-EL-ACHOTE-Z5-G-E-E",
     "nombre_punto": "RECINTO EL ACHOTE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "FARMACIA-FARMAVIDA-Z5-L-V-V",
+    "nombre_punto": "Farmacia Farmavida"
   }
 ]
