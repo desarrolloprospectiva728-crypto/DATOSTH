@@ -25603,5 +25603,14 @@
     "subcircuito": "KM 24 1",
     "id": "MINIMARKET-VIRGEN-DE-AGUA-SANTA-NARUPA-Z2-N-T-K",
     "nombre_punto": "MiniMarket Virgen de agua Santa-NARUPA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "DINATEK-Z5-L-V-A",
+    "nombre_punto": "DINATEK"
   }
 ]
