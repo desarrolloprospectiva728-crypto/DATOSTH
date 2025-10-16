@@ -25540,5 +25540,14 @@
     "subcircuito": "KM 24 1",
     "id": "TIENDA-VERITA-Z2-N-T-K",
     "nombre_punto": "Tienda Verita"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "BAZAR-VALERIA-Z2-N-T-K",
+    "nombre_punto": "Bazar Valeria"
   }
 ]
