@@ -25441,5 +25441,14 @@
     "subcircuito": "RICAURTE 1",
     "id": "CANCHA-RICAURTE-Z5-L-P-R",
     "nombre_punto": "CANCHA RICAURTE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "COMIDA-TÍPICA-Z2-N-T-K",
+    "nombre_punto": "Comida Típica"
   }
 ]
