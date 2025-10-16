@@ -25666,5 +25666,14 @@
     "subcircuito": "AEROPUERTO 2",
     "id": "NAPU-MARKA-Z2-N-T-A",
     "nombre_punto": "NAPU MARKA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "LA-CHORRERA-Z2-N-T-A",
+    "nombre_punto": "LA CHORRERA"
   }
 ]
