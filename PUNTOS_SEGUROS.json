@@ -25585,5 +25585,14 @@
     "subcircuito": "KM 24 1",
     "id": "TIENDA-LIAM-Z2-N-T-K",
     "nombre_punto": "Tienda Liam"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "TIENDA-YUJI-Z2-N-T-K",
+    "nombre_punto": "Tienda YUJI"
   }
 ]
