@@ -25477,5 +25477,14 @@
     "subcircuito": "KM 24 1",
     "id": "COMERCIAL-DANIELITO-Z2-N-T-K",
     "nombre_punto": "Comercial Danielito"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "COMEDOR-KOMA-Z2-N-T-K",
+    "nombre_punto": "Comedor Koma"
   }
 ]
