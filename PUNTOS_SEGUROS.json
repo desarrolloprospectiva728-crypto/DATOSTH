@@ -25612,5 +25612,14 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "DINATEK-Z5-L-V-A",
     "nombre_punto": "DINATEK"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "FERRETERÍA-ECONÓMICA-Z5-L-V-V",
+    "nombre_punto": "Ferretería Económica"
   }
 ]
