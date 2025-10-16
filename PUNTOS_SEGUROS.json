@@ -25450,5 +25450,14 @@
     "subcircuito": "KM 24 1",
     "id": "COMIDA-TÍPICA-Z2-N-T-K",
     "nombre_punto": "Comida Típica"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "PAPELERÍA-BACHITA-Z2-N-T-K",
+    "nombre_punto": "Papelería Bachita"
   }
 ]
