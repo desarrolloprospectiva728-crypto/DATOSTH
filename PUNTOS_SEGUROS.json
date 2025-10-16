@@ -25567,5 +25567,14 @@
     "subcircuito": "PORTOVIEJO 1",
     "id": "MUSEO-OLLA-RESTAURANTE-Z4-M-P-P",
     "nombre_punto": "Museo Olla Restaurante"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 2",
+    "id": "MONTUBIO-RESTAURANTE-Z4-M-P-P",
+    "nombre_punto": "Montubio Restaurante"
   }
 ]
