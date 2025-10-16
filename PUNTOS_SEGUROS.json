@@ -25468,5 +25468,14 @@
     "subcircuito": "KM 24 1",
     "id": "CENTRO-AGRÍCOLA-Z2-N-T-K",
     "nombre_punto": "Centro Agrícola"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "COMERCIAL-DANIELITO-Z2-N-T-K",
+    "nombre_punto": "Comercial Danielito"
   }
 ]
