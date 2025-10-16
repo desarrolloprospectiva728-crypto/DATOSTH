@@ -25594,5 +25594,14 @@
     "subcircuito": "KM 24 1",
     "id": "TIENDA-YUJI-Z2-N-T-K",
     "nombre_punto": "Tienda YUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "MINIMARKET-VIRGEN-DE-AGUA-SANTA-NARUPA-Z2-N-T-K",
+    "nombre_punto": "MiniMarket Virgen de agua Santa-NARUPA"
   }
 ]
