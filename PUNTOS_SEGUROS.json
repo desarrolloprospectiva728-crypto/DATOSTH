@@ -25801,5 +25801,14 @@
     "subcircuito": "TORATA 1",
     "id": "GASOLINERA-PETROCOMERCIAL-LA-AVANZADA-Z7-E-S-T",
     "nombre_punto": "GASOLINERA PETROCOMERCIAL LA AVANZADA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LAS MERCEDES",
+    "subcircuito": "LAS MERCEDES 1",
+    "id": "SUBCENTRO-DE-SALUD-LAS-MERCEDES-Z4-S-S-L",
+    "nombre_punto": "SUBCENTRO DE SALUD LAS MERCEDES"
   }
 ]
