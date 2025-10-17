@@ -25918,5 +25918,14 @@
     "subcircuito": "CHIBUNGA 1",
     "id": "TENENCIA-POLITICA-Z4-M-C-C",
     "nombre_punto": "TENENCIA POLITICA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 1",
+    "id": "COMERCIAL-DE-CACAO-ZAMORA-Z5-L-B-B",
+    "nombre_punto": "COMERCIAL DE CACAO ZAMORA"
   }
 ]
