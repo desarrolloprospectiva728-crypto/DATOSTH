@@ -25810,5 +25810,23 @@
     "subcircuito": "LAS MERCEDES 1",
     "id": "SUBCENTRO-DE-SALUD-LAS-MERCEDES-Z4-S-S-L",
     "nombre_punto": "SUBCENTRO DE SALUD LAS MERCEDES"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 2",
+    "id": "PETROCOMERCIAL-SANTA-ROSA-Z7-E-S-S",
+    "nombre_punto": "PETROCOMERCIAL SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 2",
+    "id": "0704634419-Z7-E-S-S",
+    "nombre_punto": "PETROCOMERCIAL SANTA ROSA REDONDEL DE JUMON"
   }
 ]
