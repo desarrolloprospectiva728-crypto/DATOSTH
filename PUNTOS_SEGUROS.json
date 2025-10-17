@@ -25720,5 +25720,14 @@
     "subcircuito": "LAS MERCEDES 1",
     "id": "HIPER-MERCADO-D'-LILYS-Z4-S-S-L",
     "nombre_punto": "HIPER MERCADO D' LILYS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "JULIO MORENO",
+    "subcircuito": "JULIO MORENO 1",
+    "id": "SUBCENTRO-DE-SALUD-JULIO-MORENO-Z4-S-S-J",
+    "nombre_punto": "SUBCENTRO DE SALUD JULIO MORENO"
   }
 ]
