@@ -26008,5 +26008,14 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "ESCUELA-DR.-JUAN-ANTONIO-MONTALVÁN-CORNEJO-Z5-L-V-V",
     "nombre_punto": "Escuela Dr. Juan Antonio Montalván Cornejo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "DISTR-Z2-N-T-A",
+    "nombre_punto": "DISTR"
   }
 ]
