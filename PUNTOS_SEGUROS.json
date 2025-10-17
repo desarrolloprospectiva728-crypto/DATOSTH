@@ -26017,5 +26017,14 @@
     "subcircuito": "AROSEMENA TOLA 1",
     "id": "DISTR-Z2-N-T-A",
     "nombre_punto": "DISTR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA OESTE",
+    "subcircuito": "SANTA ROSA OESTE 1",
+    "id": "DISTRIBUIDORA-FEIJOO-CERAMICA-Z7-E-S-S",
+    "nombre_punto": "DISTRIBUIDORA FEIJOO CERAMICA"
   }
 ]
