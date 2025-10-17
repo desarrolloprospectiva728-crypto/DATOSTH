@@ -25828,5 +25828,41 @@
     "subcircuito": "SANTA ROSA ESTE 2",
     "id": "0704634419-Z7-E-S-S",
     "nombre_punto": "PETROCOMERCIAL SANTA ROSA REDONDEL DE JUMON"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 2",
+    "id": "PETROCOMERCIAL-SANTA-ROSA-REDONDEL-DE-JUMON-Z7-E-S-S",
+    "nombre_punto": "PETROCOMERCIAL SANTA ROSA REDONDEL DE JUMON"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 2",
+    "id": "PETROCOMERCIAL-SANTA-ROSA-REDONDEL-DE-JUMON-Z7-E-S-S",
+    "nombre_punto": "PETROCOMERCIAL SANTA ROSA REDONDEL DE JUMON"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 2",
+    "id": "PETROCOMERCIAL-SANTA-ROSA-REDONDEL-DE-JUMON-Z7-E-S-S",
+    "nombre_punto": "PETROCOMERCIAL SANTA ROSA REDONDEL DE JUMON"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 2",
+    "id": "PETROCOMERCIAL-SANTA-ROSA-Z7-E-S-S",
+    "nombre_punto": "PETROCOMERCIAL SANTA ROSA"
   }
 ]
