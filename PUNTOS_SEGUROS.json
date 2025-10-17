@@ -25909,5 +25909,14 @@
     "subcircuito": "LAS PALMERAS 1",
     "id": "FISCALIA-SANTA-ROSA-Z7-E-S-L",
     "nombre_punto": "FISCALIA SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CHIBUNGA",
+    "subcircuito": "CHIBUNGA 1",
+    "id": "TENENCIA-POLITICA-Z4-M-C-C",
+    "nombre_punto": "TENENCIA POLITICA"
   }
 ]
