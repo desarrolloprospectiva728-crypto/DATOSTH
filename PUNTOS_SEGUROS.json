@@ -25738,5 +25738,59 @@
     "subcircuito": "JULIO MORENO 1",
     "id": "MALECÓN-SAN-GABRIEL-DEL-BABA-Z4-S-S-J",
     "nombre_punto": "Malecón San Gabriel del Baba"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "JAUNECHE",
+    "subcircuito": "JAUNECHE 1",
+    "id": "PAPAS-DE-MARIUXI-Z5-L-V-J",
+    "nombre_punto": "Papas de mariuxi"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN FRANCISCO DE NOVILLO",
+    "subcircuito": "SAN FRANCISCO DE NOVILLO 1",
+    "id": "TIENDA-EMA-Z4-M-C-S",
+    "nombre_punto": "TIENDA EMA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LAS MERCEDES",
+    "subcircuito": "LAS MERCEDES 1",
+    "id": "GASOLINERA-PUMA-Z4-S-S-L",
+    "nombre_punto": "GASOLINERA PUMA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN FRANCISCO DE NOVILLO",
+    "subcircuito": "SAN FRANCISCO DE NOVILLO 1",
+    "id": "COLEGIO-JOSÉ-Z4-M-C-S",
+    "nombre_punto": "Colegio José"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "PANADERÍA-NACIONAL-Z5-L-B-C",
+    "nombre_punto": "Panadería Nacional"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LAS MERCEDES",
+    "subcircuito": "LAS MERCEDES 1",
+    "id": "GASOLINERA-PUMA-BARRIO-10-DE-AGOSTO-Z4-S-S-L",
+    "nombre_punto": "GASOLINERA PUMA BARRIO 10 DE AGOSTO"
   }
 ]
