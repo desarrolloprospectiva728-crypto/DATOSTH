@@ -25873,5 +25873,14 @@
     "subcircuito": "FLAVIO ALFARO 1",
     "id": "COOPERATIVA-CHONE-LTDA-Z4-M-C-F",
     "nombre_punto": "COOPERATIVA CHONE LTDA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 1",
+    "id": "PETROCOMERCIAL-PUERTO-JELY-JELY-Z7-E-S-S",
+    "nombre_punto": "PETROCOMERCIAL PUERTO JELY JELY"
   }
 ]
