@@ -25999,5 +25999,14 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "CENTRO-DE-SALUD-Z5-L-V-B",
     "nombre_punto": "CENTRO DE SALUD"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "ESCUELA-DR.-JUAN-ANTONIO-MONTALVÁN-CORNEJO-Z5-L-V-V",
+    "nombre_punto": "Escuela Dr. Juan Antonio Montalván Cornejo"
   }
 ]
