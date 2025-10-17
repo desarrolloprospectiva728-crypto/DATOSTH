@@ -25954,5 +25954,14 @@
     "subcircuito": "BECHE 1",
     "id": "2350828626-Z4-M-P-B",
     "nombre_punto": 2350828626
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "BECHE",
+    "subcircuito": "BECHE 1",
+    "id": "2350828626-Z4-M-P-B",
+    "nombre_punto": 2350828626
   }
 ]
