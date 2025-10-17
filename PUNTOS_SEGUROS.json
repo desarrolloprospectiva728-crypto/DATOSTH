@@ -25882,5 +25882,23 @@
     "subcircuito": "SANTA ROSA ESTE 1",
     "id": "PETROCOMERCIAL-PUERTO-JELY-JELY-Z7-E-S-S",
     "nombre_punto": "PETROCOMERCIAL PUERTO JELY JELY"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "LAS PALMERAS",
+    "subcircuito": "LAS PALMERAS 1",
+    "id": "FISCALIA-SANTA-ROSA-Z7-E-S-L",
+    "nombre_punto": "FISCALIA SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "LAS PALMERAS",
+    "subcircuito": "LAS PALMERAS 1",
+    "id": "FISCALIA-SANTA-ROSA-Z7-E-S-L",
+    "nombre_punto": "FISCALIA SANTA ROSA"
   }
 ]
