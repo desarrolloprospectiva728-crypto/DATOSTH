@@ -25945,5 +25945,14 @@
     "subcircuito": "BUENA FE OESTE 1",
     "id": "GASOLINERA-GENESIS-Z5-L-B-B",
     "nombre_punto": "GASOLINERA GENESIS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "BECHE",
+    "subcircuito": "BECHE 1",
+    "id": "2350828626-Z4-M-P-B",
+    "nombre_punto": 2350828626
   }
 ]
