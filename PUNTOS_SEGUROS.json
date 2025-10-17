@@ -25711,5 +25711,14 @@
     "subcircuito": "JULIO MORENO 1",
     "id": "SUBCENTRO-DE-SALUD-SAN-GABRIEL-DEL-BABA-Z4-S-S-J",
     "nombre_punto": "SUBCENTRO DE SALUD SAN GABRIEL DEL BABA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LAS MERCEDES",
+    "subcircuito": "LAS MERCEDES 1",
+    "id": "HIPER-MERCADO-D'-LILYS-Z4-S-S-L",
+    "nombre_punto": "HIPER MERCADO D' LILYS"
   }
 ]
