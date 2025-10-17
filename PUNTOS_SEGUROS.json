@@ -25702,5 +25702,14 @@
     "subcircuito": "AEROPUERTO 2",
     "id": "RESTAURANT-THE-MARQUIS-Z2-N-T-A",
     "nombre_punto": "RESTAURANT THE MARQUIS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "JULIO MORENO",
+    "subcircuito": "JULIO MORENO 1",
+    "id": "SUBCENTRO-DE-SALUD-SAN-GABRIEL-DEL-BABA-Z4-S-S-J",
+    "nombre_punto": "SUBCENTRO DE SALUD SAN GABRIEL DEL BABA"
   }
 ]
