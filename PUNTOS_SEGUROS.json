@@ -25936,5 +25936,14 @@
     "subcircuito": "AEROPUERTO 2",
     "id": "SHUGAA-SHOP-Z2-N-T-A",
     "nombre_punto": "SHUGAA SHOP"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 1",
+    "id": "GASOLINERA-GENESIS-Z5-L-B-B",
+    "nombre_punto": "GASOLINERA GENESIS"
   }
 ]
