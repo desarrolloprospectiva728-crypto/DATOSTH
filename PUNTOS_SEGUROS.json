@@ -25792,5 +25792,14 @@
     "subcircuito": "LAS MERCEDES 1",
     "id": "GASOLINERA-PUMA-BARRIO-10-DE-AGOSTO-Z4-S-S-L",
     "nombre_punto": "GASOLINERA PUMA BARRIO 10 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "TORATA",
+    "subcircuito": "TORATA 1",
+    "id": "GASOLINERA-PETROCOMERCIAL-LA-AVANZADA-Z7-E-S-T",
+    "nombre_punto": "GASOLINERA PETROCOMERCIAL LA AVANZADA"
   }
 ]
