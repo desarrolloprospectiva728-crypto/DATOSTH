@@ -25927,5 +25927,14 @@
     "subcircuito": "BUENA FE ESTE 1",
     "id": "COMERCIAL-DE-CACAO-ZAMORA-Z5-L-B-B",
     "nombre_punto": "COMERCIAL DE CACAO ZAMORA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "SHUGAA-SHOP-Z2-N-T-A",
+    "nombre_punto": "SHUGAA SHOP"
   }
 ]
