@@ -25963,5 +25963,23 @@
     "subcircuito": "BECHE 1",
     "id": "2350828626-Z4-M-P-B",
     "nombre_punto": 2350828626
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "TENA-MEDIC-Z2-N-T-A",
+    "nombre_punto": "TENA MEDIC"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "COJIMIES",
+    "subcircuito": "COJIMIES 1",
+    "id": "CENTRO-DE-SALUD-Z4-M-P-C",
+    "nombre_punto": "Centro de salud"
   }
 ]
