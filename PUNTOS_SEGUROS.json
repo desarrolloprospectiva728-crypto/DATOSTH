@@ -25990,5 +25990,14 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "CENTRO-DE-SALUD-Z5-L-V-B",
     "nombre_punto": "CENTRO DE SALUD"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "CENTRO-DE-SALUD-Z5-L-V-B",
+    "nombre_punto": "CENTRO DE SALUD"
   }
 ]
