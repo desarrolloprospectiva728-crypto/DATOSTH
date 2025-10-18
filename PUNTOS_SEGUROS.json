@@ -25821,15 +25821,6 @@
     "nombre_punto": "PETROCOMERCIAL SANTA ROSA"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "SANTA ROSA ESTE",
-    "subcircuito": "SANTA ROSA ESTE 2",
-    "id": "PETROCOMERCIAL-SANTA-ROSA-REDONDEL-DE-JUMON-Z7-E-S-S",
-    "nombre_punto": "PETROCOMERCIAL SANTA ROSA REDONDEL DE JUMON"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "CHONE",
@@ -26037,75 +26028,12 @@
     "nombre_punto": "FARMACIA SAN MIGUEL"
   },
   {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "JAUNECHE",
+    "subcircuito": "JAUNECHE 1",
+    "id": "FARMACIA-SALUD-Y-AHORROS-Z5-L-V-J",
+    "nombre_punto": "FARMACIA SALUD Y AHORROS"
   }
 ]
