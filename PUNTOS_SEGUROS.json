@@ -26269,5 +26269,14 @@
     "subcircuito": "LA NUEVA UNION 1",
     "id": "EL-GORDO-Z5-L-B-L",
     "nombre_punto": "El Gordo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "ESTACIÓN-DE-BOMBEO-CHALPI-PETRO-CUADOR-Z2-N-E-P",
+    "nombre_punto": "ESTACIÓN DE BOMBEO CHALPI PETRO CUADOR"
   }
 ]
