@@ -26440,5 +26440,14 @@
     "subcircuito": "BUENA FE OESTE 2",
     "id": "COMPLEJO-TURÍSTICO-AGUAS-BLANCAS-Z5-L-B-B",
     "nombre_punto": "COMPLEJO TURÍSTICO AGUAS BLANCAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "PATRICIA PILAR",
+    "subcircuito": "PATRICIA PILAR 1",
+    "id": "VILLAS-SECTOR-2-Z5-L-B-P",
+    "nombre_punto": "VILLAS SECTOR 2"
   }
 ]
