@@ -26314,5 +26314,14 @@
     "subcircuito": "TONSUPA 1",
     "id": "JEFATURA-DE-ANTINARCOTICOS-Z1-E-A-T",
     "nombre_punto": "JEFATURA DE ANTINARCOTICOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "BODEGA-DE-CACAO-Z5-L-V-V",
+    "nombre_punto": "Bodega de cacao"
   }
 ]
