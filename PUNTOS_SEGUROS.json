@@ -26431,5 +26431,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 1",
     "id": "GASOLINERA-PETROECUADOR-EP-Z2-N-E-S",
     "nombre_punto": "GASOLINERA PETROECUADOR EP"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 2",
+    "id": "COMPLEJO-TURÍSTICO-AGUAS-BLANCAS-Z5-L-B-B",
+    "nombre_punto": "COMPLEJO TURÍSTICO AGUAS BLANCAS"
   }
 ]
