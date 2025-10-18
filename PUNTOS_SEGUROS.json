@@ -26278,5 +26278,23 @@
     "subcircuito": "PAPALLACTA 1",
     "id": "ESTACIÓN-DE-BOMBEO-CHALPI-PETRO-CUADOR-Z2-N-E-P",
     "nombre_punto": "ESTACIÓN DE BOMBEO CHALPI PETRO CUADOR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "ESTACION-DE-BOMBEO-OCP-PARAMO-Z2-N-E-P",
+    "nombre_punto": "ESTACION DE BOMBEO OCP PARAMO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "ACADEMIA-DE-MÚSICA-SALMOS-DE-DAVID-Z5-L-B-C",
+    "nombre_punto": "ACADEMIA DE MÚSICA SALMOS DE DAVID"
   }
 ]
