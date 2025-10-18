@@ -26053,5 +26053,41 @@
     "subcircuito": "VALENCIA 1",
     "id": "MEGA-REGALON-Z5-L-B-V",
     "nombre_punto": "MEGA REGALON"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA NUEVA UNION",
+    "subcircuito": "LA NUEVA UNION 1",
+    "id": "HAPPY-CELL-Z5-L-B-L",
+    "nombre_punto": "Happy Cell"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "MEGA-OFERTAS-Z5-L-B-V",
+    "nombre_punto": "MEGA OFERTAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA NUEVA UNION",
+    "subcircuito": "LA NUEVA UNION 1",
+    "id": "HAPPY-CELL2-Z5-L-B-L",
+    "nombre_punto": "Happy cell2"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "CONSTRUMAX-Z5-L-V-Q",
+    "nombre_punto": "CONSTRUMAX"
   }
 ]
