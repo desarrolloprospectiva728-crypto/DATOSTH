@@ -26449,5 +26449,14 @@
     "subcircuito": "PATRICIA PILAR 1",
     "id": "VILLAS-SECTOR-2-Z5-L-B-P",
     "nombre_punto": "VILLAS SECTOR 2"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "ESTACION-DE-PETROECUADOR-BAEZA-4-Z2-N-E-S",
+    "nombre_punto": "ESTACION DE PETROECUADOR BAEZA 4"
   }
 ]
