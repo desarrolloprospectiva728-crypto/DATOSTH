@@ -26089,5 +26089,14 @@
     "subcircuito": "QUINSALOMA 1",
     "id": "CONSTRUMAX-Z5-L-V-Q",
     "nombre_punto": "CONSTRUMAX"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 2",
+    "id": "LIBRERÍA-QUEVEDO-JR-Z5-L-B-B",
+    "nombre_punto": "LIBRERÍA QUEVEDO JR"
   }
 ]
