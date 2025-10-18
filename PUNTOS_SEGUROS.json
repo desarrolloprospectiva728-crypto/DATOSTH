@@ -26458,5 +26458,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 2",
     "id": "ESTACION-DE-PETROECUADOR-BAEZA-4-Z2-N-E-S",
     "nombre_punto": "ESTACION DE PETROECUADOR BAEZA 4"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "LABORATORIO-SANTA-RITA-Z4-M-M-U",
+    "nombre_punto": "LABORATORIO SANTA RITA"
   }
 ]
