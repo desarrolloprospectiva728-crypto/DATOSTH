@@ -26305,5 +26305,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "TIENDA-NOELIA-Z5-L-B-C",
     "nombre_punto": "Tienda Noelia"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONSUPA",
+    "subcircuito": "TONSUPA 1",
+    "id": "JEFATURA-DE-ANTINARCOTICOS-Z1-E-A-T",
+    "nombre_punto": "JEFATURA DE ANTINARCOTICOS"
   }
 ]
