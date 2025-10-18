@@ -26242,5 +26242,23 @@
     "subcircuito": "VALENCIA 1",
     "id": "COMERCIAL-LUCERITO-Z5-L-B-V",
     "nombre_punto": "COMERCIAL LUCERITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "CARNICOS-MOREIRA-Z5-L-B-V",
+    "nombre_punto": "CARNICOS MOREIRA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA NUEVA UNION",
+    "subcircuito": "LA NUEVA UNION 1",
+    "id": "DISENSA-Z5-L-B-L",
+    "nombre_punto": "Disensa"
   }
 ]
