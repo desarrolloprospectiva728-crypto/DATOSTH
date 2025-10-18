@@ -26143,5 +26143,14 @@
     "subcircuito": "LA NUEVA UNION 1",
     "id": "SPA-BELLA-Z5-L-B-L",
     "nombre_punto": "Spa Bella"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "ESTACIÓN-DE-BOMBEO-NRO-5-PAPALLACTA-Z2-N-E-P",
+    "nombre_punto": "ESTACIÓN DE BOMBEO NRO 5 PAPALLACTA"
   }
 ]
