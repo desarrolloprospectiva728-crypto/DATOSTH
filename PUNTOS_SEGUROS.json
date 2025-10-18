@@ -26377,5 +26377,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 1",
     "id": "OCP-ESTACIÓN-SARDINAS-PS-3-Z2-N-E-S",
     "nombre_punto": "OCP ESTACIÓN SARDINAS PS-3"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "ESTACION-PLUSPETROL-Z2-N-E-S",
+    "nombre_punto": "ESTACION PLUSPETROL"
   }
 ]
