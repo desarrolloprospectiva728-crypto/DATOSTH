@@ -26224,5 +26224,23 @@
     "subcircuito": "VALENCIA 1",
     "id": "FARMACIA-SANTA-MARTHA-Z5-L-B-V",
     "nombre_punto": "FARMACIA SANTA MARTHA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA NUEVA UNION",
+    "subcircuito": "LA NUEVA UNION 1",
+    "id": "LA-PECERITA-Z5-L-B-L",
+    "nombre_punto": "La pecerita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "COMERCIAL-LUCERITO-Z5-L-B-V",
+    "nombre_punto": "COMERCIAL LUCERITO"
   }
 ]
