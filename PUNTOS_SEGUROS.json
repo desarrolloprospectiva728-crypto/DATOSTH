@@ -26350,5 +26350,14 @@
     "subcircuito": "PALANQUITA 1",
     "id": "DULCERIA-EL-PROFESOR-Z4-M-C-P",
     "nombre_punto": "Dulceria el profesor"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "PALANQUITA",
+    "subcircuito": "PALANQUITA 1",
+    "id": "DULCERIA-EL-PROFESOR-Z4-M-C-P",
+    "nombre_punto": "Dulceria el profesor"
   }
 ]
