@@ -26296,5 +26296,14 @@
     "subcircuito": "CENTRO 1",
     "id": "ACADEMIA-DE-MÚSICA-SALMOS-DE-DAVID-Z5-L-B-C",
     "nombre_punto": "ACADEMIA DE MÚSICA SALMOS DE DAVID"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "TIENDA-NOELIA-Z5-L-B-C",
+    "nombre_punto": "Tienda Noelia"
   }
 ]
