@@ -26062,5 +26062,23 @@
     "subcircuito": "JAUNECHE 1",
     "id": "SUPER-TIENDA-3-HERMANOS-Z5-L-V-J",
     "nombre_punto": "Super tienda 3 hermanos"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "PROMOCIONES-2000-Z5-L-B-L",
+    "nombre_punto": "PROMOCIONES 2000"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "UTILES-ESCOLARED-Z5-L-B-C",
+    "nombre_punto": "UTILES ESCOLARED"
   }
 ]
