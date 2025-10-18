@@ -26386,5 +26386,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 1",
     "id": "ESTACION-PLUSPETROL-Z2-N-E-S",
     "nombre_punto": "ESTACION PLUSPETROL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 2",
+    "id": "GASOLINERA-MARIA-2-Z5-L-B-B",
+    "nombre_punto": "GASOLINERA MARIA 2"
   }
 ]
