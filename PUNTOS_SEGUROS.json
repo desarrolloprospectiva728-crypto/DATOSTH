@@ -26080,5 +26080,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "UTILES-ESCOLARED-Z5-L-B-C",
     "nombre_punto": "UTILES ESCOLARED"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "ABBIE-FLORERIA-Z5-L-B-L",
+    "nombre_punto": "ABBIE FLORERIA"
   }
 ]
