@@ -26098,5 +26098,14 @@
     "subcircuito": "LA NUEVA UNION 1",
     "id": "EL-GATO-Z5-L-B-L",
     "nombre_punto": "El Gato"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA NUEVA UNION",
+    "subcircuito": "LA NUEVA UNION 1",
+    "id": "EL-CHAPI-Z5-L-B-L",
+    "nombre_punto": "El chapi"
   }
 ]
