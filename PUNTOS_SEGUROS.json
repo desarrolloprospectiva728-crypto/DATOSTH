@@ -26404,5 +26404,14 @@
     "subcircuito": "MARIA AUXILIADORA 2",
     "id": "GRUTA-COMITE-PROMEJORES-UNIDOS-PARA-VENCER-Z4-M-M-M",
     "nombre_punto": "GRUTA COMITE PROMEJORES UNIDOS PARA VENCER"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "HOTEL-EL-CISNE-1,,,,,CALLES-10-DE-AGOSTO-ENTRE-OLMEDO-Y-COLON-Z1-E-E-C",
+    "nombre_punto": "HOTEL EL CISNE 1,,,,,CALLES 10 DE AGOSTO ENTRE OLMEDO Y COLON"
   }
 ]
