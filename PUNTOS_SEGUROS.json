@@ -26125,5 +26125,14 @@
     "subcircuito": "VALENCIA 1",
     "id": "SUBCENTRO-DE-SALUD-VALENCIA-Z5-L-B-V",
     "nombre_punto": "SUBCENTRO DE SALUD Valencia"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "BOCADITOS-SEBASTIAN-Z5-L-B-V",
+    "nombre_punto": "Bocaditos Sebastian"
   }
 ]
