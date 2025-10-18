@@ -26152,5 +26152,14 @@
     "subcircuito": "PAPALLACTA 1",
     "id": "ESTACIÓN-DE-BOMBEO-NRO-5-PAPALLACTA-Z2-N-E-P",
     "nombre_punto": "ESTACIÓN DE BOMBEO NRO 5 PAPALLACTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "UPC-BARRAGANETE-Z4-M-P-B",
+    "nombre_punto": "UPC BARRAGANETE"
   }
 ]
