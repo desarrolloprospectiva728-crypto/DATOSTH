@@ -26053,5 +26053,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "TABACALERA-Z5-L-B-C",
     "nombre_punto": "Tabacalera"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "JAUNECHE",
+    "subcircuito": "JAUNECHE 1",
+    "id": "SUPER-TIENDA-3-HERMANOS-Z5-L-V-J",
+    "nombre_punto": "Super tienda 3 hermanos"
   }
 ]
