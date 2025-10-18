@@ -26323,5 +26323,23 @@
     "subcircuito": "VINCES SUR 1",
     "id": "BODEGA-DE-CACAO-Z5-L-V-V",
     "nombre_punto": "Bodega de cacao"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "BODEGA-DE-CACAO-Z5-L-V-V",
+    "nombre_punto": "Bodega de cacao"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "BODEGA-DE-CACAO-Z5-L-V-V",
+    "nombre_punto": "Bodega de cacao"
   }
 ]
