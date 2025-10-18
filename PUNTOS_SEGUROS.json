@@ -26026,5 +26026,32 @@
     "subcircuito": "SANTA ROSA OESTE 1",
     "id": "DISTRIBUIDORA-FEIJOO-CERAMICA-Z7-E-S-S",
     "nombre_punto": "DISTRIBUIDORA FEIJOO CERAMICA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SALINAS CENTRO",
+    "subcircuito": "SALINAS CENTRO 2",
+    "id": "TULUM-Z5-S-L-S",
+    "nombre_punto": "Tulum"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "MI-NEGRO-Z5-L-B-V",
+    "nombre_punto": "MI NEGRO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "MEGA-REGALON-Z5-L-B-V",
+    "nombre_punto": "MEGA REGALON"
   }
 ]
