@@ -26134,5 +26134,14 @@
     "subcircuito": "VALENCIA 1",
     "id": "BOCADITOS-SEBASTIAN-Z5-L-B-V",
     "nombre_punto": "Bocaditos Sebastian"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA NUEVA UNION",
+    "subcircuito": "LA NUEVA UNION 1",
+    "id": "SPA-BELLA-Z5-L-B-L",
+    "nombre_punto": "Spa Bella"
   }
 ]
