@@ -26179,5 +26179,14 @@
     "subcircuito": "LA NUEVA UNION 1",
     "id": "PANADERÍA-LAS-DELICIAS-Z5-L-B-L",
     "nombre_punto": "Panadería las delicias"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "ALMACENES-LA-GANGA-Z5-L-B-V",
+    "nombre_punto": "ALMACENES LA GANGA"
   }
 ]
