@@ -26098,5 +26098,14 @@
     "subcircuito": "BUENA FE OESTE 2",
     "id": "LIBRERÍA-QUEVEDO-JR-Z5-L-B-B",
     "nombre_punto": "LIBRERÍA QUEVEDO JR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "JAUNECHE",
+    "subcircuito": "JAUNECHE 1",
+    "id": "FARMACIA-SAN-MIGUEL-Z5-L-V-J",
+    "nombre_punto": "FARMACIA SAN MIGUEL"
   }
 ]
