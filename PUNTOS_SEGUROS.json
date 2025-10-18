@@ -26035,5 +26035,14 @@
     "subcircuito": "JAUNECHE 1",
     "id": "FARMACIA-SALUD-Y-AHORROS-Z5-L-V-J",
     "nombre_punto": "FARMACIA SALUD Y AHORROS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "TABACALERA-Z5-L-B-C",
+    "nombre_punto": "Tabacalera"
   }
 ]
