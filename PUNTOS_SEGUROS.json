@@ -26476,5 +26476,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "MINI-MARKET-LA-ECONOMÍA-DE-ANDY-Z5-L-B-C",
     "nombre_punto": "Mini Market La Economía De Andy"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "FRIGORIFICO-LA-CADENA-Z5-L-B-C",
+    "nombre_punto": "Frigorifico La Cadena"
   }
 ]
