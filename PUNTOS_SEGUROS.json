@@ -26413,5 +26413,14 @@
     "subcircuito": "CENTRO 1",
     "id": "HOTEL-EL-CISNE-1,,,,,CALLES-10-DE-AGOSTO-ENTRE-OLMEDO-Y-COLON-Z1-E-E-C",
     "nombre_punto": "HOTEL EL CISNE 1,,,,,CALLES 10 DE AGOSTO ENTRE OLMEDO Y COLON"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "PETROECUADOR-ESTACIÓN-OSAYACU-Z2-N-E-S",
+    "nombre_punto": "PETROECUADOR ESTACIÓN OSAYACU"
   }
 ]
