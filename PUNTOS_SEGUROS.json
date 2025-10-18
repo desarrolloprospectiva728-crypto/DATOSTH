@@ -26395,5 +26395,14 @@
     "subcircuito": "BUENA FE OESTE 2",
     "id": "GASOLINERA-MARIA-2-Z5-L-B-B",
     "nombre_punto": "GASOLINERA MARIA 2"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 2",
+    "id": "GRUTA-COMITE-PROMEJORES-UNIDOS-PARA-VENCER-Z4-M-M-M",
+    "nombre_punto": "GRUTA COMITE PROMEJORES UNIDOS PARA VENCER"
   }
 ]
