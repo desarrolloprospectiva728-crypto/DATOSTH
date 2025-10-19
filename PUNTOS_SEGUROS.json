@@ -26048,15 +26048,6 @@
   {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "COSTA AZUL",
-    "subcircuito": "COSTA AZUL 1",
-    "id": "TABACALERA-Z5-L-B-C",
-    "nombre_punto": "Tabacalera"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
     "distrito": "VINCES",
     "circuito": "JAUNECHE",
     "subcircuito": "JAUNECHE 1",
@@ -26184,15 +26175,6 @@
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "BUENA FE",
-    "circuito": "VALENCIA",
-    "subcircuito": "VALENCIA 1",
-    "id": "ALMACENES-LA-GANGA-Z5-L-B-V",
-    "nombre_punto": "ALMACENES LA GANGA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
     "circuito": "LA NUEVA UNION",
     "subcircuito": "LA NUEVA UNION 1",
     "id": "FARMACIA-CRUZ-AZUL-Z5-L-B-L",
@@ -26280,15 +26262,6 @@
     "nombre_punto": "ESTACIÓN DE BOMBEO CHALPI PETRO CUADOR"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "EL VALLE DE QUIJOS",
-    "circuito": "PAPALLACTA",
-    "subcircuito": "PAPALLACTA 1",
-    "id": "ESTACION-DE-BOMBEO-OCP-PARAMO-Z2-N-E-P",
-    "nombre_punto": "ESTACION DE BOMBEO OCP PARAMO"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "BABAHOYO",
@@ -26323,42 +26296,6 @@
     "subcircuito": "VINCES SUR 1",
     "id": "BODEGA-DE-CACAO-Z5-L-V-V",
     "nombre_punto": "Bodega de cacao"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "VINCES SUR",
-    "subcircuito": "VINCES SUR 1",
-    "id": "BODEGA-DE-CACAO-Z5-L-V-V",
-    "nombre_punto": "Bodega de cacao"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "VINCES SUR",
-    "subcircuito": "VINCES SUR 1",
-    "id": "BODEGA-DE-CACAO-Z5-L-V-V",
-    "nombre_punto": "Bodega de cacao"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "CHONE",
-    "circuito": "PALANQUITA",
-    "subcircuito": "PALANQUITA 1",
-    "id": "DULCERIA-EL-PROFESOR-Z4-M-C-P",
-    "nombre_punto": "Dulceria el profesor"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "CHONE",
-    "circuito": "PALANQUITA",
-    "subcircuito": "PALANQUITA 1",
-    "id": "DULCERIA-EL-PROFESOR-Z4-M-C-P",
-    "nombre_punto": "Dulceria el profesor"
   },
   {
     "zona": "ZONA 4",
