@@ -26181,15 +26181,6 @@
     "nombre_punto": "Petroecuador 11 de noviembre"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "HUAQUILLAS",
-    "circuito": "LA LIBERTAD",
-    "subcircuito": "LA LIBERTAD 1",
-    "id": "PETROECUADOR-11-DE-NOVIEMBRE-Z7-E-H-L",
-    "nombre_punto": "Petroecuador 11 de noviembre"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
@@ -26217,24 +26208,6 @@
     "nombre_punto": "Estación Petroecuador  El Oro"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "HUAQUILLAS",
-    "circuito": "LA LIBERTAD",
-    "subcircuito": "LA LIBERTAD 1",
-    "id": "ESTACIÓN-PETROECUADOR-EL-ORO-Z7-E-H-L",
-    "nombre_punto": "Estación Petroecuador  El Oro"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "LA PRADERA",
-    "subcircuito": "LA PRADERA 3",
-    "id": "CARNICERIATO-EL-CHONERO-Z4-M-M-L",
-    "nombre_punto": "CARNICERIATO EL CHONERO"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
@@ -26251,5 +26224,23 @@
     "subcircuito": "GENERAL VILLAMIL 2",
     "id": "PRESIDENTE-BEACH-Z5-G-P-G",
     "nombre_punto": "Presidente Beach"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "DESVÍO-MONTECRISTI-JARAMIJO-URB.-SANTA-CRUZ-Z4-M-M-L",
+    "nombre_punto": "DESVÍO MONTECRISTI-JARAMIJO URB. SANTA CRUZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "DESVÍO-MONTECRISTI-JARAMIJO-URB.-SANTA-CRUZ-Z4-M-M-L",
+    "nombre_punto": "DESVÍO MONTECRISTI-JARAMIJO URB. SANTA CRUZ"
   }
 ]
