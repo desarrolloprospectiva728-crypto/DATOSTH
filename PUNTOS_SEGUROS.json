@@ -26431,5 +26431,14 @@
     "subcircuito": "BUENA FE ESTE 1",
     "id": "FARMACIA-CRUZ-AZUL-FRENTE-A-LA-GANGA-Z5-L-B-B",
     "nombre_punto": "FARMACIA CRUZ AZUL FRENTE A LA GANGA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "RESTAURANTE-LAS-HAMACAS-DE-SOSOTE-Z4-M-M-L",
+    "nombre_punto": "RESTAURANTE LAS HAMACAS DE SOSOTE"
   }
 ]
