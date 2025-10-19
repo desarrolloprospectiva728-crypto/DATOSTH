@@ -26251,5 +26251,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "TIENDA-INGRESO-A-LA-FEDERICO-Z5-L-B-C",
     "nombre_punto": "Tienda Ingreso a la Federico"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "CINCUENTAZO-LA-CADENA-Z5-L-B-C",
+    "nombre_punto": "Cincuentazo la Cadena"
   }
 ]
