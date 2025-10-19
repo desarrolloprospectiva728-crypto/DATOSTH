@@ -26242,5 +26242,14 @@
     "subcircuito": "LA SEQUITA 1",
     "id": "Y-DEL-CERRO-GUAYABAL-Z4-M-M-L",
     "nombre_punto": "Y DEL CERRO GUAYABAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 2",
+    "id": "PRESIDENTE-BEACH-Z5-G-P-G",
+    "nombre_punto": "Presidente Beach"
   }
 ]
