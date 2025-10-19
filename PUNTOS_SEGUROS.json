@@ -26197,5 +26197,50 @@
     "subcircuito": "LA SEQUITA 1",
     "id": "PEAJE-MANTA-PORTOVIEJO-Z4-M-M-L",
     "nombre_punto": "PEAJE MANTA-PORTOVIEJO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PRADERA",
+    "subcircuito": "LA PRADERA 3",
+    "id": "CARNICERIATO-EL-CHONERO-Z4-M-M-L",
+    "nombre_punto": "CARNICERIATO EL CHONERO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "LA LIBERTAD 1",
+    "id": "ESTACIÓN-PETROECUADOR-EL-ORO-Z7-E-H-L",
+    "nombre_punto": "Estación Petroecuador  El Oro"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "LA LIBERTAD 1",
+    "id": "ESTACIÓN-PETROECUADOR-EL-ORO-Z7-E-H-L",
+    "nombre_punto": "Estación Petroecuador  El Oro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PRADERA",
+    "subcircuito": "LA PRADERA 3",
+    "id": "CARNICERIATO-EL-CHONERO-Z4-M-M-L",
+    "nombre_punto": "CARNICERIATO EL CHONERO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "Y-DEL-CERRO-GUAYABAL-Z4-M-M-L",
+    "nombre_punto": "Y DEL CERRO GUAYABAL"
   }
 ]
