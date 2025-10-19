@@ -26422,5 +26422,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "FRIGORIFICO-LA-CADENA-Z5-L-B-C",
     "nombre_punto": "Frigorifico La Cadena"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 1",
+    "id": "FARMACIA-CRUZ-AZUL-FRENTE-A-LA-GANGA-Z5-L-B-B",
+    "nombre_punto": "FARMACIA CRUZ AZUL FRENTE A LA GANGA"
   }
 ]
