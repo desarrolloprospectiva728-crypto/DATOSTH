@@ -26440,5 +26440,14 @@
     "subcircuito": "LA SEQUITA 1",
     "id": "RESTAURANTE-LAS-HAMACAS-DE-SOSOTE-Z4-M-M-L",
     "nombre_punto": "RESTAURANTE LAS HAMACAS DE SOSOTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "BODEGAS-DEL-TUTTI-Z4-M-M-L",
+    "nombre_punto": "BODEGAS DEL TUTTI"
   }
 ]
