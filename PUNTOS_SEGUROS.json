@@ -5076,24 +5076,6 @@
     "nombre_punto": "PARQUE HÉROES DE PAQUISHA"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SACHAS",
-    "subcircuito": "SACHAS 1",
-    "id": "VALVOLINE-Z2-O-L-S",
-    "nombre_punto": "VALVOLINE"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SACHAS",
-    "subcircuito": "SACHAS 1",
-    "id": "LAVADORAYLUBRICADORAAMIRA-Z2-O-L-S",
-    "nombre_punto": "LAVADORAYLUBRICADORAAMIRA"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "24. DE MAYO",
@@ -5101,15 +5083,6 @@
     "subcircuito": "SANTA ANA 1",
     "id": "ALMACÉN-CREDIT-Z4-M-2-S",
     "nombre_punto": "ALMACÉN CREDIT"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SACHAS",
-    "subcircuito": "SACHAS 2",
-    "id": "MICROMERCADOLAJOYA-Z2-O-L-S",
-    "nombre_punto": "MICROMERCADOLAJOYA"
   },
   {
     "zona": "ZONA 5",
@@ -11313,15 +11286,6 @@
     "nombre_punto": "Papitas Doña Mary"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SACHAS",
-    "subcircuito": "SACHAS 1",
-    "id": "SAITE.EC-Z2-O-L-S",
-    "nombre_punto": "Saite.ec"
-  },
-  {
     "zona": "ZONA 1",
     "subzona": "ESMERALDAS",
     "distrito": "ESMERALDAS",
@@ -13194,15 +13158,6 @@
     "nombre_punto": "UNIDAD JUDICIAL"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "AGUARICO",
-    "subcircuito": "AGUARICO 1",
-    "id": "MAXI-SUPERMERCADO-Z2-O-A-A",
-    "nombre_punto": "Maxi supermercado"
-  },
-  {
     "zona": "ZONA 1",
     "subzona": "CARCHI",
     "distrito": "TULCAN",
@@ -13214,38 +13169,11 @@
   {
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "AGUARICO",
-    "subcircuito": "AGUARICO 1",
-    "id": "TIENDA-&-BAZAR-EL-COLORADO-Z2-O-A-A",
-    "nombre_punto": "Tienda & bazar el colorado"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 1",
     "id": "SUPERMERKET-SANTA-ROSA-Z2-O-L-S",
     "nombre_punto": "SUPERMERKET-SANTA ROSA"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "AGUARICO",
-    "subcircuito": "AGUARICO 1",
-    "id": "ZAPATERÍA-ANTAMBA-Z2-O-A-A",
-    "nombre_punto": "Zapatería Antamba"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "AGUARICO",
-    "subcircuito": "AGUARICO 1",
-    "id": "CHUVICELL-Z2-O-A-A",
-    "nombre_punto": "Chuvicell"
   },
   {
     "zona": "ZONA 2",
@@ -13289,24 +13217,6 @@
     "distrito": "AGUARICO",
     "circuito": "AGUARICO",
     "subcircuito": "AGUARICO 1",
-    "id": "BAZAR-SARITA-Z2-O-A-A",
-    "nombre_punto": "Bazar Sarita"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "AGUARICO",
-    "subcircuito": "AGUARICO 1",
-    "id": "VESTIR-DE-ANTAMBA-Z2-O-A-A",
-    "nombre_punto": "Vestir de Antamba"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "AGUARICO",
-    "subcircuito": "AGUARICO 1",
     "id": "VARIEDADES-MARGARITA-Z2-O-A-A",
     "nombre_punto": "Variedades Margarita"
   },
@@ -13318,15 +13228,6 @@
     "subcircuito": "AGUARICO 1",
     "id": "BAZAR-\"EL-ARMARIO-MÁGICO-DE-MARY\"-Z2-O-A-A",
     "nombre_punto": "Bazar \"El armario mágico de Mary\""
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "AGUARICO",
-    "subcircuito": "AGUARICO 1",
-    "id": "MINIMARKET-DAMARIS-Z2-O-A-A",
-    "nombre_punto": "Minimarket Damaris"
   },
   {
     "zona": "ZONA 2",
@@ -13509,24 +13410,6 @@
     "nombre_punto": "LAS RICAS FRITADAS DE ENOKANQUI"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SAN PEDRO",
-    "subcircuito": "SAN PEDRO 1",
-    "id": "EMPANADAS-DOÑA-PAOLA-Z2-O-L-S",
-    "nombre_punto": "EMPANADAS DOÑA PAOLA"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SAN PEDRO",
-    "subcircuito": "SAN PEDRO 1",
-    "id": "COMEDOR-LAURITA-Z2-O-L-S",
-    "nombre_punto": "COMEDOR LAURITA"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
     "distrito": "LA CONCORDIA",
@@ -13579,24 +13462,6 @@
     "subcircuito": "SAN PEDRO 1",
     "id": "BARBERIA-ESTEBAN-Z2-O-L-S",
     "nombre_punto": "BARBERIA ESTEBAN"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SAN PEDRO",
-    "subcircuito": "SAN PEDRO 1",
-    "id": "VARIEDADES-D'KISS-Z2-O-L-S",
-    "nombre_punto": "VARIEDADES D'KISS"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SAN PEDRO",
-    "subcircuito": "SAN PEDRO 1",
-    "id": "TALLER-DE-MOTOS-LEONEL-C.-Z2-O-L-S",
-    "nombre_punto": "TALLER DE MOTOS LEONEL C."
   },
   {
     "zona": "ZONA 2",
@@ -13658,26 +13523,8 @@
     "distrito": "AGUARICO",
     "circuito": "AGUARICO",
     "subcircuito": "AGUARICO 1",
-    "id": "BAZAR-SUMAC-Z2-O-A-A",
-    "nombre_punto": "Bazar Sumac"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "AGUARICO",
-    "subcircuito": "AGUARICO 1",
     "id": "LEGUMBRES-OTAVALEÑA-Z2-O-A-A",
     "nombre_punto": "Legumbres Otavaleña"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "AGUARICO",
-    "subcircuito": "AGUARICO 1",
-    "id": "FERRETERÍA-YEPEZ-Z2-O-A-A",
-    "nombre_punto": "Ferretería Yepez"
   },
   {
     "zona": "ZONA 6",
@@ -13696,24 +13543,6 @@
     "subcircuito": "AGUARICO 1",
     "id": "LOS-REYES-PELUQUERÍA-Z2-O-A-A",
     "nombre_punto": "Los Reyes peluquería"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "AGUARICO",
-    "subcircuito": "AGUARICO 1",
-    "id": "BARBÓN-BARBER-Z2-O-A-A",
-    "nombre_punto": "Barbón barber"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "AGUARICO",
-    "subcircuito": "AGUARICO 1",
-    "id": "BAZAR-LLINITA-Z2-O-A-A",
-    "nombre_punto": "Bazar Llinita"
   },
   {
     "zona": "ZONA 6",
@@ -13932,42 +13761,6 @@
     "nombre_punto": "PANADERIA EL MALECON"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "HOSTAL-CHIMBORAZO-Z2-O-A-N",
-    "nombre_punto": "HOSTAL CHIMBORAZO"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "HOSPITAL-FRANKLIN-TELLO-Z2-O-A-N",
-    "nombre_punto": "HOSPITAL FRANKLIN TELLO"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "GADPO-Z2-O-A-N",
-    "nombre_punto": "GADPO"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "INFOCENTRO-NUEVO-ROCAFUERTE-Z2-O-A-N",
-    "nombre_punto": "INFOCENTRO NUEVO ROCAFUERTE"
-  },
-  {
     "zona": "ZONA 3",
     "subzona": "CHIMBORAZO",
     "distrito": "ALAUSI",
@@ -14049,15 +13842,6 @@
     "nombre_punto": "Gasolinera Petro Ecuador"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "UNIDAD-EDUCATIVA-DEL-MILENIO-NUEVO-ROCAFUERTE-Z2-O-A-N",
-    "nombre_punto": "UNIDAD EDUCATIVA DEL MILENIO NUEVO ROCAFUERTE"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
     "distrito": "SANTO DOMINGO ESTE",
@@ -14074,42 +13858,6 @@
     "subcircuito": "SAN PABLO 1",
     "id": "CAJERO-AUTOMÁTICO-SAN-JOSÉ-Z5-B-S-S",
     "nombre_punto": "Cajero automático San José"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "MINI-FERRETERÍA-BRIANA-PAULE-Z2-O-A-N",
-    "nombre_punto": "Mini Ferretería Briana Paule"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "CHOZAS-EL-ESEN-Z2-O-A-N",
-    "nombre_punto": "CHOZAS EL ESEN"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "BAZAR-LIBRERIA-NIÑO-JAHIR-Z2-O-A-N",
-    "nombre_punto": "BAZAR LIBRERIA NIÑO JAHIR"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "MINIMARKET-YASUNI-TRABET-Z2-O-A-N",
-    "nombre_punto": "MINIMARKET YASUNI TRABET"
   },
   {
     "zona": "ZONA 3",
@@ -14202,15 +13950,6 @@
     "nombre_punto": "Asociación de producción agropecuaria café sumaco asumaco"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "ORELLANA LORETO",
-    "circuito": "COCA ORIENTE",
-    "subcircuito": "COCA ORIENTE 1",
-    "id": "TODO-A-5-ALADO-DE-LA-FERIA-INDIGENA-Z2-O-O-C",
-    "nombre_punto": "TODO A 5 ALADO DE LA FERIA INDIGENA"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "VENTANAS",
@@ -14301,15 +14040,6 @@
     "nombre_punto": "Parque acuático la Isla"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "BAR-LAS-PALMAS-Z2-O-A-N",
-    "nombre_punto": "BAR LAS PALMAS"
-  },
-  {
     "zona": "ZONA 3",
     "subzona": "COTOPAXI",
     "distrito": "LA MANA",
@@ -14317,15 +14047,6 @@
     "subcircuito": "LA MANA NORTE 1",
     "id": "ALMACENES-LA-GANGA-Z3-C-L-L",
     "nombre_punto": "Almacenes La Ganga"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "REGISTRO-CIVIL-Z2-O-A-N",
-    "nombre_punto": "REGISTRO CIVIL"
   },
   {
     "zona": "ZONA 3",
@@ -17367,15 +17088,6 @@
     "circuito": "COCA OCCIDENTE",
     "subcircuito": "COCA OCCIDENTE 4",
     "id": "CANCHA-6-DE-DICIEMBRE-Z2-O-O-C",
-    "nombre_punto": "Cancha 6 de Diciembre"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "ORELLANA LORETO",
-    "circuito": "COCA OCCIDENTE",
-    "subcircuito": "COCA OCCIDENTE 4",
-    "id": "CANCHA-6-DE-DICIEMBRE-Z2-O-O-N",
     "nombre_punto": "Cancha 6 de Diciembre"
   },
   {
@@ -26449,5 +26161,14 @@
     "subcircuito": "LA SEQUITA 1",
     "id": "BODEGAS-DEL-TUTTI-Z4-M-M-L",
     "nombre_punto": "BODEGAS DEL TUTTI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "RESTAURANTE-MONTUBIO-GUAYABAL-Z4-M-M-L",
+    "nombre_punto": "RESTAURANTE MONTUBIO GUAYABAL"
   }
 ]
