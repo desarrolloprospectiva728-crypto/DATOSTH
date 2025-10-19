@@ -26170,5 +26170,32 @@
     "subcircuito": "LA SEQUITA 1",
     "id": "RESTAURANTE-MONTUBIO-GUAYABAL-Z4-M-M-L",
     "nombre_punto": "RESTAURANTE MONTUBIO GUAYABAL"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "LA LIBERTAD 1",
+    "id": "PETROECUADOR-11-DE-NOVIEMBRE-Z7-E-H-L",
+    "nombre_punto": "Petroecuador 11 de noviembre"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "LA LIBERTAD 1",
+    "id": "PETROECUADOR-11-DE-NOVIEMBRE-Z7-E-H-L",
+    "nombre_punto": "Petroecuador 11 de noviembre"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "PEAJE-MANTA-PORTOVIEJO-Z4-M-M-L",
+    "nombre_punto": "PEAJE MANTA-PORTOVIEJO"
   }
 ]
