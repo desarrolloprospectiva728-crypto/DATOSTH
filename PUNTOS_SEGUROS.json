@@ -26269,5 +26269,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "COMEDOR-LA-CAYAMBE-Z5-L-B-C",
     "nombre_punto": "Comedor La Cayambe"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "COMEDOR-LA-CAYAMBE-Z5-L-B-C",
+    "nombre_punto": "Comedor La Cayambe"
   }
 ]
