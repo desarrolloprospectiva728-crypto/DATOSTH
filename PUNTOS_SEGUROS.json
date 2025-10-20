@@ -26584,5 +26584,32 @@
     "subcircuito": "PATATE 3",
     "id": "VINOS-BALDORE-Z3-T-P-P",
     "nombre_punto": "VINOS BALDORE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA SUR",
+    "subcircuito": "SANTA MARTHA SUR 1",
+    "id": "PLASTIFE-Z4-S-S-S",
+    "nombre_punto": "PLASTIFE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 3",
+    "id": "RESTAURANTE-MAVI-Z4-M-M-L",
+    "nombre_punto": "Restaurante MAVI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "CLÍNICA-CUBA-CENTER-Z4-S-S-B",
+    "nombre_punto": "CLÍNICA CUBA CENTER"
   }
 ]
