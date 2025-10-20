@@ -26353,11 +26353,38 @@
   },
   {
     "zona": "ZONA 3",
-    "subzona": "CHIMBORAZO",
-    "distrito": "COLTA",
-    "circuito": "CAJABAMBA",
-    "subcircuito": "CAJABAMBA 1",
-    "id": "HOSTAL-SUMAK-PAKARI-Y-EJECUTIVO-Z3-C-C-C",
-    "nombre_punto": "HOSTAL SUMAK PAKARI Y EJECUTIVO"
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "NUEVA AMBATO",
+    "subcircuito": "NUEVA AMBATO 1",
+    "id": "UNIVERSIDAD-CATÓLICA-Z3-T-A-N",
+    "nombre_punto": "UNIVERSIDAD CATÓLICA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PIÑAS",
+    "circuito": "SAN ROQUE",
+    "subcircuito": "SAN ROQUE 1",
+    "id": "MAGIKCELL-Z7-E-P-S",
+    "nombre_punto": "Magikcell"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "DULCE-VIDA-Z2-P-C-T",
+    "nombre_punto": "DULCE VIDA"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
