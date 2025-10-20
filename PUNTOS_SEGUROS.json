@@ -26404,5 +26404,14 @@
     "subcircuito": "SIETE DE OCTUBRE 2",
     "id": "CHIFA-XIANG-LONG-Z5-L-Q-S",
     "nombre_punto": "CHIFA XIANG LONG"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 3",
+    "id": "MULTITABLEROS-Z5-L-Q-S",
+    "nombre_punto": "MULTITABLEROS"
   }
 ]
