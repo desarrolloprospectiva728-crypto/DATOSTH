@@ -26379,15 +26379,6 @@
     "nombre_punto": "TIA CUBA"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CUBA",
-    "subcircuito": "CUBA 2",
-    "id": "TIA-CUBA-Z4-M-M-C",
-    "nombre_punto": "Tia Cuba"
-  },
-  {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
     "distrito": "CAYAMBE",
@@ -26413,5 +26404,23 @@
     "subcircuito": "SIETE DE OCTUBRE 3",
     "id": "MULTITABLEROS-Z5-L-Q-S",
     "nombre_punto": "MULTITABLEROS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "SUPER-OFERTAS-EL-HOGAR-Z2-P-C-T",
+    "nombre_punto": "SUPER OFERTAS EL HOGAR"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
