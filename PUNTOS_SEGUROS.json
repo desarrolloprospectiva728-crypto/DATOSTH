@@ -26431,5 +26431,14 @@
     "subcircuito": "TABACUNDO 1",
     "id": "PAÑALERA-POTOTIN-TABACUNDO-Z2-P-C-T",
     "nombre_punto": "PAÑALERA POTOTIN TABACUNDO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "ATOCHA FICOA",
+    "subcircuito": "ATOCHA FICOA 1",
+    "id": "CONSULTORIO-MANZANO-Z3-T-A-A",
+    "nombre_punto": "CONSULTORIO MANZANO"
   }
 ]
