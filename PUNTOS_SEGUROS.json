@@ -26521,5 +26521,14 @@
     "subcircuito": "SIGSIG 2",
     "id": "TERMINAL-TERRESTRE-Z6-A-S-S",
     "nombre_punto": "Terminal terrestre"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ANTONIO SOTOMAYOR",
+    "subcircuito": "ANTONIO SOTOMAYOR 1",
+    "id": "COMERCIAL-ANGELITO-Z5-L-V-A",
+    "nombre_punto": "COMERCIAL ANGELITO"
   }
 ]
