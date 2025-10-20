@@ -26440,5 +26440,23 @@
     "subcircuito": "ATOCHA FICOA 1",
     "id": "CONSULTORIO-MANZANO-Z3-T-A-A",
     "nombre_punto": "CONSULTORIO MANZANO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "CAÑAS-FLAQUITO-Z2-P-C-T",
+    "nombre_punto": "CAÑAS FLAQUITO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 2",
+    "id": "CASCADA-DEL-PAILON-Z3-T-B-B",
+    "nombre_punto": "Cascada del Pailon"
   }
 ]
