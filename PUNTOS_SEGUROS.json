@@ -26341,5 +26341,23 @@
     "subcircuito": "BUENA FE OESTE 2",
     "id": "CENTRO-DE-TOLERANCIA-DE-NIGHT-CLUB-Z5-L-B-B",
     "nombre_punto": "CENTRO DE TOLERANCIA DE NIGHT CLUB"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 1",
+    "id": "CENTRO-FORENSE-PORTOVIEJO-Z4-M-P-E",
+    "nombre_punto": "Centro forense Portoviejo"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "CAJABAMBA",
+    "subcircuito": "CAJABAMBA 1",
+    "id": "HOSTAL-SUMAK-PAKARI-Y-EJECUTIVO-Z3-C-C-C",
+    "nombre_punto": "HOSTAL SUMAK PAKARI Y EJECUTIVO"
   }
 ]
