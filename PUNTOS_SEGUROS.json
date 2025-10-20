@@ -26269,5 +26269,32 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "AGRO-COMERCIAL-JAMI-Z5-L-B-C",
     "nombre_punto": "Agro Comercial Jami"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LA LORENA",
+    "subcircuito": "LA LORENA 1",
+    "id": "PLANETARIUM-GASTROPLAZA-Z4-S-S-L",
+    "nombre_punto": "PLANETARIUM GASTROPLAZA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LA LORENA",
+    "subcircuito": "LA LORENA 1",
+    "id": "PLANETARIUM-GASTROPLAZA-Z4-S-S-L",
+    "nombre_punto": "PLANETARIUM GASTROPLAZA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "EPAPAR-Z4-M-R-R",
+    "nombre_punto": "EPAPAR"
   }
 ]
