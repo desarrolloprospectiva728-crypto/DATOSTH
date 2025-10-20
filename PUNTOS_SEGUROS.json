@@ -26260,5 +26260,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "CINCUENTAZO-LA-CADENA-Z5-L-B-C",
     "nombre_punto": "Cincuentazo la Cadena"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "AGRO-COMERCIAL-JAMI-Z5-L-B-C",
+    "nombre_punto": "Agro Comercial Jami"
   }
 ]
