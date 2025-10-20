@@ -26494,5 +26494,14 @@
     "subcircuito": "ROCAFUERTE 1",
     "id": "FISCALIA-GENERAL-DEL-ESTADO-Z7-E-M-R",
     "nombre_punto": "FISCALIA GENERAL DEL ESTADO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "YANTZAZA",
+    "subcircuito": "YANTZAZA 1",
+    "id": "MERCADO-CENTRAL-DE-YANTZAZA-Z7-Z-Y-Y",
+    "nombre_punto": "MERCADO CENTRAL DE YANTZAZA"
   }
 ]
