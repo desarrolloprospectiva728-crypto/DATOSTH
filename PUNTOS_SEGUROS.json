@@ -26413,5 +26413,23 @@
     "subcircuito": "TABACUNDO 1",
     "id": "SUPER-OFERTAS-EL-HOGAR-Z2-P-C-T",
     "nombre_punto": "SUPER OFERTAS EL HOGAR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "PAÑALERA-POTOTIN-TABACUNDO-Z2-P-C-T",
+    "nombre_punto": "PAÑALERA POTOTIN TABACUNDO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "PAÑALERA-POTOTIN-TABACUNDO-Z2-P-C-T",
+    "nombre_punto": "PAÑALERA POTOTIN TABACUNDO"
   }
 ]
