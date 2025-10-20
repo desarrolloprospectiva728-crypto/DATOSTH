@@ -26485,5 +26485,14 @@
     "subcircuito": "JULIO MORENO 1",
     "id": "SEGURO-CAMPESINO-IESS-Z4-S-S-J",
     "nombre_punto": "SEGURO CAMPESINO IESS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 1",
+    "id": "FISCALIA-GENERAL-DEL-ESTADO-Z7-E-M-R",
+    "nombre_punto": "FISCALIA GENERAL DEL ESTADO"
   }
 ]
