@@ -23607,15 +23607,6 @@
     "nombre_punto": "TIA S.A. TARQUII"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "TARQUI",
-    "subcircuito": "TARQUI 1",
-    "id": "CENTRO-COMERCIAL-GRAN-AQUÍ-Z4-M-M-T",
-    "nombre_punto": "CENTRO COMERCIAL GRAN AQUÍ"
-  },
-  {
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
@@ -26281,30 +26272,12 @@
   },
   {
     "zona": "ZONA 4",
-    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
-    "distrito": "SANTO DOMINGO ESTE",
-    "circuito": "LA LORENA",
-    "subcircuito": "LA LORENA 1",
-    "id": "PLANETARIUM-GASTROPLAZA-Z4-S-S-L",
-    "nombre_punto": "PLANETARIUM GASTROPLAZA"
-  },
-  {
-    "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "ROCAFUERTE",
     "circuito": "ROCAFUERTE",
     "subcircuito": "ROCAFUERTE 2",
     "id": "EPAPAR-Z4-M-R-R",
     "nombre_punto": "EPAPAR"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE ESTE",
-    "subcircuito": "BUENA FE ESTE 2",
-    "id": "FAMILIA-GUERRERO-PONCE-Z5-L-B-B",
-    "nombre_punto": "FAMILIA GUERRERO PONCE UNION Y PROGRESO"
   },
   {
     "zona": "ZONA 4",
@@ -26316,15 +26289,6 @@
     "nombre_punto": "TIA"
   },
   {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE ESTE",
-    "subcircuito": "BUENA FE ESTE 2",
-    "id": "FAMILIA-GUERRERO-PONCE-Z5-L-B-B",
-    "nombre_punto": "FAMILIA GUERRERO PONCE UNION Y PROGRESO"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
@@ -26332,5 +26296,50 @@
     "subcircuito": "SAN JUAN 1",
     "id": "PLAZA-VALKIHA-Z4-M-M-S",
     "nombre_punto": "Plaza Valkiha"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "EL TOACHI",
+    "subcircuito": "EL TOACHI 1",
+    "id": "FABRICA-DE-HIELO-SAN-ROQUE-Z4-S-S-E",
+    "nombre_punto": "Fabrica de Hielo SAN ROQUE"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "CAJABAMBA",
+    "subcircuito": "CAJABAMBA 1",
+    "id": "HOSTAL-SUMAK-PAKARI-Y-EJECUTIVO-Z3-C-C-C",
+    "nombre_punto": "HOSTAL SUMAK PAKARI Y EJECUTIVO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 1",
+    "id": "CENTRO-FORENSE-PORTOVIEJO-Z4-M-P-E",
+    "nombre_punto": "Centro forense Portoviejo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "UNIFICADOS",
+    "subcircuito": "UNIFICADOS 1",
+    "id": "TUTI-AV-LA-LORENA-Z4-S-S-U",
+    "nombre_punto": "TUTI AV LA LORENA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 2",
+    "id": "CENTRO-DE-TOLERANCIA-DE-NIGHT-CLUB-Z5-L-B-B",
+    "nombre_punto": "CENTRO DE TOLERANCIA DE NIGHT CLUB"
   }
 ]
