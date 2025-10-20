@@ -26377,5 +26377,32 @@
     "subcircuito": "CUBA 2",
     "id": "TIA-CUBA-Z4-M-M-C",
     "nombre_punto": "TIA CUBA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 2",
+    "id": "TIA-CUBA-Z4-M-M-C",
+    "nombre_punto": "Tia Cuba"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "RUTH-MORILLO-Z2-P-C-T",
+    "nombre_punto": "LENIMOR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 2",
+    "id": "CHIFA-XIANG-LONG-Z5-L-Q-S",
+    "nombre_punto": "CHIFA XIANG LONG"
   }
 ]
