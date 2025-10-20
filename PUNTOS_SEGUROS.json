@@ -26514,12 +26514,12 @@
     "nombre_punto": "Tienda Juppi"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PEDERNALES",
-    "circuito": "BECHE",
-    "subcircuito": "BECHE 1",
-    "id": "TIENDA-JUPPI-Z4-M-P-B",
-    "nombre_punto": "Tienda Juppi"
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "TERMINAL-TERRESTRE-Z6-A-S-S",
+    "nombre_punto": "Terminal terrestre"
   }
 ]
