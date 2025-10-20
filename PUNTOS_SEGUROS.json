@@ -26503,5 +26503,23 @@
     "subcircuito": "YANTZAZA 1",
     "id": "MERCADO-CENTRAL-DE-YANTZAZA-Z7-Z-Y-Y",
     "nombre_punto": "MERCADO CENTRAL DE YANTZAZA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "BECHE",
+    "subcircuito": "BECHE 1",
+    "id": "TIENDA-JUPPI-Z4-M-P-B",
+    "nombre_punto": "Tienda Juppi"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "BECHE",
+    "subcircuito": "BECHE 1",
+    "id": "TIENDA-JUPPI-Z4-M-P-B",
+    "nombre_punto": "Tienda Juppi"
   }
 ]
