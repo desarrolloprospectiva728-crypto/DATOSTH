@@ -26317,15 +26317,6 @@
   },
   {
     "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "EL FLORON",
-    "subcircuito": "EL FLORON 1",
-    "id": "CENTRO-FORENSE-PORTOVIEJO-Z4-M-P-E",
-    "nombre_punto": "Centro forense Portoviejo"
-  },
-  {
-    "zona": "ZONA 4",
     "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "UNIFICADOS",
@@ -26379,12 +26370,12 @@
     "nombre_punto": "DULCE VIDA"
   },
   {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 2",
+    "id": "TIA-CUBA-Z4-M-M-C",
+    "nombre_punto": "TIA CUBA"
   }
 ]
