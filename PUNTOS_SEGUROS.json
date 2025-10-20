@@ -26458,5 +26458,14 @@
     "subcircuito": "BAÑOS 2",
     "id": "CASCADA-DEL-PAILON-Z3-T-B-B",
     "nombre_punto": "Cascada del Pailon"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "SANTA CECILIA",
+    "subcircuito": "SANTA CECILIA 2",
+    "id": "FARMACIA-COMUNIDAD-Z1-S-L-S",
+    "nombre_punto": "FARMACIA COMUNIDAD"
   }
 ]
