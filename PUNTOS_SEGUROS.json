@@ -26476,5 +26476,14 @@
     "subcircuito": "JULIO MORENO 1",
     "id": "DISPENSARIO-JULIO-MORENO-SEGURO-CAMPESINO-IESS-Z4-S-S-J",
     "nombre_punto": "DISPENSARIO JULIO MORENO SEGURO CAMPESINO IESS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "JULIO MORENO",
+    "subcircuito": "JULIO MORENO 1",
+    "id": "SEGURO-CAMPESINO-IESS-Z4-S-S-J",
+    "nombre_punto": "SEGURO CAMPESINO IESS"
   }
 ]
