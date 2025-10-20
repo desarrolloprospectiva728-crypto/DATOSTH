@@ -26296,5 +26296,41 @@
     "subcircuito": "ROCAFUERTE 2",
     "id": "EPAPAR-Z4-M-R-R",
     "nombre_punto": "EPAPAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "FAMILIA-GUERRERO-PONCE-Z5-L-B-B",
+    "nombre_punto": "FAMILIA GUERRERO PONCE UNION Y PROGRESO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "TIA-Z4-M-R-R",
+    "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "FAMILIA-GUERRERO-PONCE-Z5-L-B-B",
+    "nombre_punto": "FAMILIA GUERRERO PONCE UNION Y PROGRESO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "PLAZA-VALKIHA-Z4-M-M-S",
+    "nombre_punto": "Plaza Valkiha"
   }
 ]
