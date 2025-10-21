@@ -26611,5 +26611,14 @@
     "subcircuito": "BOLIVAR 1",
     "id": "CLÍNICA-CUBA-CENTER-Z4-S-S-B",
     "nombre_punto": "CLÍNICA CUBA CENTER"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "COMPLEJO DEPORTIVO",
+    "subcircuito": "COMPLEJO DEPORTIVO 1",
+    "id": "DISFRUTA-JUGUERIA-Z1-I-C-C",
+    "nombre_punto": "Disfruta Jugueria"
   }
 ]
