@@ -26683,5 +26683,50 @@
     "subcircuito": "BECHE 1",
     "id": "COMERCIAL-PRECIADO-Z4-M-P-B",
     "nombre_punto": "COMERCIAL PRECIADO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA RESERVA",
+    "subcircuito": "LA RESERVA 1",
+    "id": "TIENDA-DON-PINOS-Z5-L-B-L",
+    "nombre_punto": "TIENDA DON PINOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "BECHE",
+    "subcircuito": "BECHE 1",
+    "id": "COMERCIAL-PRECIADO-Z4-M-P-B",
+    "nombre_punto": "COMERCIAL PRECIADO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "ÍNTIMA-SECRET-Z5-L-B-C",
+    "nombre_punto": "Íntima Secret"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "UNIDAD-EDUCATIVA-JUAN-BAUTISTA-MONTINI-Z2-N-E-S",
+    "nombre_punto": "UNIDAD EDUCATIVA JUAN BAUTISTA MONTINI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "SUPERMERCADO-AKA-Z2-N-E-S",
+    "nombre_punto": "SUPERMERCADO AKA"
   }
 ]
