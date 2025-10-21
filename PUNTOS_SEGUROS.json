@@ -26737,5 +26737,14 @@
     "subcircuito": "GALO PLAZA 1",
     "id": "LOCAL-DISENSA-Z5-L-Q-G",
     "nombre_punto": "LOCAL DISENSA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN FRANCISCO DE NOVILLO",
+    "subcircuito": "SAN FRANCISCO DE NOVILLO 1",
+    "id": "GAD-PARROQUIAL-Z4-M-C-S",
+    "nombre_punto": "Gad Parroquial"
   }
 ]
