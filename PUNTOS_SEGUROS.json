@@ -26872,5 +26872,32 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "AGRO-SERVICIO-JAMI-Z5-L-B-C",
     "nombre_punto": "Agro Servicio Jami"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "RESTAURANTE-BAR-DLEYT-Z4-M-B-C",
+    "nombre_punto": "Restaurante Bar Dleyt"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "RESTAURANTE-BAR-DLEYT-Z4-M-B-C",
+    "nombre_punto": "Restaurante Bar Dleyt"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "RESTAURANTE-BAR-DLEYT-Z4-M-B-C",
+    "nombre_punto": "Restaurante Bar Dleyt"
   }
 ]
