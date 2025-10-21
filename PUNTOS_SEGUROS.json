@@ -26728,5 +26728,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 1",
     "id": "SUPERMERCADO-AKA-Z2-N-E-S",
     "nombre_punto": "SUPERMERCADO AKA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 1",
+    "id": "LOCAL-DISENSA-Z5-L-Q-G",
+    "nombre_punto": "LOCAL DISENSA"
   }
 ]
