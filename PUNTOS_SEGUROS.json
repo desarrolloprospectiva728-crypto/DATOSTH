@@ -26863,5 +26863,14 @@
     "subcircuito": "AZOGUES SUR 1",
     "id": "LA-BODEGA-24-DE-MAYO-Z6-C-A-A",
     "nombre_punto": "LA BODEGA 24 DE MAYO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "AGRO-SERVICIO-JAMI-Z5-L-B-C",
+    "nombre_punto": "Agro Servicio Jami"
   }
 ]
