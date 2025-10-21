@@ -26845,5 +26845,23 @@
     "subcircuito": "ANTONIO SOTOMAYOR 1",
     "id": "PANADERÍA-PAN-DE-CANELA-Z5-L-V-A",
     "nombre_punto": "PANADERÍA PAN DE CANELA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "MINERÍA-SAN-PABLO-N2-Z5-L-B-C",
+    "nombre_punto": "Minería San Pablo N2"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "LA-BODEGA-24-DE-MAYO-Z6-C-A-A",
+    "nombre_punto": "LA BODEGA 24 DE MAYO"
   }
 ]
