@@ -26665,5 +26665,23 @@
     "subcircuito": "SANTA ROSA ESTE 1",
     "id": "CHOZA-DEL-LOBO-Z7-E-S-S",
     "nombre_punto": "CHOZA DEL LOBO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "LA-BODEGA-MAYORISTA-Z6-C-A-A",
+    "nombre_punto": "LA BODEGA MAYORISTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "BECHE",
+    "subcircuito": "BECHE 1",
+    "id": "COMERCIAL-PRECIADO-Z4-M-P-B",
+    "nombre_punto": "COMERCIAL PRECIADO"
   }
 ]
