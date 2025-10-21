@@ -26710,5 +26710,14 @@
     "subcircuito": "SAN FRANCISCO DE NOVILLO 1",
     "id": "GAD-PARROQUIAL-Z4-M-C-S",
     "nombre_punto": "Gad Parroquial"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ABRAS DE MANTEQUILLA",
+    "subcircuito": "ABRAS DE MANTEQUILLA 1",
+    "id": "EXPORTADORA-CAMSAEXPORT-Z5-L-V-A",
+    "nombre_punto": "Exportadora CAMSAEXPORT"
   }
 ]
