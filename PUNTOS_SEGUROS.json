@@ -26719,5 +26719,14 @@
     "subcircuito": "ABRAS DE MANTEQUILLA 1",
     "id": "EXPORTADORA-CAMSAEXPORT-Z5-L-V-A",
     "nombre_punto": "Exportadora CAMSAEXPORT"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "TUTI-DE-BAEZA-Z2-N-E-S",
+    "nombre_punto": "TUTI DE BAEZA"
   }
 ]
