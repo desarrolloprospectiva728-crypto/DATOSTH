@@ -26728,5 +26728,86 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 2",
     "id": "TUTI-DE-BAEZA-Z2-N-E-S",
     "nombre_punto": "TUTI DE BAEZA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CUSUBAMBA",
+    "subcircuito": "CUSUBAMBA 2",
+    "id": "MINI-MARKE-MARY-Z2-P-C-C",
+    "nombre_punto": "MINI MARKE MARY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CUSUBAMBA",
+    "subcircuito": "CUSUBAMBA 2",
+    "id": "MINI-MARKE-MARY-Z2-P-C-C",
+    "nombre_punto": "MINI MARKE MARY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CUSUBAMBA",
+    "subcircuito": "CUSUBAMBA 2",
+    "id": "MINI-MARKE-MARY-Z2-P-C-C",
+    "nombre_punto": "MINI MARKE MARY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 1",
+    "id": "PARADA-DE-BUS-MERCADO-BAHIA-Z4-M-S-B",
+    "nombre_punto": "PARADA DE BUS MERCADO BAHIA Av Ante y Montufar"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ANTONIO SOTOMAYOR",
+    "subcircuito": "ANTONIO SOTOMAYOR 1",
+    "id": "DISPENSARIO-JUNQUILLO-Z5-L-V-A",
+    "nombre_punto": "DISPENSARIO JUNQUILLO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CUSUBAMBA",
+    "subcircuito": "CUSUBAMBA 1",
+    "id": "PANADERIA-ROSITA-Z2-P-C-C",
+    "nombre_punto": "PANADERIA ROSITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ANTONIO SOTOMAYOR",
+    "subcircuito": "ANTONIO SOTOMAYOR 1",
+    "id": "PANADERÍA-PAN-DE-CANELA-Z5-L-V-A",
+    "nombre_punto": "PANADERÍA PAN DE CANELA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ANTONIO SOTOMAYOR",
+    "subcircuito": "ANTONIO SOTOMAYOR 1",
+    "id": "PANADERÍA-PAN-DE-CANELA-Z5-L-V-A",
+    "nombre_punto": "PANADERÍA PAN DE CANELA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "FUMI-PALMA-SA-Z5-L-B-C",
+    "nombre_punto": "Fumi Palma SA"
   }
 ]
