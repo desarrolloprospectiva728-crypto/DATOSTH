@@ -26827,5 +26827,23 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "FUMI-PALMA-SA-Z5-L-B-C",
     "nombre_punto": "Fumi Palma SA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "FUMI-PALMA-SA-Z5-L-B-C",
+    "nombre_punto": "Fumi Palma SA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ANTONIO SOTOMAYOR",
+    "subcircuito": "ANTONIO SOTOMAYOR 1",
+    "id": "PANADERÍA-PAN-DE-CANELA-Z5-L-V-A",
+    "nombre_punto": "PANADERÍA PAN DE CANELA"
   }
 ]
