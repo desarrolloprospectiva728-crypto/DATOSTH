@@ -26620,5 +26620,14 @@
     "subcircuito": "COMPLEJO DEPORTIVO 1",
     "id": "DISFRUTA-JUGUERIA-Z1-I-C-C",
     "nombre_punto": "Disfruta Jugueria"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 1",
+    "id": "HOSPITAL-MÓVIL-SANTA-ROSA-Z7-E-S-S",
+    "nombre_punto": "HOSPITAL MÓVIL SANTA ROSA"
   }
 ]
