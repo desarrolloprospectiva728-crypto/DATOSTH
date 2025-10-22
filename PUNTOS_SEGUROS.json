@@ -27205,5 +27205,32 @@
     "subcircuito": "QUININDE 2",
     "id": "STYLE-LULU-Z1-E-Q-Q",
     "nombre_punto": "STYLE LULU"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "JUJAN SIMON BOLIVAR",
+    "circuito": "JUJAN OESTE",
+    "subcircuito": "JUJAN OESTE 1",
+    "id": "COMERCIAL-TRES-HERMANOS-Z5-G-J-J",
+    "nombre_punto": "Comercial tres hermanos"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "BANECUADOR-Z5-L-V-Q",
+    "nombre_punto": "BANECUADOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ZAPALLO",
+    "subcircuito": "ZAPALLO 1",
+    "id": "DISPENSARIO-MEDICO-ZAPALLO-IESS-SEGURO-SOCIAL-Z4-M-C-Z",
+    "nombre_punto": "DISPENSARIO MEDICO ZAPALLO IESS SEGURO SOCIAL"
   }
 ]
