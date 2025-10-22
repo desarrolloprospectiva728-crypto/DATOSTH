@@ -26998,5 +26998,14 @@
     "subcircuito": "MISAHUALLI 1",
     "id": "MULTIMEGA-VARIEDADES-Z2-N-T-M",
     "nombre_punto": "MULTIMEGA VARIEDADES"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 1",
+    "id": "FISCALIA-GENERAL-DE-EL-ORO-Z7-E-M-R",
+    "nombre_punto": "FISCALIA GENERAL DE EL ORO"
   }
 ]
