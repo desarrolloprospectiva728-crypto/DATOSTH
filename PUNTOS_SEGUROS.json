@@ -26926,5 +26926,14 @@
     "subcircuito": "ELOY ALFARO 1",
     "id": "AGROVET-ELOY-ALFARO-Z4-M-C-E",
     "nombre_punto": "AGROVET ELOY ALFARO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "TENENCIA-POLÍTICA-MISAHUALLI-Z2-N-T-M",
+    "nombre_punto": "Tenencia política Misahualli"
   }
 ]
