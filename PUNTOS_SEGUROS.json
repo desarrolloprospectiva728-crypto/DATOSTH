@@ -26908,5 +26908,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "RESTAURANTE-Y-PICANTERIA-3-HERMANOS-Z5-L-B-C",
     "nombre_punto": "Restaurante y Picanteria 3 Hermanos"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "LAS PALMERAS",
+    "subcircuito": "LAS PALMERAS 2",
+    "id": "TIENDA-LEYDI-Z1-S-L-L",
+    "nombre_punto": "Tienda Leydi"
   }
 ]
