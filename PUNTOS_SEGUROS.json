@@ -26971,5 +26971,239 @@
     "subcircuito": "CATAMAYO NORTE 1",
     "id": "ENTRADA-AL-SECTOR-24-DE-MAYO-Z7-L-C-C",
     "nombre_punto": "Entrada al sector 24 de mayo"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "TARAPOA",
+    "subcircuito": "TARAPOA 1",
+    "id": "TIENDA-COMERCIAL-JAVIER-Z1-S-P-T",
+    "nombre_punto": "Tienda comercial Javier"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "CATAMAYO NORTE",
+    "subcircuito": "CATAMAYO NORTE 1",
+    "id": "ENTRADA-A-LA-CIUDADELA-24-DE-MAYO-Z7-L-C-C",
+    "nombre_punto": "Entrada a la Ciudadela 24 de mayo"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "SANTIAGO DE MENDEZ",
+    "subcircuito": "SANTIAGO DE MENDEZ 1",
+    "id": "GASOLINERA-VELEZ-Z6-M-M-S",
+    "nombre_punto": "GASOLINERA VELEZ"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SARAGURO",
+    "circuito": "SARAGURO",
+    "subcircuito": "SARAGURO 1",
+    "id": "PANADERIA-Y-PASTELERIA-PAN-LOJANO-AZUAY-LUIS-FERNANDO-BRAVO-Z7-L-S-S",
+    "nombre_punto": "PANADERIA Y PASTELERIA PAN LOJANO AZUAY LUIS FERNANDO BRAVO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SARAGURO",
+    "circuito": "SARAGURO",
+    "subcircuito": "SARAGURO 1",
+    "id": "PANADERIA-Y-PASTELERIA-PAN-LOJANO-AZUAY-LUIS-FERNANDO-BRAVO-Z7-L-S-S",
+    "nombre_punto": "PANADERIA Y PASTELERIA PAN LOJANO AZUAY LUIS FERNANDO BRAVO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SARAGURO",
+    "circuito": "SARAGURO",
+    "subcircuito": "SARAGURO 1",
+    "id": "PANADERIA-Y-PASTELERIA-PAN-LOJANO-AZUAY-LUIS-FERNANDO-BRAVO-Z7-L-S-S",
+    "nombre_punto": "PANADERIA Y PASTELERIA PAN LOJANO AZUAY LUIS FERNANDO BRAVO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SARAGURO",
+    "circuito": "SARAGURO",
+    "subcircuito": "SARAGURO 1",
+    "id": "PANADERIA-Y-PASTELERIA-PAN-LOJANO-AZUAY-LUIS-FERNANDO-BRAVO-Z7-L-S-S",
+    "nombre_punto": "PANADERIA Y PASTELERIA PAN LOJANO AZUAY LUIS FERNANDO BRAVO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SARAGURO",
+    "circuito": "SARAGURO",
+    "subcircuito": "SARAGURO 1",
+    "id": "PANADERIA-Y-PASTELERIA-PAN-LOJANO-AZUAY-LUIS-FERNANDO-BRAVO-Z7-L-S-S",
+    "nombre_punto": "PANADERIA Y PASTELERIA PAN LOJANO AZUAY LUIS FERNANDO BRAVO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SARAGURO",
+    "circuito": "SARAGURO",
+    "subcircuito": "SARAGURO 1",
+    "id": "PANADERIA-Y-PASTELERIA-PAN-LOJANO-AZUAY-LUIS-FERNANDO-BRAVO-Z7-L-S-S",
+    "nombre_punto": "PANADERIA Y PASTELERIA PAN LOJANO AZUAY LUIS FERNANDO BRAVO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 4",
+    "id": "GYM-SPORT-Z4-M-M-C",
+    "nombre_punto": "GYM SPORT"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "BECHE",
+    "subcircuito": "BECHE 1",
+    "id": "TIENDA-VICTORINO-Z4-M-P-B",
+    "nombre_punto": "Tienda Victorino"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "BECHE",
+    "subcircuito": "BECHE 1",
+    "id": "TIENDA-VICTORINO-Z4-M-P-B",
+    "nombre_punto": "Tienda Victorino"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "EL ANGEL",
+    "subcircuito": "EL ANGEL 1",
+    "id": "NUTRA-BOS-Z1-C-E-E",
+    "nombre_punto": "Nutra Bos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 1",
+    "id": "COOPERATIVA-DE-TRANSPORTE-JIPIJAPA-Z4-M-J-J",
+    "nombre_punto": "COOPERATIVA DE TRANSPORTE JIPIJAPA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "BECHE",
+    "subcircuito": "BECHE 1",
+    "id": "TIENDA-VICTORINO-Z4-M-P-B",
+    "nombre_punto": "Tienda Victorino"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ZAPALLO",
+    "subcircuito": "ZAPALLO 1",
+    "id": "DISPENSARIO-MEDICO-ZAPALLO-IESS-SEGURO-SOCIAL-Z4-M-C-Z",
+    "nombre_punto": "DISPENSARIO MEDICO ZAPALLO IESS SEGURO SOCIAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "URBANO-ENVÍOS-Z5-L-Q-L",
+    "nombre_punto": "Urbano Envíos"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "URBANO-ENVÍOS-Z5-L-Q-L",
+    "nombre_punto": "Urbano Envíos"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "URBANO-ENVÍOS-Z5-L-Q-L",
+    "nombre_punto": "Urbano Envíos"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "URBANO-ENVÍOS-Z5-L-Q-L",
+    "nombre_punto": "Urbano Envíos"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "URBANO-ENVÍOS-Z5-L-Q-L",
+    "nombre_punto": "Urbano Envíos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ZAPALLO",
+    "subcircuito": "ZAPALLO 1",
+    "id": "DISPENSARIO-MEDICO-ZAPALLO-IESS-SEGURO-SOCIAL-Z4-M-C-Z",
+    "nombre_punto": "DISPENSARIO MEDICO ZAPALLO IESS SEGURO SOCIAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "URBANO-ENVÍOS-Z5-L-Q-L",
+    "nombre_punto": "Urbano Envíos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ZAPALLO",
+    "subcircuito": "ZAPALLO 1",
+    "id": "DISPENSARIO-MÉDICO-IESS-SEGURO-SOCIAL-Z4-M-C-Z",
+    "nombre_punto": "DISPENSARIO MÉDICO IESS SEGURO SOCIAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ZAPALLO",
+    "subcircuito": "ZAPALLO 1",
+    "id": "DISPENSARIO-MEDICO-ZAPALLO-IESS-Z4-M-C-Z",
+    "nombre_punto": "DISPENSARIO MEDICO ZAPALLO IESS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "QUININDE",
+    "subcircuito": "QUININDE 2",
+    "id": "STYLE-LULU-Z1-E-Q-Q",
+    "nombre_punto": "STYLE LULU"
   }
 ]
