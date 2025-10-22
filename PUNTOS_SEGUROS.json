@@ -27286,5 +27286,23 @@
     "subcircuito": "CENTRO 1",
     "id": "FIBECA-Z4-M-C-C",
     "nombre_punto": "FIBECA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "ZAMORA",
+    "circuito": "LA CHACRA",
+    "subcircuito": "LA CHACRA 1",
+    "id": "TIENDA-LAURITA-Z7-Z-Z-L",
+    "nombre_punto": "TIENDA LAURITA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "ZAMORA",
+    "circuito": "LA CHACRA",
+    "subcircuito": "LA CHACRA 1",
+    "id": "TIENDA-LAURITA-Z7-Z-Z-L",
+    "nombre_punto": "TIENDA LAURITA"
   }
 ]
