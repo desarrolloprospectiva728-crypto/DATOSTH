@@ -26917,5 +26917,14 @@
     "subcircuito": "LAS PALMERAS 2",
     "id": "TIENDA-LEYDI-Z1-S-L-L",
     "nombre_punto": "Tienda Leydi"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "AGROVET-ELOY-ALFARO-Z4-M-C-E",
+    "nombre_punto": "AGROVET ELOY ALFARO"
   }
 ]
