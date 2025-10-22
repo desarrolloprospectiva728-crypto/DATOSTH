@@ -26982,15 +26982,6 @@
     "nombre_punto": "Tienda comercial Javier"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "CATAMAYO",
-    "circuito": "CATAMAYO NORTE",
-    "subcircuito": "CATAMAYO NORTE 1",
-    "id": "ENTRADA-A-LA-CIUDADELA-24-DE-MAYO-Z7-L-C-C",
-    "nombre_punto": "Entrada a la Ciudadela 24 de mayo"
-  },
-  {
     "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
     "distrito": "MENDEZ",
@@ -27286,5 +27277,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 1",
     "id": "BIBLIOTECA-DEL-CENTRO-CULTURAL-DE-BORJA-Z2-N-E-S",
     "nombre_punto": "BIBLIOTECA DEL CENTRO CULTURAL DE BORJA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "FIBECA-Z4-M-C-C",
+    "nombre_punto": "FIBECA"
   }
 ]
