@@ -26971,5 +26971,14 @@
     "subcircuito": "MISAHUALLI 1",
     "id": "MULTIPAN-PANADERÍA-Z2-N-T-M",
     "nombre_punto": "MULTIPAN PANADERÍA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "RESTAURANTE-NICO-Z2-N-T-M",
+    "nombre_punto": "Restaurante Nico"
   }
 ]
