@@ -27232,5 +27232,32 @@
     "subcircuito": "ZAPALLO 1",
     "id": "DISPENSARIO-MEDICO-ZAPALLO-IESS-SEGURO-SOCIAL-Z4-M-C-Z",
     "nombre_punto": "DISPENSARIO MEDICO ZAPALLO IESS SEGURO SOCIAL"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SABANILLA",
+    "circuito": "PINDAL",
+    "subcircuito": "PINDAL 1",
+    "id": "GAD-MUNICIPAL-PINDAL-Z7-L-S-P",
+    "nombre_punto": "GAD MUNICIPAL PINDAL"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "MACARA",
+    "circuito": "MACARA",
+    "subcircuito": "MACARA 1",
+    "id": "TIENDA-SUPER-ALEMARC-FRENTE-AL-BANCO-DE-LOJA-Z7-L-M-M",
+    "nombre_punto": "Tienda super Alemarc frente al banco de Loja"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "MACARA",
+    "circuito": "MACARA",
+    "subcircuito": "MACARA 1",
+    "id": "TIENDA-SUPER-ALEMARC-FRENTE-AL-BANCO-DE-LOJA-Z7-L-M-M",
+    "nombre_punto": "Tienda super Alemarc frente al banco de Loja"
   }
 ]
