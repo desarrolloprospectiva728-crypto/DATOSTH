@@ -26980,5 +26980,14 @@
     "subcircuito": "MISAHUALLI 1",
     "id": "RESTAURANTE-NICO-Z2-N-T-M",
     "nombre_punto": "Restaurante Nico"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "MINIMARKET-JAELYN-Z2-N-T-M",
+    "nombre_punto": "Minimarket Jaelyn"
   }
 ]
