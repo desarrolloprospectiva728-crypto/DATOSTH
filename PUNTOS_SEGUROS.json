@@ -26899,5 +26899,14 @@
     "subcircuito": "CALCETA CENTRO 1",
     "id": "RESTAURANTE-BAR-DLEYT-Z4-M-B-C",
     "nombre_punto": "Restaurante Bar Dleyt"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "RESTAURANTE-Y-PICANTERIA-3-HERMANOS-Z5-L-B-C",
+    "nombre_punto": "Restaurante y Picanteria 3 Hermanos"
   }
 ]
