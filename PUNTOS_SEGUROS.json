@@ -26935,5 +26935,14 @@
     "subcircuito": "MISAHUALLI 1",
     "id": "TENENCIA-POLÍTICA-MISAHUALLI-Z2-N-T-M",
     "nombre_punto": "Tenencia política Misahualli"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "MINIMERCADO-Z2-N-T-M",
+    "nombre_punto": "MINIMERCADO"
   }
 ]
