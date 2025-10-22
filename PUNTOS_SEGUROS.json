@@ -26739,24 +26739,6 @@
     "nombre_punto": "MINI MARKE MARY"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "CAYAMBE",
-    "circuito": "CUSUBAMBA",
-    "subcircuito": "CUSUBAMBA 2",
-    "id": "MINI-MARKE-MARY-Z2-P-C-C",
-    "nombre_punto": "MINI MARKE MARY"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "CAYAMBE",
-    "circuito": "CUSUBAMBA",
-    "subcircuito": "CUSUBAMBA 2",
-    "id": "MINI-MARKE-MARY-Z2-P-C-C",
-    "nombre_punto": "MINI MARKE MARY"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "SUCRE",
@@ -27007,5 +26989,23 @@
     "subcircuito": "ROCAFUERTE 1",
     "id": "FISCALIA-GENERAL-DE-EL-ORO-Z7-E-M-R",
     "nombre_punto": "FISCALIA GENERAL DE EL ORO"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
