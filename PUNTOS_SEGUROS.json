@@ -27259,5 +27259,32 @@
     "subcircuito": "MACARA 1",
     "id": "TIENDA-SUPER-ALEMARC-FRENTE-AL-BANCO-DE-LOJA-Z7-L-M-M",
     "nombre_punto": "Tienda super Alemarc frente al banco de Loja"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "MACARA",
+    "circuito": "MACARA",
+    "subcircuito": "MACARA 1",
+    "id": "TIENDA-SUPER-ALEMARC-FRENTE-AL-BANCO-DE-LOJA-Z7-L-M-M",
+    "nombre_punto": "Tienda super Alemarc frente al banco de Loja"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "GAD-S-F-DE-BORJA-Z2-N-E-S",
+    "nombre_punto": "GAD S F DE BORJA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "BIBLIOTECA-DEL-CENTRO-CULTURAL-DE-BORJA-Z2-N-E-S",
+    "nombre_punto": "BIBLIOTECA DEL CENTRO CULTURAL DE BORJA"
   }
 ]
