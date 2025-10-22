@@ -26777,56 +26777,11 @@
   {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "ANTONIO SOTOMAYOR",
-    "subcircuito": "ANTONIO SOTOMAYOR 1",
-    "id": "PANADERÍA-PAN-DE-CANELA-Z5-L-V-A",
-    "nombre_punto": "PANADERÍA PAN DE CANELA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
     "distrito": "BUENA FE",
     "circuito": "COSTA AZUL",
     "subcircuito": "COSTA AZUL 1",
     "id": "FUMI-PALMA-SA-Z5-L-B-C",
     "nombre_punto": "Fumi Palma SA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "ANTONIO SOTOMAYOR",
-    "subcircuito": "ANTONIO SOTOMAYOR 1",
-    "id": "PANADERÍA-PAN-DE-CANELA-Z5-L-V-A",
-    "nombre_punto": "PANADERÍA PAN DE CANELA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "COSTA AZUL",
-    "subcircuito": "COSTA AZUL 1",
-    "id": "FUMI-PALMA-SA-Z5-L-B-C",
-    "nombre_punto": "Fumi Palma SA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "COSTA AZUL",
-    "subcircuito": "COSTA AZUL 1",
-    "id": "FUMI-PALMA-SA-Z5-L-B-C",
-    "nombre_punto": "Fumi Palma SA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "ANTONIO SOTOMAYOR",
-    "subcircuito": "ANTONIO SOTOMAYOR 1",
-    "id": "PANADERÍA-PAN-DE-CANELA-Z5-L-V-A",
-    "nombre_punto": "PANADERÍA PAN DE CANELA"
   },
   {
     "zona": "ZONA 5",
@@ -26854,24 +26809,6 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "AGRO-SERVICIO-JAMI-Z5-L-B-C",
     "nombre_punto": "Agro Servicio Jami"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "BOLIVAR JUNIN",
-    "circuito": "CALCETA CENTRO",
-    "subcircuito": "CALCETA CENTRO 1",
-    "id": "RESTAURANTE-BAR-DLEYT-Z4-M-B-C",
-    "nombre_punto": "Restaurante Bar Dleyt"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "BOLIVAR JUNIN",
-    "circuito": "CALCETA CENTRO",
-    "subcircuito": "CALCETA CENTRO 1",
-    "id": "RESTAURANTE-BAR-DLEYT-Z4-M-B-C",
-    "nombre_punto": "Restaurante Bar Dleyt"
   },
   {
     "zona": "ZONA 4",
@@ -26989,6 +26926,51 @@
     "subcircuito": "ROCAFUERTE 1",
     "id": "FISCALIA-GENERAL-DE-EL-ORO-Z7-E-M-R",
     "nombre_punto": "FISCALIA GENERAL DE EL ORO"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   },
   {
     "zona": "",
