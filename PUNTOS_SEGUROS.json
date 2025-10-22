@@ -26953,5 +26953,14 @@
     "subcircuito": "MISAHUALLI 1",
     "id": "PRTO.-MONO-COMEDOR-Z2-N-T-M",
     "nombre_punto": "Prto. Mono Comedor"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "FERRETERIA-MISAHUALLI-Z2-N-T-M",
+    "nombre_punto": "FERRETERIA MISAHUALLI"
   }
 ]
