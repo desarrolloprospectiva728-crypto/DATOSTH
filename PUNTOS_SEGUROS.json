@@ -27403,5 +27403,14 @@
     "subcircuito": "EL VERGEL SUR 1",
     "id": "FERRETERÍA-EL-VERGEL-Z5-L-B-E",
     "nombre_punto": "Ferretería El vergel"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL NORTE",
+    "subcircuito": "SAN GABRIEL NORTE 1",
+    "id": "UNIDAD-EDUCATIVA-JOSÉ-JULIÁN-ANDRADE-SEDE-1-Z1-C-M-S",
+    "nombre_punto": "Unidad educativa José Julián Andrade Sede 1"
   }
 ]
