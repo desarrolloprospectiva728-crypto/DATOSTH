@@ -26926,5 +26926,50 @@
     "subcircuito": "ROCAFUERTE 1",
     "id": "FISCALIA-GENERAL-DE-EL-ORO-Z7-E-M-R",
     "nombre_punto": "FISCALIA GENERAL DE EL ORO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "TORATA",
+    "subcircuito": "TORATA 1",
+    "id": "CENTRO-DE-SALUD-LA-AVANZADA-Z7-E-S-T",
+    "nombre_punto": "Centro de salud la avanzada"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "TORATA",
+    "subcircuito": "TORATA 2",
+    "id": "CENTRO-DE-SALUD-LA-AVANZADA-Z7-E-S-T",
+    "nombre_punto": "Centro de salud la avanzada"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "TORATA",
+    "subcircuito": "TORATA 2",
+    "id": "CENTRO-DE-SALUD-LA-AVANZADA-Z7-E-S-T",
+    "nombre_punto": "Centro de salud la avanzada"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 1",
+    "id": "FRIGORÍFICO-CENTRAL-Z7-E-S-S",
+    "nombre_punto": "FRIGORÍFICO CENTRAL"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "CATAMAYO NORTE",
+    "subcircuito": "CATAMAYO NORTE 1",
+    "id": "ENTRADA-AL-SECTOR-24-DE-MAYO-Z7-L-C-C",
+    "nombre_punto": "Entrada al sector 24 de mayo"
   }
 ]
