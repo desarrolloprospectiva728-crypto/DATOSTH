@@ -27466,5 +27466,14 @@
     "subcircuito": "LAS NIEVES 1",
     "id": "FARMACIA-AMBUMED-Z6-A-N-L",
     "nombre_punto": "FARMACIA AMBUMED"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "PARQUE DEL 8",
+    "subcircuito": "PARQUE DEL 8 1",
+    "id": "RESTAURANTE-LA-PLAYA-Z1-C-T-P",
+    "nombre_punto": "RESTAURANTE LA PLAYA"
   }
 ]
