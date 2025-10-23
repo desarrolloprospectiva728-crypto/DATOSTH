@@ -27331,5 +27331,14 @@
     "subcircuito": "NABON 1",
     "id": "TRANSPORTE-NABON-Z6-A-N-N",
     "nombre_punto": "TRANSPORTE NABON"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "YANTZAZA",
+    "subcircuito": "YANTZAZA 1",
+    "id": "TERMINAL-TERRESTRE-Z7-Z-Y-Y",
+    "nombre_punto": "TERMINAL TERRESTRE"
   }
 ]
