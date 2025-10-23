@@ -27396,15 +27396,6 @@
     "nombre_punto": "Supermercado Sumesa"
   },
   {
-    "zona": "ZONA 1",
-    "subzona": "SUCUMBIOS",
-    "distrito": "SHUSHUFINDI",
-    "circuito": "LA PRIMAVERA",
-    "subcircuito": "LA PRIMAVERA 1",
-    "id": "SUPERMERCADO-SUMESA-Z1-S-S-L",
-    "nombre_punto": "Supermercado Sumesa"
-  },
-  {
     "zona": "ZONA 6",
     "subzona": "AZUAY",
     "distrito": "SIGSIG",
@@ -27430,5 +27421,14 @@
     "subcircuito": "EL GUABITO 1",
     "id": "LICORERIA-MOVAVE-Z4-M-P-E",
     "nombre_punto": "LICORERIA MOVAVE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "BANCO-DEL-AUSTRO-Z6-A-S-S",
+    "nombre_punto": "Banco del austro"
   }
 ]
