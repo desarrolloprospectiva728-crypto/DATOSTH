@@ -27340,5 +27340,59 @@
     "subcircuito": "YANTZAZA 1",
     "id": "TERMINAL-TERRESTRE-Z7-Z-Y-Y",
     "nombre_punto": "TERMINAL TERRESTRE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "HOSTERIA-ARHANA-Z6-A-G-G",
+    "nombre_punto": "HOSTERIA ARHANA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "LA-HUECA-DEL-GORDIS-Z6-A-N-N",
+    "nombre_punto": "LA HUECA DEL GORDIS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "HOSTERIA-ARHANA-Z6-A-G-G",
+    "nombre_punto": "HOSTERIA ARHANA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "COOP.-AUSTRO-Z6-A-N-N",
+    "nombre_punto": "COOP. AUSTRO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "HOSTERÍA-ARHANA-Z6-A-G-G",
+    "nombre_punto": "Hostería Arhana"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "COOP.-AUSTRO-Z6-A-N-N",
+    "nombre_punto": "COOP. AUSTRO"
   }
 ]
