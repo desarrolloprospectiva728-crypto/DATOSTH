@@ -27493,5 +27493,23 @@
     "subcircuito": "YAGUACHI SUR 1",
     "id": "UNIDAD-JUDICIAL-MULTICOMPETENTE-Z5-G-Y-Y",
     "nombre_punto": "UNIDAD JUDICIAL MULTICOMPETENTE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 2",
+    "id": "CENTRO-ESTÉTICO-GUERRERO-Z5-L-B-B",
+    "nombre_punto": "CENTRO ESTÉTICO GUERRERO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "AMALUZA",
+    "subcircuito": "AMALUZA 1",
+    "id": "GAD-MUNICIPAL-DE-ESPINDOLA-Z7-L-E-A",
+    "nombre_punto": "GAD MUNICIPAL DE ESPINDOLA"
   }
 ]
