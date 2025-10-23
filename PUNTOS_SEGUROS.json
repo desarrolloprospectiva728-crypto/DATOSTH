@@ -27430,5 +27430,14 @@
     "subcircuito": "SIGSIG 2",
     "id": "BANCO-DEL-AUSTRO-Z6-A-S-S",
     "nombre_punto": "Banco del austro"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "RAGOX-CELL-Z1-E-S-F",
+    "nombre_punto": "RAGOX CELL"
   }
 ]
