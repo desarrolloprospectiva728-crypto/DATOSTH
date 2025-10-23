@@ -27376,5 +27376,32 @@
     "subcircuito": "BORBON 1",
     "id": "SHANN-MARCHE-Z1-E-E-B",
     "nombre_punto": "SHANN MARCHE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "NOBOL",
+    "subcircuito": "NOBOL 1",
+    "id": "EMPRESA-DE-DURAGAS-Z5-G-D-N",
+    "nombre_punto": "Empresa de DuraGas"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LA PRIMAVERA",
+    "subcircuito": "LA PRIMAVERA 1",
+    "id": "SUPERMERCADO-SUMESA-Z1-S-S-L",
+    "nombre_punto": "Supermercado Sumesa"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LA PRIMAVERA",
+    "subcircuito": "LA PRIMAVERA 1",
+    "id": "SUPERMERCADO-SUMESA-Z1-S-S-L",
+    "nombre_punto": "Supermercado Sumesa"
   }
 ]
