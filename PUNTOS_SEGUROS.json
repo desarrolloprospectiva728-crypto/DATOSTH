@@ -27295,5 +27295,14 @@
     "subcircuito": "LIBERTAD CENTRO 2",
     "id": "RESTAURANT-LA-SUCURSAL-DE-PEPE-Z5-S-L-L",
     "nombre_punto": "Restaurant La Sucursal de Pepe"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "PUENTE-DEL-AMOR-Z6-A-G-L",
+    "nombre_punto": "PUENTE DEL AMOR"
   }
 ]
