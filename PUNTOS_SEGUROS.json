@@ -27412,5 +27412,23 @@
     "subcircuito": "SIGSIG 2",
     "id": "TERMINAL-TERRESTRE-SIGSIG-Z6-A-S-S",
     "nombre_punto": "Terminal terrestre sigsig"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-MUSHUC-RUNA-SIGSIG-Z6-A-S-S",
+    "nombre_punto": "Cooperativa de ahorro y crédito mushuc runa Sigsig"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL GUABITO",
+    "subcircuito": "EL GUABITO 1",
+    "id": "LICORERIA-MOVAVE-Z4-M-P-E",
+    "nombre_punto": "LICORERIA MOVAVE"
   }
 ]
