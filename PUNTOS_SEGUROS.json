@@ -27297,15 +27297,6 @@
     "nombre_punto": "TIENDA LAURITA"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "ZAMORA CHINCHIPE",
-    "distrito": "ZAMORA",
-    "circuito": "LA CHACRA",
-    "subcircuito": "LA CHACRA 1",
-    "id": "TIENDA-LAURITA-Z7-Z-Z-L",
-    "nombre_punto": "TIENDA LAURITA"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "BUENA FE",
@@ -27313,15 +27304,6 @@
     "subcircuito": "EL VERGEL SUR 1",
     "id": "AGROPECUARIA-ALISON-Z5-L-B-E",
     "nombre_punto": "Agropecuaria Alison"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "ZAMORA CHINCHIPE",
-    "distrito": "ZAMORA",
-    "circuito": "LA CHACRA",
-    "subcircuito": "LA CHACRA 1",
-    "id": "TIENDA-LAURITA-Z7-Z-Z-L",
-    "nombre_punto": "TIENDA LAURITA"
   },
   {
     "zona": "ZONA 4",
@@ -27356,35 +27338,8 @@
     "distrito": "BUENA FE",
     "circuito": "EL VERGEL SUR",
     "subcircuito": "EL VERGEL SUR 1",
-    "id": "INFO-TECH-SOPORTE-Y-TECNOLOGÍA-Z5-L-B-E",
-    "nombre_punto": "Info Tech Soporte y Tecnología"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "EL VERGEL SUR",
-    "subcircuito": "EL VERGEL SUR 1",
     "id": "FARMACIA-COMUNITARIA-EL-VERGEL-Z5-L-B-E",
     "nombre_punto": "Farmacia Comunitaria el Vergel"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "EL VERGEL SUR",
-    "subcircuito": "EL VERGEL SUR 1",
-    "id": "VENGA-DE-CELULARES-A-CRÉDITO-Y-A-CONTADO-Z5-L-B-E",
-    "nombre_punto": "Venga de Celulares a Crédito y a Contado"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "EL VERGEL SUR",
-    "subcircuito": "EL VERGEL SUR 1",
-    "id": "VENGA-DE-CELULARES-A-CRÉDITO-Y-A-CONTADO-Z5-L-B-E",
-    "nombre_punto": "Venga de Celulares a Crédito y a Contado"
   },
   {
     "zona": "ZONA 5",
