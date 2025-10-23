@@ -27313,5 +27313,14 @@
     "subcircuito": "LA UNION 1",
     "id": "PLAZOLETA-20-DE-ENERO-Z6-A-G-L",
     "nombre_punto": "PLAZOLETA 20 DE ENERO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "YANTZAZA",
+    "subcircuito": "YANTZAZA 1",
+    "id": "ALMACENES-VARGAS-Z7-Z-Y-Y",
+    "nombre_punto": "ALMACENES VARGAS"
   }
 ]
