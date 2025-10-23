@@ -27304,5 +27304,14 @@
     "subcircuito": "LA UNION 1",
     "id": "PUENTE-DEL-AMOR-Z6-A-G-L",
     "nombre_punto": "PUENTE DEL AMOR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "PLAZOLETA-20-DE-ENERO-Z6-A-G-L",
+    "nombre_punto": "PLAZOLETA 20 DE ENERO"
   }
 ]
