@@ -27475,5 +27475,23 @@
     "subcircuito": "PARQUE DEL 8 1",
     "id": "RESTAURANTE-LA-PLAYA-Z1-C-T-P",
     "nombre_punto": "RESTAURANTE LA PLAYA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "EL BATAN",
+    "subcircuito": "EL BATAN 1",
+    "id": "PANADERIA-INDUPAN-Z6-A-C-E",
+    "nombre_punto": "PANADERIA INDUPAN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "YAGUACHI SUR",
+    "subcircuito": "YAGUACHI SUR 1",
+    "id": "UNIDAD-JUDICIAL-MULTICOMPETENTE-Z5-G-Y-Y",
+    "nombre_punto": "UNIDAD JUDICIAL MULTICOMPETENTE"
   }
 ]
