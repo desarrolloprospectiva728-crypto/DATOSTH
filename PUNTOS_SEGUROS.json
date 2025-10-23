@@ -27412,5 +27412,14 @@
     "subcircuito": "SAN GABRIEL NORTE 1",
     "id": "UNIDAD-EDUCATIVA-JOSÉ-JULIÁN-ANDRADE-SEDE-1-Z1-C-M-S",
     "nombre_punto": "Unidad educativa José Julián Andrade Sede 1"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "SHANN-MARCHE-Z1-E-E-B",
+    "nombre_punto": "SHANN MARCHE"
   }
 ]
