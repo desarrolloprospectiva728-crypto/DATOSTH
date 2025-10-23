@@ -27322,5 +27322,14 @@
     "subcircuito": "YANTZAZA 1",
     "id": "ALMACENES-VARGAS-Z7-Z-Y-Y",
     "nombre_punto": "ALMACENES VARGAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "TRANSPORTE-NABON-Z6-A-N-N",
+    "nombre_punto": "TRANSPORTE NABON"
   }
 ]
