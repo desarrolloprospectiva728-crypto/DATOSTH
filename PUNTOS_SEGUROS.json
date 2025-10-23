@@ -27020,15 +27020,6 @@
   {
     "zona": "ZONA 4",
     "subzona": "MANABI",
-    "distrito": "PEDERNALES",
-    "circuito": "BECHE",
-    "subcircuito": "BECHE 1",
-    "id": "TIENDA-VICTORINO-Z4-M-P-B",
-    "nombre_punto": "Tienda Victorino"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
     "distrito": "CHONE",
     "circuito": "ZAPALLO",
     "subcircuito": "ZAPALLO 1",
@@ -27297,174 +27288,12 @@
     "nombre_punto": "ConfiaCont Asesoría contable y tributaria"
   },
   {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 2",
+    "id": "RESTAURANT-LA-SUCURSAL-DE-PEPE-Z5-S-L-L",
+    "nombre_punto": "Restaurant La Sucursal de Pepe"
   }
 ]
