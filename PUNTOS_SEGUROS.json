@@ -26940,24 +26940,6 @@
     "zona": "ZONA 7",
     "subzona": "EL ORO",
     "distrito": "SANTA ROSA",
-    "circuito": "TORATA",
-    "subcircuito": "TORATA 2",
-    "id": "CENTRO-DE-SALUD-LA-AVANZADA-Z7-E-S-T",
-    "nombre_punto": "Centro de salud la avanzada"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "TORATA",
-    "subcircuito": "TORATA 2",
-    "id": "CENTRO-DE-SALUD-LA-AVANZADA-Z7-E-S-T",
-    "nombre_punto": "Centro de salud la avanzada"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
     "circuito": "SANTA ROSA ESTE",
     "subcircuito": "SANTA ROSA ESTE 1",
     "id": "FRIGORÍFICO-CENTRAL-Z7-E-S-S",
@@ -27000,51 +26982,6 @@
     "nombre_punto": "PANADERIA Y PASTELERIA PAN LOJANO AZUAY LUIS FERNANDO BRAVO"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "SARAGURO",
-    "circuito": "SARAGURO",
-    "subcircuito": "SARAGURO 1",
-    "id": "PANADERIA-Y-PASTELERIA-PAN-LOJANO-AZUAY-LUIS-FERNANDO-BRAVO-Z7-L-S-S",
-    "nombre_punto": "PANADERIA Y PASTELERIA PAN LOJANO AZUAY LUIS FERNANDO BRAVO"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "SARAGURO",
-    "circuito": "SARAGURO",
-    "subcircuito": "SARAGURO 1",
-    "id": "PANADERIA-Y-PASTELERIA-PAN-LOJANO-AZUAY-LUIS-FERNANDO-BRAVO-Z7-L-S-S",
-    "nombre_punto": "PANADERIA Y PASTELERIA PAN LOJANO AZUAY LUIS FERNANDO BRAVO"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "SARAGURO",
-    "circuito": "SARAGURO",
-    "subcircuito": "SARAGURO 1",
-    "id": "PANADERIA-Y-PASTELERIA-PAN-LOJANO-AZUAY-LUIS-FERNANDO-BRAVO-Z7-L-S-S",
-    "nombre_punto": "PANADERIA Y PASTELERIA PAN LOJANO AZUAY LUIS FERNANDO BRAVO"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "SARAGURO",
-    "circuito": "SARAGURO",
-    "subcircuito": "SARAGURO 1",
-    "id": "PANADERIA-Y-PASTELERIA-PAN-LOJANO-AZUAY-LUIS-FERNANDO-BRAVO-Z7-L-S-S",
-    "nombre_punto": "PANADERIA Y PASTELERIA PAN LOJANO AZUAY LUIS FERNANDO BRAVO"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "SARAGURO",
-    "circuito": "SARAGURO",
-    "subcircuito": "SARAGURO 1",
-    "id": "PANADERIA-Y-PASTELERIA-PAN-LOJANO-AZUAY-LUIS-FERNANDO-BRAVO-Z7-L-S-S",
-    "nombre_punto": "PANADERIA Y PASTELERIA PAN LOJANO AZUAY LUIS FERNANDO BRAVO"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
@@ -27052,15 +26989,6 @@
     "subcircuito": "CUBA 4",
     "id": "GYM-SPORT-Z4-M-M-C",
     "nombre_punto": "GYM SPORT"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PEDERNALES",
-    "circuito": "BECHE",
-    "subcircuito": "BECHE 1",
-    "id": "TIENDA-VICTORINO-Z4-M-P-B",
-    "nombre_punto": "Tienda Victorino"
   },
   {
     "zona": "ZONA 4",
@@ -27097,60 +27025,6 @@
     "subcircuito": "BECHE 1",
     "id": "TIENDA-VICTORINO-Z4-M-P-B",
     "nombre_punto": "Tienda Victorino"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "CHONE",
-    "circuito": "ZAPALLO",
-    "subcircuito": "ZAPALLO 1",
-    "id": "DISPENSARIO-MEDICO-ZAPALLO-IESS-SEGURO-SOCIAL-Z4-M-C-Z",
-    "nombre_punto": "DISPENSARIO MEDICO ZAPALLO IESS SEGURO SOCIAL"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "LA MERCED",
-    "subcircuito": "LA MERCED 1",
-    "id": "URBANO-ENVÍOS-Z5-L-Q-L",
-    "nombre_punto": "Urbano Envíos"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "LA MERCED",
-    "subcircuito": "LA MERCED 1",
-    "id": "URBANO-ENVÍOS-Z5-L-Q-L",
-    "nombre_punto": "Urbano Envíos"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "LA MERCED",
-    "subcircuito": "LA MERCED 1",
-    "id": "URBANO-ENVÍOS-Z5-L-Q-L",
-    "nombre_punto": "Urbano Envíos"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "LA MERCED",
-    "subcircuito": "LA MERCED 1",
-    "id": "URBANO-ENVÍOS-Z5-L-Q-L",
-    "nombre_punto": "Urbano Envíos"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "LA MERCED",
-    "subcircuito": "LA MERCED 1",
-    "id": "URBANO-ENVÍOS-Z5-L-Q-L",
-    "nombre_punto": "Urbano Envíos"
   },
   {
     "zona": "ZONA 4",
@@ -27216,15 +27090,6 @@
     "nombre_punto": "BANECUADOR"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "CHONE",
-    "circuito": "ZAPALLO",
-    "subcircuito": "ZAPALLO 1",
-    "id": "DISPENSARIO-MEDICO-ZAPALLO-IESS-SEGURO-SOCIAL-Z4-M-C-Z",
-    "nombre_punto": "DISPENSARIO MEDICO ZAPALLO IESS SEGURO SOCIAL"
-  },
-  {
     "zona": "ZONA 7",
     "subzona": "LOJA",
     "distrito": "SABANILLA",
@@ -27232,24 +27097,6 @@
     "subcircuito": "PINDAL 1",
     "id": "GAD-MUNICIPAL-PINDAL-Z7-L-S-P",
     "nombre_punto": "GAD MUNICIPAL PINDAL"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "MACARA",
-    "circuito": "MACARA",
-    "subcircuito": "MACARA 1",
-    "id": "TIENDA-SUPER-ALEMARC-FRENTE-AL-BANCO-DE-LOJA-Z7-L-M-M",
-    "nombre_punto": "Tienda super Alemarc frente al banco de Loja"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "MACARA",
-    "circuito": "MACARA",
-    "subcircuito": "MACARA 1",
-    "id": "TIENDA-SUPER-ALEMARC-FRENTE-AL-BANCO-DE-LOJA-Z7-L-M-M",
-    "nombre_punto": "Tienda super Alemarc frente al banco de Loja"
   },
   {
     "zona": "ZONA 7",
@@ -27439,5 +27286,185 @@
     "subcircuito": "FRONTERA 3",
     "id": "RAGOX-CELL-Z1-E-S-F",
     "nombre_punto": "RAGOX CELL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "CONFIACONT-ASESORÍA-CONTABLE-Y-TRIBUTARIA-Z4-M-P-P",
+    "nombre_punto": "ConfiaCont Asesoría contable y tributaria"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
