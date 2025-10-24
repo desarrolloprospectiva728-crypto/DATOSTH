@@ -27736,5 +27736,68 @@
     "subcircuito": "GIL RAMIREZ DAVALOS 1",
     "id": "BONSWEET-Z6-A-C-G",
     "nombre_punto": "Bonsweet"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "ACCESORIOS-JIMENEZ-Z6-A-C-T",
+    "nombre_punto": "ACCESORIOS JIMENEZ"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "GIL RAMIREZ DAVALOS",
+    "subcircuito": "GIL RAMIREZ DAVALOS 1",
+    "id": "PLAZA-EUROPEA-Z6-A-C-G",
+    "nombre_punto": "Plaza Europea"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "DESPENSA-LA-CASTELLANA-Z6-A-C-T",
+    "nombre_punto": "DESPENSA LA CASTELLANA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "GIL RAMIREZ DAVALOS",
+    "subcircuito": "GIL RAMIREZ DAVALOS 1",
+    "id": "PLAZA-EUROPEA-Z6-A-C-G",
+    "nombre_punto": "Plaza Europea"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "GIL RAMIREZ DAVALOS",
+    "subcircuito": "GIL RAMIREZ DAVALOS 1",
+    "id": "PLAZA-EUROPEA-Z6-A-C-G",
+    "nombre_punto": "Plaza Europea"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "GIL RAMIREZ DAVALOS",
+    "subcircuito": "GIL RAMIREZ DAVALOS 1",
+    "id": "PLAZA-EUROPEA-Z6-A-C-G",
+    "nombre_punto": "Plaza Europea"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "DESPENSA-LA-CASTELLANA-Z6-A-C-T",
+    "nombre_punto": "DESPENSA LA CASTELLANA"
   }
 ]
