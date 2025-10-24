@@ -27362,15 +27362,6 @@
   {
     "zona": "ZONA 6",
     "subzona": "AZUAY",
-    "distrito": "GUALACEO",
-    "circuito": "GUALACEO",
-    "subcircuito": "GUALACEO 1",
-    "id": "HOSTERIA-ARHANA-Z6-A-G-G",
-    "nombre_punto": "HOSTERIA ARHANA"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
     "distrito": "NABON",
     "circuito": "NABON",
     "subcircuito": "NABON 1",
@@ -27389,47 +27380,11 @@
   {
     "zona": "ZONA 6",
     "subzona": "AZUAY",
-    "distrito": "NABON",
-    "circuito": "NABON",
-    "subcircuito": "NABON 1",
-    "id": "COOP.-AUSTRO-Z6-A-N-N",
-    "nombre_punto": "COOP. AUSTRO"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
     "distrito": "GUALACEO",
     "circuito": "GUALACEO",
     "subcircuito": "GUALACEO 1",
     "id": "FRITADAS-DE-SERTAG-Z6-A-G-G",
     "nombre_punto": "FRITADAS DE SERTAG"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "GUAYAS",
-    "distrito": "MILAGRO",
-    "circuito": "CHOBO",
-    "subcircuito": "CHOBO 1",
-    "id": "TIENDA-LA-ABUELITA-Z5-G-M-C",
-    "nombre_punto": "Tienda la Abuelita"
-  },
-  {
-    "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "RIO VERDE",
-    "circuito": "PALESTINA",
-    "subcircuito": "PALESTINA 1",
-    "id": "REGISTRO-CIVIL-Z1-E-R-P",
-    "nombre_punto": "REGISTRO CIVIL"
-  },
-  {
-    "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "RIO VERDE",
-    "circuito": "PALESTINA",
-    "subcircuito": "PALESTINA 1",
-    "id": "REGISTRO-CIVIL-Z1-E-R-P",
-    "nombre_punto": "REGISTRO CIVIL"
   },
   {
     "zona": "ZONA 5",
