@@ -27550,15 +27550,6 @@
   },
   {
     "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "SIETE DE OCTUBRE",
-    "subcircuito": "SIETE DE OCTUBRE 1",
-    "id": "NOVELO-DEPILACIÓN-PROFESIONAL-Z5-L-Q-S",
-    "nombre_punto": "NOVELO DEPILACIÓN PROFESIONAL"
-  },
-  {
-    "zona": "ZONA 5",
     "subzona": "BOLIVAR",
     "distrito": "SUBTROPICO",
     "circuito": "ECHEANDIA",
@@ -27592,15 +27583,6 @@
     "subcircuito": "CHOBO 1",
     "id": "TIENDA-LA-VOLUNTAD-DE-DIOS-Z5-G-M-C",
     "nombre_punto": "Tienda la Voluntad de Dios"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "HERMANO MIGUEL",
-    "subcircuito": "HERMANO MIGUEL 1",
-    "id": "COMISARIATO-EL-SOL-Z6-A-C-H",
-    "nombre_punto": "COMISARIATO EL SOL"
   },
   {
     "zona": "ZONA 6",
@@ -27666,15 +27648,6 @@
     "nombre_punto": "FARMACIAS POPULAR"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "ALAJUELA",
-    "subcircuito": "ALAJUELA 1",
-    "id": "BARBELIA-LUIGI-AFRO-STUDIO-Z4-M-P-A",
-    "nombre_punto": "barbelia luigi afro studio"
-  },
-  {
     "zona": "ZONA 6",
     "subzona": "AZUAY",
     "distrito": "CUENCA NORTE",
@@ -27682,51 +27655,6 @@
     "subcircuito": "EL SAGRARIO 1",
     "id": "BLUES-RESTAURANTE-Z6-A-C-E",
     "nombre_punto": "BLUES RESTAURANTE"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "EL SAGRARIO",
-    "subcircuito": "EL SAGRARIO 1",
-    "id": "BLUES-RESTAURANTE-Z6-A-C-E",
-    "nombre_punto": "BLUES RESTAURANTE"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "ALAJUELA",
-    "subcircuito": "ALAJUELA 1",
-    "id": "BARBELIA-LUIGI-AFRO-STUDIO-Z4-M-P-A",
-    "nombre_punto": "barbelia luigi afro studio"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "EL SAGRARIO",
-    "subcircuito": "EL SAGRARIO 1",
-    "id": "BLUES-RESTAURANTE-Z6-A-C-E",
-    "nombre_punto": "BLUES RESTAURANTE"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "EL SAGRARIO",
-    "subcircuito": "EL SAGRARIO 1",
-    "id": "BLUES-RESTAURANTE-Z6-A-C-E",
-    "nombre_punto": "BLUES RESTAURANTE"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PORTOVIEJO",
-    "circuito": "ALAJUELA",
-    "subcircuito": "ALAJUELA 1",
-    "id": "BARBERIA-LUIGGY-Z4-M-P-A",
-    "nombre_punto": "barberia luiggy"
   },
   {
     "zona": "ZONA 6",
@@ -27770,60 +27698,6 @@
     "distrito": "CUENCA NORTE",
     "circuito": "GIL RAMIREZ DAVALOS",
     "subcircuito": "GIL RAMIREZ DAVALOS 1",
-    "id": "PLAZA-EUROPEA-Z6-A-C-G",
-    "nombre_punto": "Plaza Europea"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "GIL RAMIREZ DAVALOS",
-    "subcircuito": "GIL RAMIREZ DAVALOS 1",
-    "id": "PLAZA-EUROPEA-Z6-A-C-G",
-    "nombre_punto": "Plaza Europea"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "GIL RAMIREZ DAVALOS",
-    "subcircuito": "GIL RAMIREZ DAVALOS 1",
-    "id": "PLAZA-EUROPEA-Z6-A-C-G",
-    "nombre_punto": "Plaza Europea"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "TERMINAL TERRESTRE",
-    "subcircuito": "TERMINAL TERRESTRE 1",
-    "id": "DESPENSA-LA-CASTELLANA-Z6-A-C-T",
-    "nombre_punto": "DESPENSA LA CASTELLANA"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "GIL RAMIREZ DAVALOS",
-    "subcircuito": "GIL RAMIREZ DAVALOS 1",
-    "id": "PLAZA-EUROPEA-Z6-A-C-G",
-    "nombre_punto": "Plaza Europea"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "GIL RAMIREZ DAVALOS",
-    "subcircuito": "GIL RAMIREZ DAVALOS 1",
-    "id": "PLAZA-EUROPEA-Z6-A-C-G",
-    "nombre_punto": "Plaza Europea"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "GIL RAMIREZ DAVALOS",
-    "subcircuito": "GIL RAMIREZ DAVALOS 1",
     "id": "ÓPTICAS-DEL-RIO-Z6-A-C-G",
     "nombre_punto": "Ópticas del rio"
   },
@@ -27851,44 +27725,8 @@
     "distrito": "CUENCA NORTE",
     "circuito": "SAN BLAS",
     "subcircuito": "SAN BLAS 1",
-    "id": "MULTIREPUESTO-DEL-AUSTRO-Z6-A-C-S",
-    "nombre_punto": "Multirepuesto del austro"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "SAN BLAS",
-    "subcircuito": "SAN BLAS 1",
-    "id": "MULTIREPUESTO-DEL-AUSTRO-Z6-A-C-S",
-    "nombre_punto": "Multirepuesto del austro"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "SAN BLAS",
-    "subcircuito": "SAN BLAS 1",
     "id": "REP-CAR-Z6-A-C-S",
     "nombre_punto": "Rep Car"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "SAN BLAS",
-    "subcircuito": "SAN BLAS 1",
-    "id": "REP-CAR-Z6-A-C-S",
-    "nombre_punto": "Rep Car"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "SAN BLAS",
-    "subcircuito": "SAN BLAS 1",
-    "id": "AUTOMANGUERAS-CALI-Z6-A-C-S",
-    "nombre_punto": "Automangueras Cali"
   },
   {
     "zona": "ZONA 6",
@@ -27927,15 +27765,6 @@
     "nombre_punto": "SHIPATI WASI PATIO DE COMIDA TIPICAS ARCHIDONA"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "SHIPATI-WASI-PATIO-DE-COMIDA-TIPICAS-ARCHIDONA-Z2-N-T-A",
-    "nombre_punto": "SHIPATI WASI PATIO DE COMIDA TIPICAS ARCHIDONA"
-  },
-  {
     "zona": "ZONA 1",
     "subzona": "SUCUMBIOS",
     "distrito": "SUCUMBIOS",
@@ -27950,16 +27779,7 @@
     "distrito": "AZOGUES",
     "circuito": "AZOGUES NORTE",
     "subcircuito": "AZOGUES NORTE 1",
-    "id": "LA-BODEGA-COMERCIAL-BARTOLOMÉ-SERRANO-Z6-C-A-A",
-    "nombre_punto": "LA BODEGA COMERCIAL BARTOLOMÉ SERRANO"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "CAÑAR",
-    "distrito": "AZOGUES",
-    "circuito": "AZOGUES NORTE",
-    "subcircuito": "AZOGUES NORTE 1",
-    "id": "LA-BODEGA-COMERCIAL-BARTOLOMÉ-SERRANO-Z6-C-A-A",
-    "nombre_punto": "LA BODEGA COMERCIAL BARTOLOMÉ SERRANO"
+    "id": "LA-BODEGA-VIA-ORIENTE-Z6-C-A-A",
+    "nombre_punto": "LA BODEGA VIA ORIENTE"
   }
 ]
