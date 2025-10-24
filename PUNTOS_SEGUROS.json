@@ -27943,5 +27943,23 @@
     "subcircuito": "LUMBAQUI 1",
     "id": "LIBRERÍA-Y-BAZAR-OMARCITO-Z1-S-S-L",
     "nombre_punto": "Librería y Bazar Omarcito"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES NORTE",
+    "subcircuito": "AZOGUES NORTE 1",
+    "id": "LA-BODEGA-COMERCIAL-BARTOLOMÉ-SERRANO-Z6-C-A-A",
+    "nombre_punto": "LA BODEGA COMERCIAL BARTOLOMÉ SERRANO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES NORTE",
+    "subcircuito": "AZOGUES NORTE 1",
+    "id": "LA-BODEGA-COMERCIAL-BARTOLOMÉ-SERRANO-Z6-C-A-A",
+    "nombre_punto": "LA BODEGA COMERCIAL BARTOLOMÉ SERRANO"
   }
 ]
