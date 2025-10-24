@@ -27835,5 +27835,14 @@
     "subcircuito": "SANTIAGO DE MENDEZ 1",
     "id": "GASOLINERA-VÉLEZ-BELLA-UNION-Z6-M-M-S",
     "nombre_punto": "GASOLINERA VÉLEZ BELLA UNION"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "SAN BLAS",
+    "subcircuito": "SAN BLAS 1",
+    "id": "MULTIREPUESTO-DEL-AUSTRO-Z6-A-C-S",
+    "nombre_punto": "Multirepuesto del austro"
   }
 ]
