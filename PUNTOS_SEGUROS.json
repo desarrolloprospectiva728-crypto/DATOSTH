@@ -27916,5 +27916,32 @@
     "subcircuito": "ALAJUELA 1",
     "id": "LUIGGI-ESTUDIO-Z4-M-P-A",
     "nombre_punto": "luiggi estudio"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "SHIPATI-WASI-PATIO-DE-COMIDA-TIPICAS-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "SHIPATI WASI PATIO DE COMIDA TIPICAS ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "SHIPATI-WASI-PATIO-DE-COMIDA-TIPICAS-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "SHIPATI WASI PATIO DE COMIDA TIPICAS ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "LUMBAQUI",
+    "subcircuito": "LUMBAQUI 1",
+    "id": "LIBRERÍA-Y-BAZAR-OMARCITO-Z1-S-S-L",
+    "nombre_punto": "Librería y Bazar Omarcito"
   }
 ]
