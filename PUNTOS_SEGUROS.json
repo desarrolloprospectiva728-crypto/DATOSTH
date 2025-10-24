@@ -27475,5 +27475,14 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "TERCENA-RUNA-MIZI-Z2-N-T-A",
     "nombre_punto": "TERCENA RUNA MIZI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PAPELERÍA-FUTURO-Z2-N-T-A",
+    "nombre_punto": "PAPELERÍA FUTURO"
   }
 ]
