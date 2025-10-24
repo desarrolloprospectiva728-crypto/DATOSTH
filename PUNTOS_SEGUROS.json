@@ -27898,5 +27898,14 @@
     "subcircuito": "SAN BLAS 1",
     "id": "AUTOMANGUERAS-CALI-Z6-A-C-S",
     "nombre_punto": "Automangueras Cali"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ZAPOTILLO",
+    "circuito": "ZAPOTILLO",
+    "subcircuito": "ZAPOTILLO 1",
+    "id": "FARMACIA-MÍA-Z7-L-Z-Z",
+    "nombre_punto": "Farmacia Mía"
   }
 ]
