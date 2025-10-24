@@ -27817,5 +27817,14 @@
     "subcircuito": "GIL RAMIREZ DAVALOS 1",
     "id": "PLAZA-EUROPEA-Z6-A-C-G",
     "nombre_punto": "Plaza Europea"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "GIL RAMIREZ DAVALOS",
+    "subcircuito": "GIL RAMIREZ DAVALOS 1",
+    "id": "ÓPTICAS-DEL-RIO-Z6-A-C-G",
+    "nombre_punto": "Ópticas del rio"
   }
 ]
