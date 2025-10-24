@@ -27466,5 +27466,14 @@
     "subcircuito": "AMALUZA 1",
     "id": "GAD-MUNICIPAL-DE-ESPINDOLA-Z7-L-E-A",
     "nombre_punto": "GAD MUNICIPAL DE ESPINDOLA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "TERCENA-RUNA-MIZI-Z2-N-T-A",
+    "nombre_punto": "TERCENA RUNA MIZI"
   }
 ]
