@@ -27484,5 +27484,50 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "PAPELERÍA-FUTURO-Z2-N-T-A",
     "nombre_punto": "PAPELERÍA FUTURO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PAPELERÍA-FUTURO-Z2-N-T-A",
+    "nombre_punto": "PAPELERÍA FUTURO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "CASCALES",
+    "subcircuito": "CASCALES 1",
+    "id": "CAFETERÍA-SAN-MIGUEL-Z1-S-S-C",
+    "nombre_punto": "Cafetería San Miguel"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PANADERÍA-PAN-DE-CASA-Z2-N-T-A",
+    "nombre_punto": "PANADERÍA PAN DE CASA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "MILAGRO",
+    "circuito": "LAS PIÑAS",
+    "subcircuito": "LAS PIÑAS 1",
+    "id": "TIENDA-LA-CURVA-Z5-G-M-L",
+    "nombre_punto": "TIENDA LA CURVA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PANADERÍA-Z2-N-T-A",
+    "nombre_punto": "PANADERÍA DORIS"
   }
 ]
