@@ -27486,15 +27486,6 @@
     "nombre_punto": "PAPELERÍA FUTURO"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "PAPELERÍA-FUTURO-Z2-N-T-A",
-    "nombre_punto": "PAPELERÍA FUTURO"
-  },
-  {
     "zona": "ZONA 1",
     "subzona": "SUCUMBIOS",
     "distrito": "SUCUMBIOS",
@@ -27529,5 +27520,41 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "PANADERÍA-Z2-N-T-A",
     "nombre_punto": "PANADERÍA DORIS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PANADERÍA-DORIS-Z2-N-T-A",
+    "nombre_punto": "PANADERÍA DORIS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "ECHEANDIA",
+    "subcircuito": "ECHEANDIA 1",
+    "id": "0202373098-Z5-B-S-E",
+    "nombre_punto": 202373098
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "NOVELO-DEPILACIÓN-PROFESIONAL-Z5-L-Q-S",
+    "nombre_punto": "NOVELO DEPILACIÓN PROFESIONAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "NOVELO-DEPILACIÓN-PROFESIONAL-Z5-L-Q-S",
+    "nombre_punto": "NOVELO DEPILACIÓN PROFESIONAL"
   }
 ]
