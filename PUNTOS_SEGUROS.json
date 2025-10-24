@@ -27907,5 +27907,14 @@
     "subcircuito": "ZAPOTILLO 1",
     "id": "FARMACIA-MÍA-Z7-L-Z-Z",
     "nombre_punto": "Farmacia Mía"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "ALAJUELA",
+    "subcircuito": "ALAJUELA 1",
+    "id": "LUIGGI-ESTUDIO-Z4-M-P-A",
+    "nombre_punto": "luiggi estudio"
   }
 ]
