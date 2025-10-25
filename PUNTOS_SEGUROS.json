@@ -27522,15 +27522,6 @@
     "nombre_punto": "PANADERÍA DORIS"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "TENA",
-    "circuito": "ARCHIDONA",
-    "subcircuito": "ARCHIDONA 1",
-    "id": "PANADERÍA-DORIS-Z2-N-T-A",
-    "nombre_punto": "PANADERÍA DORIS"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "BOLIVAR",
     "distrito": "SUBTROPICO",
@@ -27781,5 +27772,14 @@
     "subcircuito": "AZOGUES NORTE 1",
     "id": "LA-BODEGA-VIA-ORIENTE-Z6-C-A-A",
     "nombre_punto": "LA BODEGA VIA ORIENTE"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
