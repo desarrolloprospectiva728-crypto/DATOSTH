@@ -27523,15 +27523,6 @@
   },
   {
     "zona": "ZONA 5",
-    "subzona": "BOLIVAR",
-    "distrito": "SUBTROPICO",
-    "circuito": "ECHEANDIA",
-    "subcircuito": "ECHEANDIA 1",
-    "id": "0202373098-Z5-B-S-E",
-    "nombre_punto": 202373098
-  },
-  {
-    "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "QUEVEDO",
     "circuito": "SIETE DE OCTUBRE",
@@ -27772,6 +27763,15 @@
     "subcircuito": "AZOGUES NORTE 1",
     "id": "LA-BODEGA-VIA-ORIENTE-Z6-C-A-A",
     "nombre_punto": "LA BODEGA VIA ORIENTE"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   },
   {
     "zona": "",
