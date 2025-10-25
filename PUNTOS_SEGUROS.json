@@ -27835,5 +27835,23 @@
     "subcircuito": "CHILLANES 1",
     "id": "COOPERATIVA-Z5-B-C-C",
     "nombre_punto": "COOPERATIVA AHORRA Y CRÉDITO JUAN PIO DE MORA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 2",
+    "id": "BANCO-PICHINCHA-Z1-E-A-A",
+    "nombre_punto": "Banco Pichincha"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 2",
+    "id": "BANCO-PICHINCHA-Z1-E-A-A",
+    "nombre_punto": "Banco Pichincha"
   }
 ]
