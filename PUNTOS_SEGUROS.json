@@ -27853,5 +27853,14 @@
     "subcircuito": "ATACAMES 2",
     "id": "BANCO-PICHINCHA-Z1-E-A-A",
     "nombre_punto": "Banco Pichincha"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "PRIVILEGIO",
+    "subcircuito": "PRIVILEGIO 1",
+    "id": "PANADERIA-Y-PASTELERIA-CROISSANT-Z7-E-P-P",
+    "nombre_punto": "PANADERIA Y PASTELERIA CROISSANT"
   }
 ]
