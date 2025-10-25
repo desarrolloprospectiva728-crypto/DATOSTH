@@ -27763,5 +27763,23 @@
     "subcircuito": "AZOGUES NORTE 1",
     "id": "LA-BODEGA-VIA-ORIENTE-Z6-C-A-A",
     "nombre_punto": "LA BODEGA VIA ORIENTE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "JAUNECHE",
+    "subcircuito": "JAUNECHE 1",
+    "id": "MULTI-COMERCIO-REINA-DEL-CISNE-Z5-L-V-J",
+    "nombre_punto": "Multi comercio reina del cisne"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "JAUNECHE",
+    "subcircuito": "JAUNECHE 1",
+    "id": "MULTI-COMERCIO-REINA-DEL-CISNE-Z5-L-V-J",
+    "nombre_punto": "Multi comercio reina del cisne"
   }
 ]
