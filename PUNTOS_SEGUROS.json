@@ -27781,5 +27781,32 @@
     "subcircuito": "JAUNECHE 1",
     "id": "MULTI-COMERCIO-REINA-DEL-CISNE-Z5-L-V-J",
     "nombre_punto": "Multi comercio reina del cisne"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "JAUNECHE",
+    "subcircuito": "JAUNECHE 1",
+    "id": "MULTI-COMERCIO-REINA-DEL-CISNE-Z5-L-V-J",
+    "nombre_punto": "Multi comercio reina del cisne"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "LASCANO",
+    "subcircuito": "LASCANO 1",
+    "id": "NICOLÁS-SEGURA-Z4-M-P-L",
+    "nombre_punto": "NICOLÁS SEGURA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "LASCANO",
+    "subcircuito": "LASCANO 1",
+    "id": "NICOLÁS-SEGURA-Z4-M-P-L",
+    "nombre_punto": "NICOLÁS SEGURA"
   }
 ]
