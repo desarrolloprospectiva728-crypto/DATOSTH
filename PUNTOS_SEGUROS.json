@@ -27826,5 +27826,14 @@
     "subcircuito": "ABRAS DE MANTEQUILLA 1",
     "id": "TALLER-DE-SOLDADURA-Z5-L-V-A",
     "nombre_punto": "TALLER DE SOLDADURA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "CHILLANES",
+    "circuito": "CHILLANES",
+    "subcircuito": "CHILLANES 1",
+    "id": "COOPERATIVA-Z5-B-C-C",
+    "nombre_punto": "COOPERATIVA AHORRA Y CRÉDITO JUAN PIO DE MORA"
   }
 ]
