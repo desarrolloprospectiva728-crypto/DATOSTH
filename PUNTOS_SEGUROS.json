@@ -27817,5 +27817,14 @@
     "subcircuito": "LA VICTORIA 1",
     "id": "GASOLINERA-LA-VICTORIA-Z7-E-H-L",
     "nombre_punto": "Gasolinera La Victoria"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ABRAS DE MANTEQUILLA",
+    "subcircuito": "ABRAS DE MANTEQUILLA 1",
+    "id": "TALLER-DE-SOLDADURA-Z5-L-V-A",
+    "nombre_punto": "TALLER DE SOLDADURA"
   }
 ]
