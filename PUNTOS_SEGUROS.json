@@ -27808,5 +27808,14 @@
     "subcircuito": "LASCANO 1",
     "id": "NICOLÁS-SEGURA-Z4-M-P-L",
     "nombre_punto": "NICOLÁS SEGURA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "LA VICTORIA",
+    "subcircuito": "LA VICTORIA 1",
+    "id": "GASOLINERA-LA-VICTORIA-Z7-E-H-L",
+    "nombre_punto": "Gasolinera La Victoria"
   }
 ]
