@@ -27871,5 +27871,14 @@
     "subcircuito": "PRIVILEGIO 1",
     "id": "MUNICIPIO-DE-EL-GUABO-Z7-E-P-P",
     "nombre_punto": "MUNICIPIO DE EL GUABO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 2",
+    "id": "MERCADO-MARISCAL-Z3-P-P-P",
+    "nombre_punto": "MERCADO MARISCAL"
   }
 ]
