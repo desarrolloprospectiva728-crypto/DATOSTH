@@ -27898,5 +27898,23 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "FISCALIA-ARCHIDONA-Z2-N-T-A",
     "nombre_punto": "FISCALIA ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "TUTI-Z1-C-M-S",
+    "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "TUTI-Z1-C-M-S",
+    "nombre_punto": "TUTI"
   }
 ]
