@@ -27970,5 +27970,32 @@
     "subcircuito": "VINCES SUR 1",
     "id": "VÍCTIMA-DE-AMENAZA-2-Z5-L-V-V",
     "nombre_punto": "VÍCTIMA DE AMENAZA 2"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "FERRETERÍA-EL-ECONOMISTA-Z6-A-C-T",
+    "nombre_punto": "Ferretería el Economista"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "FERRETERIA-EL-ECONOMISTA-Z6-A-C-T",
+    "nombre_punto": "Ferreteria el Economista"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "OFICINAS-DE-PETROECUADOR-BORJA-Z2-N-E-S",
+    "nombre_punto": "OFICINAS DE PETROECUADOR BORJA"
   }
 ]
