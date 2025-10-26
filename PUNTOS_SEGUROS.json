@@ -27916,5 +27916,59 @@
     "subcircuito": "SAN GABRIEL SUR 1",
     "id": "TUTI-Z1-C-M-S",
     "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 1",
+    "id": "PUNTO-FARMA-Z5-L-B-B",
+    "nombre_punto": "PUNTOFARMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "MERCADO-DE-CARNES-Z5-L-V-V",
+    "nombre_punto": "MERCADO DE CARNES"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "FERRETERIA-EL-ECONOMISTA-Z6-A-C-T",
+    "nombre_punto": "Ferreteria el Economista"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "FERRETERIA-EL-ECONOMISTA-Z6-A-C-T",
+    "nombre_punto": "Ferreteria el Economista"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "FERRETERIA-EL-ECONOMISTA-Z6-A-C-T",
+    "nombre_punto": "Ferreteria el Economista"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "VÍCTIMA-DE-AMENAZA-2-Z5-L-V-V",
+    "nombre_punto": "VÍCTIMA DE AMENAZA 2"
   }
 ]
