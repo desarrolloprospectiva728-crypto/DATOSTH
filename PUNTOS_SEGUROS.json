@@ -27880,5 +27880,14 @@
     "subcircuito": "PUYO SUR 2",
     "id": "MERCADO-MARISCAL-Z3-P-P-P",
     "nombre_punto": "MERCADO MARISCAL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "LICORERIA-LA-FERIA-Z2-N-T-A",
+    "nombre_punto": "LICORERIA LA FERIA"
   }
 ]
