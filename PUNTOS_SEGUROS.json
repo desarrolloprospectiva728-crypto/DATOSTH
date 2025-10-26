@@ -27889,5 +27889,14 @@
     "subcircuito": "ARCHIDONA 1",
     "id": "LICORERIA-LA-FERIA-Z2-N-T-A",
     "nombre_punto": "LICORERIA LA FERIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "FISCALIA-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "FISCALIA ARCHIDONA"
   }
 ]
