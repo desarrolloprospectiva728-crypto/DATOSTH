@@ -27997,5 +27997,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 1",
     "id": "OFICINAS-DE-PETROECUADOR-BORJA-Z2-N-E-S",
     "nombre_punto": "OFICINAS DE PETROECUADOR BORJA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "CAJERO-BANCO-DEL-PICHINCHA-BORJA-Z2-N-E-S",
+    "nombre_punto": "CAJERO BANCO DEL PICHINCHA BORJA"
   }
 ]
