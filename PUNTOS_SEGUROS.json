@@ -27988,5 +27988,14 @@
     "subcircuito": "PALMIRA 1",
     "id": "GAD-PARROQUIAL-Z3-C-C-P",
     "nombre_punto": "GAD PARROQUIAL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "TURKEY-Z1-E-Q-L",
+    "nombre_punto": "TURKEY"
   }
 ]
