@@ -27934,5 +27934,41 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 1",
     "id": "CAJERO-BANCO-DEL-PICHINCHA-BORJA-Z2-N-E-S",
     "nombre_punto": "CAJERO BANCO DEL PICHINCHA BORJA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "JUNIN NORTE",
+    "subcircuito": "JUNIN NORTE 1",
+    "id": "POLLOSASADOS-MONCA-Z4-M-B-J",
+    "nombre_punto": "POLLOSASADOS MONCA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "MILAGRO",
+    "circuito": "LAS PIÑAS",
+    "subcircuito": "LAS PIÑAS 2",
+    "id": "TALLER-DE-MOTOS-ELIAS-Z5-G-M-L",
+    "nombre_punto": "Taller de motos Elias"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "JUNIN NORTE",
+    "subcircuito": "JUNIN NORTE 1",
+    "id": "POLLOSASADOS-MONCA-Z4-M-B-J",
+    "nombre_punto": "POLLOSASADOS MONCA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "JUNIN NORTE",
+    "subcircuito": "JUNIN NORTE 1",
+    "id": "POLLOSASADOS-MONCA-Z4-M-B-J",
+    "nombre_punto": "POLLOSASADOS MONCA"
   }
 ]
