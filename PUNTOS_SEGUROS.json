@@ -27970,5 +27970,23 @@
     "subcircuito": "JUNIN NORTE 1",
     "id": "POLLOSASADOS-MONCA-Z4-M-B-J",
     "nombre_punto": "POLLOSASADOS MONCA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "PALMIRA",
+    "subcircuito": "PALMIRA 1",
+    "id": "GAD-PARROQUIAL-Z3-C-C-P",
+    "nombre_punto": "GAD PARROQUIAL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "PALMIRA",
+    "subcircuito": "PALMIRA 1",
+    "id": "GAD-PARROQUIAL-Z3-C-C-P",
+    "nombre_punto": "GAD PARROQUIAL"
   }
 ]
