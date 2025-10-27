@@ -27997,5 +27997,14 @@
     "subcircuito": "CHOBO 1",
     "id": "CHATARRERA-Z5-G-M-C",
     "nombre_punto": "Chatarrera"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "UNIVERSIDAD-TÉCNICA-DE-COTOPAXI-Z3-C-S-S",
+    "nombre_punto": "UNIVERSIDAD TÉCNICA DE COTOPAXI"
   }
 ]
