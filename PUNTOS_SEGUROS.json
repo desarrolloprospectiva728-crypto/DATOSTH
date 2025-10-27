@@ -27774,33 +27774,6 @@
     "nombre_punto": "Multi comercio reina del cisne"
   },
   {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "JAUNECHE",
-    "subcircuito": "JAUNECHE 1",
-    "id": "MULTI-COMERCIO-REINA-DEL-CISNE-Z5-L-V-J",
-    "nombre_punto": "Multi comercio reina del cisne"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "JAUNECHE",
-    "subcircuito": "JAUNECHE 1",
-    "id": "MULTI-COMERCIO-REINA-DEL-CISNE-Z5-L-V-J",
-    "nombre_punto": "Multi comercio reina del cisne"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PAJAN",
-    "circuito": "LASCANO",
-    "subcircuito": "LASCANO 1",
-    "id": "NICOLÁS-SEGURA-Z4-M-P-L",
-    "nombre_punto": "NICOLÁS SEGURA"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "PAJAN",
@@ -27835,15 +27808,6 @@
     "subcircuito": "CHILLANES 1",
     "id": "COOPERATIVA-Z5-B-C-C",
     "nombre_punto": "COOPERATIVA AHORRA Y CRÉDITO JUAN PIO DE MORA"
-  },
-  {
-    "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "ATACAMES",
-    "circuito": "ATACAMES",
-    "subcircuito": "ATACAMES 2",
-    "id": "BANCO-PICHINCHA-Z1-E-A-A",
-    "nombre_punto": "Banco Pichincha"
   },
   {
     "zona": "ZONA 1",
@@ -27909,15 +27873,6 @@
     "nombre_punto": "TUTI"
   },
   {
-    "zona": "ZONA 1",
-    "subzona": "CARCHI",
-    "distrito": "MONTUFAR",
-    "circuito": "SAN GABRIEL SUR",
-    "subcircuito": "SAN GABRIEL SUR 1",
-    "id": "TUTI-Z1-C-M-S",
-    "nombre_punto": "TUTI"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "BUENA FE",
@@ -27934,24 +27889,6 @@
     "subcircuito": "VINCES SUR 1",
     "id": "MERCADO-DE-CARNES-Z5-L-V-V",
     "nombre_punto": "MERCADO DE CARNES"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "TERMINAL TERRESTRE",
-    "subcircuito": "TERMINAL TERRESTRE 1",
-    "id": "FERRETERIA-EL-ECONOMISTA-Z6-A-C-T",
-    "nombre_punto": "Ferreteria el Economista"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "TERMINAL TERRESTRE",
-    "subcircuito": "TERMINAL TERRESTRE 1",
-    "id": "FERRETERIA-EL-ECONOMISTA-Z6-A-C-T",
-    "nombre_punto": "Ferreteria el Economista"
   },
   {
     "zona": "ZONA 6",
@@ -27981,15 +27918,6 @@
     "nombre_punto": "Ferretería el Economista"
   },
   {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "TERMINAL TERRESTRE",
-    "subcircuito": "TERMINAL TERRESTRE 1",
-    "id": "FERRETERIA-EL-ECONOMISTA-Z6-A-C-T",
-    "nombre_punto": "Ferreteria el Economista"
-  },
-  {
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "EL VALLE DE QUIJOS",
@@ -28006,5 +27934,77 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 1",
     "id": "CAJERO-BANCO-DEL-PICHINCHA-BORJA-Z2-N-E-S",
     "nombre_punto": "CAJERO BANCO DEL PICHINCHA BORJA"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
