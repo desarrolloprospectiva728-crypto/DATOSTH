@@ -27970,5 +27970,14 @@
     "subcircuito": "LA UNION 1",
     "id": "TURKEY-Z1-E-Q-L",
     "nombre_punto": "TURKEY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "MILAGRO",
+    "circuito": "CHOBO",
+    "subcircuito": "CHOBO 1",
+    "id": "JACMETAL-Z5-G-M-C",
+    "nombre_punto": "Jacmetal"
   }
 ]
