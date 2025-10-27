@@ -27954,33 +27954,6 @@
     "nombre_punto": "Taller de motos Elias"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "BOLIVAR JUNIN",
-    "circuito": "JUNIN NORTE",
-    "subcircuito": "JUNIN NORTE 1",
-    "id": "POLLOSASADOS-MONCA-Z4-M-B-J",
-    "nombre_punto": "POLLOSASADOS MONCA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "BOLIVAR JUNIN",
-    "circuito": "JUNIN NORTE",
-    "subcircuito": "JUNIN NORTE 1",
-    "id": "POLLOSASADOS-MONCA-Z4-M-B-J",
-    "nombre_punto": "POLLOSASADOS MONCA"
-  },
-  {
-    "zona": "ZONA 3",
-    "subzona": "CHIMBORAZO",
-    "distrito": "COLTA",
-    "circuito": "PALMIRA",
-    "subcircuito": "PALMIRA 1",
-    "id": "GAD-PARROQUIAL-Z3-C-C-P",
-    "nombre_punto": "GAD PARROQUIAL"
-  },
-  {
     "zona": "ZONA 3",
     "subzona": "CHIMBORAZO",
     "distrito": "COLTA",
@@ -27997,5 +27970,32 @@
     "subcircuito": "LA UNION 1",
     "id": "TURKEY-Z1-E-Q-L",
     "nombre_punto": "TURKEY"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
