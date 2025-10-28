@@ -28033,5 +28033,23 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "PEKES-PELUQUERÍA-INFANTIL-Z5-L-V-V",
     "nombre_punto": "Pekes peluquería infantil"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EL TRIUNFO BUCAY",
+    "circuito": "EL TRIUNFO CENTRO",
+    "subcircuito": "EL TRIUNFO CENTRO 1",
+    "id": "COMERCIAL-NEGOCIOS-UNIDOS-Z5-G-E-E",
+    "nombre_punto": "COMERCIAL NEGOCIOS UNIDOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EL TRIUNFO BUCAY",
+    "circuito": "EL TRIUNFO CENTRO",
+    "subcircuito": "EL TRIUNFO CENTRO 1",
+    "id": "COMERCIAL-NEGOCIOS-UNIDOS-Z5-G-E-E",
+    "nombre_punto": "COMERCIAL NEGOCIOS UNIDOS"
   }
 ]
