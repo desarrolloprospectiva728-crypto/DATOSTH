@@ -28051,5 +28051,32 @@
     "subcircuito": "EL TRIUNFO CENTRO 1",
     "id": "COMERCIAL-NEGOCIOS-UNIDOS-Z5-G-E-E",
     "nombre_punto": "COMERCIAL NEGOCIOS UNIDOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "SHELL MERA",
+    "subcircuito": "SHELL MERA 1",
+    "id": "TIENDA-DE-ABARROTES-J-Y-J-Z3-P-P-S",
+    "nombre_punto": "TIENDA DE ABARROTES J Y J"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "SHELL MERA",
+    "subcircuito": "SHELL MERA 1",
+    "id": "TIENDA-DE-ABARROTES-J-Y-J-Z3-P-P-S",
+    "nombre_punto": "TIENDA DE ABARROTES J Y J"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "SHELL MERA",
+    "subcircuito": "SHELL MERA 1",
+    "id": "TIENDA-DE-ABARROTES-J-Y-J-Z3-P-P-S",
+    "nombre_punto": "TIENDA DE ABARROTES J Y J"
   }
 ]
