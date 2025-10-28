@@ -28024,5 +28024,14 @@
     "subcircuito": "PATRICIA PILAR 1",
     "id": "FARMACIA-SUSALUD-PARQUE-CENTRAL-Z5-L-B-P",
     "nombre_punto": "FARMACIA SUSALUD PARQUE CENTRAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "PEKES-PELUQUERÍA-INFANTIL-Z5-L-V-V",
+    "nombre_punto": "Pekes peluquería infantil"
   }
 ]
