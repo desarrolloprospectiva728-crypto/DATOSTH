@@ -28006,5 +28006,14 @@
     "subcircuito": "SALCEDO 2",
     "id": "UNIVERSIDAD-TÉCNICA-DE-COTOPAXI-Z3-C-S-S",
     "nombre_punto": "UNIVERSIDAD TÉCNICA DE COTOPAXI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "SAN BARTOLOME DE PINLLO",
+    "subcircuito": "SAN BARTOLOME DE PINLLO 2",
+    "id": "PARQUE-CENTRAL-DE-PINLLO-Z3-T-A-S",
+    "nombre_punto": "PARQUE CENTRAL DE PINLLO"
   }
 ]
