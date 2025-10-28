@@ -28186,5 +28186,32 @@
     "subcircuito": "BAÑOS 1",
     "id": "CANCHA-DE-DON-MIGUEL-Z3-T-B-B",
     "nombre_punto": "Cancha de don miguel"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EL ROSARIO",
+    "subcircuito": "EL ROSARIO 1",
+    "id": "INGRESO-AL-RECINTO-2-DE-MAYO-Z5-G-E-E",
+    "nombre_punto": "Ingreso al RECINTO 2 DE MAYO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EL ROSARIO",
+    "subcircuito": "EL ROSARIO 1",
+    "id": "INGRESO-AL-RECINTO-2-DE-MAYO-HAMPTON-Z5-G-E-E",
+    "nombre_punto": "Ingreso al RECINTO 2 DE MAYO Hampton"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "HACIENDA-NEIVA-Z5-L-B-C",
+    "nombre_punto": "HACIENDA NAYDA"
   }
 ]
