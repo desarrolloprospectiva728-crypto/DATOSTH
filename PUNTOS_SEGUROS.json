@@ -28159,5 +28159,14 @@
     "subcircuito": "PALENQUE 1",
     "id": "BOUTIQUE-Z5-L-V-P",
     "nombre_punto": "BOUTIQUE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "FAMILA-RIOS-Z5-L-V-V",
+    "nombre_punto": "FAMILA RIOS"
   }
 ]
