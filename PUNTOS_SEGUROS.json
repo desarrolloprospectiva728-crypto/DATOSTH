@@ -28015,5 +28015,14 @@
     "subcircuito": "SAN BARTOLOME DE PINLLO 2",
     "id": "PARQUE-CENTRAL-DE-PINLLO-Z3-T-A-S",
     "nombre_punto": "PARQUE CENTRAL DE PINLLO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "PATRICIA PILAR",
+    "subcircuito": "PATRICIA PILAR 1",
+    "id": "FARMACIA-SUSALUD-PARQUE-CENTRAL-Z5-L-B-P",
+    "nombre_punto": "FARMACIA SUSALUD PARQUE CENTRAL"
   }
 ]
