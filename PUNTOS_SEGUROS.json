@@ -28087,5 +28087,14 @@
     "subcircuito": "GENERAL VILLAMIL 1",
     "id": "BANCO-DE-GUAYAQUIL-Z5-G-P-G",
     "nombre_punto": "Banco de Guayaquil"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "ENRIQUEZ GALLO",
+    "subcircuito": "ENRIQUEZ GALLO 1",
+    "id": "DESPENSA-FICUMAXI-Z5-S-L-E",
+    "nombre_punto": "Despensa ficumaxi"
   }
 ]
