@@ -28078,5 +28078,14 @@
     "subcircuito": "SHELL MERA 1",
     "id": "TIENDA-DE-ABARROTES-J-Y-J-Z3-P-P-S",
     "nombre_punto": "TIENDA DE ABARROTES J Y J"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 1",
+    "id": "BANCO-DE-GUAYAQUIL-Z5-G-P-G",
+    "nombre_punto": "Banco de Guayaquil"
   }
 ]
