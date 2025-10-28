@@ -28096,5 +28096,68 @@
     "subcircuito": "ENRIQUEZ GALLO 1",
     "id": "DESPENSA-FICUMAXI-Z5-S-L-E",
     "nombre_punto": "Despensa ficumaxi"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "PALENQUE",
+    "subcircuito": "PALENQUE 1",
+    "id": "TIENDA-LOS-CHINITOS-Z5-L-V-P",
+    "nombre_punto": "Tienda Los Chinitos"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "PALENQUE",
+    "subcircuito": "PALENQUE 1",
+    "id": "FERRETERÍA-ESTACIÓN-PALENQUE-Z5-L-V-P",
+    "nombre_punto": "Ferretería Estación palenque"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "LOJA",
+    "circuito": "SAUCES NORTE",
+    "subcircuito": "SAUCES NORTE 2",
+    "id": "TALLER-ELÉCTRICO-Z7-L-L-S",
+    "nombre_punto": "Taller eléctrico"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "PALENQUE",
+    "subcircuito": "PALENQUE 1",
+    "id": "AGRO-VENTANENSE-Z5-L-V-P",
+    "nombre_punto": "Agro ventanense"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "LOJA",
+    "circuito": "SAUCES NORTE",
+    "subcircuito": "SAUCES NORTE 1",
+    "id": "TALLER-ELÉCTRICO-Z7-L-L-S",
+    "nombre_punto": "Taller eléctrico"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "COMERCIAL-MARQUEZ-CEREZO-Z5-L-B-C",
+    "nombre_punto": "COMERCIAL MARQUEZ CEREZO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "PALENQUE",
+    "subcircuito": "PALENQUE 1",
+    "id": "BOUTIQUE-Z5-L-V-P",
+    "nombre_punto": "BOUTIQUE"
   }
 ]
