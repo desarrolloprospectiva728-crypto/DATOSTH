@@ -28168,5 +28168,23 @@
     "subcircuito": "VINCES SUR 1",
     "id": "FAMILA-RIOS-Z5-L-V-V",
     "nombre_punto": "FAMILA RIOS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "JUIVE-CHICO-Z3-T-B-B",
+    "nombre_punto": "Juive chico"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "BAÑOS",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "CANCHA-DE-DON-MIGUEL-Z3-T-B-B",
+    "nombre_punto": "Cancha de don miguel"
   }
 ]
