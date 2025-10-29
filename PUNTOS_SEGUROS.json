@@ -28321,5 +28321,14 @@
     "subcircuito": "CATAMAYO SAN JOSE 1",
     "id": "TIENDA-VALENTINA-BARRIO-ELISEO-ARIAS-CARRION-(CIUDAD-PERDIDA-)-Z7-L-C-C",
     "nombre_punto": "Tienda Valentina   barrio Eliseo Arias Carrion   (ciudad perdida )"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SANGOLQUI",
+    "subcircuito": "SANGOLQUI 2",
+    "id": "ALIMENTO-DIVINO-CARNICERIA-Z2-P-R-S",
+    "nombre_punto": "ALIMENTO DIVINO CARNICERIA"
   }
 ]
