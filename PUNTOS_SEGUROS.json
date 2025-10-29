@@ -28294,5 +28294,14 @@
     "subcircuito": "VIRGEN DEL CARMEN 1",
     "id": "TIENDA-LUIS-Z5-S-L-V",
     "nombre_punto": "TIENDA LUIS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "VIRGEN DEL CARMEN",
+    "subcircuito": "VIRGEN DEL CARMEN 1",
+    "id": "DESPENSA-Y-PAPELERÍA-MARI-Z5-S-L-V",
+    "nombre_punto": "Despensa y Papelería Mari"
   }
 ]
