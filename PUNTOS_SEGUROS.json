@@ -28303,5 +28303,14 @@
     "subcircuito": "PABLO SEXTO 1",
     "id": "DIQUE-RIO-TUNANTS-Z6-M-S-P",
     "nombre_punto": "Dique rio tunants"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "COMERCIAL-XAVIERJR-Z5-L-V-Q",
+    "nombre_punto": "COMERCIAL XAVIERJR"
   }
 ]
