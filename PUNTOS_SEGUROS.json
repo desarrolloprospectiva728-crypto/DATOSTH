@@ -28303,5 +28303,14 @@
     "subcircuito": "VIRGEN DEL CARMEN 1",
     "id": "DESPENSA-Y-PAPELERÍA-MARI-Z5-S-L-V",
     "nombre_punto": "Despensa y Papelería Mari"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "PABLO SEXTO",
+    "subcircuito": "PABLO SEXTO 1",
+    "id": "DIQUE-RIO-TUNANTS-Z6-M-S-P",
+    "nombre_punto": "Dique rio tunants"
   }
 ]
