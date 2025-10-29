@@ -28312,5 +28312,14 @@
     "subcircuito": "QUINSALOMA 1",
     "id": "COMERCIAL-XAVIERJR-Z5-L-V-Q",
     "nombre_punto": "COMERCIAL XAVIERJR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "CATAMAYO SAN JOSE",
+    "subcircuito": "CATAMAYO SAN JOSE 1",
+    "id": "TIENDA-VALENTINA-BARRIO-ELISEO-ARIAS-CARRION-(CIUDAD-PERDIDA-)-Z7-L-C-C",
+    "nombre_punto": "Tienda Valentina   barrio Eliseo Arias Carrion   (ciudad perdida )"
   }
 ]
