@@ -28186,5 +28186,32 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "HACIENDA-EL-MIRADOR-Z5-L-B-C",
     "nombre_punto": "HACIENDA EL MIRADOR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "EL VERGEL SUR",
+    "subcircuito": "EL VERGEL SUR 1",
+    "id": "COMISARIATO-DANNY-Z5-L-B-E",
+    "nombre_punto": "COMISARIATO DANNY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "EL VERGEL SUR",
+    "subcircuito": "EL VERGEL SUR 1",
+    "id": "AGRO-EL-VERGEL-Z5-L-B-E",
+    "nombre_punto": "AGRO EL VERGEL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "BAN-ECUADOR-VENTANAS-Z5-L-V-V",
+    "nombre_punto": "Ban Ecuador Ventanas"
   }
 ]
