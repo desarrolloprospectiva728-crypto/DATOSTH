@@ -28053,24 +28053,6 @@
     "nombre_punto": "TIENDA DE ABARROTES J Y J"
   },
   {
-    "zona": "ZONA 3",
-    "subzona": "PASTAZA",
-    "distrito": "PASTAZA",
-    "circuito": "SHELL MERA",
-    "subcircuito": "SHELL MERA 1",
-    "id": "TIENDA-DE-ABARROTES-J-Y-J-Z3-P-P-S",
-    "nombre_punto": "TIENDA DE ABARROTES J Y J"
-  },
-  {
-    "zona": "ZONA 3",
-    "subzona": "PASTAZA",
-    "distrito": "PASTAZA",
-    "circuito": "SHELL MERA",
-    "subcircuito": "SHELL MERA 1",
-    "id": "TIENDA-DE-ABARROTES-J-Y-J-Z3-P-P-S",
-    "nombre_punto": "TIENDA DE ABARROTES J Y J"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
     "distrito": "PLAYAS",
@@ -28123,15 +28105,6 @@
     "subcircuito": "PALENQUE 1",
     "id": "AGRO-VENTANENSE-Z5-L-V-P",
     "nombre_punto": "Agro ventanense"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "LOJA",
-    "circuito": "SAUCES NORTE",
-    "subcircuito": "SAUCES NORTE 1",
-    "id": "TALLER-ELÉCTRICO-Z7-L-L-S",
-    "nombre_punto": "Taller eléctrico"
   },
   {
     "zona": "ZONA 5",
@@ -28213,6 +28186,24 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "HACIENDA-EL-MIRADOR-Z5-L-B-C",
     "nombre_punto": "HACIENDA EL MIRADOR"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   },
   {
     "zona": "",
