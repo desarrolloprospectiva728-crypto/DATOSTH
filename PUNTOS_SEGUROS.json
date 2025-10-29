@@ -28269,12 +28269,21 @@
     "nombre_punto": "Medios Ediasa EL DIARIO MANABÍTA"
   },
   {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "HACIENDA-AGRILECHOS-1-Z5-L-B-C",
+    "nombre_punto": "HACIENDA AGRILECHOS 1"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "HACIENDA-AGRILECHOS-1-Z5-L-B-C",
+    "nombre_punto": "HACIENDA AGRILECHOS 1"
   }
 ]
