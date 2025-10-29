@@ -28330,5 +28330,23 @@
     "subcircuito": "SANGOLQUI 2",
     "id": "ALIMENTO-DIVINO-CARNICERIA-Z2-P-R-S",
     "nombre_punto": "ALIMENTO DIVINO CARNICERIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "PALENQUE",
+    "subcircuito": "PALENQUE 1",
+    "id": "LA-CASA-DE-CELULARES-Z5-L-V-P",
+    "nombre_punto": "La casa de celulares"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "PALENQUE",
+    "subcircuito": "PALENQUE 1",
+    "id": "CENTRO-PUBLICO-DE-SALUD-Z5-L-V-P",
+    "nombre_punto": "CENTRO PUBLICO DE SALUD"
   }
 ]
