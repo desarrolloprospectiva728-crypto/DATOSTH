@@ -28213,5 +28213,14 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "BAN-ECUADOR-VENTANAS-Z5-L-V-V",
     "nombre_punto": "Ban Ecuador Ventanas"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "REPUESTOS-DE-MOTOS-LOLITA-LA-CADENA-Z5-L-B-C",
+    "nombre_punto": "REPUESTOS DE MOTOS LOLITA LA CADENA"
   }
 ]
