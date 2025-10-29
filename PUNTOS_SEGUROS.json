@@ -28279,15 +28279,6 @@
   },
   {
     "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "COSTA AZUL",
-    "subcircuito": "COSTA AZUL 1",
-    "id": "HACIENDA-AGRILECHOS-1-Z5-L-B-C",
-    "nombre_punto": "HACIENDA AGRILECHOS 1"
-  },
-  {
-    "zona": "ZONA 5",
     "subzona": "SANTA ELENA",
     "distrito": "LIBERTAD SALINAS",
     "circuito": "VIRGEN DEL CARMEN",
@@ -28312,5 +28303,14 @@
     "subcircuito": "PABLO SEXTO 1",
     "id": "DIQUE-RIO-TUNANTS-Z6-M-S-P",
     "nombre_punto": "Dique rio tunants"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
