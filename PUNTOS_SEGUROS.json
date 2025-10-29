@@ -28231,5 +28231,41 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "LA-SAZON-DE-MI-ABUELITA-Z5-L-B-C",
     "nombre_punto": "LA SAZON DE MI ABUELITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 1",
+    "id": "CAÑA-MANABITA-Z4-M-P-E",
+    "nombre_punto": "CAÑA MANABITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES NORTE",
+    "subcircuito": "VINCES NORTE 1",
+    "id": "FRITADA-Z5-L-V-V",
+    "nombre_punto": "FRITADA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 1",
+    "id": "CAÑA-MANABITA-Z4-M-P-E",
+    "nombre_punto": "CAÑA MANABITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES NORTE",
+    "subcircuito": "VINCES NORTE 1",
+    "id": "LA-FRITADA-DON-ISIDRO-Z5-L-V-V",
+    "nombre_punto": "LA FRITADA DON ISIDRO"
   }
 ]
