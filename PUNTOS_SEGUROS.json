@@ -28044,15 +28044,6 @@
     "nombre_punto": "COMERCIAL NEGOCIOS UNIDOS"
   },
   {
-    "zona": "ZONA 5",
-    "subzona": "GUAYAS",
-    "distrito": "EL TRIUNFO BUCAY",
-    "circuito": "EL TRIUNFO CENTRO",
-    "subcircuito": "EL TRIUNFO CENTRO 1",
-    "id": "COMERCIAL-NEGOCIOS-UNIDOS-Z5-G-E-E",
-    "nombre_punto": "COMERCIAL NEGOCIOS UNIDOS"
-  },
-  {
     "zona": "ZONA 3",
     "subzona": "PASTAZA",
     "distrito": "PASTAZA",
@@ -28222,5 +28213,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "HACIENDA-EL-MIRADOR-Z5-L-B-C",
     "nombre_punto": "HACIENDA EL MIRADOR"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
