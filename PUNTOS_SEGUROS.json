@@ -28267,5 +28267,14 @@
     "subcircuito": "VINCES NORTE 1",
     "id": "LA-FRITADA-DON-ISIDRO-Z5-L-V-V",
     "nombre_punto": "LA FRITADA DON ISIDRO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 3",
+    "id": "MEDIOS-EDIASA-EL-DIARIO-MANABÍTA-Z4-M-P-E",
+    "nombre_punto": "Medios Ediasa EL DIARIO MANABÍTA"
   }
 ]
