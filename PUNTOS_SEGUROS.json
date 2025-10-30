@@ -28357,5 +28357,23 @@
     "subcircuito": "HUACHI EL BELEN 1",
     "id": "IGLESIA-DE-HUACHI-SOLIS-Z3-T-A-H",
     "nombre_punto": "Iglesia de Huachi Solis"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO SUR",
+    "subcircuito": "PUERTO QUITO SUR 1",
+    "id": "BALANCEADOS-DANIELITA-Z2-P-N-P",
+    "nombre_punto": "BALANCEADOS DANIELITA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO SUR",
+    "subcircuito": "PUERTO QUITO SUR 1",
+    "id": "BALANCEADOS-DANIELITA-Z2-P-N-P",
+    "nombre_punto": "BALANCEADOS DANIELITA"
   }
 ]
