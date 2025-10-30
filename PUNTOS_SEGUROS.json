@@ -28438,5 +28438,77 @@
     "subcircuito": "SUCRE 1",
     "id": "PINOS-GENERAL-ELECTRONICS-Z6-A-C-S",
     "nombre_punto": "PINOS GENERAL ELECTRONICS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "PANGUI",
+    "subcircuito": "PANGUI 1",
+    "id": "COMPANIA-DE-TAXIS-EJECUTIVO-PANGUIAMIGO-Z7-Z-Y-P",
+    "nombre_punto": "COMPANIA DE TAXIS EJECUTIVO PANGUIAMIGO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "PANGUI",
+    "subcircuito": "PANGUI 1",
+    "id": "COMPANIA-DE-TAXIS-EJECUTIVO-PANGUIAMIGO-Z7-Z-Y-P",
+    "nombre_punto": "COMPANIA DE TAXIS EJECUTIVO PANGUIAMIGO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "PANGUI",
+    "subcircuito": "PANGUI 1",
+    "id": "COMPANIA-DE-TAXIS-EJECUTIVO-PANGUIAMIGO-Z7-Z-Y-P",
+    "nombre_punto": "COMPANIA DE TAXIS EJECUTIVO PANGUIAMIGO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "ASADERO-DE-CUYES-EL-SABOR-Z1-C-T-K",
+    "nombre_punto": "Asadero de Cuyes El Sabor"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "ASADERO-DE-CUYES-EL-SABOR-Z1-C-T-K",
+    "nombre_punto": "Asadero de Cuyes El Sabor"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "ASADERO-DE-CUYES-EL-SABOR-Z1-C-T-K",
+    "nombre_punto": "Asadero de Cuyes El Sabor"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "ASADERO-DE-CUYES-EL-SABOR-Z1-C-T-K",
+    "nombre_punto": "Asadero de Cuyes El Sabor"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "PANGUI",
+    "subcircuito": "PANGUI 1",
+    "id": "LABORATORIO-CLÍNICO-NOVALAB-Z7-Z-Y-P",
+    "nombre_punto": "LABORATORIO CLÍNICO NOVALAB"
   }
 ]
