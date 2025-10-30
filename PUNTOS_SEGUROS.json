@@ -28393,5 +28393,23 @@
     "subcircuito": "SANTA ANA 1",
     "id": "ESCUELA-DE-EDUCACIÓN-BASICA-ANGEL-ARTEAGA-CAÑARTE-Z4-M-V-S",
     "nombre_punto": "ESCUELA DE EDUCACIÓN BASICA ANGEL ARTEAGA CAÑARTE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "SUCRE",
+    "subcircuito": "SUCRE 1",
+    "id": "PINOS-GENERAL-ELECTRONICS-Z6-A-C-S",
+    "nombre_punto": "PINOS GENERAL ELECTRONICS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "SUCRE",
+    "subcircuito": "SUCRE 1",
+    "id": "PINOS-GENERAL-ELECTRONICS-Z6-A-C-S",
+    "nombre_punto": "PINOS GENERAL ELECTRONICS"
   }
 ]
