@@ -28384,5 +28384,14 @@
     "subcircuito": "PUERTO QUITO SUR 1",
     "id": "ABARROTES-3-HERMANOS-Z2-P-N-P",
     "nombre_punto": "ABARROTES 3 HERMANOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "ESCUELA-DE-EDUCACIÓN-BASICA-ANGEL-ARTEAGA-CAÑARTE-Z4-M-V-S",
+    "nombre_punto": "ESCUELA DE EDUCACIÓN BASICA ANGEL ARTEAGA CAÑARTE"
   }
 ]
