@@ -28368,12 +28368,21 @@
     "nombre_punto": "BALANCEADOS DANIELITA"
   },
   {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "GIRON",
+    "subcircuito": "GIRON 2",
+    "id": "MECANICA-LOJA-Z6-A-G-G",
+    "nombre_punto": "Mecanica Loja"
+  },
+  {
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
     "distrito": "NOROCCIDENTE",
     "circuito": "PUERTO QUITO SUR",
     "subcircuito": "PUERTO QUITO SUR 1",
-    "id": "BALANCEADOS-DANIELITA-Z2-P-N-P",
-    "nombre_punto": "BALANCEADOS DANIELITA"
+    "id": "ABARROTES-3-HERMANOS-Z2-P-N-P",
+    "nombre_punto": "ABARROTES 3 HERMANOS"
   }
 ]
