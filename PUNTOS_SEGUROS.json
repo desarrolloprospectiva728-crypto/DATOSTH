@@ -28447,5 +28447,32 @@
     "subcircuito": "MIRA 1",
     "id": "MINIMARKET-DULCE-TRADICIÓN-Z1-C-E-M",
     "nombre_punto": "Minimarket Dulce Tradición"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 2",
+    "id": "COMERCIAL-JENNIFER-Z2-P-N-P",
+    "nombre_punto": "Comercial Jennifer"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 2",
+    "id": "COMERCIAL-JENNIFER-Z2-P-N-P",
+    "nombre_punto": "Comercial Jennifer"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 2",
+    "id": "LA-ECONÓMICA-Z2-P-N-P",
+    "nombre_punto": "La Económica"
   }
 ]
