@@ -28465,5 +28465,14 @@
     "subcircuito": "PUERTO QUITO NORTE 2",
     "id": "LA-ECONÓMICA-Z2-P-N-P",
     "nombre_punto": "La Económica"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "UE-DEL-MILENIO-\"JORGE-RODRÍGUEZ-ROMÁN\"-Z2-O-O-C",
+    "nombre_punto": "UE del Milenio  \"Jorge Rodríguez Román\""
   }
 ]
