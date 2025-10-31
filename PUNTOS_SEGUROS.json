@@ -28726,5 +28726,50 @@
     "subcircuito": "LOS BANCOS 2",
     "id": "FERRETERÍA-JORDY-Z2-P-N-L",
     "nombre_punto": "FERRETERÍA JORDY"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 1",
+    "id": "COMERCIAL-DON-ANTONIO-Z1-E-S-F",
+    "nombre_punto": "COMERCIAL DON ANTONIO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 1",
+    "id": "COMERCIAL-DON-ANTONIO-Z1-E-S-F",
+    "nombre_punto": "COMERCIAL DON ANTONIO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "COMERCIAL-DON-ANTONIO-Z1-E-S-F",
+    "nombre_punto": "COMERCIAL DON ANTONIO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "COMERCIAL-DON-ANTONIO-Z1-E-S-F",
+    "nombre_punto": "COMERCIAL DON ANTONIO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "COMERCIAL-DON-ANTONIO-Z1-E-S-F",
+    "nombre_punto": "COMERCIAL DON ANTONIO"
   }
 ]
