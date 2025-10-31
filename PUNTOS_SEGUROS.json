@@ -28717,5 +28717,14 @@
     "subcircuito": "PATRICIA PILAR 2",
     "id": "MINIMARKET-EL-ARCO-Z5-L-B-P",
     "nombre_punto": "MINIMARKET EL ARCO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "FERRETERÍA-JORDY-Z2-P-N-L",
+    "nombre_punto": "FERRETERÍA JORDY"
   }
 ]
