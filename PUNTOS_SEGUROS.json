@@ -28528,5 +28528,41 @@
     "subcircuito": "COCA OCCIDENTE 1",
     "id": "HOTEL-VISTA-AMAZÓNICA-Z2-O-O-C",
     "nombre_punto": "Hotel Vista  Amazónica"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SAN MIGUEL",
+    "circuito": "MAGDALENA",
+    "subcircuito": "MAGDALENA 1",
+    "id": "PARADA-PRIMER-INGRESO-A-LA-ASUNCIÓN-Z5-B-S-M",
+    "nombre_punto": "Parada Primer Ingreso a la Asunción"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SAN MIGUEL",
+    "circuito": "MAGDALENA",
+    "subcircuito": "MAGDALENA 1",
+    "id": "PARADA-PRIMER-INGRESO-A-LA-ASUNCION-Z5-B-S-M",
+    "nombre_punto": "Parada Primer Ingreso a la Asunción"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SAN MIGUEL",
+    "circuito": "MAGDALENA",
+    "subcircuito": "MAGDALENA 1",
+    "id": "PARADA-PRIMER-INGRESO-A-LA-ASUNCION-Z5-B-S-M",
+    "nombre_punto": "Parada Primer Ingreso a la Asunción"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SAN MIGUEL",
+    "circuito": "MAGDALENA",
+    "subcircuito": "MAGDALENA 1",
+    "id": "PARADA-PRIMER-INGRESO-A-LA-ASUNCIÓN-Z5-B-S-M",
+    "nombre_punto": "Parada Primer Ingreso a la Asunción"
   }
 ]
