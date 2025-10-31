@@ -28609,5 +28609,32 @@
     "subcircuito": "SAN MIGUEL 1",
     "id": "BAN-ECUADOR-Z5-B-S-S",
     "nombre_punto": "BAN ECUADOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 4",
+    "id": "CASA-LEGISLATIVA-MANABI-ASAMBLEA-NACIONAL-Z4-M-P-E",
+    "nombre_punto": "Casa legislativa Manabi ASAMBLEA NACIONAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 4",
+    "id": "CASA-LEGISLATIVA-MANABI-ASAMBLEA-NACIONAL-Z4-M-P-E",
+    "nombre_punto": "Casa legislativa Manabi ASAMBLEA NACIONAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 4",
+    "id": "CASA-LEGISLATIVA-MANABI-ASAMBLEA-NACIONAL-Z4-M-P-E",
+    "nombre_punto": "Casa legislativa Manabi ASAMBLEA NACIONAL"
   }
 ]
