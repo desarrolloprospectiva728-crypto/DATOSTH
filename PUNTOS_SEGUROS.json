@@ -28681,5 +28681,41 @@
     "subcircuito": "EL VERGEL SUR 1",
     "id": "MINI-MARKET-EVELIN-Z5-L-B-E",
     "nombre_punto": "MINI MARKET EVELIN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 2",
+    "id": "COMERCIAL-TERESITA-Z1-S-S-S",
+    "nombre_punto": "COMERCIAL TERESITA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 2",
+    "id": "COMERCIAL-TERESITA-Z1-S-S-S",
+    "nombre_punto": "COMERCIAL TERESITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "EL VERGEL SUR",
+    "subcircuito": "EL VERGEL SUR 1",
+    "id": "MINI-MARKET-EVELIN-Z5-L-B-E",
+    "nombre_punto": "MINI MARKET EVELIN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "PATRICIA PILAR",
+    "subcircuito": "PATRICIA PILAR 2",
+    "id": "MINIMARKET-EL-ARCO-Z5-L-B-P",
+    "nombre_punto": "MINIMARKET EL ARCO"
   }
 ]
