@@ -28591,5 +28591,23 @@
     "subcircuito": "SAN MIGUEL 1",
     "id": "BAN-ECUADOR-Z5-B-S-S",
     "nombre_punto": "BAN ECUADOR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "EL VERGEL SUR",
+    "subcircuito": "EL VERGEL SUR 1",
+    "id": "RESTAURANTE-VOLUNTAD-DE-DIOS-Z5-L-B-E",
+    "nombre_punto": "RESTAURANTE VOLUNTAD DE DIOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SAN MIGUEL",
+    "circuito": "SAN MIGUEL",
+    "subcircuito": "SAN MIGUEL 1",
+    "id": "BAN-ECUADOR-Z5-B-S-S",
+    "nombre_punto": "BAN ECUADOR"
   }
 ]
