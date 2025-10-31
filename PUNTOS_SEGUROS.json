@@ -28771,5 +28771,14 @@
     "subcircuito": "FRONTERA 3",
     "id": "COMERCIAL-DON-ANTONIO-Z1-E-S-F",
     "nombre_punto": "COMERCIAL DON ANTONIO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "ZARUMA",
+    "subcircuito": "ZARUMA 1",
+    "id": "FARMACIA-SANTO-REMEDIO-Z7-E-Z-Z",
+    "nombre_punto": "Farmacia Santo Remedio"
   }
 ]
