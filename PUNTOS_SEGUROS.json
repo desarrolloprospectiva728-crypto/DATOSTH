@@ -28501,5 +28501,23 @@
     "subcircuito": "COCA ORIENTE 1",
     "id": "UE-DEL-MILENIO-\"JORGE-RODRÍGUEZ-ROMÁN\"-Z2-O-O-C",
     "nombre_punto": "UE del Milenio  \"Jorge Rodríguez Román\""
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 1",
+    "id": "HOTEL-VISTA-AMAZÓNICA-Z2-O-O-C",
+    "nombre_punto": "Hotel Vista  Amazónica"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 1",
+    "id": "HOTEL-VISTA-AMAZÓNICA-Z2-O-O-C",
+    "nombre_punto": "Hotel Vista  Amazónica"
   }
 ]
