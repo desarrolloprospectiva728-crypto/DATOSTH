@@ -28780,5 +28780,14 @@
     "subcircuito": "ZARUMA 1",
     "id": "FARMACIA-SANTO-REMEDIO-Z7-E-Z-Z",
     "nombre_punto": "Farmacia Santo Remedio"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "SAN VICENTE",
+    "subcircuito": "SAN VICENTE 2",
+    "id": "NAUTIKA-Z4-M-J-S",
+    "nombre_punto": "NAUTIKA"
   }
 ]
