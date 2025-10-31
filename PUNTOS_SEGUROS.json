@@ -28636,5 +28636,14 @@
     "subcircuito": "EL FLORON 4",
     "id": "CASA-LEGISLATIVA-MANABI-ASAMBLEA-NACIONAL-Z4-M-P-E",
     "nombre_punto": "Casa legislativa Manabi ASAMBLEA NACIONAL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "LIMON",
+    "subcircuito": "LIMON 1",
+    "id": "GASOLINERA-Z6-M-M-L",
+    "nombre_punto": "Gasolinera"
   }
 ]
