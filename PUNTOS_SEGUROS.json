@@ -28852,5 +28852,50 @@
     "subcircuito": "TONCHIGUE 2",
     "id": "PANADERÍA-LUIS-Z1-E-A-T",
     "nombre_punto": "Panadería Luis"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONCHIGUE",
+    "subcircuito": "TONCHIGUE 2",
+    "id": "PANADERÍA-LUIS-Z1-E-A-T",
+    "nombre_punto": "PANADERÍA LUIS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONCHIGUE",
+    "subcircuito": "TONCHIGUE 2",
+    "id": "PANADERÍA-LUIS-Z1-E-A-T",
+    "nombre_punto": "PANADERÍA LUIS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "AMALUZA",
+    "subcircuito": "AMALUZA 1",
+    "id": "COLISEO-DE-AMALUZA-Z7-L-E-A",
+    "nombre_punto": "COLISEO DE AMALUZA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "HUALTACO",
+    "subcircuito": "HUALTACO 3",
+    "id": "MUEBLES-DEL-SUR-Z7-E-H-H",
+    "nombre_punto": "MUEBLES DEL SUR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "HUALTACO",
+    "subcircuito": "HUALTACO 3",
+    "id": "MUEBLES-DEL-SUR-Z7-E-H-H",
+    "nombre_punto": "MUEBLES DEL SUR"
   }
 ]
