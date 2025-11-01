@@ -28825,5 +28825,23 @@
     "subcircuito": "PORTOVELO 1",
     "id": "RESTAURANTE-EXQUISITOS-DE-MARIS-Z7-E-Z-P",
     "nombre_punto": "Restaurante Exquisitos de Maris"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "PORTOVELO",
+    "subcircuito": "PORTOVELO 1",
+    "id": "MULTISETVICIOS-PARA-LA-CONSTRUCCIÓN-Z7-E-Z-P",
+    "nombre_punto": "MULTISETVICIOS PARA LA CONSTRUCCIÓN"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "PORTOVELO",
+    "subcircuito": "PORTOVELO 1",
+    "id": "MULTISERVICIOS-PARA-LA-CONSTRUCCIÓN-Z7-E-Z-P",
+    "nombre_punto": "MULTISERVICIOS PARA LA CONSTRUCCIÓN"
   }
 ]
