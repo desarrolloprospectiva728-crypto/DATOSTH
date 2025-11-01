@@ -28388,7 +28388,7 @@
   {
     "zona": "ZONA 4",
     "subzona": "MANABI",
-    "distrito": "VEINTICUATRO DE MAYO",
+    "distrito": "24. DE MAYO",
     "circuito": "SANTA ANA",
     "subcircuito": "SANTA ANA 1",
     "id": "ESCUELA-DE-EDUCACIÓN-BASICA-ANGEL-ARTEAGA-CAÑARTE-Z4-M-V-S",
@@ -28690,5 +28690,14 @@
     "subcircuito": "FAJARDO 1",
     "id": "MACASI-JEAS-Z2-P-R-F",
     "nombre_punto": "MACASI JEAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "COMEDOR-LA-MORENITA-Z5-L-B-C",
+    "nombre_punto": "COMEDOR LA MORENITA"
   }
 ]
