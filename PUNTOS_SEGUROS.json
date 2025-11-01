@@ -28807,5 +28807,14 @@
     "subcircuito": "ZUMBI 1",
     "id": "MECANICA-TENEAUTO-Z7-Z-P-Z",
     "nombre_punto": "MECANICA TENEAUTO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "ILINIZAS",
+    "subcircuito": "ILINIZAS 1",
+    "id": "BAZAR-Y-PAPELERIA-Z2-P-R-I",
+    "nombre_punto": "BAZAR Y PAPELERIA"
   }
 ]
