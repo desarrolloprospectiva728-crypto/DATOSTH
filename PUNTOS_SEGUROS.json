@@ -28699,5 +28699,32 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "COMEDOR-LA-MORENITA-Z5-L-B-C",
     "nombre_punto": "COMEDOR LA MORENITA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "QUIROGA",
+    "subcircuito": "QUIROGA 1",
+    "id": "PARQUE-QUIROGA-Z1-I-T-Q",
+    "nombre_punto": "PARQUE QUIROGA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "QUIROGA",
+    "subcircuito": "QUIROGA 1",
+    "id": "PARQUE-QUIROGA-Z1-I-T-Q",
+    "nombre_punto": "PARQUE QUIROGA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "QUIROGA",
+    "subcircuito": "QUIROGA 1",
+    "id": "PARQUE-QUIROGA-Z1-I-T-Q",
+    "nombre_punto": "Parque Quiroga"
   }
 ]
