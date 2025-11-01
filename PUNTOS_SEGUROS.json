@@ -28798,5 +28798,14 @@
     "subcircuito": "ZUMBI 1",
     "id": "LIORERA-DCHISS-Z7-Z-P-Z",
     "nombre_punto": "Liorera Dchiss"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "PAQUISHA",
+    "circuito": "ZUMBI",
+    "subcircuito": "ZUMBI 1",
+    "id": "MECANICA-TENEAUTO-Z7-Z-P-Z",
+    "nombre_punto": "MECANICA TENEAUTO"
   }
 ]
