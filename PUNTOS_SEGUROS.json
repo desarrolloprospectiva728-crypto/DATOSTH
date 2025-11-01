@@ -28906,5 +28906,14 @@
     "subcircuito": "FAJARDO 1",
     "id": "MACASI-JEAS-Z2-P-R-F",
     "nombre_punto": "MACASI JEAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "FAJARDO",
+    "subcircuito": "FAJARDO 1",
+    "id": "MACASI-JEASN-Z2-P-R-F",
+    "nombre_punto": "MACASI JEASN"
   }
 ]
