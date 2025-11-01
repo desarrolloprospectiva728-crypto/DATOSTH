@@ -28789,5 +28789,14 @@
     "subcircuito": "SAN VICENTE 2",
     "id": "NAUTIKA-Z4-M-J-S",
     "nombre_punto": "NAUTIKA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "PAQUISHA",
+    "circuito": "ZUMBI",
+    "subcircuito": "ZUMBI 1",
+    "id": "LIORERA-DCHISS-Z7-Z-P-Z",
+    "nombre_punto": "Liorera Dchiss"
   }
 ]
