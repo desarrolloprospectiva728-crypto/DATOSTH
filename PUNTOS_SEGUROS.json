@@ -28897,5 +28897,14 @@
     "subcircuito": "HUALTACO 3",
     "id": "MUEBLES-DEL-SUR-Z7-E-H-H",
     "nombre_punto": "MUEBLES DEL SUR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "FAJARDO",
+    "subcircuito": "FAJARDO 1",
+    "id": "MACASI-JEAS-Z2-P-R-F",
+    "nombre_punto": "MACASI JEAS"
   }
 ]
