@@ -28753,5 +28753,23 @@
     "subcircuito": "EL DORADO 1",
     "id": "PANADERÍA-GUSTA-PANES-Z1-S-L-E",
     "nombre_punto": "Panadería GUSTA PANES"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "MACARA",
+    "circuito": "MACARA",
+    "subcircuito": "MACARA 1",
+    "id": "PARQUE-AMAZONAS-Z7-L-M-M",
+    "nombre_punto": "PARQUE AMAZONAS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "MACARA",
+    "circuito": "MACARA",
+    "subcircuito": "MACARA 1",
+    "id": "PARQUE-AMAZONAS-Z7-L-M-M",
+    "nombre_punto": "PARQUE AMAZONAS"
   }
 ]
