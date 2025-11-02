@@ -28717,5 +28717,14 @@
     "subcircuito": "SALITRE SAUCES 1",
     "id": "MINIMARKET-CARMEN-Z5-G-S-S",
     "nombre_punto": "MINIMARKET CARMEN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "LAS NAVES",
+    "subcircuito": "LAS NAVES 1",
+    "id": "BARRIO-SAN-VICENTE-VÍA-ZAPOTAL-Z5-B-S-L",
+    "nombre_punto": "Barrio San Vicente  vía zapotal"
   }
 ]
