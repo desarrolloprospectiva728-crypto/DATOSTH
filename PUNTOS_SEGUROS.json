@@ -28771,5 +28771,23 @@
     "subcircuito": "MACARA 1",
     "id": "PARQUE-AMAZONAS-Z7-L-M-M",
     "nombre_punto": "PARQUE AMAZONAS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "MACARA",
+    "circuito": "MACARA",
+    "subcircuito": "MACARA 1",
+    "id": "PARQUE-AMAZONAS-Z7-L-M-M",
+    "nombre_punto": "PARQUE AMAZONAS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "MACARA",
+    "circuito": "MACARA",
+    "subcircuito": "MACARA 1",
+    "id": "PARQUE-AMAZONAS-Z7-L-M-M",
+    "nombre_punto": "PARQUE AMAZONAS"
   }
 ]
