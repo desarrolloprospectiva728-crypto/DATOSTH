@@ -28789,5 +28789,14 @@
     "subcircuito": "MACARA 1",
     "id": "PARQUE-AMAZONAS-Z7-L-M-M",
     "nombre_punto": "PARQUE AMAZONAS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "SIMON BOLIVAR",
+    "subcircuito": "SIMON BOLIVAR 1",
+    "id": "AV.-SIMON-BOLÍVAR-PALACIOS-Z7-E-M-S",
+    "nombre_punto": "Av. Simon Bolívar Palacios"
   }
 ]
