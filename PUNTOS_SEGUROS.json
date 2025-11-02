@@ -28726,5 +28726,14 @@
     "subcircuito": "LAS NAVES 1",
     "id": "BARRIO-SAN-VICENTE-VÍA-ZAPOTAL-Z5-B-S-L",
     "nombre_punto": "Barrio San Vicente  vía zapotal"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "CHORDELEG",
+    "subcircuito": "CHORDELEG 1",
+    "id": "FABRICA-DE-JOYAS-CASTRO-Z6-A-G-C",
+    "nombre_punto": "FABRICA DE JOYAS CASTRO"
   }
 ]
