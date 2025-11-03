@@ -28852,5 +28852,14 @@
     "subcircuito": "LA MATRIZ 1",
     "id": "EDIFICIO-MOSQUERA-Z3-T-A-L",
     "nombre_punto": "EDIFICIO MOSQUERA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "EL-BUEN-PAN-Z6-A-P-S",
+    "nombre_punto": "EL BUEN PAN"
   }
 ]
