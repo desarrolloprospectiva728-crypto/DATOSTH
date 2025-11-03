@@ -28942,5 +28942,23 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "CARNICO-SOLCITO-Z5-L-B-C",
     "nombre_punto": "CARNICO SOLCITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "LA-HUECA-DEL-SABOR-Z5-L-B-C",
+    "nombre_punto": "LA HUECA DEL SABOR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "PANADERIA-Y-PASTELERIA-ROSSY-Z5-L-B-C",
+    "nombre_punto": "PANADERIA Y PASTELERIA ROSSY"
   }
 ]
