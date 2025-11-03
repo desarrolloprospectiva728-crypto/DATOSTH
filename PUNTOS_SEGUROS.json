@@ -28807,5 +28807,50 @@
     "subcircuito": "GUAMOTE 1",
     "id": "SECTOR-LA-GIRALDA-Z3-C-C-G",
     "nombre_punto": "Sector la Giralda"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SIGCHOS",
+    "circuito": "SIGCHOS",
+    "subcircuito": "SIGCHOS 1",
+    "id": "TUTY-Z3-C-S-S",
+    "nombre_punto": "TUTY"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "LA MATRIZ",
+    "subcircuito": "LA MATRIZ 1",
+    "id": "EDIFICIO-MOSQUERA-Z3-T-A-L",
+    "nombre_punto": "EDIFICIO MOSQUERA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "LA MATRIZ",
+    "subcircuito": "LA MATRIZ 1",
+    "id": "EDIFICIO-MOSQUERA-Z3-T-A-L",
+    "nombre_punto": "EDIFICIO MOSQUERA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "LA MATRIZ",
+    "subcircuito": "LA MATRIZ 1",
+    "id": "EDIFICIO-MOSQUERA-Z3-T-A-L",
+    "nombre_punto": "EDIFICIO MOSQUERA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "LA MATRIZ",
+    "subcircuito": "LA MATRIZ 1",
+    "id": "EDIFICIO-MOSQUERA-Z3-T-A-L",
+    "nombre_punto": "EDIFICIO MOSQUERA"
   }
 ]
