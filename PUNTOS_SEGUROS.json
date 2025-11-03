@@ -28798,5 +28798,14 @@
     "subcircuito": "SIMON BOLIVAR 1",
     "id": "AV.-SIMON-BOLÍVAR-PALACIOS-Z7-E-M-S",
     "nombre_punto": "Av. Simon Bolívar Palacios"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "GUAMOTE",
+    "subcircuito": "GUAMOTE 1",
+    "id": "SECTOR-LA-GIRALDA-Z3-C-C-G",
+    "nombre_punto": "Sector la Giralda"
   }
 ]
