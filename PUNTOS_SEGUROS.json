@@ -28906,5 +28906,41 @@
     "subcircuito": "PALESTINA 1",
     "id": "RESTAURANTE-BRISA-MAR-Z1-E-R-P",
     "nombre_punto": "RESTAURANTE BRISA MAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "AGROPECUARIA-DM-Z5-L-B-C",
+    "nombre_punto": "AGROPECUARIA DM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "CARNICO-SOLCITO-Z5-L-B-C",
+    "nombre_punto": "CARNICO SOLCITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "CARNICO-SOLCITO-Z5-L-B-C",
+    "nombre_punto": "CARNICO SOLCITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "CARNICO-SOLCITO-Z5-L-B-C",
+    "nombre_punto": "CARNICO SOLCITO"
   }
 ]
