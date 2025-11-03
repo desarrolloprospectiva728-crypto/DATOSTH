@@ -28879,5 +28879,23 @@
     "subcircuito": "SHUMIRAL 1",
     "id": "PANADERIA-EL-BUEN-PAN-Z6-A-P-S",
     "nombre_punto": "PANADERIA EL BUEN PAN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "MIRADOR-DE-RIOVERDE-Z1-E-R-P",
+    "nombre_punto": "MIRADOR DE RIOVERDE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "MIRADOR-DE-RIOVERDE-Z1-E-R-P",
+    "nombre_punto": "MIRADOR DE RIOVERDE"
   }
 ]
