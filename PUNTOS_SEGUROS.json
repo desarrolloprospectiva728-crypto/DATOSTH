@@ -28897,5 +28897,14 @@
     "subcircuito": "PALESTINA 1",
     "id": "MIRADOR-DE-RIOVERDE-Z1-E-R-P",
     "nombre_punto": "MIRADOR DE RIOVERDE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "RESTAURANTE-BRISA-MAR-Z1-E-R-P",
+    "nombre_punto": "RESTAURANTE BRISA MAR"
   }
 ]
