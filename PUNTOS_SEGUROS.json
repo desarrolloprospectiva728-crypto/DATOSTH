@@ -28861,5 +28861,23 @@
     "subcircuito": "SHUMIRAL 1",
     "id": "EL-BUEN-PAN-Z6-A-P-S",
     "nombre_punto": "EL BUEN PAN"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "PANADERIA-EL-BUEN-PAN-Z6-A-P-S",
+    "nombre_punto": "PANADERIA EL BUEN PAN"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "PANADERIA-EL-BUEN-PAN-Z6-A-P-S",
+    "nombre_punto": "PANADERIA EL BUEN PAN"
   }
 ]
