@@ -28978,5 +28978,23 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "FRIGORIFICO-GANCHOSO-Z5-L-B-C",
     "nombre_punto": "Frigorifico Ganchoso"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "ISLA DE BEJUCAL",
+    "subcircuito": "ISLA DE BEJUCAL 1",
+    "id": "COMERCIAL-IVANCITO-Z5-L-B-I",
+    "nombre_punto": "COMERCIAL IVANCITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "ISLA DE BEJUCAL",
+    "subcircuito": "ISLA DE BEJUCAL 1",
+    "id": "COMERCIAL-IVANCITO-Z5-L-B-I",
+    "nombre_punto": "COMERCIAL IVANCITO"
   }
 ]
