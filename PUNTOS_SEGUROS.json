@@ -28996,5 +28996,14 @@
     "subcircuito": "ISLA DE BEJUCAL 1",
     "id": "COMERCIAL-IVANCITO-Z5-L-B-I",
     "nombre_punto": "COMERCIAL IVANCITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR SUR",
+    "subcircuito": "BALZAR SUR 1",
+    "id": "ESTADIO-DEL-BARRIO-10-DE-AGOSTO-Z5-G-B-B",
+    "nombre_punto": "Estadio del barrio  10 de agosto"
   }
 ]
