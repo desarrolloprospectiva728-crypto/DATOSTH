@@ -29140,5 +29140,32 @@
     "subcircuito": "ALAMOR 1",
     "id": "BANECUADOR-Z7-L-S-A",
     "nombre_punto": "BANECUADOR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "PANADERIA-Y-PASTELERIA-KATTY-Z5-L-B-C",
+    "nombre_punto": "PANADERIA Y PASTELERIA KATTY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "PANADERIA-Y-PASTELERIA-KATTY-Z5-L-B-C",
+    "nombre_punto": "PANADERIA Y PASTELERIA KATTY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "PANADERIA-Y-PASTELERIA-KATTY-Z5-L-B-C",
+    "nombre_punto": "PANADERIA Y PASTELERIA KATTY"
   }
 ]
