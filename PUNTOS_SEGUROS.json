@@ -29041,5 +29041,23 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "BALSARIVER-CIA.-LTDA.-Z5-L-B-C",
     "nombre_punto": "BALSARIVER CIA. LTDA."
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "CHINCHIPE",
+    "circuito": "ZUMBA",
+    "subcircuito": "ZUMBA 1",
+    "id": "HOTEL-SAN-LUIS-Z7-Z-C-Z",
+    "nombre_punto": "HOTEL SAN LUIS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "CHINCHIPE",
+    "circuito": "ZUMBA",
+    "subcircuito": "ZUMBA 1",
+    "id": "HOTEL-SAN-LUIS-Z7-Z-C-Z",
+    "nombre_punto": "HOTEL SAN LUIS"
   }
 ]
