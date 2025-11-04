@@ -29005,5 +29005,32 @@
     "subcircuito": "BALZAR SUR 1",
     "id": "ESTADIO-DEL-BARRIO-10-DE-AGOSTO-Z5-G-B-B",
     "nombre_punto": "Estadio del barrio  10 de agosto"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "ROSA PAREDES",
+    "subcircuito": "ROSA PAREDES 1",
+    "id": "1752676096-Z5-G-B-R",
+    "nombre_punto": 1752676096
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR SUR",
+    "subcircuito": "BALZAR SUR 1",
+    "id": "ESTADIO-BARRIO-10-DE-AGOSTO-Z5-G-B-B",
+    "nombre_punto": "Estadio Barrio 10 de agosto"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR SUR",
+    "subcircuito": "BALZAR SUR 1",
+    "id": "ESTADIO-BARRIO-10-DE-AGOSTO-Z5-G-B-B",
+    "nombre_punto": "Estadio Barrio 10 de agosto"
   }
 ]
