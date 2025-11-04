@@ -29131,5 +29131,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "DANIKCELL-Z5-L-B-C",
     "nombre_punto": "DANIKCELL"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SABANILLA",
+    "circuito": "ALAMOR",
+    "subcircuito": "ALAMOR 1",
+    "id": "BANECUADOR-Z7-L-S-A",
+    "nombre_punto": "BANECUADOR"
   }
 ]
