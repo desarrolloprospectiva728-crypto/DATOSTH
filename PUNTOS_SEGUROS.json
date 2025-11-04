@@ -29032,5 +29032,14 @@
     "subcircuito": "BALZAR SUR 1",
     "id": "ESTADIO-BARRIO-10-DE-AGOSTO-Z5-G-B-B",
     "nombre_punto": "Estadio Barrio 10 de agosto"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "BALSARIVER-CIA.-LTDA.-Z5-L-B-C",
+    "nombre_punto": "BALSARIVER CIA. LTDA."
   }
 ]
