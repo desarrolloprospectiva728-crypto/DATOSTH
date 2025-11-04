@@ -29059,5 +29059,77 @@
     "subcircuito": "ZUMBA 1",
     "id": "HOTEL-SAN-LUIS-Z7-Z-C-Z",
     "nombre_punto": "HOTEL SAN LUIS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "CHINCHIPE",
+    "circuito": "ZUMBA",
+    "subcircuito": "ZUMBA 1",
+    "id": "HOTEL-SAN-LUIS-Z7-Z-C-Z",
+    "nombre_punto": "HOTEL SAN LUIS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "CHINCHIPE",
+    "circuito": "ZUMBA",
+    "subcircuito": "ZUMBA 1",
+    "id": "HOTEL-SAN-LUIS-Z7-Z-C-Z",
+    "nombre_punto": "HOTEL SAN LUIS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "CHINCHIPE",
+    "circuito": "ZUMBA",
+    "subcircuito": "ZUMBA 1",
+    "id": "FRUTERIA-VIRGEN-DEL-ROSARIO-Z7-Z-C-Z",
+    "nombre_punto": "FRUTERIA VIRGEN DEL ROSARIO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "PICAIHUA",
+    "subcircuito": "PICAIHUA 2",
+    "id": "UNIVERSIDAD-UNIANDES-Z3-T-A-P",
+    "nombre_punto": "Universidad Uniandes"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "DANIKCELL-Z5-L-B-C",
+    "nombre_punto": "DANIKCELL"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "PICAIHUA",
+    "subcircuito": "PICAIHUA 2",
+    "id": "UNIVERSIDAD-UNI-Z3-T-A-P",
+    "nombre_punto": "UNIVERSIDAD UNIANDES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR CENTRO",
+    "subcircuito": "BALZAR CENTRO 1",
+    "id": "HOSPITAL-BALZAR-Z5-G-B-B",
+    "nombre_punto": "Hospital Balzar"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "DANIKCELL-Z5-L-B-C",
+    "nombre_punto": "DANIKCELL"
   }
 ]
