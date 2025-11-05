@@ -29176,5 +29176,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "LEGUMBRERIA-MANUEL---COSTA-AZUL-Z5-L-B-C",
     "nombre_punto": "LEGUMBRERIA MANUEL - COSTA AZUL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SAN JOSE DE JUJAN",
+    "subcircuito": "SAN JOSE DE JUJAN 1",
+    "id": "GASOLINERA-GAVELA-Z5-L-B-S",
+    "nombre_punto": "Gasolinera Gavela"
   }
 ]
