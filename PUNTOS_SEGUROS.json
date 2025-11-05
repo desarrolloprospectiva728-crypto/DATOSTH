@@ -29005,5 +29005,113 @@
     "subcircuito": "SAN JOSE DE JUJAN 1",
     "id": "GASOLINERA-GAVELA-Z5-L-B-S",
     "nombre_punto": "Gasolinera Gavela"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 1",
+    "id": "COMERCIAL-CUJI-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "ALOAG",
+    "subcircuito": "ALOAG 1",
+    "id": "QUEZADA-SUPERMERCADO-Z2-P-R-A",
+    "nombre_punto": "QUEZADA SUPERMERCADO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "ALOAG",
+    "subcircuito": "ALOAG 1",
+    "id": "SUPERMERCADO-QUEZADA-Z2-P-R-A",
+    "nombre_punto": "SUPERMERCADO QUEZADA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 1",
+    "id": "COMERCIAL-CUJI-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 1",
+    "id": "COMERCIAL-CUJI-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 1",
+    "id": "COMERCIAL-CUJI-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 1",
+    "id": "COMERCIAL-CUJI-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 2",
+    "id": "COMERCIAL-CUJI-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 2",
+    "id": "COMERCIAL-CUJI-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 1",
+    "id": "COMERCIAL-CUJI-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 1",
+    "id": "COMERCIAL-CUJI-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 1",
+    "id": "COMERCIAL-CUJI-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI"
   }
 ]
