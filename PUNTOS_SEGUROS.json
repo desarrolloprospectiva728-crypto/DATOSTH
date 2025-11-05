@@ -29140,5 +29140,23 @@
     "subcircuito": "HUALTACO 2",
     "id": "VIVIENDA-1-Z7-E-H-H",
     "nombre_punto": "Vivienda 1"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "HUALTACO",
+    "subcircuito": "HUALTACO 2",
+    "id": "VIVIENDA.-Z7-E-H-H",
+    "nombre_punto": "VIVIENDA."
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "COLECTIVA",
+    "subcircuito": "COLECTIVA 1",
+    "id": "FERRETERÍA-M&M-Z1-E-E-C",
+    "nombre_punto": "Ferretería M&M"
   }
 ]
