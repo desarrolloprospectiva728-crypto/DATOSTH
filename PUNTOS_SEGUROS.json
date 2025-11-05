@@ -28756,42 +28756,6 @@
   },
   {
     "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "MACARA",
-    "circuito": "MACARA",
-    "subcircuito": "MACARA 1",
-    "id": "PARQUE-AMAZONAS-Z7-L-M-M",
-    "nombre_punto": "PARQUE AMAZONAS"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "MACARA",
-    "circuito": "MACARA",
-    "subcircuito": "MACARA 1",
-    "id": "PARQUE-AMAZONAS-Z7-L-M-M",
-    "nombre_punto": "PARQUE AMAZONAS"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "MACARA",
-    "circuito": "MACARA",
-    "subcircuito": "MACARA 1",
-    "id": "PARQUE-AMAZONAS-Z7-L-M-M",
-    "nombre_punto": "PARQUE AMAZONAS"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "MACARA",
-    "circuito": "MACARA",
-    "subcircuito": "MACARA 1",
-    "id": "PARQUE-AMAZONAS-Z7-L-M-M",
-    "nombre_punto": "PARQUE AMAZONAS"
-  },
-  {
-    "zona": "ZONA 7",
     "subzona": "EL ORO",
     "distrito": "MACHALA",
     "circuito": "SIMON BOLIVAR",
@@ -28827,33 +28791,6 @@
     "nombre_punto": "EDIFICIO MOSQUERA"
   },
   {
-    "zona": "ZONA 3",
-    "subzona": "TUNGURAHUA",
-    "distrito": "AMBATO NORTE",
-    "circuito": "LA MATRIZ",
-    "subcircuito": "LA MATRIZ 1",
-    "id": "EDIFICIO-MOSQUERA-Z3-T-A-L",
-    "nombre_punto": "EDIFICIO MOSQUERA"
-  },
-  {
-    "zona": "ZONA 3",
-    "subzona": "TUNGURAHUA",
-    "distrito": "AMBATO NORTE",
-    "circuito": "LA MATRIZ",
-    "subcircuito": "LA MATRIZ 1",
-    "id": "EDIFICIO-MOSQUERA-Z3-T-A-L",
-    "nombre_punto": "EDIFICIO MOSQUERA"
-  },
-  {
-    "zona": "ZONA 3",
-    "subzona": "TUNGURAHUA",
-    "distrito": "AMBATO NORTE",
-    "circuito": "LA MATRIZ",
-    "subcircuito": "LA MATRIZ 1",
-    "id": "EDIFICIO-MOSQUERA-Z3-T-A-L",
-    "nombre_punto": "EDIFICIO MOSQUERA"
-  },
-  {
     "zona": "ZONA 6",
     "subzona": "AZUAY",
     "distrito": "PONCE ENRIQUEZ",
@@ -28870,24 +28807,6 @@
     "subcircuito": "SHUMIRAL 1",
     "id": "PANADERIA-EL-BUEN-PAN-Z6-A-P-S",
     "nombre_punto": "PANADERIA EL BUEN PAN"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "PONCE ENRIQUEZ",
-    "circuito": "SHUMIRAL",
-    "subcircuito": "SHUMIRAL 1",
-    "id": "PANADERIA-EL-BUEN-PAN-Z6-A-P-S",
-    "nombre_punto": "PANADERIA EL BUEN PAN"
-  },
-  {
-    "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "RIO VERDE",
-    "circuito": "PALESTINA",
-    "subcircuito": "PALESTINA 1",
-    "id": "MIRADOR-DE-RIOVERDE-Z1-E-R-P",
-    "nombre_punto": "MIRADOR DE RIOVERDE"
   },
   {
     "zona": "ZONA 1",
@@ -28931,24 +28850,6 @@
     "distrito": "BUENA FE",
     "circuito": "COSTA AZUL",
     "subcircuito": "COSTA AZUL 1",
-    "id": "CARNICO-SOLCITO-Z5-L-B-C",
-    "nombre_punto": "CARNICO SOLCITO"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "COSTA AZUL",
-    "subcircuito": "COSTA AZUL 1",
-    "id": "CARNICO-SOLCITO-Z5-L-B-C",
-    "nombre_punto": "CARNICO SOLCITO"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "COSTA AZUL",
-    "subcircuito": "COSTA AZUL 1",
     "id": "LA-HUECA-DEL-SABOR-Z5-L-B-C",
     "nombre_punto": "LA HUECA DEL SABOR"
   },
@@ -28969,24 +28870,6 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "FRIGORIFICO-GANCHOSO-Z5-L-B-C",
     "nombre_punto": "Frigorifico Ganchoso"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "COSTA AZUL",
-    "subcircuito": "COSTA AZUL 1",
-    "id": "FRIGORIFICO-GANCHOSO-Z5-L-B-C",
-    "nombre_punto": "Frigorifico Ganchoso"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BABAHOYO",
-    "circuito": "ISLA DE BEJUCAL",
-    "subcircuito": "ISLA DE BEJUCAL 1",
-    "id": "COMERCIAL-IVANCITO-Z5-L-B-I",
-    "nombre_punto": "COMERCIAL IVANCITO"
   },
   {
     "zona": "ZONA 5",
@@ -29026,48 +28909,12 @@
   },
   {
     "zona": "ZONA 5",
-    "subzona": "GUAYAS",
-    "distrito": "BALZAR",
-    "circuito": "BALZAR SUR",
-    "subcircuito": "BALZAR SUR 1",
-    "id": "ESTADIO-BARRIO-10-DE-AGOSTO-Z5-G-B-B",
-    "nombre_punto": "Estadio Barrio 10 de agosto"
-  },
-  {
-    "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "BUENA FE",
     "circuito": "COSTA AZUL",
     "subcircuito": "COSTA AZUL 1",
     "id": "BALSARIVER-CIA.-LTDA.-Z5-L-B-C",
     "nombre_punto": "BALSARIVER CIA. LTDA."
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "ZAMORA CHINCHIPE",
-    "distrito": "CHINCHIPE",
-    "circuito": "ZUMBA",
-    "subcircuito": "ZUMBA 1",
-    "id": "HOTEL-SAN-LUIS-Z7-Z-C-Z",
-    "nombre_punto": "HOTEL SAN LUIS"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "ZAMORA CHINCHIPE",
-    "distrito": "CHINCHIPE",
-    "circuito": "ZUMBA",
-    "subcircuito": "ZUMBA 1",
-    "id": "HOTEL-SAN-LUIS-Z7-Z-C-Z",
-    "nombre_punto": "HOTEL SAN LUIS"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "ZAMORA CHINCHIPE",
-    "distrito": "CHINCHIPE",
-    "circuito": "ZUMBA",
-    "subcircuito": "ZUMBA 1",
-    "id": "HOTEL-SAN-LUIS-Z7-Z-C-Z",
-    "nombre_punto": "HOTEL SAN LUIS"
   },
   {
     "zona": "ZONA 7",
@@ -29124,15 +28971,6 @@
     "nombre_punto": "Hospital Balzar"
   },
   {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "COSTA AZUL",
-    "subcircuito": "COSTA AZUL 1",
-    "id": "DANIKCELL-Z5-L-B-C",
-    "nombre_punto": "DANIKCELL"
-  },
-  {
     "zona": "ZONA 7",
     "subzona": "LOJA",
     "distrito": "SABANILLA",
@@ -29140,24 +28978,6 @@
     "subcircuito": "ALAMOR 1",
     "id": "BANECUADOR-Z7-L-S-A",
     "nombre_punto": "BANECUADOR"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "COSTA AZUL",
-    "subcircuito": "COSTA AZUL 1",
-    "id": "PANADERIA-Y-PASTELERIA-KATTY-Z5-L-B-C",
-    "nombre_punto": "PANADERIA Y PASTELERIA KATTY"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "COSTA AZUL",
-    "subcircuito": "COSTA AZUL 1",
-    "id": "PANADERIA-Y-PASTELERIA-KATTY-Z5-L-B-C",
-    "nombre_punto": "PANADERIA Y PASTELERIA KATTY"
   },
   {
     "zona": "ZONA 5",
