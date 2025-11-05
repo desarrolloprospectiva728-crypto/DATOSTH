@@ -29185,5 +29185,14 @@
     "subcircuito": "CASCALES 1",
     "id": "VÍVERES-DANIELITA-Z1-S-S-C",
     "nombre_punto": "Víveres Danielita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 1",
+    "id": "CLÍNICA-HOSPITAL-JEFFERSON-ROMERO-Z5-L-B-B",
+    "nombre_punto": "CLÍNICA HOSPITAL JEFFERSON ROMERO"
   }
 ]
