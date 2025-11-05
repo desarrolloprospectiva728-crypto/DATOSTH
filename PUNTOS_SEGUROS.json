@@ -29158,5 +29158,32 @@
     "subcircuito": "COLECTIVA 1",
     "id": "FERRETERÍA-M&M-Z1-E-E-C",
     "nombre_punto": "Ferretería M&M"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "ALMACEN-ORVE-HOGAR-Z5-L-V-B",
+    "nombre_punto": "ALMACEN ORVE HOGAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "ALMACEN-ORVE-HOGAR-Z5-L-V-B",
+    "nombre_punto": "ALMACEN ORVE HOGAR"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "CASCALES",
+    "subcircuito": "CASCALES 1",
+    "id": "VÍVERES-DANIELITA-Z1-S-S-C",
+    "nombre_punto": "Víveres Danielita"
   }
 ]
