@@ -29113,5 +29113,14 @@
     "subcircuito": "RURAL 1",
     "id": "COMERCIAL-CUJI-Z2-P-R-R",
     "nombre_punto": "COMERCIAL CUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 1",
+    "id": "COMERCIAL-CUJI-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI"
   }
 ]
