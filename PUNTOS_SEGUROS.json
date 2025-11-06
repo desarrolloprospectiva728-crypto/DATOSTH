@@ -29176,5 +29176,14 @@
     "subcircuito": "BUENA FE OESTE 1",
     "id": "DULCERIA-BOCADITOS-Z5-L-B-B",
     "nombre_punto": "DULCERIA BOCADITOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "NUEVO SUCUMBIOS",
+    "subcircuito": "NUEVO SUCUMBIOS 1",
+    "id": "PUNTO-CEL-Z1-S-L-N",
+    "nombre_punto": "Punto Cel"
   }
 ]
