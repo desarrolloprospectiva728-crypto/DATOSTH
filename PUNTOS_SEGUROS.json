@@ -29113,5 +29113,14 @@
     "subcircuito": "PAUTE 1",
     "id": "BANECUADOR-Z6-A-P-P",
     "nombre_punto": "BanEcuador"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "RESTAURANTE-PORTO-CAÑA-Z4-M-P-P",
+    "nombre_punto": "Restaurante Porto Caña"
   }
 ]
