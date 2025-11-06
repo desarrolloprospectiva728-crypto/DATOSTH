@@ -29131,5 +29131,14 @@
     "subcircuito": "LA FERROVIARIA 1",
     "id": "MC-DONALDS-Z7-E-M-L",
     "nombre_punto": "MC Donalds"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 1",
+    "id": "DULCERIA-BOCADITOS-Z5-L-B-B",
+    "nombre_punto": "DULCERIA BOCADITOS"
   }
 ]
