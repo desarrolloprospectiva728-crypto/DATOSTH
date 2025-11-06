@@ -29122,5 +29122,14 @@
     "subcircuito": "PORTOVIEJO 1",
     "id": "RESTAURANTE-PORTO-CAÑA-Z4-M-P-P",
     "nombre_punto": "Restaurante Porto Caña"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "LA FERROVIARIA",
+    "subcircuito": "LA FERROVIARIA 1",
+    "id": "MC-DONALDS-Z7-E-M-L",
+    "nombre_punto": "MC Donalds"
   }
 ]
