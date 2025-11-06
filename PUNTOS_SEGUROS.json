@@ -29034,96 +29034,6 @@
     "nombre_punto": "SUPERMERCADO QUEZADA"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RURAL",
-    "subcircuito": "RURAL 1",
-    "id": "COMERCIAL-CUJI-Z2-P-R-R",
-    "nombre_punto": "COMERCIAL CUJI"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RURAL",
-    "subcircuito": "RURAL 1",
-    "id": "COMERCIAL-CUJI-Z2-P-R-R",
-    "nombre_punto": "COMERCIAL CUJI"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RURAL",
-    "subcircuito": "RURAL 1",
-    "id": "COMERCIAL-CUJI-Z2-P-R-R",
-    "nombre_punto": "COMERCIAL CUJI"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RURAL",
-    "subcircuito": "RURAL 1",
-    "id": "COMERCIAL-CUJI-Z2-P-R-R",
-    "nombre_punto": "COMERCIAL CUJI"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RURAL",
-    "subcircuito": "RURAL 2",
-    "id": "COMERCIAL-CUJI-Z2-P-R-R",
-    "nombre_punto": "COMERCIAL CUJI"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RURAL",
-    "subcircuito": "RURAL 2",
-    "id": "COMERCIAL-CUJI-Z2-P-R-R",
-    "nombre_punto": "COMERCIAL CUJI"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RURAL",
-    "subcircuito": "RURAL 1",
-    "id": "COMERCIAL-CUJI-Z2-P-R-R",
-    "nombre_punto": "COMERCIAL CUJI"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RURAL",
-    "subcircuito": "RURAL 1",
-    "id": "COMERCIAL-CUJI-Z2-P-R-R",
-    "nombre_punto": "COMERCIAL CUJI"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RURAL",
-    "subcircuito": "RURAL 1",
-    "id": "COMERCIAL-CUJI-Z2-P-R-R",
-    "nombre_punto": "COMERCIAL CUJI"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RURAL",
-    "subcircuito": "RURAL 1",
-    "id": "COMERCIAL-CUJI-Z2-P-R-R",
-    "nombre_punto": "COMERCIAL CUJI"
-  },
-  {
     "zona": "ZONA 7",
     "subzona": "EL ORO",
     "distrito": "HUAQUILLAS",
@@ -29131,24 +29041,6 @@
     "subcircuito": "HUALTACO 2",
     "id": "VIVIENDA-Z7-E-H-H",
     "nombre_punto": "VIVIENDA"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "HUAQUILLAS",
-    "circuito": "HUALTACO",
-    "subcircuito": "HUALTACO 2",
-    "id": "VIVIENDA-1-Z7-E-H-H",
-    "nombre_punto": "Vivienda 1"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "HUAQUILLAS",
-    "circuito": "HUALTACO",
-    "subcircuito": "HUALTACO 2",
-    "id": "VIVIENDA.-Z7-E-H-H",
-    "nombre_punto": "VIVIENDA."
   },
   {
     "zona": "ZONA 1",
@@ -29169,15 +29061,6 @@
     "nombre_punto": "ALMACEN ORVE HOGAR"
   },
   {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "BALZAR DE VINCES",
-    "subcircuito": "BALZAR DE VINCES 1",
-    "id": "ALMACEN-ORVE-HOGAR-Z5-L-V-B",
-    "nombre_punto": "ALMACEN ORVE HOGAR"
-  },
-  {
     "zona": "ZONA 1",
     "subzona": "SUCUMBIOS",
     "distrito": "SUCUMBIOS",
@@ -29185,24 +29068,6 @@
     "subcircuito": "CASCALES 1",
     "id": "VÍVERES-DANIELITA-Z1-S-S-C",
     "nombre_punto": "Víveres Danielita"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE ESTE",
-    "subcircuito": "BUENA FE ESTE 1",
-    "id": "CLÍNICA-HOSPITAL-JEFFERSON-ROMERO-Z5-L-B-B",
-    "nombre_punto": "CLÍNICA HOSPITAL JEFFERSON ROMERO"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE ESTE",
-    "subcircuito": "BUENA FE ESTE 1",
-    "id": "CLÍNICA-HOSPITAL-JEFFERSON-ROMERO-Z5-L-B-B",
-    "nombre_punto": "CLÍNICA HOSPITAL JEFFERSON ROMERO"
   },
   {
     "zona": "ZONA 5",
