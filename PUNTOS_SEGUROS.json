@@ -29104,5 +29104,14 @@
     "subcircuito": "YAGUACHI NORTE 1",
     "id": "CASA-GRANDE-Z5-G-Y-Y",
     "nombre_punto": "CASA GRANDE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "BANECUADOR-Z6-A-P-P",
+    "nombre_punto": "BanEcuador"
   }
 ]
