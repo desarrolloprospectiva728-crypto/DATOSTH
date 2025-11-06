@@ -29095,5 +29095,14 @@
     "subcircuito": "TORATA 2",
     "id": "CENTRO-DE-SALUD-SAN-JOSE-Z7-E-S-T",
     "nombre_punto": "CENTRO DE SALUD SAN JOSE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "YAGUACHI NORTE",
+    "subcircuito": "YAGUACHI NORTE 1",
+    "id": "CASA-GRANDE-Z5-G-Y-Y",
+    "nombre_punto": "CASA GRANDE"
   }
 ]
