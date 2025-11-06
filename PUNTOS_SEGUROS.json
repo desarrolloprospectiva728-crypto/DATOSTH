@@ -29185,5 +29185,14 @@
     "subcircuito": "NUEVO SUCUMBIOS 1",
     "id": "PUNTO-CEL-Z1-S-L-N",
     "nombre_punto": "Punto Cel"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "GIMNASIO-JP-Z4-M-P-P",
+    "nombre_punto": "Gimnasio JP"
   }
 ]
