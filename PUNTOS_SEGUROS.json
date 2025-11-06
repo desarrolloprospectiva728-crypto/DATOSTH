@@ -29167,5 +29167,14 @@
     "subcircuito": "BUENA FE OESTE 1",
     "id": "DULCERIA-BOCADITOS-Z5-L-B-B",
     "nombre_punto": "DULCERIA BOCADITOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 1",
+    "id": "DULCERIA-BOCADITOS-Z5-L-B-B",
+    "nombre_punto": "DULCERIA BOCADITOS"
   }
 ]
