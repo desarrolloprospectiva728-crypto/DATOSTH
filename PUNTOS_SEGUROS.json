@@ -29401,5 +29401,14 @@
     "subcircuito": "MACARA 2",
     "id": "BARRIO-22-DE-SEPTIEMBRE-CEMENTERIO-Z7-L-M-M",
     "nombre_punto": "Barrio 22 de septiembre CEMENTERIO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "MACARA",
+    "circuito": "MACARA",
+    "subcircuito": "MACARA 2",
+    "id": "BARRIO-22-DE-SEPTIEMBRE-CEMENTERIO-Z7-L-M-M",
+    "nombre_punto": "Barrio 22 de septiembre CEMENTERIO"
   }
 ]
