@@ -29194,5 +29194,14 @@
     "subcircuito": "PORTOVIEJO 1",
     "id": "GIMNASIO-JP-Z4-M-P-P",
     "nombre_punto": "Gimnasio JP"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "MEGAREGALON-Z1-E-S-F",
+    "nombre_punto": "MEGAREGALON"
   }
 ]
