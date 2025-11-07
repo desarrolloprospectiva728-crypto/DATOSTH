@@ -29239,5 +29239,14 @@
     "subcircuito": "SHUSHUFINDI CENTRO 1",
     "id": "CENTRO-DE-SALUD-URBANO-LOS-BOSQUES-Z1-S-S-S",
     "nombre_punto": "Centro de Salud Urbano Los Bosques"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 1",
+    "id": "HOTEL-MARIMBA-Z1-E-A-A",
+    "nombre_punto": "HOTEL MARIMBA"
   }
 ]
