@@ -29419,5 +29419,14 @@
     "subcircuito": "RAYITO DE LUZ 1",
     "id": "FERRETERIA-DIPAC-Z7-E-M-R",
     "nombre_punto": "FERRETERIA DIPAC"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "LA CUATRO MIL",
+    "subcircuito": "LA CUATRO MIL 1",
+    "id": "YURI-ORELLANA-Z7-E-M-L",
+    "nombre_punto": "YURI ORELLANA"
   }
 ]
