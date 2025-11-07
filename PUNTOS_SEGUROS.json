@@ -29320,5 +29320,14 @@
     "subcircuito": "VIRGEN DEL CARMEN 1",
     "id": "LAVADORA-Y-LUBRICADORA-TAGLE-Z5-S-L-V",
     "nombre_punto": "Lavadora y Lubricadora Tagle"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "CASA-DE-LA-GOBERNADORA-Z4-M-V-S",
+    "nombre_punto": "Casa de la gobernadora"
   }
 ]
