@@ -29293,5 +29293,14 @@
     "subcircuito": "LA LORENA 1",
     "id": "CAMPAMENTO-HUNAN-Z4-S-S-L",
     "nombre_punto": "CAMPAMENTO HUNAN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "ECHEANDIA",
+    "subcircuito": "ECHEANDIA 1",
+    "id": "CENTRO-DE-SALUD-Z5-B-S-E",
+    "nombre_punto": "Centro de Salud"
   }
 ]
