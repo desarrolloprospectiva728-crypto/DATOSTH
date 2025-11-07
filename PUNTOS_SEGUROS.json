@@ -29455,5 +29455,14 @@
     "subcircuito": "LA YOLITA 1",
     "id": "FLORERÍA-LOCURAS-Y-ALGO-MAS-Z5-G-D-L",
     "nombre_punto": "Florería locuras y algo mas"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EL TRIUNFO BUCAY",
+    "circuito": "EL TRIUNFO OESTE",
+    "subcircuito": "EL TRIUNFO OESTE 1",
+    "id": "HAMMER-GYM-Z5-G-E-E",
+    "nombre_punto": "HAMMER GYM"
   }
 ]
