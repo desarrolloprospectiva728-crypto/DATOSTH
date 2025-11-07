@@ -29266,5 +29266,14 @@
     "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
     "id": "DENTAL-PINEDA-Z6-A-P-C",
     "nombre_punto": "Dental pineda"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "DENTAL-PINEDA-Z6-A-P-C",
+    "nombre_punto": "DENTAL PINEDA"
   }
 ]
