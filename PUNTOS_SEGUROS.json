@@ -29437,5 +29437,23 @@
     "subcircuito": "ROSA ZARATE 1",
     "id": "GRAN-CINCUENTAZO-COLOMBIANO-Z1-E-Q-R",
     "nombre_punto": "Gran cincuentazo colombiano"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "LA YOLITA",
+    "subcircuito": "LA YOLITA 1",
+    "id": "FLORERÍA-LOCURAS-Y-ALGO-MAS-Z5-G-D-L",
+    "nombre_punto": "Florería locuras y algo mas"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "LA YOLITA",
+    "subcircuito": "LA YOLITA 1",
+    "id": "FLORERÍA-LOCURAS-Y-ALGO-MAS-Z5-G-D-L",
+    "nombre_punto": "Florería locuras y algo mas"
   }
 ]
