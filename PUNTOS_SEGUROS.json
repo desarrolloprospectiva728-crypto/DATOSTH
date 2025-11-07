@@ -29410,5 +29410,14 @@
     "subcircuito": "MACARA 2",
     "id": "BARRIO-22-DE-SEPTIEMBRE-CEMENTERIO-Z7-L-M-M",
     "nombre_punto": "Barrio 22 de septiembre CEMENTERIO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "RAYITO DE LUZ",
+    "subcircuito": "RAYITO DE LUZ 1",
+    "id": "FERRETERIA-DIPAC-Z7-E-M-R",
+    "nombre_punto": "FERRETERIA DIPAC"
   }
 ]
