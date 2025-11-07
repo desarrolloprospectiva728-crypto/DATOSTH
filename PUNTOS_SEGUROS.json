@@ -29428,5 +29428,14 @@
     "subcircuito": "LA CUATRO MIL 1",
     "id": "YURI-ORELLANA-Z7-E-M-L",
     "nombre_punto": "YURI ORELLANA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "ROSA ZARATE",
+    "subcircuito": "ROSA ZARATE 1",
+    "id": "GRAN-CINCUENTAZO-COLOMBIANO-Z1-E-Q-R",
+    "nombre_punto": "Gran cincuentazo colombiano"
   }
 ]
