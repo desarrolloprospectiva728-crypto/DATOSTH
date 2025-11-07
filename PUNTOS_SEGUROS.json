@@ -29302,5 +29302,23 @@
     "subcircuito": "ECHEANDIA 1",
     "id": "CENTRO-DE-SALUD-Z5-B-S-E",
     "nombre_punto": "Centro de Salud"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "VIRGEN DEL CARMEN",
+    "subcircuito": "VIRGEN DEL CARMEN 1",
+    "id": "LAVADORA-Y-LUBRICADORA-TAGLE-Z5-S-L-V",
+    "nombre_punto": "Lavadora y Lubricadora Tagle"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "VIRGEN DEL CARMEN",
+    "subcircuito": "VIRGEN DEL CARMEN 1",
+    "id": "LAVADORA-Y-LUBRICADORA-TAGLE-Z5-S-L-V",
+    "nombre_punto": "Lavadora y Lubricadora Tagle"
   }
 ]
