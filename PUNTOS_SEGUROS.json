@@ -29284,5 +29284,14 @@
     "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
     "id": "DENTAL-PINEDA-Z6-A-P-C",
     "nombre_punto": "Dental Pineda"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LA LORENA",
+    "subcircuito": "LA LORENA 1",
+    "id": "CAMPAMENTO-HUNAN-Z4-S-S-L",
+    "nombre_punto": "CAMPAMENTO HUNAN"
   }
 ]
