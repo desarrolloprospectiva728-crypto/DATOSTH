@@ -29374,5 +29374,14 @@
     "subcircuito": "2001-06-05T05:00:00.000Z",
     "id": "PANADERÍA-EPISCOPAN-Z5-S-L-5",
     "nombre_punto": "Panadería Episcopan"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "MACARA",
+    "circuito": "MACARA",
+    "subcircuito": "MACARA 2",
+    "id": "BARRIO-22-DE-SEPTIEMBRE-CEMENTERIO-Z7-L-M-M",
+    "nombre_punto": "Barrio 22 de septiembre CEMENTERIO"
   }
 ]
