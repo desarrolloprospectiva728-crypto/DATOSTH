@@ -29464,5 +29464,14 @@
     "subcircuito": "EL TRIUNFO OESTE 1",
     "id": "HAMMER-GYM-Z5-G-E-E",
     "nombre_punto": "HAMMER GYM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EL TRIUNFO BUCAY",
+    "circuito": "EL TRIUNFO OESTE",
+    "subcircuito": "EL TRIUNFO OESTE 1",
+    "id": "HAMMER-GYM-Z5-G-E-E",
+    "nombre_punto": "HAMMER GYM"
   }
 ]
