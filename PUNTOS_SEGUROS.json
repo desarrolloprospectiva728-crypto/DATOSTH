@@ -29203,5 +29203,14 @@
     "subcircuito": "FRONTERA 3",
     "id": "MEGAREGALON-Z1-E-S-F",
     "nombre_punto": "MEGAREGALON"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "CRABS-HOUSE-Z4-M-P-P",
+    "nombre_punto": "Crabs house"
   }
 ]
