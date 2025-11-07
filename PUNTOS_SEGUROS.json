@@ -29248,5 +29248,14 @@
     "subcircuito": "ATACAMES 1",
     "id": "HOTEL-MARIMBA-Z1-E-A-A",
     "nombre_punto": "HOTEL MARIMBA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "0707187589-Z6-A-P-C",
+    "nombre_punto": 707187589
   }
 ]
