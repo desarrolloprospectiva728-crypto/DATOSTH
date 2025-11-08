@@ -29338,5 +29338,14 @@
     "subcircuito": "PALMA ROJA 1",
     "id": "PARADA-DE-BUSES-REDONDEL-TIPISCA-Z1-S-P-P",
     "nombre_punto": "PARADA DE BUSES REDONDEL TIPISCA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 1",
+    "id": "SOLDADORA-Z7-E-M-R",
+    "nombre_punto": "SOLDADORA"
   }
 ]
