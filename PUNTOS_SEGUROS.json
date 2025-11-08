@@ -22791,7 +22791,7 @@
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "JIPIJAPA",
-    "circuito": "2025-05-03T05:00:00.000Z",
+    "circuito": "3 DE mayo",
     "subcircuito": "2001-05-03T05:00:00.000Z",
     "id": "SERVIENTREGA-Z4-M-J-3",
     "nombre_punto": "SERVIENTREGA"
@@ -23952,7 +23952,7 @@
     "zona": "ZONA 5",
     "subzona": "SANTA ELENA",
     "distrito": "LIBERTAD SALINAS",
-    "circuito": "2025-06-05T05:00:00.000Z",
+    "circuito": "5 DE junio",
     "subcircuito": "2002-06-05T05:00:00.000Z",
     "id": "COOPERATIVA-TRANSPORTE-URBANO-PUERTO-PENÍNSULAR-Z5-S-L-5",
     "nombre_punto": "Cooperativa Transporte Urbano Puerto Penínsular"
@@ -29244,7 +29244,7 @@
     "zona": "ZONA 5",
     "subzona": "SANTA ELENA",
     "distrito": "LIBERTAD SALINAS",
-    "circuito": "2025-06-05T05:00:00.000Z",
+    "circuito": "5 DE junio",
     "subcircuito": "2001-06-05T05:00:00.000Z",
     "id": "PANADERÍA-EPISCOPAN-Z5-S-L-5",
     "nombre_punto": "Panadería Episcopan"
