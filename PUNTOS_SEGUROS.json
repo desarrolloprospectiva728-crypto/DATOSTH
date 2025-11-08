@@ -29223,24 +29223,6 @@
     "nombre_punto": "Dental pineda"
   },
   {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "PONCE ENRIQUEZ",
-    "circuito": "CAMILO PONCE ENRIQUEZ",
-    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
-    "id": "DENTAL-PINEDA-Z6-A-P-C",
-    "nombre_punto": "DENTAL PINEDA"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "PONCE ENRIQUEZ",
-    "circuito": "CAMILO PONCE ENRIQUEZ",
-    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
-    "id": "DENTAL-PINEDA-Z6-A-P-C",
-    "nombre_punto": "Dental Pineda"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
     "distrito": "SANTO DOMINGO ESTE",
@@ -29268,15 +29250,6 @@
     "nombre_punto": "Lavadora y Lubricadora Tagle"
   },
   {
-    "zona": "ZONA 5",
-    "subzona": "SANTA ELENA",
-    "distrito": "LIBERTAD SALINAS",
-    "circuito": "VIRGEN DEL CARMEN",
-    "subcircuito": "VIRGEN DEL CARMEN 1",
-    "id": "LAVADORA-Y-LUBRICADORA-TAGLE-Z5-S-L-V",
-    "nombre_punto": "Lavadora y Lubricadora Tagle"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "VEINTICUATRO DE MAYO",
@@ -29284,15 +29257,6 @@
     "subcircuito": "SANTA ANA 1",
     "id": "CASA-DE-LA-GOBERNADORA-Z4-M-V-S",
     "nombre_punto": "Casa de la gobernadora"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "SANTA ELENA",
-    "distrito": "LIBERTAD SALINAS",
-    "circuito": "VIRGEN DEL CARMEN",
-    "subcircuito": "VIRGEN DEL CARMEN 1",
-    "id": "LAVADORA-Y-LUBRICADORA-TAGLE-Z5-S-L-V",
-    "nombre_punto": "Lavadora y Lubricadora Tagle"
   },
   {
     "zona": "ZONA 5",
@@ -29437,6 +29401,42 @@
     "subcircuito": "IV CENTENARIO 1",
     "id": "MERCADILLO-Y-LAURO-GUERRERO-ESQUINA-Z7-L-L-I",
     "nombre_punto": "MERCADILLO Y LAURO GUERRERO ESQUINA"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   },
   {
     "zona": "",
