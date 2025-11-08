@@ -29410,5 +29410,23 @@
     "subcircuito": "SAN FERNANDO 1",
     "id": "BAZAR-Y-PAPELERÍA-VELASQUEZ-Z6-A-G-S",
     "nombre_punto": "Bazar y Papelería Velasquez"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "CHILLANES",
+    "circuito": "SAN JOSE DEL TAMBO",
+    "subcircuito": "SAN JOSE DEL TAMBO 1",
+    "id": "REGISTRO-CIVIL-SAN-JOSE-Z5-B-C-S",
+    "nombre_punto": "REGISTRO CIVIL SAN JOSE"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "EL INGENIO",
+    "subcircuito": "EL INGENIO 1",
+    "id": "CAJERO-AUTOMÁTICO-DE-LA-COOPERATIVA-PADRE-JULIAN-LORENTE-Z7-L-E-E",
+    "nombre_punto": "Cajero automático de la Cooperativa Padre Julian Lorente"
   }
 ]
