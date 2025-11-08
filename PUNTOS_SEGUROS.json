@@ -29401,5 +29401,14 @@
     "subcircuito": "SAN LUIS DE ARMENIA 1",
     "id": "SAN-LUIS-DE-ARMENIA-Z2-O-O-S",
     "nombre_punto": "San Luis de Armenia"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "SAN FERNANDO",
+    "subcircuito": "SAN FERNANDO 1",
+    "id": "BAZAR-Y-PAPELERÍA-VELASQUEZ-Z6-A-G-S",
+    "nombre_punto": "Bazar y Papelería Velasquez"
   }
 ]
