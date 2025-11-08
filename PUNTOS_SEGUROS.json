@@ -29311,5 +29311,14 @@
     "subcircuito": "IV CENTENARIO 1",
     "id": "MERCADILLO-Y-LAURO-GUERRERO-ESQUINA-Z7-L-L-I",
     "nombre_punto": "MERCADILLO Y LAURO GUERRERO ESQUINA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "TERMINAL-TERRESTRE-VENTANAS-Z5-L-V-V",
+    "nombre_punto": "TERMINAL TERRESTRE VENTANAS"
   }
 ]
