@@ -29135,38 +29135,11 @@
   {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE OESTE",
-    "subcircuito": "BUENA FE OESTE 1",
-    "id": "DULCERIA-BOCADITOS-Z5-L-B-B",
-    "nombre_punto": "DULCERIA BOCADITOS"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
     "distrito": "BABAHOYO",
     "circuito": "ISLA DE BEJUCAL",
     "subcircuito": "ISLA DE BEJUCAL 1",
     "id": "HOSTAL-LA-ISLA-Z5-L-B-I",
     "nombre_punto": "HOSTAL LA ISLA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE OESTE",
-    "subcircuito": "BUENA FE OESTE 1",
-    "id": "DULCERIA-BOCADITOS-Z5-L-B-B",
-    "nombre_punto": "DULCERIA BOCADITOS"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE OESTE",
-    "subcircuito": "BUENA FE OESTE 1",
-    "id": "DULCERIA-BOCADITOS-Z5-L-B-B",
-    "nombre_punto": "DULCERIA BOCADITOS"
   },
   {
     "zona": "ZONA 1",
@@ -29203,15 +29176,6 @@
     "subcircuito": "PORTOVIEJO 1",
     "id": "CRABS-HOUSE-Z4-M-P-P",
     "nombre_punto": "Crabs house"
-  },
-  {
-    "zona": "ZONA 1",
-    "subzona": "SUCUMBIOS",
-    "distrito": "SHUSHUFINDI",
-    "circuito": "SHUSHUFINDI CENTRO",
-    "subcircuito": "SHUSHUFINDI CENTRO 1",
-    "id": "CENTRO-DE-SALUD-URBANO-LOS-BOSQUE-Z1-S-S-S",
-    "nombre_punto": "Centro de Salud Urbano Los Bosques"
   },
   {
     "zona": "ZONA 1",
@@ -29473,5 +29437,41 @@
     "subcircuito": "IV CENTENARIO 1",
     "id": "MERCADILLO-Y-LAURO-GUERRERO-ESQUINA-Z7-L-L-I",
     "nombre_punto": "MERCADILLO Y LAURO GUERRERO ESQUINA"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
