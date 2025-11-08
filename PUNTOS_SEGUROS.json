@@ -29473,5 +29473,14 @@
     "subcircuito": "EL TRIUNFO OESTE 1",
     "id": "HAMMER-GYM-Z5-G-E-E",
     "nombre_punto": "HAMMER GYM"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "LOJA",
+    "circuito": "IV CENTENARIO",
+    "subcircuito": "IV CENTENARIO 1",
+    "id": "MERCADILLO-Y-LAURO-GUERRERO-ESQUINA-Z7-L-L-I",
+    "nombre_punto": "MERCADILLO Y LAURO GUERRERO ESQUINA"
   }
 ]
