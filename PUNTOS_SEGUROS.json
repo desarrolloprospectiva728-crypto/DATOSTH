@@ -29188,15 +29188,6 @@
   },
   {
     "zona": "ZONA 1",
-    "subzona": "SUCUMBIOS",
-    "distrito": "SHUSHUFINDI",
-    "circuito": "SHUSHUFINDI CENTRO",
-    "subcircuito": "SHUSHUFINDI CENTRO 1",
-    "id": "CENTRO-DE-SALUD-URBANO-LOS-BOSQUES-Z1-S-S-S",
-    "nombre_punto": "Centro de Salud Urbano Los Bosques"
-  },
-  {
-    "zona": "ZONA 1",
     "subzona": "ESMERALDAS",
     "distrito": "ATACAMES",
     "circuito": "ATACAMES",
@@ -29329,69 +29320,6 @@
     "subcircuito": "IV CENTENARIO 1",
     "id": "MERCADILLO-Y-LAURO-GUERRERO-ESQUINA-Z7-L-L-I",
     "nombre_punto": "MERCADILLO Y LAURO GUERRERO ESQUINA"
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
-  },
-  {
-    "zona": "",
-    "subzona": "",
-    "distrito": "",
-    "circuito": "",
-    "subcircuito": "",
-    "id": "",
-    "nombre_punto": ""
   },
   {
     "zona": "",
