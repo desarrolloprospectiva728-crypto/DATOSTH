@@ -29356,5 +29356,14 @@
     "subcircuito": "MACHALA OCCIDENTAL 1",
     "id": "CASA-DEL-SR-SUAREZ-Z7-E-M-M",
     "nombre_punto": "CASA DEL SR SUAREZ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "JUJAN SIMON BOLIVAR",
+    "circuito": "SIMON BOLIVAR",
+    "subcircuito": "SIMON BOLIVAR 1",
+    "id": "COMERCIAL-MARIAN-Z5-G-J-S",
+    "nombre_punto": "COMERCIAL MARIAN"
   }
 ]
