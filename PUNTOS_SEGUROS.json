@@ -27685,15 +27685,6 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "MORONA SANTIAGO",
-    "distrito": "MENDEZ",
-    "circuito": "SANTIAGO DE MENDEZ",
-    "subcircuito": "SANTIAGO DE MENDEZ 1",
-    "id": "GASOLINERA-VÉLEZ-BELLA-UNION-Z6-M-M-S",
-    "nombre_punto": "GASOLINERA VÉLEZ BELLA UNION"
-  },
-  {
-    "zona": "ZONA 6",
     "subzona": "AZUAY",
     "distrito": "CUENCA NORTE",
     "circuito": "SAN BLAS",
