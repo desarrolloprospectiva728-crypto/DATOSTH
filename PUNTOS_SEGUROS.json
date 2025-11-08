@@ -29329,5 +29329,14 @@
     "subcircuito": "VELASCO IBARRA 1",
     "id": "CANCHA-CIRROSIS-Z7-E-P-V",
     "nombre_punto": "Cancha Cirrosis"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "PALMA ROJA",
+    "subcircuito": "PALMA ROJA 1",
+    "id": "PARADA-DE-BUSES-REDONDEL-TIPISCA-Z1-S-P-P",
+    "nombre_punto": "PARADA DE BUSES REDONDEL TIPISCA"
   }
 ]
