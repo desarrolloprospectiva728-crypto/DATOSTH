@@ -29347,5 +29347,14 @@
     "subcircuito": "ROCAFUERTE 1",
     "id": "SOLDADORA-Z7-E-M-R",
     "nombre_punto": "SOLDADORA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "MACHALA OCCIDENTAL",
+    "subcircuito": "MACHALA OCCIDENTAL 1",
+    "id": "CASA-DEL-SR-SUAREZ-Z7-E-M-M",
+    "nombre_punto": "CASA DEL SR SUAREZ"
   }
 ]
