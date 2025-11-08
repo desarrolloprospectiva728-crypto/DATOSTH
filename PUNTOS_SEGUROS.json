@@ -29320,5 +29320,14 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "TERMINAL-TERRESTRE-VENTANAS-Z5-L-V-V",
     "nombre_punto": "TERMINAL TERRESTRE VENTANAS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "VELASCO IBARRA",
+    "subcircuito": "VELASCO IBARRA 1",
+    "id": "CANCHA-CIRROSIS-Z7-E-P-V",
+    "nombre_punto": "Cancha Cirrosis"
   }
 ]
