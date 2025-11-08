@@ -29392,5 +29392,14 @@
     "subcircuito": "ESTACADA 1",
     "id": "MINI-EL-COMISARIATO-Z5-G-P-E",
     "nombre_punto": "MINI EL COMISARIATO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "SAN LUIS DE ARMENIA",
+    "subcircuito": "SAN LUIS DE ARMENIA 1",
+    "id": "SAN-LUIS-DE-ARMENIA-Z2-O-O-S",
+    "nombre_punto": "San Luis de Armenia"
   }
 ]
