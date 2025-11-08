@@ -29365,5 +29365,14 @@
     "subcircuito": "SIMON BOLIVAR 1",
     "id": "COMERCIAL-MARIAN-Z5-G-J-S",
     "nombre_punto": "COMERCIAL MARIAN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "ESTACADA",
+    "subcircuito": "ESTACADA 1",
+    "id": "MINI-EL-COMISARIATO-Z5-G-P-E",
+    "nombre_punto": "MINI EL COMISARIATO"
   }
 ]
