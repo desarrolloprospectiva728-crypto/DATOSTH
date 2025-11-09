@@ -29446,5 +29446,14 @@
     "subcircuito": "SANTIAGO DE MENDEZ 1",
     "id": "LOCAL-VERDURASMARIBEL-Z6-M-M-S",
     "nombre_punto": "LOCAL VERDURASMARIBEL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "SANTIAGO DE MENDEZ",
+    "subcircuito": "SANTIAGO DE MENDEZ 1",
+    "id": "LOCAL-VERDURAS-MARIBEL-Z6-M-M-S",
+    "nombre_punto": "LOCAL VERDURAS MARIBEL"
   }
 ]
