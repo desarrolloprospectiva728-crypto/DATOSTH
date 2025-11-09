@@ -29410,5 +29410,14 @@
     "subcircuito": "EL INGENIO 1",
     "id": "CAJERO-AUTOMÁTICO-DE-LA-COOPERATIVA-PADRE-JULIAN-LORENTE-Z7-L-E-E",
     "nombre_punto": "Cajero automático de la Cooperativa Padre Julian Lorente"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "PELILEO GRANDE",
+    "subcircuito": "PELILEO GRANDE 1",
+    "id": "PELILEO-GRANDE-Z3-T-P-P",
+    "nombre_punto": "Pelileo Grande"
   }
 ]
