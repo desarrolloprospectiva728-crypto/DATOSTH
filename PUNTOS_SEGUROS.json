@@ -29421,12 +29421,12 @@
     "nombre_punto": "Pelileo Grande"
   },
   {
-    "zona": "ZONA 3",
-    "subzona": "TUNGURAHUA",
-    "distrito": "PATATE",
-    "circuito": "PELILEO GRANDE",
-    "subcircuito": "PELILEO GRANDE 1",
-    "id": "PELILEO-GRANDE-Z3-T-P-P",
-    "nombre_punto": "Pelileo Grande"
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
