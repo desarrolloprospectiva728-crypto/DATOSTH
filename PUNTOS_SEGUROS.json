@@ -29500,5 +29500,14 @@
     "subcircuito": "LA FABRIL 2",
     "id": "MI-COMISARIATO-Z4-M-M-L",
     "nombre_punto": "Mi Comisariato"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 2",
+    "id": "PARQUE-LOS-ANGELES-Z4-M-M-L",
+    "nombre_punto": "Parque los Angeles"
   }
 ]
