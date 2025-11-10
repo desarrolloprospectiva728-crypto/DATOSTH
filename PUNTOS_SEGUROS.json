@@ -29473,5 +29473,14 @@
     "subcircuito": "IZAMBA 1",
     "id": "UNIDAD-EDUCATIVA-FISCOMISIONAL-TIRSO-DE-MOLINA-Z3-T-A-I",
     "nombre_punto": "UNIDAD EDUCATIVA FISCOMISIONAL TIRSO DE MOLINA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 1",
+    "id": "DESPENSA-LAS-LUPITA-Z4-M-M-L",
+    "nombre_punto": "Despensa Las lupita"
   }
 ]
