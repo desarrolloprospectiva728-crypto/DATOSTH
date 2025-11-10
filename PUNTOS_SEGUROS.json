@@ -29491,5 +29491,14 @@
     "subcircuito": "LA ARGELIA 1",
     "id": "BARRIO-LOS-GERANEOS-Z7-L-L-L",
     "nombre_punto": "BARRIO LOS GERANEOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 2",
+    "id": "MI-COMISARIATO-Z4-M-M-L",
+    "nombre_punto": "Mi Comisariato"
   }
 ]
