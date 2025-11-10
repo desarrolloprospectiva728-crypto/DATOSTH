@@ -29509,5 +29509,14 @@
     "subcircuito": "LA FABRIL 2",
     "id": "PARQUE-LOS-ANGELES-Z4-M-M-L",
     "nombre_punto": "Parque los Angeles"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "1309850483-Z4-M-M-L",
+    "nombre_punto": 1309850483
   }
 ]
