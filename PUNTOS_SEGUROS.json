@@ -28944,15 +28944,6 @@
     "nombre_punto": "DANIKCELL"
   },
   {
-    "zona": "ZONA 3",
-    "subzona": "TUNGURAHUA",
-    "distrito": "AMBATO SUR",
-    "circuito": "PICAIHUA",
-    "subcircuito": "PICAIHUA 2",
-    "id": "UNIVERSIDAD-UNI-Z3-T-A-P",
-    "nombre_punto": "UNIVERSIDAD UNIANDES"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
     "distrito": "BALZAR",
@@ -29440,20 +29431,47 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "MORONA SANTIAGO",
-    "distrito": "MENDEZ",
-    "circuito": "SANTIAGO DE MENDEZ",
-    "subcircuito": "SANTIAGO DE MENDEZ 1",
-    "id": "LOCAL-VERDURASMARIBEL-Z6-M-M-S",
-    "nombre_punto": "LOCAL VERDURASMARIBEL"
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "SAN BLAS",
+    "subcircuito": "SAN BLAS 1",
+    "id": "PLATICOS-DEL-AUTRO-Z6-A-C-S",
+    "nombre_punto": "Platicos del autro"
   },
   {
     "zona": "ZONA 6",
-    "subzona": "MORONA SANTIAGO",
-    "distrito": "MENDEZ",
-    "circuito": "SANTIAGO DE MENDEZ",
-    "subcircuito": "SANTIAGO DE MENDEZ 1",
-    "id": "LOCAL-VERDURAS-MARIBEL-Z6-M-M-S",
-    "nombre_punto": "LOCAL VERDURAS MARIBEL"
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "GIL RAMIREZ DAVALOS",
+    "subcircuito": "GIL RAMIREZ DAVALOS 1",
+    "id": "DISTRIMAX-Z6-A-C-G",
+    "nombre_punto": "Distrimax"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "VÍVERES-VIDA-NUEVA-Z3-C-S-S",
+    "nombre_punto": "VÍVERES VIDA NUEVA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "GIL RAMIREZ DAVALOS",
+    "subcircuito": "GIL RAMIREZ DAVALOS 1",
+    "id": "THE-PASSIONS-Z6-A-C-G",
+    "nombre_punto": "The passions"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "IZAMBA",
+    "subcircuito": "IZAMBA 1",
+    "id": "UNIDAD-EDUCATIVA-FISCOMISIONAL-TIRSO-DE-MOLINA-Z3-T-A-I",
+    "nombre_punto": "UNIDAD EDUCATIVA FISCOMISIONAL TIRSO DE MOLINA"
   }
 ]
