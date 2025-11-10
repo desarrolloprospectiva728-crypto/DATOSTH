@@ -29482,5 +29482,14 @@
     "subcircuito": "LA FABRIL 1",
     "id": "DESPENSA-LAS-LUPITA-Z4-M-M-L",
     "nombre_punto": "Despensa Las lupita"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "LOJA",
+    "circuito": "LA ARGELIA",
+    "subcircuito": "LA ARGELIA 1",
+    "id": "BARRIO-LOS-GERANEOS-Z7-L-L-L",
+    "nombre_punto": "BARRIO LOS GERANEOS"
   }
 ]
