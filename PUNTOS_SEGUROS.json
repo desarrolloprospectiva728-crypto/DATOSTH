@@ -29518,5 +29518,95 @@
     "subcircuito": "LEONIDAS PROAÑO 1",
     "id": "1309850483-Z4-M-M-L",
     "nombre_punto": 1309850483
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 2",
+    "id": "TERMINAL-TERRESTRE-BAHIA-Z4-M-S-B",
+    "nombre_punto": "TERMINAL TERRESTRE BAHIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 2",
+    "id": "TERMINAL-TERRESTRE-BAHIA-Z4-M-S-B",
+    "nombre_punto": "TERMINAL TERRESTRE BAHIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 2",
+    "id": "TERMINAL-TERRESTRE-BAHIA-Z4-M-S-B",
+    "nombre_punto": "TERMINAL TERRESTRE BAHIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "CENTRO-DE-SALUD-TIPO-C-Z1-E-R-P",
+    "nombre_punto": "CENTRO DE SALUD TIPO C"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "COLUMBE",
+    "subcircuito": "COLUMBE 1",
+    "id": "BARRIO-CENTRAL-DE-COLUMBE-Z3-C-C-C",
+    "nombre_punto": "Barrio Central de Columbe"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "CHIMBORAZO",
+    "distrito": "COLTA",
+    "circuito": "COLUMBE",
+    "subcircuito": "COLUMBE 1",
+    "id": "BARRIO-CENTRAL-DE-COLUMBE-Z3-C-C-C",
+    "nombre_punto": "Barrio Central de Columbe"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "CENTRO-DE-SALUD-TIPO-C-Z1-E-R-P",
+    "nombre_punto": "CENTRO DE SALUD TIPO C"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "CENTRO-DE-SALUD-TIPO-C-Z1-E-R-P",
+    "nombre_punto": "CENTRO DE SALUD TIPO C"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "ORVE-HOGAR-Z5-L-V-B",
+    "nombre_punto": "ORVE HOGAR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 2",
+    "id": "TERMINAL-TERRESTRE-BAHIA-Z4-M-S-B",
+    "nombre_punto": "TERMINAL TERRESTRE BAHIA"
   }
 ]
