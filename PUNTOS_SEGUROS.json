@@ -29608,5 +29608,23 @@
     "subcircuito": "BAHIA 2",
     "id": "TERMINAL-TERRESTRE-BAHIA-Z4-M-S-B",
     "nombre_punto": "TERMINAL TERRESTRE BAHIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "LUMBAQUI",
+    "subcircuito": "LUMBAQUI 1",
+    "id": "TIENDA-MOLINA-Z1-S-S-L",
+    "nombre_punto": "TIENDA MOLINA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "LETAMENDI",
+    "subcircuito": "LETAMENDI 1",
+    "id": "MI-CASERITA-Z3-T-A-L",
+    "nombre_punto": "Mi caserita"
   }
 ]
