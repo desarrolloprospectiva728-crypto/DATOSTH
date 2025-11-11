@@ -29572,5 +29572,32 @@
     "subcircuito": "LETAMENDI 1",
     "id": "MI-CASERITA-Z3-T-A-L",
     "nombre_punto": "Mi caserita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "HOTEL-SUITE-COLON-Z5-L-V-A",
+    "nombre_punto": "HOTEL SUITE COLON"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "HOTEL-SUITE-COLON-Z5-L-V-A",
+    "nombre_punto": "HOTEL SUITE COLON"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 4",
+    "id": "PICANTERIA-LEVIS-Z4-M-P-E",
+    "nombre_punto": "PICANTERIA LEVIS"
   }
 ]
