@@ -29779,5 +29779,14 @@
     "subcircuito": "LA PRIMAVERA 1",
     "id": "AP-MOVIL-Z1-S-S-L",
     "nombre_punto": "AP MOVIL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL PORVENIR",
+    "subcircuito": "EL PORVENIR 1",
+    "id": "EL-PORVENIR-TIENDA-LA-FORTUNA-Z4-M-E-E",
+    "nombre_punto": "El porvenir tienda la fortuna"
   }
 ]
