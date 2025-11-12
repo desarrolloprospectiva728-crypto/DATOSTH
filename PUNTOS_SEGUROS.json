@@ -29583,15 +29583,6 @@
     "nombre_punto": "HOTEL SUITE COLON"
   },
   {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "AUGUSTO VALENCIA",
-    "subcircuito": "AUGUSTO VALENCIA 1",
-    "id": "HOTEL-SUITE-COLON-Z5-L-V-A",
-    "nombre_punto": "HOTEL SUITE COLON"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "PORTOVIEJO",
@@ -29632,35 +29623,134 @@
     "subzona": "SANTA ELENA",
     "distrito": "SANTA ELENA",
     "circuito": "SANTA ELENA CENTRO",
-    "subcircuito": "SANTA ELENA CENTRO 3",
-    "id": "MEGA-SHOOPING-A&A-Z5-S-S-S",
-    "nombre_punto": "MEGA SHOOPING A&A"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "SANTA ELENA",
-    "distrito": "SANTA ELENA",
-    "circuito": "SANTA ELENA CENTRO",
     "subcircuito": "SANTA ELENA CENTRO 4",
     "id": "ASADERO-DON-TITO-Z5-S-S-S",
     "nombre_punto": "ASADERO DON TITO"
   },
   {
-    "zona": "ZONA 5",
-    "subzona": "SANTA ELENA",
-    "distrito": "SANTA ELENA",
-    "circuito": "SANTA ELENA CENTRO",
-    "subcircuito": "SANTA ELENA CENTRO 4",
-    "id": "ASADERO-DON-TITO-Z5-S-S-S",
-    "nombre_punto": "ASADERO DON TITO"
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "OÑA",
+    "subcircuito": "OÑA 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-JARDÍN-AZUAYO-Z6-A-N-O",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CRÉDITO JARDÍN AZUAYO"
   },
   {
     "zona": "ZONA 5",
     "subzona": "SANTA ELENA",
     "distrito": "SANTA ELENA",
-    "circuito": "SANTA ELENA CENTRO",
-    "subcircuito": "SANTA ELENA CENTRO 4",
-    "id": "ASADERO-DON-TITO-Z5-S-S-S",
-    "nombre_punto": "ASADERO DON TITO"
+    "circuito": "MONTAÑITA",
+    "subcircuito": "MONTAÑITA 1",
+    "id": "TIENDA-MERRY-Z5-S-S-M",
+    "nombre_punto": "TIENDA MERRY"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "RESTAURANTE-DON-WILSON-Z6-A-C-T",
+    "nombre_punto": "RESTAURANTE DON WILSON"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "RESTAURANTE-DON-WILSON-Z6-A-C-T",
+    "nombre_punto": "RESTAURANTE DON WILSON"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "FERRETERÍA-ECONÓMICA-Z5-L-V-A",
+    "nombre_punto": "Ferretería Económica"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "DARI-FITNESS-Z5-L-V-V",
+    "nombre_punto": "Dari Fitness"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "RESTAURANTE-DON-WILSON-Z6-A-C-T",
+    "nombre_punto": "RESTAURANTE DON WILSON"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "FERRETERÍA-ECONÓMICA-Z5-L-V-A",
+    "nombre_punto": "Ferretería Económica"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "RESTAURANTE-DON-WILSON-Z6-A-C-T",
+    "nombre_punto": "RESTAURANTE DON WILSON"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "FERRETERÍA-ECONÓMICA-Z5-L-V-A",
+    "nombre_punto": "Ferretería Económica"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "COLIMES",
+    "subcircuito": "COLIMES 2",
+    "id": "MUNICIPIO-COLIMES-Z5-G-B-C",
+    "nombre_punto": "Municipio Colimes"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "GIRON",
+    "subcircuito": "GIRON 1",
+    "id": "COMERCIAL-LOS-WUAWUALES-Z6-A-G-G",
+    "nombre_punto": "Comercial los Wuawuales"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 2",
+    "id": "RESTAURANTE-MARITZA-Z2-P-N-P",
+    "nombre_punto": "Restaurante Maritza"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA ESPERANZA",
+    "subcircuito": "LA ESPERANZA 1",
+    "id": "0202525077-Z3-C-D-L",
+    "nombre_punto": 202525077
   }
 ]
