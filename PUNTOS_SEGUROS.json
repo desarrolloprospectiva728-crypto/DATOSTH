@@ -29599,5 +29599,68 @@
     "subcircuito": "EL FLORON 4",
     "id": "PICANTERIA-LEVIS-Z4-M-P-E",
     "nombre_punto": "PICANTERIA LEVIS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "VARIEDADES-MONTOYA-Z5-L-V-A",
+    "nombre_punto": "Variedades Montoya"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "LA LIBERTAD",
+    "subcircuito": "LA LIBERTAD 1",
+    "id": "HILLARY-RESORT-Z7-E-H-L",
+    "nombre_punto": "Hillary Resort"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "MEGA-SHOOPING-A&A-Z5-S-S-S",
+    "nombre_punto": "MEGA SHOOPING A&A"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "MEGA-SHOOPING-A&A-Z5-S-S-S",
+    "nombre_punto": "MEGA SHOOPING A&A"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 4",
+    "id": "ASADERO-DON-TITO-Z5-S-S-S",
+    "nombre_punto": "ASADERO DON TITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 4",
+    "id": "ASADERO-DON-TITO-Z5-S-S-S",
+    "nombre_punto": "ASADERO DON TITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 4",
+    "id": "ASADERO-DON-TITO-Z5-S-S-S",
+    "nombre_punto": "ASADERO DON TITO"
   }
 ]
