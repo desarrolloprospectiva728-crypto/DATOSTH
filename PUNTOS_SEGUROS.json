@@ -29752,5 +29752,14 @@
     "subcircuito": "LA ESPERANZA 1",
     "id": "0202525077-Z3-C-D-L",
     "nombre_punto": 202525077
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "HERMANO MIGUEL",
+    "subcircuito": "HERMANO MIGUEL 1",
+    "id": "FARMACIAS-ECONÓMICAS-Z6-A-C-H",
+    "nombre_punto": "FARMACIAS ECONÓMICAS"
   }
 ]
