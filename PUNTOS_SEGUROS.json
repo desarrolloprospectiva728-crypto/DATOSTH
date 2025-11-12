@@ -29752,5 +29752,14 @@
     "subcircuito": "CAMARONES 1",
     "id": "AGROAVICOLA-JOSUE-Z1-E-E-C",
     "nombre_punto": "AGROAVICOLA JOSUE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "OLON",
+    "subcircuito": "OLON 1",
+    "id": "LA-CHURRERIA-Z5-S-S-O",
+    "nombre_punto": "LA CHURRERIA"
   }
 ]
