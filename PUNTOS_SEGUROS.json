@@ -29761,5 +29761,23 @@
     "subcircuito": "HERMANO MIGUEL 1",
     "id": "FARMACIAS-ECONÓMICAS-Z6-A-C-H",
     "nombre_punto": "FARMACIAS ECONÓMICAS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "PUNTO-DE-LA-BELLEZA-Z1-E-S-F",
+    "nombre_punto": "PUNTO DE LA BELLEZA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "PUNTO-DE-LA-BELLEZA-Z1-E-S-F",
+    "nombre_punto": "PUNTO DE LA BELLEZA"
   }
 ]
