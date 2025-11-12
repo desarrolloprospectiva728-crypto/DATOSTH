@@ -29655,15 +29655,6 @@
     "nombre_punto": "RESTAURANTE DON WILSON"
   },
   {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "TERMINAL TERRESTRE",
-    "subcircuito": "TERMINAL TERRESTRE 1",
-    "id": "RESTAURANTE-DON-WILSON-Z6-A-C-T",
-    "nombre_punto": "RESTAURANTE DON WILSON"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "VINCES",
@@ -29680,42 +29671,6 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "DARI-FITNESS-Z5-L-V-V",
     "nombre_punto": "Dari Fitness"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "TERMINAL TERRESTRE",
-    "subcircuito": "TERMINAL TERRESTRE 1",
-    "id": "RESTAURANTE-DON-WILSON-Z6-A-C-T",
-    "nombre_punto": "RESTAURANTE DON WILSON"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "AUGUSTO VALENCIA",
-    "subcircuito": "AUGUSTO VALENCIA 1",
-    "id": "FERRETERÍA-ECONÓMICA-Z5-L-V-A",
-    "nombre_punto": "Ferretería Económica"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "TERMINAL TERRESTRE",
-    "subcircuito": "TERMINAL TERRESTRE 1",
-    "id": "RESTAURANTE-DON-WILSON-Z6-A-C-T",
-    "nombre_punto": "RESTAURANTE DON WILSON"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "AUGUSTO VALENCIA",
-    "subcircuito": "AUGUSTO VALENCIA 1",
-    "id": "FERRETERÍA-ECONÓMICA-Z5-L-V-A",
-    "nombre_punto": "Ferretería Económica"
   },
   {
     "zona": "ZONA 5",
@@ -29772,12 +29727,57 @@
     "nombre_punto": "PUNTO DE LA BELLEZA"
   },
   {
-    "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "SAN LORENZO",
-    "circuito": "FRONTERA",
-    "subcircuito": "FRONTERA 3",
-    "id": "PUNTO-DE-LA-BELLEZA-Z1-E-S-F",
-    "nombre_punto": "PUNTO DE LA BELLEZA"
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
