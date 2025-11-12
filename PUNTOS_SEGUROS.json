@@ -29725,5 +29725,32 @@
     "subcircuito": "FRONTERA 3",
     "id": "PUNTO-DE-LA-BELLEZA-Z1-E-S-F",
     "nombre_punto": "PUNTO DE LA BELLEZA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 3",
+    "id": "COOPERATIVA-MUSHUC-RUNA-Z5-S-L-L",
+    "nombre_punto": "Cooperativa Mushuc Runa"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "TIENDA-ARACELY-Z6-A-P-S",
+    "nombre_punto": "TIENDA ARACELY"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CAMARONES",
+    "subcircuito": "CAMARONES 1",
+    "id": "AGROAVICOLA-JOSUE-Z1-E-E-C",
+    "nombre_punto": "AGROAVICOLA JOSUE"
   }
 ]
