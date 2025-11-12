@@ -29761,5 +29761,23 @@
     "subcircuito": "OLON 1",
     "id": "LA-CHURRERIA-Z5-S-S-O",
     "nombre_punto": "LA CHURRERIA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "SUBCENTRO-DE-SALUD-PAUTE-Z6-A-P-P",
+    "nombre_punto": "SUBCENTRO DE SALUD PAUTE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LA PRIMAVERA",
+    "subcircuito": "LA PRIMAVERA 1",
+    "id": "AP-MOVIL-Z1-S-S-L",
+    "nombre_punto": "AP MOVIL"
   }
 ]
