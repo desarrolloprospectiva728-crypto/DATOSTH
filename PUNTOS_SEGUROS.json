@@ -29923,5 +29923,14 @@
     "subcircuito": "JIMA 1",
     "id": "COMERCIAL-GUARACA-Z6-A-S-J",
     "nombre_punto": "COMERCIAL GUARACA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 1",
+    "id": "COLEGIO-REPLICA-MANTA-Z4-M-M-M",
+    "nombre_punto": "Colegio Replica Manta"
   }
 ]
