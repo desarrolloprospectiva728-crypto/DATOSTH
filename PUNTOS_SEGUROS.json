@@ -29797,5 +29797,41 @@
     "subcircuito": "EL PORVENIR 1",
     "id": "EL-PORVENIR-FARMACIA-PINARGOTE-Z4-M-E-E",
     "nombre_punto": "El porvenir farmacia pinargote"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "COMISARIATO-ECONÓMICO-Z4-M-P-A",
+    "nombre_punto": "Comisariato Económico"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "MOTO-REPUESTOS-Z4-M-P-A",
+    "nombre_punto": "Moto Repuestos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "MULTISERVICIOS-AVE-COMPANY-Z4-M-P-A",
+    "nombre_punto": "Multiservicios Ave Company"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "MULTISERVICIOS-AVE-COMPANY-Z4-M-P-A",
+    "nombre_punto": "Multiservicios Ave Company"
   }
 ]
