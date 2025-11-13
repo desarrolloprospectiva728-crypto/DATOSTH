@@ -29905,5 +29905,14 @@
     "subcircuito": "MARIA AUXILIADORA 1",
     "id": "CENTRO-FORENSE-ZONA-4-MANTA-Z4-M-M-M",
     "nombre_punto": "Centro Forense Zona 4 Manta"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "COLIMES",
+    "subcircuito": "COLIMES 2",
+    "id": "FERRETERÍA-JOSELON-Z5-G-B-C",
+    "nombre_punto": "Ferretería Joselon"
   }
 ]
