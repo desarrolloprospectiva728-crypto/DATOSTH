@@ -29833,5 +29833,14 @@
     "subcircuito": "ATAHUALPA 1",
     "id": "MULTISERVICIOS-AVE-COMPANY-Z4-M-P-A",
     "nombre_punto": "Multiservicios Ave Company"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "PUYO SUR",
+    "subcircuito": "PUYO SUR 1",
+    "id": "CEMENTERIO-MUNICIPAL-Z3-P-P-P",
+    "nombre_punto": "Cementerio Municipal"
   }
 ]
