@@ -29842,5 +29842,14 @@
     "subcircuito": "PUYO SUR 1",
     "id": "CEMENTERIO-MUNICIPAL-Z3-P-P-P",
     "nombre_punto": "Cementerio Municipal"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO LOPEZ",
+    "subcircuito": "PUERTO LOPEZ 1",
+    "id": "GASOLINERA-PETROLRIOS-Z4-M-J-P",
+    "nombre_punto": "GASOLINERA PETROLRIOS"
   }
 ]
