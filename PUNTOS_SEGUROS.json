@@ -29941,5 +29941,14 @@
     "subcircuito": "EL FLORON 4",
     "id": "LICORERIA-3-TORRES-Z4-M-P-E",
     "nombre_punto": "LICORERIA 3 TORRES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "FERRETERÍA-M&T-Z2-P-N-L",
+    "nombre_punto": "FERRETERÍA M&T"
   }
 ]
