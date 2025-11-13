@@ -29932,5 +29932,14 @@
     "subcircuito": "MARIA AUXILIADORA 1",
     "id": "COLEGIO-REPLICA-MANTA-Z4-M-M-M",
     "nombre_punto": "Colegio Replica Manta"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 4",
+    "id": "LICORERIA-3-TORRES-Z4-M-P-E",
+    "nombre_punto": "LICORERIA 3 TORRES"
   }
 ]
