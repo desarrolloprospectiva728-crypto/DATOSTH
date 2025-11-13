@@ -29959,5 +29959,14 @@
     "subcircuito": "MALDONADO 1",
     "id": "COMERCIAL-ALEXANDER-Z2-P-N-M",
     "nombre_punto": "COMERCIAL ALEXANDER"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 1",
+    "id": "COMERCIAL-ALEXANDER-Z2-P-N-M",
+    "nombre_punto": "COMERCIAL ALEXANDER"
   }
 ]
