@@ -29851,5 +29851,14 @@
     "subcircuito": "PUERTO LOPEZ 1",
     "id": "GASOLINERA-PETROLRIOS-Z4-M-J-P",
     "nombre_punto": "GASOLINERA PETROLRIOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "COMERCIAL-DON-DERLY-Z4-M-P-A",
+    "nombre_punto": "Comercial Don Derly"
   }
 ]
