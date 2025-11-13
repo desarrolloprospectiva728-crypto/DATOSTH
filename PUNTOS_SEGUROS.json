@@ -29914,5 +29914,14 @@
     "subcircuito": "COLIMES 2",
     "id": "FERRETERÍA-JOSELON-Z5-G-B-C",
     "nombre_punto": "Ferretería Joselon"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "JIMA",
+    "subcircuito": "JIMA 1",
+    "id": "COMERCIAL-GUARACA-Z6-A-S-J",
+    "nombre_punto": "COMERCIAL GUARACA"
   }
 ]
