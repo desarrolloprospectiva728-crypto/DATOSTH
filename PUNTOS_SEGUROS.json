@@ -30148,5 +30148,32 @@
     "subcircuito": "PRIVILEGIO 1",
     "id": "BANCO-MACHALA-EL-GUABO-Z7-E-P-P",
     "nombre_punto": "Banco Machala El Guabo"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "ZARUMA",
+    "subcircuito": "ZARUMA 1",
+    "id": "BANCO-DE-MACHALA-Z7-E-Z-Z",
+    "nombre_punto": "Banco de machala"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "ZARUMA",
+    "subcircuito": "ZARUMA 1",
+    "id": "BANCO-DE-MACHALA-Z7-E-Z-Z",
+    "nombre_punto": "Banco de machala"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "ZARUMA",
+    "subcircuito": "ZARUMA 1",
+    "id": "BANCO-DE-MACHALA-Z7-E-Z-Z",
+    "nombre_punto": "Banco de machala"
   }
 ]
