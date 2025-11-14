@@ -29984,15 +29984,6 @@
     "distrito": "MANTA",
     "circuito": "LEONIDAS PROAÑO",
     "subcircuito": "LEONIDAS PROAÑO 1",
-    "id": "CENTRO-MEDICO-BRITALIS-Z4-M-M-L",
-    "nombre_punto": "Centro Medico Britalis"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "LEONIDAS PROAÑO",
-    "subcircuito": "LEONIDAS PROAÑO 1",
     "id": "CENTRO-MEDICO-BITALIS-Z4-M-M-L",
     "nombre_punto": "Centro Medico Bitalis"
   },
@@ -30002,15 +29993,6 @@
     "distrito": "MANTA",
     "circuito": "LEONIDAS PROAÑO",
     "subcircuito": "LEONIDAS PROAÑO 1",
-    "id": "CENTRO-MEDICO-BRITALIS-Z4-M-M-L",
-    "nombre_punto": "Centro Medico Britalis"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "LEONIDAS PROAÑO",
-    "subcircuito": "LEONIDAS PROAÑO 1",
     "id": "SUB-CENTRO-DE-SALUD-LEONIDAS-PROAÑO-Z4-M-M-L",
     "nombre_punto": "Sub centro de salud Leonidas Proaño"
   },
@@ -30024,21 +30006,75 @@
     "nombre_punto": "COMERCIAL ANGELITO"
   },
   {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 2",
+    "id": "CERES-FARMS-Z2-P-C-C",
+    "nombre_punto": "Ceres Farms"
+  },
+  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
-    "circuito": "LEONIDAS PROAÑO",
-    "subcircuito": "LEONIDAS PROAÑO 1",
-    "id": "SUB-CENTRO-DE-SALUD-LEONIDAS-PROAÑO-Z4-M-M-L",
-    "nombre_punto": "Sub centro de salud Leonidas Proaño"
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 3",
+    "id": "PIZZERIA-IL-FARO-Z4-M-M-U",
+    "nombre_punto": "PIZZERIA IL FARO"
   },
   {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "ANTONIO SOTOMAYOR",
-    "subcircuito": "ANTONIO SOTOMAYOR 1",
-    "id": "COMERCIAL-ANGELITO-Z5-L-V-A",
-    "nombre_punto": "COMERCIAL ANGELITO"
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 1",
+    "id": "LA-VIÑA-Z2-P-C-C",
+    "nombre_punto": "LA VIÑA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 1",
+    "id": "LA-VIÑA-Z2-P-C-C",
+    "nombre_punto": "LA VIÑA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "GASOLINERA-PRIMAXS-Z4-M-M-U",
+    "nombre_punto": "GASOLINERA PRIMAX VIA. SAN MATEO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "TIENDA-LA-ESQUINA-SANTA-ROSA-Z2-N-E-S",
+    "nombre_punto": "TIENDA LA ESQUINA SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "LAS PALMERAS",
+    "subcircuito": "LAS PALMERAS 2",
+    "id": "TECNICENTRO-GENERAL-Z1-S-L-L",
+    "nombre_punto": "Tecnicentro General"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "IGLESIA-CRISTIANA-PENTECOSTES-Z2-N-E-S",
+    "nombre_punto": "IGLESIA CRISTIANA  PENTECOSTES"
   }
 ]
