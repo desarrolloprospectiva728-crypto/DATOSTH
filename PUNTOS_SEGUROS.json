@@ -30202,5 +30202,14 @@
     "subcircuito": "BUENA FE ESTE 1",
     "id": "COOP.-DE-AHORRO-Y-CRÉDITO-FUTURO-LAMANENCE-Z5-L-B-B",
     "nombre_punto": "COOP. DE AHORRO Y CRÉDITO FUTURO LAMANENCE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "FARMACIA-DEL-DESCUENTO-LAS-PALMAS-Z4-M-M-L",
+    "nombre_punto": "FARMACIA DEL DESCUENTO-LAS PALMAS"
   }
 ]
