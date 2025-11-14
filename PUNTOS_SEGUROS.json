@@ -29959,5 +29959,14 @@
     "subcircuito": "LOS BAJOS 1",
     "id": "PANADERÍA-SUPER-PAN-Z4-M-M-L",
     "nombre_punto": "Panadería Super Pan"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS BAJOS",
+    "subcircuito": "LOS BAJOS 1",
+    "id": "GASOLINERA-P&S-LOS-BAJOS-Z4-M-M-L",
+    "nombre_punto": "GASOLINERA P&S LOS BAJOS"
   }
 ]
