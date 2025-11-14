@@ -29826,15 +29826,6 @@
     "nombre_punto": "Multiservicios Ave Company"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "PEDERNALES",
-    "circuito": "ATAHUALPA",
-    "subcircuito": "ATAHUALPA 1",
-    "id": "MULTISERVICIOS-AVE-COMPANY-Z4-M-P-A",
-    "nombre_punto": "Multiservicios Ave Company"
-  },
-  {
     "zona": "ZONA 3",
     "subzona": "PASTAZA",
     "distrito": "PASTAZA",
@@ -29871,24 +29862,6 @@
     "nombre_punto": "MASTER FORCE GYM"
   },
   {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "EL SAGRARIO",
-    "subcircuito": "EL SAGRARIO 1",
-    "id": "MASTER-FORCE-GYM-Z6-A-C-E",
-    "nombre_punto": "MASTER FORCE GYM"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "CUENCA NORTE",
-    "circuito": "EL SAGRARIO",
-    "subcircuito": "EL SAGRARIO 1",
-    "id": "MASTER-FORCE-GYM-Z6-A-C-E",
-    "nombre_punto": "MASTER FORCE GYM"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
     "distrito": "BALZAR",
@@ -29905,15 +29878,6 @@
     "subcircuito": "MARIA AUXILIADORA 1",
     "id": "CENTRO-FORENSE-ZONA-4-MANTA-Z4-M-M-M",
     "nombre_punto": "Centro Forense Zona 4 Manta"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "GUAYAS",
-    "distrito": "BALZAR",
-    "circuito": "COLIMES",
-    "subcircuito": "COLIMES 2",
-    "id": "FERRETERÍA-JOSELON-Z5-G-B-C",
-    "nombre_punto": "Ferretería Joselon"
   },
   {
     "zona": "ZONA 6",
@@ -29961,12 +29925,30 @@
     "nombre_punto": "COMERCIAL ALEXANDER"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "NOROCCIDENTE",
-    "circuito": "MALDONADO",
-    "subcircuito": "MALDONADO 1",
-    "id": "COMERCIAL-ALEXANDER-Z2-P-N-M",
-    "nombre_punto": "COMERCIAL ALEXANDER"
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "HOSPITAL-RODRIGUEZ-ZAMBRANO-Z4-M-M-U",
+    "nombre_punto": "HOSPITAL RODRIGUEZ ZAMBRANO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "PACHA",
+    "subcircuito": "PACHA 1",
+    "id": "COMERCIAL-KARELY-Z7-E-Z-P",
+    "nombre_punto": "COMERCIAL KARELY"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "PACHA",
+    "subcircuito": "PACHA 1",
+    "id": "COMERCIAL-KARELY-Z7-E-Z-P",
+    "nombre_punto": "COMERCIAL KARELY"
   }
 ]
