@@ -29968,5 +29968,41 @@
     "subcircuito": "LOS BAJOS 1",
     "id": "FARMACIA-SANTA-MARTHA,-BAJO-DE-LA-PALMA-Z4-M-M-L",
     "nombre_punto": "Farmacia Santa Martha, Bajo de la Palma"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "LAS NAVES",
+    "subcircuito": "LAS NAVES 1",
+    "id": "LIMITES-CON-QUINSALOMA-Z5-B-S-L",
+    "nombre_punto": "LIMITES CON QUINSALOMA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "CENTRO-MEDICO-BRITALIS-Z4-M-M-L",
+    "nombre_punto": "Centro Medico Britalis"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "CENTRO-MEDICO-BITALIS-Z4-M-M-L",
+    "nombre_punto": "Centro Medico Bitalis"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "CENTRO-MEDICO-BRITALIS-Z4-M-M-L",
+    "nombre_punto": "Centro Medico Britalis"
   }
 ]
