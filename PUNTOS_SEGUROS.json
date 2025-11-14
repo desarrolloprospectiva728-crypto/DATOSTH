@@ -29950,5 +29950,14 @@
     "subcircuito": "PACHA 1",
     "id": "COMERCIAL-KARELY-Z7-E-Z-P",
     "nombre_punto": "COMERCIAL KARELY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS BAJOS",
+    "subcircuito": "LOS BAJOS 1",
+    "id": "PANADERÍA-SUPER-PAN-Z4-M-M-L",
+    "nombre_punto": "Panadería Super Pan"
   }
 ]
