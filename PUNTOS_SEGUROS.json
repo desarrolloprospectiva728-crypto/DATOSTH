@@ -30004,5 +30004,41 @@
     "subcircuito": "LEONIDAS PROAÑO 1",
     "id": "CENTRO-MEDICO-BRITALIS-Z4-M-M-L",
     "nombre_punto": "Centro Medico Britalis"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "SUB-CENTRO-DE-SALUD-LEONIDAS-PROAÑO-Z4-M-M-L",
+    "nombre_punto": "Sub centro de salud Leonidas Proaño"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ANTONIO SOTOMAYOR",
+    "subcircuito": "ANTONIO SOTOMAYOR 1",
+    "id": "COMERCIAL-ANGELITO-Z5-L-V-A",
+    "nombre_punto": "COMERCIAL ANGELITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "SUB-CENTRO-DE-SALUD-LEONIDAS-PROAÑO-Z4-M-M-L",
+    "nombre_punto": "Sub centro de salud Leonidas Proaño"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "ANTONIO SOTOMAYOR",
+    "subcircuito": "ANTONIO SOTOMAYOR 1",
+    "id": "COMERCIAL-ANGELITO-Z5-L-V-A",
+    "nombre_punto": "COMERCIAL ANGELITO"
   }
 ]
