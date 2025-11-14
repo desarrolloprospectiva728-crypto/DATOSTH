@@ -29943,15 +29943,6 @@
     "nombre_punto": "COMERCIAL KARELY"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "ZARUMA",
-    "circuito": "PACHA",
-    "subcircuito": "PACHA 1",
-    "id": "COMERCIAL-KARELY-Z7-E-Z-P",
-    "nombre_punto": "COMERCIAL KARELY"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
@@ -29979,21 +29970,30 @@
     "nombre_punto": "Farmacia Santa Martha, Bajo de la Palma"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "LOS BAJOS",
-    "subcircuito": "LOS BAJOS 1",
-    "id": "FARMACIA-SANTA-MARTHA,-BAJO-DE-LA-PALMA-Z4-M-M-L",
-    "nombre_punto": "Farmacia Santa Martha, Bajo de la Palma"
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "LOS BAJOS",
-    "subcircuito": "LOS BAJOS 1",
-    "id": "FARMACIA-SANTA-MARTHA,-BAJO-DE-LA-PALMA-Z4-M-M-L",
-    "nombre_punto": "Farmacia Santa Martha, Bajo de la Palma"
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
