@@ -30076,5 +30076,23 @@
     "subcircuito": "SANTA ROSA 1",
     "id": "IGLESIA-CRISTIANA-PENTECOSTES-Z2-N-E-S",
     "nombre_punto": "IGLESIA CRISTIANA  PENTECOSTES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "MARCELINO MARIDUEÑA",
+    "subcircuito": "MARCELINO MARIDUEÑA 2",
+    "id": "UNIDAD-EDUCATIVA-MARCELINO-MARIDUEÑA-Z5-G-N-M",
+    "nombre_punto": "Unidad Educativa Marcelino Maridueña"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "IGLESIA-CRISTIANA-PENTECOSTES-Z2-N-E-S",
+    "nombre_punto": "IGLESIA CRISTIANA  PENTECOSTES"
   }
 ]
