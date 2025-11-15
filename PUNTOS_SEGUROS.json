@@ -30033,15 +30033,6 @@
     "nombre_punto": "LA VIÑA"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "CAYAMBE",
-    "circuito": "CAYAMBE NORTE",
-    "subcircuito": "CAYAMBE NORTE 1",
-    "id": "LA-VIÑA-Z2-P-C-C",
-    "nombre_punto": "LA VIÑA"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
@@ -30087,51 +30078,6 @@
     "nombre_punto": "Unidad Educativa Marcelino Maridueña"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "NAPO",
-    "distrito": "EL VALLE DE QUIJOS",
-    "circuito": "SANTA ROSA",
-    "subcircuito": "SANTA ROSA 1",
-    "id": "IGLESIA-CRISTIANA-PENTECOSTES-Z2-N-E-S",
-    "nombre_punto": "IGLESIA CRISTIANA  PENTECOSTES"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "GUAYAS",
-    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
-    "circuito": "MARCELINO MARIDUEÑA",
-    "subcircuito": "MARCELINO MARIDUEÑA 2",
-    "id": "UNIDAD-EDUCATIVA-MARCELINO-MARIDUEÑA-Z5-G-N-M",
-    "nombre_punto": "Unidad Educativa Marcelino Maridueña"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "GUAYAS",
-    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
-    "circuito": "MARCELINO MARIDUEÑA",
-    "subcircuito": "MARCELINO MARIDUEÑA 2",
-    "id": "UNIDAD-EDUCATIVA-MARCELINO-MARIDUEÑA-Z5-G-N-M",
-    "nombre_punto": "Unidad Educativa Marcelino Maridueña"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "ZAPOTILLO",
-    "circuito": "ZAPOTILLO",
-    "subcircuito": "ZAPOTILLO 1",
-    "id": "FARMASUR-Z7-L-Z-Z",
-    "nombre_punto": "Farmasur"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "LOJA",
-    "distrito": "ZAPOTILLO",
-    "circuito": "ZAPOTILLO",
-    "subcircuito": "ZAPOTILLO 1",
-    "id": "FARMASUR-Z7-L-Z-Z",
-    "nombre_punto": "Farmasur"
-  },
-  {
     "zona": "ZONA 7",
     "subzona": "LOJA",
     "distrito": "ZAPOTILLO",
@@ -30159,42 +30105,6 @@
     "nombre_punto": "Banco de machala"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "ZARUMA",
-    "circuito": "ZARUMA",
-    "subcircuito": "ZARUMA 1",
-    "id": "BANCO-DE-MACHALA-Z7-E-Z-Z",
-    "nombre_punto": "Banco de machala"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "ZARUMA",
-    "circuito": "ZARUMA",
-    "subcircuito": "ZARUMA 1",
-    "id": "BANCO-DE-MACHALA-Z7-E-Z-Z",
-    "nombre_punto": "Banco de machala"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE ESTE",
-    "subcircuito": "BUENA FE ESTE 1",
-    "id": "COOP.-DE-AHORRO-Y-CRÉDITO-FUTURO-LAMANENCE-Z5-L-B-B",
-    "nombre_punto": "COOP. DE AHORRO Y CRÉDITO FUTURO LAMANENCE"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BUENA FE",
-    "circuito": "BUENA FE ESTE",
-    "subcircuito": "BUENA FE ESTE 1",
-    "id": "COOP.-DE-AHORRO-Y-CRÉDITO-FUTURO-LAMANENCE-Z5-L-B-B",
-    "nombre_punto": "COOP. DE AHORRO Y CRÉDITO FUTURO LAMANENCE"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "BUENA FE",
@@ -30211,5 +30121,59 @@
     "subcircuito": "LA SEQUITA 1",
     "id": "FARMACIA-DEL-DESCUENTO-LAS-PALMAS-Z4-M-M-L",
     "nombre_punto": "FARMACIA DEL DESCUENTO-LAS PALMAS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SARAGURO",
+    "circuito": "SARAGURO",
+    "subcircuito": "SARAGURO 1",
+    "id": "LUIS-FERNANDO-ORDÓÑEZ-Y-HONORATO-LASSO-PLAZA-SUR-Z7-L-S-S",
+    "nombre_punto": "Luis Fernando Ordóñez y Honorato Lasso PLAZA SUR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SARAGURO",
+    "circuito": "SARAGURO",
+    "subcircuito": "SARAGURO 1",
+    "id": "HONORATO-LASSO-Y-PASAJE-Z7-L-S-S",
+    "nombre_punto": "Honorato Lasso y Pasaje"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 1",
+    "id": "HIELO-DANSA-Z7-E-S-S",
+    "nombre_punto": "HIELO DANSA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 1",
+    "id": "FABRICA-DE-HIELO-DANSA-Z7-E-S-S",
+    "nombre_punto": "FABRICA DE HIELO DANSA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 1",
+    "id": "GASOLINERA-ARTESANAL-ROCAFUERTE-Z1-E-R-M",
+    "nombre_punto": "GASOLINERA ARTESANAL ROCAFUERTE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "NOVI-COMPU-Z5-G-P-P",
+    "nombre_punto": "Novi Compu"
   }
 ]
