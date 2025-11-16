@@ -30211,5 +30211,14 @@
     "subcircuito": "LAS PALMERAS 1",
     "id": "MUNICIPIO-DEL-CANTON-SANTA-ROSA-Z7-E-S-L",
     "nombre_punto": "MUNICIPIO DEL CANTON SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "BANCO-DE-BARRIO-GUAYAQUIL-Z4-M-M-L",
+    "nombre_punto": "Banco de barrio Guayaquil"
   }
 ]
