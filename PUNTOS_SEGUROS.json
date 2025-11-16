@@ -30220,5 +30220,14 @@
     "subcircuito": "LEONIDAS PROAÑO 1",
     "id": "BANCO-DE-BARRIO-GUAYAQUIL-Z4-M-M-L",
     "nombre_punto": "Banco de barrio Guayaquil"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "CARNISARIATO-EL-CHONERO-Z4-M-M-L",
+    "nombre_punto": "Carnisariato el chonero"
   }
 ]
