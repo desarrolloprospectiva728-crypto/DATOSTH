@@ -30195,24 +30195,6 @@
     "nombre_punto": "MUNICIPIO DEL CANTON SANTA ROSA"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "LAS PALMERAS",
-    "subcircuito": "LAS PALMERAS 1",
-    "id": "MUNICIPIO-DEL-CANTON-SANTA-ROSA-Z7-E-S-L",
-    "nombre_punto": "MUNICIPIO DEL CANTON SANTA ROSA"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "SANTA ROSA",
-    "circuito": "LAS PALMERAS",
-    "subcircuito": "LAS PALMERAS 1",
-    "id": "MUNICIPIO-DEL-CANTON-SANTA-ROSA-Z7-E-S-L",
-    "nombre_punto": "MUNICIPIO DEL CANTON SANTA ROSA"
-  },
-  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
@@ -30256,5 +30238,104 @@
     "subcircuito": "EL VERGEL SUR 1",
     "id": "PIQUEOS-7-HERMANOS-Z5-L-B-E",
     "nombre_punto": "PIQUEOS 7 HERMANOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 1",
+    "id": "SUPER-OFERTA-Z4-M-M-C",
+    "nombre_punto": "SUPER OFERTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 1",
+    "id": "GYM-POWER-HOUSE-Z4-M-M-C",
+    "nombre_punto": "GYM POWER HOUSE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 1",
+    "id": "CHIFA-JACINTO-Z4-M-M-C",
+    "nombre_punto": "CHIFA JACINTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PILA",
+    "subcircuito": "LA PILA 1",
+    "id": "GENETSA-LA-PILA-Z4-M-M-L",
+    "nombre_punto": "GENETSA LA PILA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PILA",
+    "subcircuito": "LA PILA 1",
+    "id": "GENETSA-LA-PILA-Z4-M-M-L",
+    "nombre_punto": "GENETSA LA PILA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 2",
+    "id": "GYMNASIO-SHARK-Z4-M-M-J",
+    "nombre_punto": "GYMNASIO SHARK"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 2",
+    "id": "PARRILLADAS-D'YANDRY-Z4-M-M-J",
+    "nombre_punto": "PARRILLADAS D'YANDRY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "CUTUGLAGUA",
+    "subcircuito": "CUTUGLAGUA 1",
+    "id": "SAN-ANDRES-Z2-P-R-C",
+    "nombre_punto": "San Andres"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "CUTUGLAGUA",
+    "subcircuito": "CUTUGLAGUA 1",
+    "id": "SAN-ANDRES-Z2-P-R-C",
+    "nombre_punto": "San Andres"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "CUTUGLAGUA",
+    "subcircuito": "CUTUGLAGUA 1",
+    "id": "SAN-ANDRES-Z2-P-R-C",
+    "nombre_punto": "San Andres"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PILA",
+    "subcircuito": "LA PILA 1",
+    "id": "DISPENSARIO-MEDICO-IESS-Z4-M-M-L",
+    "nombre_punto": "DISPENSARIO MEDICO IESS"
   }
 ]
