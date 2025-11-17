@@ -30679,5 +30679,59 @@
     "subcircuito": "LA MERCED 1",
     "id": "LOCAL-KIK-Z5-L-Q-L",
     "nombre_punto": "Local KIK"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 1",
+    "id": "LOS-PERICOS-Z4-M-E-S",
+    "nombre_punto": "Los Pericos"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "CARISIMA-Z6-A-G-G",
+    "nombre_punto": "Carisima"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 2",
+    "id": "MERCADO-Z1-I-T-C",
+    "nombre_punto": "Mercado"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "TIENDA-K-SI-TODO-PEPA-DE-USO-Z4-M-M-L",
+    "nombre_punto": "TIENDA K-SI TODO-PEPA DE USO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "MUISNE",
+    "subcircuito": "MUISNE 1",
+    "id": "BANCO-DEL-FOMENTO-Z1-E-A-M",
+    "nombre_punto": "BANCO DEL FOMENTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "TIENDA-K-SI-TODO-PEPA-DE-USO-Z4-M-M-L",
+    "nombre_punto": "TIENDA K-SI TODO-PEPA DE USO"
   }
 ]
