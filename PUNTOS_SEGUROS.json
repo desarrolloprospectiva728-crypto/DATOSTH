@@ -30643,5 +30643,23 @@
     "subcircuito": "LA MERCED 2",
     "id": "LOCAL-KIK-Z5-L-Q-L",
     "nombre_punto": "Local KIK"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "LOCAL-KIK-Z5-L-Q-L",
+    "nombre_punto": "Local KIK"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "LOCAL-KIK-Z5-L-Q-L",
+    "nombre_punto": "Local KIK"
   }
 ]
