@@ -30607,5 +30607,14 @@
     "subcircuito": "CENTRO 2",
     "id": "PERFUMERÍA-LOS-PAISAS-LA-MAYORISTA-Z4-M-M-C",
     "nombre_punto": "Perfumería los paisas la mayorista"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "ALMACÉN-DE-BICICLETAS-BIKE-Z4-M-M-C",
+    "nombre_punto": "Almacén de bicicletas bike"
   }
 ]
