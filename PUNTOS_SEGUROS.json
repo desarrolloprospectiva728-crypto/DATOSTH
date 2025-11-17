@@ -30382,5 +30382,221 @@
     "subcircuito": "TARQUI 2",
     "id": "LA-ESQUINA-DEL-PINGÜINO-Z4-M-M-T",
     "nombre_punto": "LA ESQUINA DEL PINGÜINO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "ZAMORA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "COMERCIAL-SAN-ANTONIO-Z7-Z-Z-C",
+    "nombre_punto": "COMERCIAL SAN ANTONIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 1",
+    "id": "TUTI-JARAMIJO-Z4-M-M-J",
+    "nombre_punto": "TUTI JARAMIJO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 2",
+    "id": "LAVADORA-Y-LUBRICADORA-GG-Z4-M-M-M",
+    "nombre_punto": "LAVADORA Y LUBRICADORA GG"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "TIENDA-ZULEYKA-Z4-M-M-S",
+    "nombre_punto": "Tienda Zuleyka"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 2",
+    "id": "UNIDAD-EDUCATIVA-JORGE-WASHIGTON-Z4-M-M-M",
+    "nombre_punto": "UNIDAD EDUCATIVA JORGE WASHIGTON"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "FOTO-ESTUDIO-LUX-Z4-M-M-C",
+    "nombre_punto": "Foto Estudio Lux"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 3",
+    "id": "DEPOSITO-LAS-NENAS-Z4-M-M-M",
+    "nombre_punto": "DEPOSITO LAS NENAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 1",
+    "id": "MI-MARKET-XPRES-CUMBRES-Z4-M-M-M",
+    "nombre_punto": "MI MARKET XPRES CUMBRES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "FARMACIA-KELLY-Z4-M-M-S",
+    "nombre_punto": "Farmacia Kelly"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "FOTO-ESTUDIO-LUX-Z4-M-M-C",
+    "nombre_punto": "Foto Estudio Lux"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 3",
+    "id": "DEPOSITO-LAS-NENAS-Z4-M-M-M",
+    "nombre_punto": "Deposito las Nenas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "BABY-VICTORIA-Z4-M-M-C",
+    "nombre_punto": "Baby victoria"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 2",
+    "id": "FERRETERIA-CONELSA-Z4-M-M-C",
+    "nombre_punto": "FERRETERIA CONELSA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 2",
+    "id": "FERRETERIA-CONELSA-Z4-M-M-C",
+    "nombre_punto": "FERRETERIA CONELSA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 2",
+    "id": "FERRETERIA-CONELSA-Z4-M-M-C",
+    "nombre_punto": "FERRETERIA CONELSA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "BABY-VICTORIA-Z4-M-M-C",
+    "nombre_punto": "Baby victoria"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
+    "nombre_punto": "TIENDA SUPER TIENDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
+    "nombre_punto": "TIENDA SUPER TIENDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
+    "nombre_punto": "TIENDA SUPER TIENDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
+    "nombre_punto": "TIENDA SUPER TIENDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
+    "nombre_punto": "TIENDA SUPER TIENDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
+    "nombre_punto": "TIENDA SUPER TIENDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
+    "nombre_punto": "TIENDA SUPER TIENDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
+    "nombre_punto": "TIENDA SUPER TIENDA"
   }
 ]
