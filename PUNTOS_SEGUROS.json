@@ -30337,5 +30337,50 @@
     "subcircuito": "LA PILA 1",
     "id": "DISPENSARIO-MEDICO-IESS-Z4-M-M-L",
     "nombre_punto": "DISPENSARIO MEDICO IESS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "TIENDA-LAS-COLINAS-Z4-M-M-L",
+    "nombre_punto": "Tienda las colinas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "GASOLINERA-PETROECUADOR-Z4-M-M-S",
+    "nombre_punto": "Gasolinera Petroecuador"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "CUTUGLAGUA",
+    "subcircuito": "CUTUGLAGUA 1",
+    "id": "SAN-ANDRES-Z2-P-R-C",
+    "nombre_punto": "San Andres"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "TUTI-Z4-M-M-S",
+    "nombre_punto": "TUTi"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 2",
+    "id": "LA-ESQUINA-DEL-PINGÜINO-Z4-M-M-T",
+    "nombre_punto": "LA ESQUINA DEL PINGÜINO"
   }
 ]
