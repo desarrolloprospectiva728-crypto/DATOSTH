@@ -30598,5 +30598,14 @@
     "subcircuito": "CUBA 3",
     "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
     "nombre_punto": "TIENDA SUPER TIENDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "PERFUMERÍA-LOS-PAISAS-LA-MAYORISTA-Z4-M-M-C",
+    "nombre_punto": "Perfumería los paisas la mayorista"
   }
 ]
