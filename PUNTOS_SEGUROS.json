@@ -30616,5 +30616,41 @@
     "subcircuito": "RUMIÑAHUI 1",
     "id": "FABRICA-MATAMOROS-Z2-P-R-R",
     "nombre_punto": "FABRICA MATAMOROS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RUMIÑAHUI",
+    "subcircuito": "RUMIÑAHUI 1",
+    "id": "FABRICA-MATAMOROS-Z2-P-R-R",
+    "nombre_punto": "FABRICA MATAMOROS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "FERRETERÍA-MULTITABLEROS-&-HERRAJES-Z5-L-Q-D",
+    "nombre_punto": "FERRETERÍA MULTITABLEROS & HERRAJES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "MULTITABLEROS-&-HERRAJES-Z5-L-Q-D",
+    "nombre_punto": "MULTITABLEROS & HERRAJES"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "PARQUE ECOLOGICO",
+    "subcircuito": "PARQUE ECOLOGICO 1",
+    "id": "FARMACIAS-COMUNITARIAS-Z1-S-L-P",
+    "nombre_punto": "Farmacias comunitarias"
   }
 ]
