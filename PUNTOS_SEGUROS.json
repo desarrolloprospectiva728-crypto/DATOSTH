@@ -30679,5 +30679,23 @@
     "subcircuito": "MARIA AUXILIADORA 3",
     "id": "LOCAL-MIVA-Z4-M-M-M",
     "nombre_punto": "LOCAL MIVA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 3",
+    "id": "LOCAL-MIVA-Z4-M-M-M",
+    "nombre_punto": "LOCAL MIVA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 3",
+    "id": "LOCAL-MIVA-Z4-M-M-M",
+    "nombre_punto": "LOCAL MIVA"
   }
 ]
