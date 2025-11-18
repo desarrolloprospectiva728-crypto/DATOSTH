@@ -30279,15 +30279,6 @@
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
-    "circuito": "LA PILA",
-    "subcircuito": "LA PILA 1",
-    "id": "GENETSA-LA-PILA-Z4-M-M-L",
-    "nombre_punto": "GENETSA LA PILA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
     "circuito": "JARAMIJO",
     "subcircuito": "JARAMIJO 2",
     "id": "GYMNASIO-SHARK-Z4-M-M-J",
@@ -30301,24 +30292,6 @@
     "subcircuito": "JARAMIJO 2",
     "id": "PARRILLADAS-D'YANDRY-Z4-M-M-J",
     "nombre_punto": "PARRILLADAS D'YANDRY"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "CUTUGLAGUA",
-    "subcircuito": "CUTUGLAGUA 1",
-    "id": "SAN-ANDRES-Z2-P-R-C",
-    "nombre_punto": "San Andres"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "CUTUGLAGUA",
-    "subcircuito": "CUTUGLAGUA 1",
-    "id": "SAN-ANDRES-Z2-P-R-C",
-    "nombre_punto": "San Andres"
   },
   {
     "zona": "ZONA 2",
@@ -30355,15 +30328,6 @@
     "subcircuito": "SAN JUAN 1",
     "id": "GASOLINERA-PETROECUADOR-Z4-M-M-S",
     "nombre_punto": "Gasolinera Petroecuador"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "CUTUGLAGUA",
-    "subcircuito": "CUTUGLAGUA 1",
-    "id": "SAN-ANDRES-Z2-P-R-C",
-    "nombre_punto": "San Andres"
   },
   {
     "zona": "ZONA 4",
@@ -30470,24 +30434,6 @@
     "distrito": "MANTA",
     "circuito": "CENTRO",
     "subcircuito": "CENTRO 2",
-    "id": "FOTO-ESTUDIO-LUX-Z4-M-M-C",
-    "nombre_punto": "Foto Estudio Lux"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "MARIA AUXILIADORA",
-    "subcircuito": "MARIA AUXILIADORA 3",
-    "id": "DEPOSITO-LAS-NENAS-Z4-M-M-M",
-    "nombre_punto": "Deposito las Nenas"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CENTRO",
-    "subcircuito": "CENTRO 2",
     "id": "BABY-VICTORIA-Z4-M-M-C",
     "nombre_punto": "Baby victoria"
   },
@@ -30499,96 +30445,6 @@
     "subcircuito": "CUBA 2",
     "id": "FERRETERIA-CONELSA-Z4-M-M-C",
     "nombre_punto": "FERRETERIA CONELSA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CUBA",
-    "subcircuito": "CUBA 2",
-    "id": "FERRETERIA-CONELSA-Z4-M-M-C",
-    "nombre_punto": "FERRETERIA CONELSA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CUBA",
-    "subcircuito": "CUBA 2",
-    "id": "FERRETERIA-CONELSA-Z4-M-M-C",
-    "nombre_punto": "FERRETERIA CONELSA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CENTRO",
-    "subcircuito": "CENTRO 2",
-    "id": "BABY-VICTORIA-Z4-M-M-C",
-    "nombre_punto": "Baby victoria"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CUBA",
-    "subcircuito": "CUBA 3",
-    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
-    "nombre_punto": "TIENDA SUPER TIENDA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CUBA",
-    "subcircuito": "CUBA 3",
-    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
-    "nombre_punto": "TIENDA SUPER TIENDA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CUBA",
-    "subcircuito": "CUBA 3",
-    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
-    "nombre_punto": "TIENDA SUPER TIENDA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CUBA",
-    "subcircuito": "CUBA 3",
-    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
-    "nombre_punto": "TIENDA SUPER TIENDA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CUBA",
-    "subcircuito": "CUBA 3",
-    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
-    "nombre_punto": "TIENDA SUPER TIENDA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CUBA",
-    "subcircuito": "CUBA 3",
-    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
-    "nombre_punto": "TIENDA SUPER TIENDA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "CUBA",
-    "subcircuito": "CUBA 3",
-    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
-    "nombre_punto": "TIENDA SUPER TIENDA"
   },
   {
     "zona": "ZONA 4",
@@ -30623,62 +30479,8 @@
     "distrito": "QUEVEDO",
     "circuito": "LA MERCED",
     "subcircuito": "LA MERCED 1",
-    "id": "LOCAL-KIK-Z5-L-Q-L",
-    "nombre_punto": "Local KIK"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "LA MERCED",
-    "subcircuito": "LA MERCED 1",
-    "id": "LOCAL-KIK-Z5-L-Q-L",
-    "nombre_punto": "Local KIK"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "LA MERCED",
-    "subcircuito": "LA MERCED 2",
-    "id": "LOCAL-KIK-Z5-L-Q-L",
-    "nombre_punto": "Local KIK"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "LA MERCED",
-    "subcircuito": "LA MERCED 1",
-    "id": "LOCAL-KIK-Z5-L-Q-L",
-    "nombre_punto": "Local KIK"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "LA MERCED",
-    "subcircuito": "LA MERCED 1",
-    "id": "LOCAL-KIK-Z5-L-Q-L",
-    "nombre_punto": "Local KIK"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "LA MERCED",
-    "subcircuito": "LA MERCED 1",
     "id": "LOCAL-K&K-Z5-L-Q-L",
     "nombre_punto": "Local K&K"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "LA MERCED",
-    "subcircuito": "LA MERCED 1",
-    "id": "LOCAL-KIK-Z5-L-Q-L",
-    "nombre_punto": "Local KIK"
   },
   {
     "zona": "ZONA 4",
@@ -30726,66 +30528,84 @@
     "nombre_punto": "BANCO DEL FOMENTO"
   },
   {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "PATATE",
+    "circuito": "SALASACA",
+    "subcircuito": "SALASACA 1",
+    "id": "INGRESÓ-A-LA-PARROQUIA-EL-ROSARIO-Z3-T-P-S",
+    "nombre_punto": "Ingresó a la Parroquia El Rosario"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "ARENILLAS",
+    "subcircuito": "ARENILLAS 1",
+    "id": "BOUTIQUE-EL-GATO-Z7-E-H-A",
+    "nombre_punto": "Boutique el Gato"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "CATAMAYO SAN JOSE",
+    "subcircuito": "CATAMAYO SAN JOSE 1",
+    "id": "14-DE-ABRIL-SECTOR-LOS-TANQUES-Z7-L-C-C",
+    "nombre_punto": "14 de Abril  sector los Tanques"
+  },
+  {
     "zona": "ZONA 4",
     "subzona": "MANABI",
     "distrito": "MANTA",
-    "circuito": "LA SEQUITA",
-    "subcircuito": "LA SEQUITA 1",
-    "id": "TIENDA-K-SI-TODO-PEPA-DE-USO-Z4-M-M-L",
-    "nombre_punto": "TIENDA K-SI TODO-PEPA DE USO"
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "CEVICHERÍA-JUVENTUD-ITALIANA-Z4-M-M-C",
+    "nombre_punto": "Cevichería juventud italiana"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "ELECTRO-BRIONES-Z4-M-M-C",
+    "nombre_punto": "Electro Briones"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "COLECTIVA",
+    "subcircuito": "COLECTIVA 1",
+    "id": "UNIVERSIDAD-LUIS-VARGAS-TORRES-Z1-E-E-C",
+    "nombre_punto": "Universidad Luis Vargas Torres"
   },
   {
     "zona": "ZONA 3",
     "subzona": "TUNGURAHUA",
-    "distrito": "PATATE",
-    "circuito": "SALASACA",
-    "subcircuito": "SALASACA 1",
-    "id": "INGRESÓ-A-LA-PARROQUIA-EL-ROSARIO-Z3-T-P-S",
-    "nombre_punto": "Ingresó a la Parroquia El Rosario"
+    "distrito": "AMBATO SUR",
+    "circuito": "MIÑARICA",
+    "subcircuito": "MIÑARICA 1",
+    "id": "CIUDADELA-MIÑARICA-Z3-T-A-M",
+    "nombre_punto": "CIUDADELA MIÑARICA"
   },
   {
-    "zona": "ZONA 3",
-    "subzona": "TUNGURAHUA",
-    "distrito": "PATATE",
-    "circuito": "SALASACA",
-    "subcircuito": "SALASACA 1",
-    "id": "INGRESÓ-A-LA-PARROQUIA-EL-ROSARIO-Z3-T-P-S",
-    "nombre_punto": "Ingresó a la Parroquia El Rosario"
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "ROSA ZARATE",
+    "subcircuito": "ROSA ZARATE 1",
+    "id": "TIENDA-GUTIÉRREZ-Z1-E-Q-R",
+    "nombre_punto": "TIENDA GUTIÉRREZ"
   },
   {
-    "zona": "ZONA 3",
-    "subzona": "TUNGURAHUA",
-    "distrito": "PATATE",
-    "circuito": "SALASACA",
-    "subcircuito": "SALASACA 1",
-    "id": "INGRESÓ-A-LA-PARROQUIA-EL-ROSARIO-Z3-T-P-S",
-    "nombre_punto": "Ingresó a la Parroquia El Rosario"
-  },
-  {
-    "zona": "ZONA 3",
-    "subzona": "TUNGURAHUA",
-    "distrito": "PATATE",
-    "circuito": "SALASACA",
-    "subcircuito": "SALASACA 1",
-    "id": "INGRESÓ-A-LA-PARROQUIA-EL-ROSARIO-Z3-T-P-S",
-    "nombre_punto": "Ingresó a la Parroquia El Rosario"
-  },
-  {
-    "zona": "ZONA 3",
-    "subzona": "TUNGURAHUA",
-    "distrito": "PATATE",
-    "circuito": "SALASACA",
-    "subcircuito": "SALASACA 1",
-    "id": "INGRESÓ-A-LA-PARROQUIA-EL-ROSARIO-Z3-T-P-S",
-    "nombre_punto": "Ingresó a la Parroquia El Rosario"
-  },
-  {
-    "zona": "ZONA 3",
-    "subzona": "TUNGURAHUA",
-    "distrito": "PATATE",
-    "circuito": "SALASACA",
-    "subcircuito": "SALASACA 1",
-    "id": "INGRESÓ-A-LA-PARROQUIA-EL-ROSARIO-Z3-T-P-S",
-    "nombre_punto": "Ingresó a la Parroquia El Rosario"
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "ROSA ZARATE",
+    "subcircuito": "ROSA ZARATE 1",
+    "id": "TIENDA-GUTIÉRREZ-Z1-E-Q-R",
+    "nombre_punto": "TIENDA GUTIÉRREZ"
   }
 ]
