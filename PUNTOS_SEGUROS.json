@@ -30670,5 +30670,14 @@
     "subcircuito": "MARIA AUXILIADORA 2",
     "id": "TALLER-KZM-Z4-M-M-M",
     "nombre_punto": "TALLER  KZM"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 3",
+    "id": "LOCAL-MIVA-Z4-M-M-M",
+    "nombre_punto": "LOCAL MIVA"
   }
 ]
