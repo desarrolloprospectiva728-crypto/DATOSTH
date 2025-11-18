@@ -30652,5 +30652,14 @@
     "subcircuito": "PARQUE ECOLOGICO 1",
     "id": "FARMACIAS-COMUNITARIAS-Z1-S-L-P",
     "nombre_punto": "Farmacias comunitarias"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 2",
+    "id": "TALLER-KZM-Z4-M-M-M",
+    "nombre_punto": "TALLER  KZM"
   }
 ]
