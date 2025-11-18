@@ -30600,12 +30600,21 @@
     "nombre_punto": "TIENDA GUTIÉRREZ"
   },
   {
-    "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "QUININDE",
-    "circuito": "ROSA ZARATE",
-    "subcircuito": "ROSA ZARATE 1",
-    "id": "TIENDA-GUTIÉRREZ-Z1-E-Q-R",
-    "nombre_punto": "TIENDA GUTIÉRREZ"
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RUMIÑAHUI",
+    "subcircuito": "RUMIÑAHUI 1",
+    "id": "FÁBRICA-MATAMOROS-Z2-P-R-R",
+    "nombre_punto": "FÁBRICA MATAMOROS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RUMIÑAHUI",
+    "subcircuito": "RUMIÑAHUI 1",
+    "id": "FABRICA-MATAMOROS-Z2-P-R-R",
+    "nombre_punto": "FABRICA MATAMOROS"
   }
 ]
