@@ -30697,5 +30697,14 @@
     "subcircuito": "MARIA AUXILIADORA 3",
     "id": "LOCAL-MIVA-Z4-M-M-M",
     "nombre_punto": "LOCAL MIVA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "SAN FERNANDO",
+    "subcircuito": "SAN FERNANDO 1",
+    "id": "PARADA-DE-BUSES-SAN-FERNANDO-Z6-A-G-S",
+    "nombre_punto": "Parada de buses San Fernando"
   }
 ]
