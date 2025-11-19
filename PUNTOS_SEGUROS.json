@@ -30618,15 +30618,6 @@
     "nombre_punto": "FABRICA MATAMOROS"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RUMIÑAHUI",
-    "subcircuito": "RUMIÑAHUI 1",
-    "id": "FABRICA-MATAMOROS-Z2-P-R-R",
-    "nombre_punto": "FABRICA MATAMOROS"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "QUEVEDO",
@@ -30706,5 +30697,14 @@
     "subcircuito": "SAN FERNANDO 1",
     "id": "PARADA-DE-BUSES-SAN-FERNANDO-Z6-A-G-S",
     "nombre_punto": "Parada de buses San Fernando"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   }
 ]
