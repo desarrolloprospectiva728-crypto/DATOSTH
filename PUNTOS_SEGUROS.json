@@ -30661,5 +30661,14 @@
     "subcircuito": "SAN FERNANDO 1",
     "id": "PARADA-DE-BUSES-SAN-FERNANDO-Z6-A-G-S",
     "nombre_punto": "Parada de buses San Fernando"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 1",
+    "id": "COMERCIAL-MJ-Z4-M-M-L",
+    "nombre_punto": "Comercial MJ"
   }
 ]
