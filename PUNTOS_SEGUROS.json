@@ -30609,15 +30609,6 @@
     "nombre_punto": "FÁBRICA MATAMOROS"
   },
   {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RUMIÑAHUI",
-    "subcircuito": "RUMIÑAHUI 1",
-    "id": "FABRICA-MATAMOROS-Z2-P-R-R",
-    "nombre_punto": "FABRICA MATAMOROS"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "QUEVEDO",
@@ -30658,33 +30649,6 @@
     "subzona": "MANABI",
     "distrito": "MANTA",
     "circuito": "MARIA AUXILIADORA",
-    "subcircuito": "MARIA AUXILIADORA 2",
-    "id": "TALLER-KZM-Z4-M-M-M",
-    "nombre_punto": "TALLER  KZM"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "MARIA AUXILIADORA",
-    "subcircuito": "MARIA AUXILIADORA 3",
-    "id": "LOCAL-MIVA-Z4-M-M-M",
-    "nombre_punto": "LOCAL MIVA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "MARIA AUXILIADORA",
-    "subcircuito": "MARIA AUXILIADORA 3",
-    "id": "LOCAL-MIVA-Z4-M-M-M",
-    "nombre_punto": "LOCAL MIVA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "MARIA AUXILIADORA",
     "subcircuito": "MARIA AUXILIADORA 3",
     "id": "LOCAL-MIVA-Z4-M-M-M",
     "nombre_punto": "LOCAL MIVA"
@@ -30697,6 +30661,33 @@
     "subcircuito": "SAN FERNANDO 1",
     "id": "PARADA-DE-BUSES-SAN-FERNANDO-Z6-A-G-S",
     "nombre_punto": "Parada de buses San Fernando"
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
+  },
+  {
+    "zona": "",
+    "subzona": "",
+    "distrito": "",
+    "circuito": "",
+    "subcircuito": "",
+    "id": "",
+    "nombre_punto": ""
   },
   {
     "zona": "",
