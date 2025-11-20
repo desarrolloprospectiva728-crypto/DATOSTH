@@ -51199,5 +51199,14 @@
     "subcircuito": "EL SAGRARIO 1",
     "id": "BOGATI-Z6-A-C-E",
     "nombre_punto": "BOGATI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "AGROFUTURO-Z1-C-M-S",
+    "nombre_punto": "AGROFUTURO"
   }
 ]
