@@ -51208,5 +51208,50 @@
     "subcircuito": "SAN GABRIEL SUR 1",
     "id": "AGROFUTURO-Z1-C-M-S",
     "nombre_punto": "AGROFUTURO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "FARMACIA-CRUZ-AZUL-SANTA-ANA-Z4-M-M-C",
+    "nombre_punto": "FARMACIA CRUZ AZUL SANTA ANA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "DUG DUG",
+    "subcircuito": "DUG DUG 1",
+    "id": "SUBCENTRO-DE-SALUD-TOMEBAMBA-Z6-A-P-D",
+    "nombre_punto": "Subcentro de salud Tomebamba"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "DUG DUG",
+    "subcircuito": "DUG DUG 1",
+    "id": "SUBCENTRO-DE-SALUD-TOMEBAMBA-Z6-A-P-D",
+    "nombre_punto": "Subcentro de salud Tomebamba"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "DUG DUG",
+    "subcircuito": "DUG DUG 1",
+    "id": "SUBCENTRO-DE-SALUD-TOMEBAMBA-Z6-A-P-D",
+    "nombre_punto": "Subcentro de salud Tomebamba"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "DUG DUG",
+    "subcircuito": "DUG DUG 1",
+    "id": "SUBCENTRO-DE-SALUD-TOMEBAMBA-Z6-A-P-D",
+    "nombre_punto": "Subcentro de salud Tomebamba"
   }
 ]
