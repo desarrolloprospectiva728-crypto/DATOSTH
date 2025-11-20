@@ -51244,5 +51244,14 @@
     "subcircuito": "LA MERCED 1",
     "id": "CANGREJADA-EL-FLACO-Z5-L-Q-L",
     "nombre_punto": "Cangrejada el Flaco"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "LA FERROVIARIA",
+    "subcircuito": "LA FERROVIARIA 1",
+    "id": "ECUAFORTZS-S.A.-Z7-E-M-L",
+    "nombre_punto": "ECUAFORTZS S.A."
   }
 ]
