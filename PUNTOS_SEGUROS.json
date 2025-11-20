@@ -51253,5 +51253,14 @@
     "subcircuito": "LA FERROVIARIA 1",
     "id": "ECUAFORTZS-S.A.-Z7-E-M-L",
     "nombre_punto": "ECUAFORTZS S.A."
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "TODO-A-5-Z1-E-S-F",
+    "nombre_punto": "TODO A 5"
   }
 ]
