@@ -51228,33 +51228,6 @@
     "nombre_punto": "Subcentro de salud Tomebamba"
   },
   {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "PAUTE",
-    "circuito": "DUG DUG",
-    "subcircuito": "DUG DUG 1",
-    "id": "SUBCENTRO-DE-SALUD-TOMEBAMBA-Z6-A-P-D",
-    "nombre_punto": "Subcentro de salud Tomebamba"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "PAUTE",
-    "circuito": "DUG DUG",
-    "subcircuito": "DUG DUG 1",
-    "id": "SUBCENTRO-DE-SALUD-TOMEBAMBA-Z6-A-P-D",
-    "nombre_punto": "Subcentro de salud Tomebamba"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "PAUTE",
-    "circuito": "DUG DUG",
-    "subcircuito": "DUG DUG 1",
-    "id": "SUBCENTRO-DE-SALUD-TOMEBAMBA-Z6-A-P-D",
-    "nombre_punto": "Subcentro de salud Tomebamba"
-  },
-  {
     "zona": "ZONA 1",
     "subzona": "CARCHI",
     "distrito": "MONTUFAR",
@@ -51262,15 +51235,6 @@
     "subcircuito": "SAN GABRIEL SUR 1",
     "id": "AGRÍCOLA-EL-CAMPO-Z1-C-M-S",
     "nombre_punto": "AGRÍCOLA EL CAMPO"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
-    "circuito": "LA MERCED",
-    "subcircuito": "LA MERCED 1",
-    "id": "CANGREJADA-EL-FLACO-Z5-L-Q-L",
-    "nombre_punto": "Cangrejada el Flaco"
   },
   {
     "zona": "ZONA 5",
