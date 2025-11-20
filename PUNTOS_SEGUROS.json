@@ -31075,5 +31075,14 @@
     "subcircuito": "MARIA AUXILIADORA 2",
     "id": "LA-PATRONA-Z4-M-M-M",
     "nombre_punto": "La Patrona"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "CALDERON",
+    "circuito": "BELLLAVISTA DE CALDERON",
+    "subcircuito": "BELLAVISTA DE CALDERON 1",
+    "id": "PROGRAMA-Z9-D-C-B",
+    "nombre_punto": "programa"
   }
 ]
