@@ -51181,5 +51181,14 @@
     "subcircuito": "PROGRESO 1",
     "id": "DGSCOP-PRUEBA-NUEVA-VERSION-Z8-D-P-P",
     "nombre_punto": "DGSCOP PRUEBA NUEVA VERSION"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "EUGENIO ESPEJO",
+    "circuito": "IÑAQUITO",
+    "subcircuito": "IÑAQUITO 2",
+    "id": "COMANDANCIA-Z9-D-E-I",
+    "nombre_punto": "COMANDANCIA"
   }
 ]
