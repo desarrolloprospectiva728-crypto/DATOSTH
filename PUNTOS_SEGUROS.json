@@ -51190,5 +51190,14 @@
     "subcircuito": "IÑAQUITO 2",
     "id": "COMANDANCIA-Z9-D-E-I",
     "nombre_punto": "COMANDANCIA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "EL SAGRARIO",
+    "subcircuito": "EL SAGRARIO 1",
+    "id": "BOGATI-Z6-A-C-E",
+    "nombre_punto": "BOGATI"
   }
 ]
