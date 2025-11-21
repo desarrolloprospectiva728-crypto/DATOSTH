@@ -51298,5 +51298,23 @@
     "subcircuito": "CONCORDIA NORTE 3",
     "id": "NOTARÍA-ÚNICA-DEL-CANTON-LA-CONCORDIA-Z4-S-L-C",
     "nombre_punto": "Notaría Única del Canton la concordia"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA SUR",
+    "subcircuito": "CALCETA SUR 1",
+    "id": "COMERCIAL-SUPER-1-Z4-M-B-C",
+    "nombre_punto": "Comercial Super 1"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "LA ERCILIA",
+    "subcircuito": "LA ERCILIA 1",
+    "id": "MINIMARKET-LA-ERCILIA-Z5-L-V-L",
+    "nombre_punto": "MINIMARKET LA ERCILIA"
   }
 ]
