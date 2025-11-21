@@ -51343,5 +51343,23 @@
     "subcircuito": "SANTA ROSA OESTE 1",
     "id": "BEAUTY-STUDIO-ADRIANA-ROMAN-Z7-E-S-S",
     "nombre_punto": "BEAUTY STUDIO ADRIANA ROMAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "CHUCU-BURGUER-Z4-M-M-C",
+    "nombre_punto": "CHUCU BURGUER"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 1",
+    "id": "PASEO-SHOOPING-Z5-G-P-G",
+    "nombre_punto": "Paseo shooping"
   }
 ]
