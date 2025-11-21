@@ -51316,5 +51316,14 @@
     "subcircuito": "LA ERCILIA 1",
     "id": "MINIMARKET-LA-ERCILIA-Z5-L-V-L",
     "nombre_punto": "MINIMARKET LA ERCILIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA SUR",
+    "subcircuito": "CALCETA SUR 1",
+    "id": "SUPER-1-Z4-M-B-C",
+    "nombre_punto": "Super 1"
   }
 ]
