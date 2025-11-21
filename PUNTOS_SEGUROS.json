@@ -51271,5 +51271,14 @@
     "subcircuito": "TARAPOA 1",
     "id": "UNIDAD-EDUCATIVA-CUYABENO-BACHILLERATO-Z1-S-P-T",
     "nombre_punto": "Unidad educativa Cuyabeno Bachillerato"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 1",
+    "id": "LABORATORIO-SANTA-RITA-Z4-M-M-C",
+    "nombre_punto": "LABORATORIO SANTA RITA"
   }
 ]
