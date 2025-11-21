@@ -51262,5 +51262,14 @@
     "subcircuito": "FRONTERA 3",
     "id": "TODO-A-5-Z1-E-S-F",
     "nombre_punto": "TODO A 5"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "TARAPOA",
+    "subcircuito": "TARAPOA 1",
+    "id": "UNIDAD-EDUCATIVA-CUYABENO-BACHILLERATO-Z1-S-P-T",
+    "nombre_punto": "Unidad educativa Cuyabeno Bachillerato"
   }
 ]
