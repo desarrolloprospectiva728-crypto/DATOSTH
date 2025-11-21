@@ -51415,5 +51415,14 @@
     "subcircuito": "EL TRIUNFO ESTE 1",
     "id": "REVIENTO-SANTA-MARÍANITA-Z5-G-E-E",
     "nombre_punto": "Reviento Santa Maríanita"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "LA FERROVIARIA",
+    "subcircuito": "LA FERROVIARIA 1",
+    "id": "RAICES-DE-CAFE-Z7-E-M-L",
+    "nombre_punto": "RAICES DE CAFE"
   }
 ]
