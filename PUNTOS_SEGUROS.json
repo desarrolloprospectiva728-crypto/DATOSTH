@@ -51388,5 +51388,14 @@
     "subcircuito": "PALESTINA 1",
     "id": "RIOVERDE-Z1-E-R-P",
     "nombre_punto": "RIOVERDE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "GASOLINERA-PDV-ANCÓN-Z5-S-S-A",
+    "nombre_punto": "GASOLINERA PDV ANCÓN"
   }
 ]
