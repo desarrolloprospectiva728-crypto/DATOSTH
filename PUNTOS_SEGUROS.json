@@ -51325,5 +51325,14 @@
     "subcircuito": "CALCETA SUR 1",
     "id": "SUPER-1-Z4-M-B-C",
     "nombre_punto": "Super 1"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "LAS PRADERAS",
+    "subcircuito": "LAS PRADERAS 1",
+    "id": "SECTOR-DEL-MERCADO-SUR-Z7-E-P-L",
+    "nombre_punto": "SECTOR DEL MERCADO SUR"
   }
 ]
