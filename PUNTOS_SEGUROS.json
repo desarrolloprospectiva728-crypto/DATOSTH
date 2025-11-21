@@ -51406,5 +51406,14 @@
     "subcircuito": "COTACACHI 2",
     "id": "SUPER-TILAPIA-Z1-I-T-C",
     "nombre_punto": "Super Tilapia"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EL TRIUNFO BUCAY",
+    "circuito": "EL TRIUNFO ESTE",
+    "subcircuito": "EL TRIUNFO ESTE 1",
+    "id": "REVIENTO-SANTA-MARÍANITA-Z5-G-E-E",
+    "nombre_punto": "Reviento Santa Maríanita"
   }
 ]
