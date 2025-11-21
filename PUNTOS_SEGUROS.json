@@ -51361,5 +51361,14 @@
     "subcircuito": "GENERAL VILLAMIL 1",
     "id": "PASEO-SHOOPING-Z5-G-P-G",
     "nombre_punto": "Paseo shooping"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "MUNICIPIO-DEL-CANTÓN-RIOVERDE-Z1-E-R-P",
+    "nombre_punto": "MUNICIPIO DEL CANTÓN RIOVERDE"
   }
 ]
