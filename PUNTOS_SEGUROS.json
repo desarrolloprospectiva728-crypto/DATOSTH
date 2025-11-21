@@ -51334,5 +51334,14 @@
     "subcircuito": "LAS PRADERAS 1",
     "id": "SECTOR-DEL-MERCADO-SUR-Z7-E-P-L",
     "nombre_punto": "SECTOR DEL MERCADO SUR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA OESTE",
+    "subcircuito": "SANTA ROSA OESTE 1",
+    "id": "BEAUTY-STUDIO-ADRIANA-ROMAN-Z7-E-S-S",
+    "nombre_punto": "BEAUTY STUDIO ADRIANA ROMAN"
   }
 ]
