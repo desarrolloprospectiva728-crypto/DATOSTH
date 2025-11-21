@@ -51397,5 +51397,14 @@
     "subcircuito": "ATAHUALPA 1",
     "id": "GASOLINERA-PDV-ANCÓN-Z5-S-S-A",
     "nombre_punto": "GASOLINERA PDV ANCÓN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 2",
+    "id": "SUPER-TILAPIA-Z1-I-T-C",
+    "nombre_punto": "Super Tilapia"
   }
 ]
