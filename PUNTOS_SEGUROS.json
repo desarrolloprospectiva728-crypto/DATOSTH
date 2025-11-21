@@ -51280,5 +51280,14 @@
     "subcircuito": "CUBA 1",
     "id": "LABORATORIO-SANTA-RITA-Z4-M-M-C",
     "nombre_punto": "LABORATORIO SANTA RITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "NOTARÍA-ÚNICA-CANTÓN-LA-CONCORDIA-Z4-S-L-C",
+    "nombre_punto": "Notaría Única Cantón la Concordia"
   }
 ]
