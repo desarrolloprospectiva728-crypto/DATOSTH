@@ -51424,5 +51424,14 @@
     "subcircuito": "LIMONES 3",
     "id": "FARMACIA-AL-VITA-Z1-E-E-L",
     "nombre_punto": "FARMACIA AL VITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "VALENCIA",
+    "subcircuito": "VALENCIA 1",
+    "id": "COMERCIAL-CHISPERO-Z5-L-B-V",
+    "nombre_punto": "COMERCIAL CHISPERO"
   }
 ]
