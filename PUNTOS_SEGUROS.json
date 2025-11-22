@@ -51469,5 +51469,23 @@
     "subcircuito": "PEDRO CARBO 1",
     "id": "GIO-CELL-Z5-G-P-P",
     "nombre_punto": "GIO CELL"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "AMALUZA",
+    "subcircuito": "AMALUZA 1",
+    "id": "CANCHA-DE-USO-MULTIPLE-BARRIO-LA-PLAYA-Z7-L-E-A",
+    "nombre_punto": "CANCHA DE USO MULTIPLE BARRIO LA PLAYA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "EL-FRIGO-DE-MI-BARRIO-Z5-L-V-A",
+    "nombre_punto": "EL FRIGO DE MI BARRIO"
   }
 ]
