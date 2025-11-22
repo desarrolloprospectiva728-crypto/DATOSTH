@@ -51433,5 +51433,14 @@
     "subcircuito": "VALENCIA 1",
     "id": "COMERCIAL-CHISPERO-Z5-L-B-V",
     "nombre_punto": "COMERCIAL CHISPERO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 2",
+    "id": "DISENSA-EL-FERRETERO-Z1-S-S-S",
+    "nombre_punto": "DISENSA EL FERRETERO"
   }
 ]
