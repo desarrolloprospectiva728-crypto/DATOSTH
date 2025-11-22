@@ -51424,5 +51424,14 @@
     "subcircuito": "LA FERROVIARIA 1",
     "id": "RAICES-DE-CAFE-Z7-E-M-L",
     "nombre_punto": "RAICES DE CAFE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 3",
+    "id": "FARMACIA-AL-VITA-Z1-E-E-L",
+    "nombre_punto": "FARMACIA AL VITA"
   }
 ]
