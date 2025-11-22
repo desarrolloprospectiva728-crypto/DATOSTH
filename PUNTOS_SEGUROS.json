@@ -51487,5 +51487,14 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "EL-FRIGO-DE-MI-BARRIO-Z5-L-V-A",
     "nombre_punto": "EL FRIGO DE MI BARRIO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "FERRETERÍA-BUSTAMANTE-Z5-L-V-A",
+    "nombre_punto": "Ferretería Bustamante"
   }
 ]
