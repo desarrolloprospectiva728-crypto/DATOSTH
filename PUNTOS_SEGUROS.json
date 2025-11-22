@@ -51442,5 +51442,32 @@
     "subcircuito": "SHUSHUFINDI CENTRO 2",
     "id": "DISENSA-EL-FERRETERO-Z1-S-S-S",
     "nombre_punto": "DISENSA EL FERRETERO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "ESTACADA",
+    "subcircuito": "ESTACADA 1",
+    "id": "GIO-CELL-Z5-G-P-E",
+    "nombre_punto": "GIO CELL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "PEDRO CARBO",
+    "subcircuito": "PEDRO CARBO 1",
+    "id": "GIO-CELL-Z5-G-P-P",
+    "nombre_punto": "GIO CELL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "PEDRO CARBO",
+    "subcircuito": "PEDRO CARBO 1",
+    "id": "GIO-CELL-Z5-G-P-P",
+    "nombre_punto": "GIO CELL"
   }
 ]
