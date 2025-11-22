@@ -51453,24 +51453,6 @@
     "nombre_punto": "GIO CELL"
   },
   {
-    "zona": "ZONA 5",
-    "subzona": "GUAYAS",
-    "distrito": "PEDRO CARBO",
-    "circuito": "PEDRO CARBO",
-    "subcircuito": "PEDRO CARBO 1",
-    "id": "GIO-CELL-Z5-G-P-P",
-    "nombre_punto": "GIO CELL"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "GUAYAS",
-    "distrito": "PEDRO CARBO",
-    "circuito": "PEDRO CARBO",
-    "subcircuito": "PEDRO CARBO 1",
-    "id": "GIO-CELL-Z5-G-P-P",
-    "nombre_punto": "GIO CELL"
-  },
-  {
     "zona": "ZONA 7",
     "subzona": "LOJA",
     "distrito": "ESPINDOLA",
@@ -51514,23 +51496,5 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "FERRETERÍA-BUSTAMANTE-Z5-L-V-A",
     "nombre_punto": "Ferretería Bustamante"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VINCES",
-    "circuito": "AUGUSTO VALENCIA",
-    "subcircuito": "AUGUSTO VALENCIA 1",
-    "id": "FERRETERÍA-BUSTAMANTE-Z5-L-V-A",
-    "nombre_punto": "Ferretería Bustamante"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "ORELLANA LORETO",
-    "circuito": "COCA OCCIDENTE",
-    "subcircuito": "COCA OCCIDENTE 3",
-    "id": "PANADERÍA-LA-GRAN-TRIGALIA-Z2-O-O-C",
-    "nombre_punto": "Panadería la Gran Trigalia"
   }
 ]
