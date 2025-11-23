@@ -51487,5 +51487,23 @@
     "subcircuito": "COCA OCCIDENTE 3",
     "id": "PANADERÍA-GRAN-TRIGALIA-Z2-O-O-C",
     "nombre_punto": "Panadería Gran trigalia"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
+    "id": "POWER-STORE-Z2-P-C-C",
+    "nombre_punto": "POWER STORE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
+    "id": "FARMACIA-FIBECA-Z2-P-C-C",
+    "nombre_punto": "FARMACIA FIBECA"
   }
 ]
