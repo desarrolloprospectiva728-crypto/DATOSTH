@@ -51505,5 +51505,14 @@
     "subcircuito": "CAYAMBE SUR 1",
     "id": "FARMACIA-FIBECA-Z2-P-C-C",
     "nombre_punto": "FARMACIA FIBECA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "BOLICHE",
+    "subcircuito": "BOLICHE 1",
+    "id": "OVALCOHOL-Z5-G-Y-B",
+    "nombre_punto": "OVALCOHOL"
   }
 ]
