@@ -51514,5 +51514,14 @@
     "subcircuito": "BOLICHE 1",
     "id": "OVALCOHOL-Z5-G-Y-B",
     "nombre_punto": "OVALCOHOL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "COMIDA-COSTEÑA-AL-PASO-Z6-A-G-G",
+    "nombre_punto": "COMIDA COSTEÑA AL PASO"
   }
 ]
