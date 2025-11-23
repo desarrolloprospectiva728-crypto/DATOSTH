@@ -51523,5 +51523,14 @@
     "subcircuito": "GUALACEO 1",
     "id": "COMIDA-COSTEÑA-AL-PASO-Z6-A-G-G",
     "nombre_punto": "COMIDA COSTEÑA AL PASO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "CALUMA",
+    "subcircuito": "CALUMA 1",
+    "id": "SAN-PABLO-DE-PITA-FRENTE-AL-PARQUE-Z5-B-S-C",
+    "nombre_punto": "San Pablo de Pita Frente al Parque"
   }
 ]
