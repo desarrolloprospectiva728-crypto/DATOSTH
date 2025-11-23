@@ -51532,5 +51532,14 @@
     "subcircuito": "CALUMA 1",
     "id": "SAN-PABLO-DE-PITA-FRENTE-AL-PARQUE-Z5-B-S-C",
     "nombre_punto": "San Pablo de Pita Frente al Parque"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "SAN BLAS",
+    "subcircuito": "SAN BLAS 1",
+    "id": "5-D-SUPEROFERTAS-Z6-A-C-S",
+    "nombre_punto": "5 D SUPEROFERTAS"
   }
 ]
