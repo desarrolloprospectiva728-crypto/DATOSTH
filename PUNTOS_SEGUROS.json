@@ -51586,5 +51586,14 @@
     "subcircuito": "COCA OCCIDENTE 4",
     "id": "SUPER-AKI-Z2-O-O-C",
     "nombre_punto": "SUPER AKI"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "PASTAZA",
+    "distrito": "PASTAZA",
+    "circuito": "SHELL MERA",
+    "subcircuito": "SHELL MERA 2",
+    "id": "PANADERIA-Y-PASTELERIA-EL-BUEN-SABOR-Z3-P-P-S",
+    "nombre_punto": "PANADERIA Y PASTELERIA EL BUEN SABOR"
   }
 ]
