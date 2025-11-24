@@ -51541,5 +51541,50 @@
     "subcircuito": "SAN BLAS 1",
     "id": "5-D-SUPEROFERTAS-Z6-A-C-S",
     "nombre_punto": "5 D SUPEROFERTAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "SALITRE NORTE",
+    "subcircuito": "SALITRE NORTE 1",
+    "id": "FISCALÍA-Z5-G-S-S",
+    "nombre_punto": "FISCALÍA DE SALITRE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 1",
+    "id": "LUBRI-LAVADO-LAS-CUMBRES-Z4-M-M-M",
+    "nombre_punto": "LUBRI LAVADO LAS CUMBRES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 1",
+    "id": "LUBRI-LAVADO-LAS-CUMBRES-Z4-M-M-M",
+    "nombre_punto": "LUBRI LAVADO LAS CUMBRES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 1",
+    "id": "TUTI-LAS-CUMBRES-Z4-M-M-M",
+    "nombre_punto": "TUTI LAS CUMBRES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 4",
+    "id": "SUPER-AKI-Z2-O-O-C",
+    "nombre_punto": "SUPER AKI"
   }
 ]
