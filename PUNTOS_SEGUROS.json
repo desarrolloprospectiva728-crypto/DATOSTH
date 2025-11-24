@@ -51566,15 +51566,6 @@
     "distrito": "MANTA",
     "circuito": "MIRAFLORES",
     "subcircuito": "MIRAFLORES 1",
-    "id": "LUBRI-LAVADO-LAS-CUMBRES-Z4-M-M-M",
-    "nombre_punto": "LUBRI LAVADO LAS CUMBRES"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "MIRAFLORES",
-    "subcircuito": "MIRAFLORES 1",
     "id": "TUTI-LAS-CUMBRES-Z4-M-M-M",
     "nombre_punto": "TUTI LAS CUMBRES"
   },
