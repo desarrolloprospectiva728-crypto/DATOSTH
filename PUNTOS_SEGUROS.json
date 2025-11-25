@@ -51622,5 +51622,14 @@
     "subcircuito": "LAS PALMERAS 1",
     "id": "UTOPIA-RESTAURANTE-Z7-E-S-L",
     "nombre_punto": "UTOPIA RESTAURANTE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "CASA-DE-LOS-ABONOS-Z1-C-M-B",
+    "nombre_punto": "CASA DE LOS ABONOS"
   }
 ]
