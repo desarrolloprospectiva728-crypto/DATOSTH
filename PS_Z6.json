@@ -1,1 +1,2360 @@
-
+[
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 1",
+    "id": "PARQUE-CENTRAL-SAN-BARTOLOME-Z6-A-S-S",
+    "nombre_punto": "PARQUE CENTRAL SAN BARTOLOME"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "JIMA",
+    "subcircuito": "JIMA 1",
+    "id": "COOPERATIVA-MUSHUC-RUNA-Z6-A-S-J",
+    "nombre_punto": "COOPERATIVA MUSHUC RUNA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "SUCUA",
+    "subcircuito": "SUCUA 1",
+    "id": "PARQUE-CINCO-ESQUINAS-Z6-M-C-S",
+    "nombre_punto": "PARQUE CINCO ESQUINAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "SUCUA",
+    "subcircuito": "SUCUA 1",
+    "id": "TERMINAL-TERRESTRE-DEL-CANTÓN-SUCUA-Z6-M-C-S",
+    "nombre_punto": "TERMINAL TERRESTRE DEL CANTÓN SUCUA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "HUAMBOYA",
+    "subcircuito": "HUAMBOYA 1",
+    "id": "TIENDA-Z6-M-S-H",
+    "nombre_punto": "TIENDA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "PALORA",
+    "subcircuito": "PALORA 1",
+    "id": "DEYSI-BOUTIQUE-Z6-M-S-P",
+    "nombre_punto": "DEYSI BOUTIQUE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "SANTIAGO DE MENDEZ",
+    "subcircuito": "SANTIAGO DE MENDEZ 1",
+    "id": "MERCADO-Z6-M-M-S",
+    "nombre_punto": "MERCADO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "MACAS",
+    "subcircuito": "MACAS 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z6-M-M-M",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "PABLO SEXTO",
+    "subcircuito": "PABLO SEXTO 1",
+    "id": "MINIMARKET-FAMILY-Z6-M-S-P",
+    "nombre_punto": "MINIMARKET FAMILY"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "MACAS",
+    "subcircuito": "MACAS 1",
+    "id": "ALAMCEN-Z6-M-M-M",
+    "nombre_punto": "ALAMCEN"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "PABLO SEXTO",
+    "subcircuito": "PABLO SEXTO 1",
+    "id": "COMERCIAL-GUNCHITO-Z6-M-S-P",
+    "nombre_punto": "COMERCIAL GUNCHITO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "PALORA",
+    "subcircuito": "PALORA 1",
+    "id": "LA-TIENDO-DEL-BARRIO-Z6-M-S-P",
+    "nombre_punto": "LA TIENDO DEL BARRIO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "SANTIAGO DE MENDEZ",
+    "subcircuito": "SANTIAGO DE MENDEZ 1",
+    "id": "TIENDA-GISSELA-BELLA-UNION-Z6-M-M-S",
+    "nombre_punto": "TIENDA GISSELA BELLA UNION"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "HUAMBOYA",
+    "subcircuito": "HUAMBOYA 1",
+    "id": "ABARROTES-PATIÑO-Z6-M-S-H",
+    "nombre_punto": "ABARROTES PATIÑO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "HUAMBOYA",
+    "subcircuito": "HUAMBOYA 1",
+    "id": "FARMACIA-EL-DESCUENTO-Z6-M-S-H",
+    "nombre_punto": "FARMACIA EL DESCUENTO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
+    "id": "MERCADO-CENTRAL-25-DE-JULIO-CAÑAR-Z6-C-C-C",
+    "nombre_punto": "MERCADO CENTRAL 25 DE JULIO CAÑAR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
+    "id": "PARQUE-CENTRAL-DEL-CANTON-CAÑAR-Z6-C-C-C",
+    "nombre_punto": "PARQUE CENTRAL DEL CANTON CAÑAR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
+    "id": "TERMINAL-TERRESTRE-CAÑAR-Z6-C-C-C",
+    "nombre_punto": "TERMINAL TERRESTRE CAÑAR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "SANGAY CENTRO",
+    "subcircuito": "SANGAY CENTRO 1",
+    "id": "COMERCIAL-SISA-Z6-M-S-S",
+    "nombre_punto": "COMERCIAL SISA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "SANGAY CENTRO",
+    "subcircuito": "SANGAY CENTRO 1",
+    "id": "BRIS-DAY-Z6-M-S-S",
+    "nombre_punto": "BRIS DAY"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR-MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "JS-MOBILE-STORE-Z6-M-S-G",
+    "nombre_punto": "JS MOBILE STORE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR-MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "TERMINAL-TERRESTRE-GUALAQUIZA-Z6-M-S-G",
+    "nombre_punto": "TERMINAL TERRESTRE GUALAQUIZA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR-MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "PARQUE-CENTRAL-GUALQUIZA-Z6-M-S-G",
+    "nombre_punto": "PARQUE CENTRAL GUALQUIZA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR-MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "LA-CANGREJADA-GUALAQUIZA-Z6-M-S-G",
+    "nombre_punto": "LA CANGREJADA GUALAQUIZA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR-MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "GASOLINERA-PETROECUADOR-Z6-M-S-G",
+    "nombre_punto": "GASOLINERA PETROECUADOR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "SMILE-DENTAL-Z6-A-G-G",
+    "nombre_punto": "SMILE DENTAL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "OÑA",
+    "subcircuito": "OÑA 1",
+    "id": "TIENDA-DE-ABARROTES-DON-MÁXIMO-Z6-A-N-O",
+    "nombre_punto": "TIENDA DE ABARROTES DON MÁXIMO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "FERRETERÍA-DISENSA-Z6-A-P-S",
+    "nombre_punto": "FERRETERÍA DISENSA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "PARQUE-CENTRAL-Z6-A-P-P",
+    "nombre_punto": "PARQUE CENTRAL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "PABLO SEXTO",
+    "subcircuito": "PABLO SEXTO 1",
+    "id": "PARQUE-CENTRAL-Z6-M-S-P",
+    "nombre_punto": "PARQUE CENTRAL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "PABLO SEXTO",
+    "subcircuito": "PABLO SEXTO 1",
+    "id": "COMERCIAL-J-Y-A-Z6-M-S-P",
+    "nombre_punto": "COMERCIAL J Y A"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "OÑA",
+    "subcircuito": "OÑA 1",
+    "id": "RESTAURANTE-LA-GUADALUPANA-Z6-A-N-O",
+    "nombre_punto": "RESTAURANTE LA GUADALUPANA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "GASOLINERA-MASGAS-Z6-A-N-N",
+    "nombre_punto": "GASOLINERA MASGAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR-MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "PLAZA-CIVICA-Z6-M-S-G",
+    "nombre_punto": "PLAZA CIVICA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR-MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "GASOLINERA-MEJÍA-Z6-M-S-G",
+    "nombre_punto": "GASOLINERA MEJÍA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR-MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "FGE-Z6-M-S-G",
+    "nombre_punto": "FGE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "LAS NIEVES",
+    "subcircuito": "LAS NIEVES 1",
+    "id": "GASOLINERA-REINA-DE-LA-PAZ-Z6-A-N-L",
+    "nombre_punto": "GASOLINERA REINA DE LA PAZ"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "SANTIAGO DE MENDEZ",
+    "subcircuito": "SANTIAGO DE MENDEZ 1",
+    "id": "PARQUE-CENTRAL-Z6-M-M-S",
+    "nombre_punto": "PARQUE CENTRAL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL CENTRO",
+    "subcircuito": "TRONCAL CENTRO 1",
+    "id": "COMERCIAL-CARMITA-Z6-C-L-T",
+    "nombre_punto": "COMERCIAL CARMITA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "BANCO-PICHINCHA-Z6-C-L-T",
+    "nombre_punto": "BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "TERMINAL-TERRESTRE-Z6-C-L-T",
+    "nombre_punto": "TERMINAL TERRESTRE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "GIRON",
+    "subcircuito": "GIRON 1",
+    "id": "CYBER-INTERNET-GIRON-Z6-A-G-G",
+    "nombre_punto": "CYBER INTERNET GIRON"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "HUAMBOYA",
+    "subcircuito": "HUAMBOYA 1",
+    "id": "COMERCIAL-PATIÑO-Z6-M-S-H",
+    "nombre_punto": "COMERCIAL PATIÑO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "CAJERO-DE-LA-COOPERATIVA-CB-Z6-A-P-P",
+    "nombre_punto": "CAJERO DE LA COOPERATIVA CB"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "FARMACIA-ECONÓMICA-Z6-A-P-P",
+    "nombre_punto": "FARMACIA ECONÓMICA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "MERCADO-26-DE-FEBRERO-Z6-A-P-P",
+    "nombre_punto": "MERCADO 26 DE FEBRERO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "CARNE-CALIENTE-Z6-A-C-R",
+    "nombre_punto": "CARNE CALIENTE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "BANCO-DEL-AUSTRO-Z6-A-G-G",
+    "nombre_punto": "BANCO DEL AUSTRO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "GIRON",
+    "subcircuito": "GIRON 1",
+    "id": "SERVÍ-CAR-Z6-A-G-G",
+    "nombre_punto": "SERVÍ CAR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "COMERCIAL-TIA-Z6-A-G-G",
+    "nombre_punto": "COMERCIAL TIA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "CHORDELEG",
+    "subcircuito": "CHORDELEG 1",
+    "id": "JOYERIA-DORITA-Z6-A-G-C",
+    "nombre_punto": "JOYERIA DORITA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CREDITO-GAÑANSOL-Z6-A-G-G",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CREDITO GAÑANSOL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "LA UNION",
+    "subcircuito": "",
+    "id": "COOPERATIVA-DE-TRANSPORTE-AZUAY-Z6-A-G-L",
+    "nombre_punto": "COOPERATIVA DE TRANSPORTE AZUAY"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR-MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "UPC-GUALAQUIZA-Z6-M-S-G",
+    "nombre_punto": "UPC GUALAQUIZA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "GASOLINERA-MÁS-GAS-Z6-A-G-L",
+    "nombre_punto": "GASOLINERA MÁS GAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "TIENDA-LORENA-Z6-A-P-S",
+    "nombre_punto": "TIENDA LORENA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "LUDO",
+    "subcircuito": "LUDO 1",
+    "id": "PLAZA-DE-SERRAG-Z6-A-S-L",
+    "nombre_punto": "PLAZA DE SERRAG"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "MULTINEGOCIOS-CAMPOVERDE-Z6-A-P-C",
+    "nombre_punto": "MULTINEGOCIOS CAMPOVERDE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "FARMACIA-SAN-DIEGO-Z6-A-P-S",
+    "nombre_punto": "FARMACIA SAN DIEGO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "COOP-DE-AHORRO-Y-CREDITO-Z6-A-P-C",
+    "nombre_punto": "COOP DE AHORRO Y CREDITO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "GIRON",
+    "subcircuito": "GIRON 1",
+    "id": "GASOLINERA-P&S-GIRÓN-Z6-A-G-G",
+    "nombre_punto": "GASOLINERA  P&S GIRÓN"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "PALORA",
+    "subcircuito": "PALORA 1",
+    "id": "HELADERIA-ALTROMIX-Z6-M-S-P",
+    "nombre_punto": "HELADERIA ALTROMIX"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "PALORA",
+    "subcircuito": "PALORA 1",
+    "id": "COLISEO-PALORA-Z6-M-S-P",
+    "nombre_punto": "COLISEO PALORA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "CLUB-SMART-Z6-A-P-C",
+    "nombre_punto": "CLUB SMART"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "VERDE LOMA",
+    "subcircuito": "VERDE LOMA 1",
+    "id": "CENTRO-INFANTIL-LOS-PITUFOS-Z6-A-C-V",
+    "nombre_punto": "CENTRO INFANTIL LOS PITUFOS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "ALMACENES-ELECTROGOLD-Z6-A-P-C",
+    "nombre_punto": "ALMACENES ELECTROGOLD"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "EL SAGRARIO",
+    "subcircuito": "EL SAGRARIO 1",
+    "id": "RCELL-Z6-A-C-E",
+    "nombre_punto": "RCELL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "CHORDELEG",
+    "subcircuito": "CHORDELEG 1",
+    "id": "VINI-MARKET-Z6-A-G-C",
+    "nombre_punto": "VINI MARKET"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TOTORACOCHA",
+    "subcircuito": "TOTORACOCHA 1",
+    "id": "CHICO-GATO-ENCEBOLLADOS-Z6-A-C-T",
+    "nombre_punto": "CHICO GATO ENCEBOLLADOS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "MEGA-HIERRO-Z6-A-G-G",
+    "nombre_punto": "MEGA HIERRO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "KPICA-Z6-A-G-G",
+    "nombre_punto": "KPICA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "MEGA-SSI-Z6-A-G-G",
+    "nombre_punto": "MEGA SSI"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "MULTICOMERCIO-GUAYCHA-Z6-A-P-S",
+    "nombre_punto": "MULTICOMERCIO GUAYCHA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "COMERCIAL-SHUMIRAL-Z6-A-P-S",
+    "nombre_punto": "COMERCIAL SHUMIRAL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "CHORDELEG",
+    "subcircuito": "CHORDELEG 1",
+    "id": "JOYERIA-GARCIA-LOPEZ-Z6-A-G-C",
+    "nombre_punto": "JOYERIA GARCIA LOPEZ"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "BOMBEROS-Z6-M-T-T",
+    "nombre_punto": "Bomberos"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "BAM-ECUADOR-Z6-M-T-T",
+    "nombre_punto": "Bam ecuador"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "UNIDAS-EDUCATIVA-TAISHA-Z6-M-T-T",
+    "nombre_punto": "Unidas educativa taisha"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "MUNICIPIO-DE-TAISHA-Z6-M-T-T",
+    "nombre_punto": "Municipio de taisha"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "PARQUE-CENTRAL-Z6-M-T-T",
+    "nombre_punto": "Parque central"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "IGLESIA-MATRIZ-Z6-M-T-T",
+    "nombre_punto": "Iglesia matriz"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "MERCADO-CENTRAL-Z6-M-T-T",
+    "nombre_punto": "Mercado central"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "SANTIAGO DE MENDEZ",
+    "subcircuito": "SANTIAGO DE MENDEZ 1",
+    "id": "RESTAURANTE-LA-CHONTA-Z6-M-M-S",
+    "nombre_punto": "RESTAURANTE LA CHONTA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "CENTRO-DE-SALUD-Z6-A-P-C",
+    "nombre_punto": "Centro de salud"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "FARMACIA-Z6-A-P-C",
+    "nombre_punto": "Farmacia"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "FERRETERIA-Z6-A-P-C",
+    "nombre_punto": "Ferreteria"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "CÓLISEO-Z6-M-T-T",
+    "nombre_punto": "Cóliseo"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "WAKERS-Z6-M-T-T",
+    "nombre_punto": "Wakers"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "FISCALIA-Z6-M-T-T",
+    "nombre_punto": "Fiscalia"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "CANCHA-SINTETICA-Z6-M-T-T",
+    "nombre_punto": "Cancha sintetica"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "JUZGADO-Z6-M-T-T",
+    "nombre_punto": "Juzgado"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "NARANCAY",
+    "subcircuito": "NARANCAY 1",
+    "id": "GYM-DORYAM-Z6-A-C-N",
+    "nombre_punto": "GYM DORYAM"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "POLLERA-Z6-A-P-C",
+    "nombre_punto": "Pollera"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "CARNICOS-Z6-A-P-C",
+    "nombre_punto": "Carnicos"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "FERRETERÍA-SAN-JOSÉ-Z6-A-P-C",
+    "nombre_punto": "Ferretería San José"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "NARANCAY",
+    "subcircuito": "NARANCAY 1",
+    "id": "MARISQUERIA-EL-CONQUISTADOR-Z6-A-C-N",
+    "nombre_punto": "MARISQUERIA EL CONQUISTADOR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "NARANCAY",
+    "subcircuito": "NARANCAY 1",
+    "id": "CAJAS-SERVICIO-INDUSTRIALES-Z6-A-C-N",
+    "nombre_punto": "CAJAS SERVICIO INDUSTRIALES"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "BANCO-PICHINCHA-Z6-C-A-A",
+    "nombre_punto": "Banco Pichincha"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES NORTE",
+    "subcircuito": "AZOGUES NORTE 1",
+    "id": "CHEVALIER-Z6-C-A-A",
+    "nombre_punto": "CHEVALIER"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "FERRETERIA-CRESPO-VIVAR-Z6-C-A-A",
+    "nombre_punto": "FERRETERIA CRESPO VIVAR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "TERMINAL-TERRESTRE-Z6-C-A-A",
+    "nombre_punto": "TERMINAL TERRESTRE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "HUAMBOYA",
+    "subcircuito": "HUAMBOYA 1",
+    "id": "EL-TORITO-Z6-M-S-H",
+    "nombre_punto": "El TORITO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "HUAYNA CAPAC",
+    "subcircuito": "HUAYNA CAPAC 1",
+    "id": "PLANETARIO-PARQUE-DE-LA-MADRE-Z6-A-C-H",
+    "nombre_punto": "PLANETARIO-PARQUE DE LA MADRE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "HUAYNA CAPAC",
+    "subcircuito": "HUAYNA CAPAC 1",
+    "id": "DOÑA-BURGER-Z6-A-C-H",
+    "nombre_punto": "DOÑA BURGER"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "COOPERCO-Z6-A-C-B",
+    "nombre_punto": "COOPERCO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "NARANCAY",
+    "subcircuito": "NARANCAY 1",
+    "id": "CORALITO-1RA-DE-MAYO-Z6-A-C-N",
+    "nombre_punto": "Coralito 1ra de Mayo"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "NARANCAY",
+    "subcircuito": "NARANCAY 1",
+    "id": "CORALITO-AV.-LOJA-Z6-A-C-N",
+    "nombre_punto": "Coralito Av. Loja"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "EL SALADO",
+    "subcircuito": "EL SALADO 1",
+    "id": "GYM-DORIAN-Z6-A-C-E",
+    "nombre_punto": "GYM DORIAN"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "FERRETERIA-ORDOÑEZ-LASSO-Z6-A-C-S",
+    "nombre_punto": "FERRETERIA ORDOÑEZ LASSO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "HOSTERÍA-DURAN-Z6-A-C-B",
+    "nombre_punto": "Hostería Duran"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "EL SALADO",
+    "subcircuito": "EL SALADO 1",
+    "id": "SUPERMAXI-Z6-A-C-E",
+    "nombre_punto": "SUPERMAXI"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "CAYAMBE",
+    "subcircuito": "CAYAMBE 3",
+    "id": "LOCAL-PONTE-BELLA-Z6-A-C-C",
+    "nombre_punto": "Local Ponte Bella"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "TURI",
+    "subcircuito": "TURI 1",
+    "id": "IGLESIA-DEL-TURI-Z6-A-C-T",
+    "nombre_punto": "Iglesia del turi"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "TURI",
+    "subcircuito": "TURI 1",
+    "id": "FARMA-SOL-TURI-Z6-A-C-T",
+    "nombre_punto": "Farma sol Turi"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "CAYAMBE",
+    "subcircuito": "CAYAMBE 1",
+    "id": "GIMNASIO-FOX-GYM-Z6-A-C-C",
+    "nombre_punto": "Gimnasio Fox Gym"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "MONAY",
+    "subcircuito": "MONAY 1",
+    "id": "MINIMARKET-LORENITA-Z6-A-C-M",
+    "nombre_punto": "Minimarket LORENITA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "EL BATAN",
+    "subcircuito": "EL BATAN 1",
+    "id": "FARMACIS-CRUZ-AZUL-Z6-A-C-E",
+    "nombre_punto": "Farmacis cruz azul"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "EL BATAN",
+    "subcircuito": "EL BATAN 1",
+    "id": "MULTIEVENTOS-Z6-A-C-E",
+    "nombre_punto": "Multieventos"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "MONAY",
+    "subcircuito": "MONAY 1",
+    "id": "TIENDA-JOZHITA-Z6-A-C-M",
+    "nombre_punto": "tienda jozhita"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "SUCRE",
+    "subcircuito": "SUCRE 1",
+    "id": "CHIFA-BINGUI-Z6-A-C-S",
+    "nombre_punto": "CHIFA BINGUI"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "POLLOS-AL-PASO-Z6-A-C-S",
+    "nombre_punto": "POLLOS AL PASO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "SUCRE",
+    "subcircuito": "SUCRE 1",
+    "id": "PIZZA-LA-CARROZA-Z6-A-C-S",
+    "nombre_punto": "PIZZA LA CARROZA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "GASOLINERA-AMY-Z6-M-T-T",
+    "nombre_punto": "Gasolinera amy"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "TAISHA",
+    "circuito": "TAISHA CENTRO",
+    "subcircuito": "TAISHA CENTRO 1",
+    "id": "GASOLINERA-CARRION-Z6-M-T-T",
+    "nombre_punto": "Gasolinera carrion"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "COMERCIAL-ARMIJOS-Z6-A-P-S",
+    "nombre_punto": "Comercial Armijos"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "YANUNCAY",
+    "subcircuito": "YANUNCAY 1",
+    "id": "MEGA-TIENDA-DEL-SUR-Z6-A-C-Y",
+    "nombre_punto": "MEGA TIENDA DEL SUR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "YANUNCAY",
+    "subcircuito": "YANUNCAY 1",
+    "id": "FOGO-DE-NICO-Z6-A-C-Y",
+    "nombre_punto": "FOGO DE NICO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "YANUNCAY",
+    "subcircuito": "YANUNCAY 1",
+    "id": "PAPAS-TIA-LUCA-Z6-A-C-Y",
+    "nombre_punto": "PAPAS TIA LUCA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "MONAY",
+    "subcircuito": "MONAY 1",
+    "id": "SERVICIO-AUTOMOTRIZ-CARDENNAS-Z6-A-C-M",
+    "nombre_punto": "Servicio automotriz cardennas"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "MONAY",
+    "subcircuito": "MONAY 1",
+    "id": "CORALITO-MONAY-Z6-A-C-M",
+    "nombre_punto": "Coralito Monay"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "EL SALADO",
+    "subcircuito": "EL SALADO 1",
+    "id": "CAJAS-SERVICIO-INDUSTRIAL-Z6-A-C-E",
+    "nombre_punto": "CAJAS SERVICIO INDUSTRIAL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "EL SALADO",
+    "subcircuito": "EL SALADO 1",
+    "id": "LAS-CASCARITAS-DON-ALE-Z6-A-C-E",
+    "nombre_punto": "LAS CASCARITAS DON ALE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "LIMON",
+    "subcircuito": "LIMON 1",
+    "id": "TERMINAL-TERRESTRE-LIMÓN-Z6-M-M-L",
+    "nombre_punto": "Terminal Terrestre Limón"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "LIMON",
+    "subcircuito": "LIMON 1",
+    "id": "CANCHAS-TERMINAL-TERRESTRE-LIMÓN-Z6-M-M-L",
+    "nombre_punto": "Canchas Terminal Terrestre Limón"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "LIMON",
+    "subcircuito": "LIMON 1",
+    "id": "PARQUE-CENTRAL-LIMÓN-PLAZA-Z6-M-M-L",
+    "nombre_punto": "Parque Central Limón Plaza"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "CERRO NEGRO",
+    "subcircuito": "CERRO NEGRO 1",
+    "id": "MERCADO-CENTRAL-SARAYUNGA-Z6-A-G-C",
+    "nombre_punto": "Mercado Central Sarayunga"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "SAN FERNANDO",
+    "subcircuito": "SAN FERNANDO 1",
+    "id": "COLISEO-SAN-FERNANDO-Z6-A-G-S",
+    "nombre_punto": "Coliseo San Fernando"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "INFOCENTRO-DEL-CARMEN-DE-PIJILI-Z6-A-P-C",
+    "nombre_punto": "INFOCENTRO DEL CARMEN DE PIJILI"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "FERRETERIA-SANCHEZ-Z6-A-P-C",
+    "nombre_punto": "ferreteria sanchez"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "PIJILI-Z6-A-P-C",
+    "nombre_punto": "PIJILI"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES NORTE",
+    "subcircuito": "AZOGUES NORTE 2",
+    "id": "MEGA-CINCUENTAZO-Z6-C-A-A",
+    "nombre_punto": "MEGA CINCUENTAZO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "EL BATAN",
+    "subcircuito": "EL BATAN 1",
+    "id": "PASTELERÍA-MARCELITO-Z6-A-C-E",
+    "nombre_punto": "Pastelería Marcelito"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "SAN RAFAEL SHARUG",
+    "subcircuito": "SAN RAFAEL SHARUG 1",
+    "id": "ENTRADA-A-TENDALES-Z6-A-G-S",
+    "nombre_punto": "Entrada a tendales"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "EL BATAN",
+    "subcircuito": "EL BATAN 1",
+    "id": "DELI-CENTRO-PAN-REAL-Z6-A-C-E",
+    "nombre_punto": "Deli centro Pan Real"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "PUCARA",
+    "subcircuito": "PUCARA 1",
+    "id": "AGENCIA-DE-ENVIOS-Z6-A-G-P",
+    "nombre_punto": "Agencia de Envios"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "PUCARA",
+    "subcircuito": "PUCARA 1",
+    "id": "TRANS.-RESOCAN-Z6-A-G-P",
+    "nombre_punto": "Trans. Resocan"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "NARANCAY",
+    "subcircuito": "NARANCAY 1",
+    "id": "PIROTECNIA-DIVINO-NIÑO-Z6-A-C-N",
+    "nombre_punto": "PIROTECNIA DIVINO NIÑO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "MOLLETURO",
+    "subcircuito": "MOLLETURO 1",
+    "id": "RESTAURANTE-EL-PARAISO-Z6-A-C-M",
+    "nombre_punto": "RESTAURANTE EL PARAISO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "MOLLETURO",
+    "subcircuito": "MOLLETURO 1",
+    "id": "RESTAURANTE-LAS-PEÑAS-Z6-A-C-M",
+    "nombre_punto": "RESTAURANTE LAS PEÑAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "MOLLETURO",
+    "subcircuito": "MOLLETURO 1",
+    "id": "RESTAURANTE-LA-CHOZA-Z6-A-C-M",
+    "nombre_punto": "RESTAURANTE LA CHOZA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "MOLLETURO",
+    "subcircuito": "MOLLETURO 1",
+    "id": "RESTAURANTE-RAID-1969-Z6-A-C-M",
+    "nombre_punto": "RESTAURANTE RAID 1969"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "NARANCAY",
+    "subcircuito": "NARANCAY 1",
+    "id": "VIKINGOS-FAST-FOOD-Z6-A-C-N",
+    "nombre_punto": "VIKINGOS FAST FOOD"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "LOGROÑO",
+    "subcircuito": "LOGROÑO 1",
+    "id": "PARQUE-SERAFIN-VALLEJO-LOGROÑO-Z6-M-C-L",
+    "nombre_punto": "PARQUE SERAFIN VALLEJO LOGROÑO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "SPA-PIEDRA-DE-AGUA-Z6-A-C-B",
+    "nombre_punto": "Spa Piedra de Agua"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "BAÑOS",
+    "subcircuito": "BAÑOS 1",
+    "id": "FARMACIA-SUIZA-Z6-A-C-B",
+    "nombre_punto": "Farmacia SUIZA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "TIENDA-MARITZA-Z6-A-P-C",
+    "nombre_punto": "tienda maritza"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "MI-TIENDA-Z6-A-P-C",
+    "nombre_punto": "mi tienda"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "ESENCIA-DE-VIDA-Z6-C-C-C",
+    "nombre_punto": "ESENCIA DE VIDA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "LAS NIEVES",
+    "subcircuito": "LAS NIEVES 1",
+    "id": "CAJERO-JEP-Z6-A-N-L",
+    "nombre_punto": "Cajero Jep"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "LOCAL-COMERCIAL-LA-PLACITA-Z6-A-N-N",
+    "nombre_punto": "LOCAL COMERCIAL LA PLACITA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "FERRETERÍA-DISENSA-Z6-A-P-C",
+    "nombre_punto": "FERRETERÍA DISENSA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "CYBER-SOFINET-Z6-A-P-C",
+    "nombre_punto": "Cyber Sofinet"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "LAS NIEVES",
+    "subcircuito": "LAS NIEVES 1",
+    "id": "BANCO-DEL-BARRIO-Z6-A-N-L",
+    "nombre_punto": "Banco del Barrio"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "JIMA",
+    "subcircuito": "JIMA 1",
+    "id": "COOPAC.-AUSTRO-LTDA-Z6-A-S-J",
+    "nombre_punto": "COOPAC. AUSTRO LTDA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 1",
+    "id": "TIENDA-MINIMARKET-PLAZA-CENTRAL-Z6-A-S-S",
+    "nombre_punto": "TIENDA MINIMARKET PLAZA CENTRAL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "LUDO",
+    "subcircuito": "LUDO 1",
+    "id": "CENTRO-DE-LUDO-Z6-A-S-L",
+    "nombre_punto": "CENTRO DE LUDO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "ESTACION-DE-SERVICIO-PIRINCAY-Z6-A-P-P",
+    "nombre_punto": "ESTACION DE SERVICIO PIRINCAY"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 2",
+    "id": "SUBCENTRO-DE-SALUD-EL-CABO-Z6-A-P-P",
+    "nombre_punto": "SUBCENTRO DE SALUD EL CABO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 2",
+    "id": "SUBCENTRO-DE-SALUD-SAN-CRISTÓBAL-Z6-A-P-P",
+    "nombre_punto": "SUBCENTRO DE SALUD  SAN CRISTÓBAL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "MINIMARKET-MIRANDA-Z6-A-N-N",
+    "nombre_punto": "MINIMARKET MIRANDA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "LO-TRADICIONAL-Z6-A-N-N",
+    "nombre_punto": "LO TRADICIONAL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "OÑA",
+    "subcircuito": "OÑA 1",
+    "id": "GASOLINERA-SAN-FELIPE-Z6-A-N-O",
+    "nombre_punto": "Gasolinera San Felipe"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "FASHION-FEET-Z6-C-L-T",
+    "nombre_punto": "Fashion feet"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "PAPELERIA-CIENTIFICA-Z6-C-L-T",
+    "nombre_punto": "PAPELERIA CIENTIFICA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "ALITAS-MEGA-WINGS-Z6-C-A-A",
+    "nombre_punto": "Alitas Mega Wings"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "PLAZA-593-Z6-C-A-A",
+    "nombre_punto": "PLAZA 593"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "PATIODECOMIDASUIZA-Z6-C-A-A",
+    "nombre_punto": "PATIODECOMIDASUIZA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "HAMBURGUESAS-EO-SOCIO-COLISEO-Z6-C-A-A",
+    "nombre_punto": "HAMBURGUESAS EO SOCIO COLISEO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "RESTAURANTE-GAVIJAS-Z6-A-S-S",
+    "nombre_punto": "Restaurante Gavijas"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "EL-LLANERO-PARRILADAS-Z6-C-L-T",
+    "nombre_punto": "EL LLANERO PARRILADAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "SUPERMERCADO-VALDIVIEZO.-COVALAG-S.A-Z6-C-L-T",
+    "nombre_punto": "SUPERMERCADO VALDIVIEZO. COVALAG S.A"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL CENTRO",
+    "subcircuito": "TRONCAL CENTRO 1",
+    "id": "CAFETERIA-Y-REPOSTERIA-D`LORE-Z6-C-L-T",
+    "nombre_punto": "CAFETERIA Y REPOSTERIA D`LORE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL CENTRO",
+    "subcircuito": "TRONCAL CENTRO 1",
+    "id": "CREDITOS-ANDREÍTA-Z6-C-L-T",
+    "nombre_punto": "CREDITOS ANDREÍTA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "LOGROÑO",
+    "subcircuito": "LOGROÑO 1",
+    "id": "GASOLINERA-ENERGY-GAS-LOGROÑO-Z6-M-C-L",
+    "nombre_punto": "GASOLINERA ENERGY GAS LOGROÑO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL CENTRO",
+    "subcircuito": "TRONCAL CENTRO 2",
+    "id": "RESTAURANTE-PIQUEOS-AL-PASO-Z6-C-L-T",
+    "nombre_punto": "RESTAURANTE PIQUEOS AL PASO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
+    "id": "MIRADOR-SAN-ANTONIO-Z6-C-C-C",
+    "nombre_punto": "MIRADOR SAN ANTONIO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
+    "id": "CANCHAS-BARRIO-QUILLIGANES-Z6-C-C-C",
+    "nombre_punto": "CANCHAS BARRIO QUILLIGANES"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
+    "id": "PARQUE-GUANTUNG-MUSEO-ARQUEOLOGICO-Z6-C-C-C",
+    "nombre_punto": "PARQUE GUANTUNG MUSEO ARQUEOLOGICO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "INGAPIRCA",
+    "subcircuito": "INGAPIRCA 1",
+    "id": "MUSEO-INGAPIRCA-Z6-C-C-I",
+    "nombre_punto": "MUSEO INGAPIRCA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "EL TAMBO",
+    "subcircuito": "EL TAMBO 1",
+    "id": "PARQUE-CENTRAL-EL-TAMBO-Z6-C-C-E",
+    "nombre_punto": "PARQUE CENTRAL EL TAMBO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
+    "id": "MERCADO-EL-VERGEL-Z6-C-C-C",
+    "nombre_punto": "MERCADO EL VERGEL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "SEVILLA DE ORO",
+    "subcircuito": "SEVILLA DE ORO 1",
+    "id": "SUB-CENTRO-DE-SALUD-SEVILLA-DE-ORO-Z6-A-P-S",
+    "nombre_punto": "Sub Centro de salud Sevilla de oro"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
+    "id": "PARROQUIA-HONORATO-VASQUEZ-Z6-C-C-C",
+    "nombre_punto": "PARROQUIA HONORATO VASQUEZ"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "EL PAN",
+    "subcircuito": "EL PAN 1",
+    "id": "CENTRO-DE-SALUD-EL-PAN-Z6-A-P-E",
+    "nombre_punto": "Centro de salud el Pan"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL CENTRO",
+    "subcircuito": "TRONCAL CENTRO 2",
+    "id": "PARRILLADAS-DE-JC-Z6-C-L-T",
+    "nombre_punto": "PARRILLADAS DE JC"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "RESTAURANTE-EL-BUEN-SABOR-Z6-C-L-T",
+    "nombre_punto": "RESTAURANTE EL BUEN SABOR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "MACAS",
+    "subcircuito": "MACAS 1",
+    "id": "UPC-MORONA-Z6-M-M-M",
+    "nombre_punto": "UPC MORONA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "GUACHAPALA",
+    "subcircuito": "GUACHAPALA 1",
+    "id": "PARQUE-ACUÁTICO-GUACHAPALA-Z6-A-P-G",
+    "nombre_punto": "PARQUE ACUÁTICO GUACHAPALA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "LA-BODEGA-MAYORISTA-Z6-C-A-A",
+    "nombre_punto": "LA BODEGA MAYORISTA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "LA-BODEGA-24-DE-MAYO-Z6-C-A-A",
+    "nombre_punto": "LA BODEGA 24 DE MAYO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "SANTIAGO DE MENDEZ",
+    "subcircuito": "SANTIAGO DE MENDEZ 1",
+    "id": "GASOLINERA-VELEZ-Z6-M-M-S",
+    "nombre_punto": "GASOLINERA VELEZ"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "TERMINAL-TERRESTRE-SIGSIG-Z6-A-S-S",
+    "nombre_punto": "Terminal terrestre sigsig"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-MUSHUC-RUNA-SIGSIG-Z6-A-S-S",
+    "nombre_punto": "Cooperativa de ahorro y crédito mushuc runa Sigsig"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "BANCO-DEL-AUSTRO-Z6-A-S-S",
+    "nombre_punto": "Banco del austro"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "PUENTE-DEL-AMOR-Z6-A-G-L",
+    "nombre_punto": "PUENTE DEL AMOR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "PLAZOLETA-20-DE-ENERO-Z6-A-G-L",
+    "nombre_punto": "PLAZOLETA 20 DE ENERO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "TRANSPORTE-NABON-Z6-A-N-N",
+    "nombre_punto": "TRANSPORTE NABON"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "HOSTERIA-ARHANA-Z6-A-G-G",
+    "nombre_punto": "HOSTERIA ARHANA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "LA-HUECA-DEL-GORDIS-Z6-A-N-N",
+    "nombre_punto": "LA HUECA DEL GORDIS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "COOP.-AUSTRO-Z6-A-N-N",
+    "nombre_punto": "COOP. AUSTRO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "HOSTERÍA-ARHANA-Z6-A-G-G",
+    "nombre_punto": "Hostería Arhana"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "FRITADAS-DE-SERTAG-Z6-A-G-G",
+    "nombre_punto": "FRITADAS DE SERTAG"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "LAS NIEVES",
+    "subcircuito": "LAS NIEVES 1",
+    "id": "FARMACIA-AMBUMED-Z6-A-N-L",
+    "nombre_punto": "FARMACIA AMBUMED"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "EL BATAN",
+    "subcircuito": "EL BATAN 1",
+    "id": "PANADERIA-INDUPAN-Z6-A-C-E",
+    "nombre_punto": "PANADERIA INDUPAN"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "HERMANO MIGUEL",
+    "subcircuito": "HERMANO MIGUEL 1",
+    "id": "COMISARIATO-EL-SOL-Z6-A-C-H",
+    "nombre_punto": "COMISARIATO EL SOL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "HERMANO MIGUEL",
+    "subcircuito": "HERMANO MIGUEL 1",
+    "id": "SALON-DE-BELLEZA-MODELING-Z6-A-C-H",
+    "nombre_punto": "SALON DE BELLEZA MODELING"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "HERMANO MIGUEL",
+    "subcircuito": "HERMANO MIGUEL 1",
+    "id": "FARMACIAS-POPULAR-Z6-A-C-H",
+    "nombre_punto": "FARMACIAS POPULAR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "EL SAGRARIO",
+    "subcircuito": "EL SAGRARIO 1",
+    "id": "BLUES-RESTAURANTE-Z6-A-C-E",
+    "nombre_punto": "BLUES RESTAURANTE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "GIL RAMIREZ DAVALOS",
+    "subcircuito": "GIL RAMIREZ DAVALOS 1",
+    "id": "BONSWEET-Z6-A-C-G",
+    "nombre_punto": "Bonsweet"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "ACCESORIOS-JIMENEZ-Z6-A-C-T",
+    "nombre_punto": "ACCESORIOS JIMENEZ"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "GIL RAMIREZ DAVALOS",
+    "subcircuito": "GIL RAMIREZ DAVALOS 1",
+    "id": "PLAZA-EUROPEA-Z6-A-C-G",
+    "nombre_punto": "Plaza Europea"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "DESPENSA-LA-CASTELLANA-Z6-A-C-T",
+    "nombre_punto": "DESPENSA LA CASTELLANA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "GIL RAMIREZ DAVALOS",
+    "subcircuito": "GIL RAMIREZ DAVALOS 1",
+    "id": "ÓPTICAS-DEL-RIO-Z6-A-C-G",
+    "nombre_punto": "Ópticas del rio"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "SAN BLAS",
+    "subcircuito": "SAN BLAS 1",
+    "id": "MULTIREPUESTO-DEL-AUSTRO-Z6-A-C-S",
+    "nombre_punto": "Multirepuesto del austro"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "SAN BLAS",
+    "subcircuito": "SAN BLAS 1",
+    "id": "REP-CAR-Z6-A-C-S",
+    "nombre_punto": "Rep Car"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "SAN BLAS",
+    "subcircuito": "SAN BLAS 1",
+    "id": "AUTOMANGUERAS-CALI-Z6-A-C-S",
+    "nombre_punto": "Automangueras Cali"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES NORTE",
+    "subcircuito": "AZOGUES NORTE 1",
+    "id": "LA-BODEGA-VIA-ORIENTE-Z6-C-A-A",
+    "nombre_punto": "LA BODEGA VIA ORIENTE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "FERRETERIA-EL-ECONOMISTA-Z6-A-C-T",
+    "nombre_punto": "Ferreteria el Economista"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "FERRETERÍA-EL-ECONOMISTA-Z6-A-C-T",
+    "nombre_punto": "Ferretería el Economista"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SANGAY",
+    "circuito": "PABLO SEXTO",
+    "subcircuito": "PABLO SEXTO 1",
+    "id": "DIQUE-RIO-TUNANTS-Z6-M-S-P",
+    "nombre_punto": "Dique rio tunants"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "GIRON",
+    "subcircuito": "GIRON 2",
+    "id": "MECANICA-LOJA-Z6-A-G-G",
+    "nombre_punto": "Mecanica Loja"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "SUCRE",
+    "subcircuito": "SUCRE 1",
+    "id": "PINOS-GENERAL-ELECTRONICS-Z6-A-C-S",
+    "nombre_punto": "PINOS GENERAL ELECTRONICS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "HOSPITAL-SAN-SEBASTIÁN-Z6-A-S-S",
+    "nombre_punto": "HOSPITAL SAN SEBASTIÁN"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "LIMON",
+    "subcircuito": "LIMON 1",
+    "id": "GASOLINERA-Z6-M-M-L",
+    "nombre_punto": "Gasolinera"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "CHORDELEG",
+    "subcircuito": "CHORDELEG 1",
+    "id": "FABRICA-DE-JOYAS-CASTRO-Z6-A-G-C",
+    "nombre_punto": "FABRICA DE JOYAS CASTRO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "EL-BUEN-PAN-Z6-A-P-S",
+    "nombre_punto": "EL BUEN PAN"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "PANADERIA-EL-BUEN-PAN-Z6-A-P-S",
+    "nombre_punto": "PANADERIA EL BUEN PAN"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "FISCALIA-DE-PONCE-ENRÍQUEZ-Z6-A-P-C",
+    "nombre_punto": "FISCALIA DE PONCE ENRÍQUEZ"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "BANECUADOR-Z6-A-P-P",
+    "nombre_punto": "BanEcuador"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "DENTAL-PINEDA-Z6-A-P-C",
+    "nombre_punto": "Dental pineda"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "SAN FERNANDO",
+    "subcircuito": "SAN FERNANDO 1",
+    "id": "BAZAR-Y-PAPELERÍA-VELASQUEZ-Z6-A-G-S",
+    "nombre_punto": "Bazar y Papelería Velasquez"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "CHORDELEG",
+    "subcircuito": "CHORDELEG 1",
+    "id": "TIENDA-DEL-REDONDEL-Z6-A-G-C",
+    "nombre_punto": "Tienda del Redondel"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "SANTIAGO DE MENDEZ",
+    "subcircuito": "SANTIAGO DE MENDEZ 1",
+    "id": "LOCAL-VERDURASMARIBEL-Z6-M-M-S",
+    "nombre_punto": "LOCAL VERDURASMARIBEL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "SAN BLAS",
+    "subcircuito": "SAN BLAS 1",
+    "id": "PLATICOS-DEL-AUTRO-Z6-A-C-S",
+    "nombre_punto": "Platicos del autro"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "GIL RAMIREZ DAVALOS",
+    "subcircuito": "GIL RAMIREZ DAVALOS 1",
+    "id": "DISTRIMAX-Z6-A-C-G",
+    "nombre_punto": "Distrimax"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "GIL RAMIREZ DAVALOS",
+    "subcircuito": "GIL RAMIREZ DAVALOS 1",
+    "id": "THE-PASSIONS-Z6-A-C-G",
+    "nombre_punto": "The passions"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "OÑA",
+    "subcircuito": "OÑA 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-JARDÍN-AZUAYO-Z6-A-N-O",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CRÉDITO JARDÍN AZUAYO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "RESTAURANTE-DON-WILSON-Z6-A-C-T",
+    "nombre_punto": "RESTAURANTE DON WILSON"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "GIRON",
+    "subcircuito": "GIRON 1",
+    "id": "COMERCIAL-LOS-WUAWUALES-Z6-A-G-G",
+    "nombre_punto": "Comercial los Wuawuales"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "HERMANO MIGUEL",
+    "subcircuito": "HERMANO MIGUEL 1",
+    "id": "FARMACIAS-ECONÓMICAS-Z6-A-C-H",
+    "nombre_punto": "FARMACIAS ECONÓMICAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "SHUMIRAL",
+    "subcircuito": "SHUMIRAL 1",
+    "id": "TIENDA-ARACELY-Z6-A-P-S",
+    "nombre_punto": "TIENDA ARACELY"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "SUBCENTRO-DE-SALUD-PAUTE-Z6-A-P-P",
+    "nombre_punto": "SUBCENTRO DE SALUD PAUTE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "EL SAGRARIO",
+    "subcircuito": "EL SAGRARIO 1",
+    "id": "MASTER-FORCE-GYM-Z6-A-C-E",
+    "nombre_punto": "MASTER FORCE GYM"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "JIMA",
+    "subcircuito": "JIMA 1",
+    "id": "COMERCIAL-GUARACA-Z6-A-S-J",
+    "nombre_punto": "COMERCIAL GUARACA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "CARISIMA-Z6-A-G-G",
+    "nombre_punto": "Carisima"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "SAN FERNANDO",
+    "subcircuito": "SAN FERNANDO 1",
+    "id": "PARADA-DE-BUSES-SAN-FERNANDO-Z6-A-G-S",
+    "nombre_punto": "Parada de buses San Fernando"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR - MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "PAPELERIA-FISCAL-Z6-M-S-G",
+    "nombre_punto": "Papeleria Fiscal"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "FARMACIA-FARMASIG-Z6-A-S-S",
+    "nombre_punto": "Farmacia Farmasig"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "EL SAGRARIO",
+    "subcircuito": "EL SAGRARIO 1",
+    "id": "BOGATI-Z6-A-C-E",
+    "nombre_punto": "BOGATI"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "DUG DUG",
+    "subcircuito": "DUG DUG 1",
+    "id": "SUBCENTRO-DE-SALUD-TOMEBAMBA-Z6-A-P-D",
+    "nombre_punto": "Subcentro de salud Tomebamba"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "COMIDA-COSTEÑA-AL-PASO-Z6-A-G-G",
+    "nombre_punto": "COMIDA COSTEÑA AL PASO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "SAN BLAS",
+    "subcircuito": "SAN BLAS 1",
+    "id": "5-D-SUPEROFERTAS-Z6-A-C-S",
+    "nombre_punto": "5 D SUPEROFERTAS"
+  }
+]
