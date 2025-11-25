@@ -1,1 +1,3125 @@
-
+[
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL MAESTRO",
+    "subcircuito": "EL MAESTRO 1",
+    "id": "TAJAMAR-DEL-PUENTE-SUB-CENTRO-DE-SALUD-Z1-C-T-E",
+    "nombre_punto": "TAJAMAR DEL PUENTE SUB CENTRO DE SALUD"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "UPC-Z1-C-M-B",
+    "nombre_punto": "UPC"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "LA PAZ",
+    "subcircuito": "LA PAZ 1",
+    "id": "TENENCIA-POLÍTICA-Z1-C-M-L",
+    "nombre_punto": "TENENCIA POLÍTICA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "PARQUE-CENTRAL-DE-BOLÍVAR-Z1-C-M-B",
+    "nombre_punto": "PARQUE CENTRAL DE BOLÍVAR"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "PARQUE DEL 8",
+    "subcircuito": "PARQUE DEL 8 1",
+    "id": "PARQUE-DEL-8-ESTACIÓN-DE-LOS-BOMBEROS-Z1-C-T-P",
+    "nombre_punto": "PARQUE DEL 8 ESTACIÓN DE LOS BOMBEROS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "PROPICIA",
+    "subcircuito": "PROPICIA 1",
+    "id": "UVC-Z1-E-E-P",
+    "nombre_punto": "UVC"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "CRISTOBAL COLON",
+    "subcircuito": "CRISTOBAL COLON 2",
+    "id": "LAGUNA-DEL-SALADO-Z1-C-M-C",
+    "nombre_punto": "LAGUNA DEL SALADO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "ISIDRO AYORA",
+    "subcircuito": "ISIDRO AYORA 1",
+    "id": "FRUTTY-HELADOS-Z1-C-T-I",
+    "nombre_punto": "FRUTTY HELADOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL NORTE",
+    "subcircuito": "SAN GABRIEL NORTE 1",
+    "id": "PARQUE-DE-LA-FAMILIA-Z1-C-M-S",
+    "nombre_punto": "PARQUE DE LA FAMILIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "SAN PEDRO DE HUACA",
+    "subcircuito": "SAN PEDRO DE HUACA 1",
+    "id": "CENTRO-FERRETERO-HUACA-Z1-C-T-S",
+    "nombre_punto": "CENTRO FERRETERO HUACA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "DISTRITO-DE-POLICIA-Z1-C-M-S",
+    "nombre_punto": "DISTRITO DE POLICIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "PARQUE DEL 8",
+    "subcircuito": "PARQUE DEL 8 1",
+    "id": "FRENTE-AL-TUTI-,ALADO-LOS-POLLOS-LOS-MOROS-Z1-C-T-P",
+    "nombre_punto": "FRENTE AL TUTI ,ALADO LOS POLLOS LOS MOROS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "ISIDRO AYORA",
+    "subcircuito": "ISIDRO AYORA 1",
+    "id": "MINIMARCKET-BONJOURT-Z1-C-T-I",
+    "nombre_punto": "MINIMARCKET BONJOURT"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "MERCADO-CENTRAL-BOLÍVAR-1-Z1-C-M-B",
+    "nombre_punto": "MERCADO CENTRAL BOLÍVAR 1"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "TENENCIA-POLÍTICA-BOLIVAR-Z1-C-M-B",
+    "nombre_punto": "TENENCIA POLÍTICA BOLIVAR"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "LA CONCEPCION",
+    "subcircuito": "LA CONCEPCION 1",
+    "id": "FERRETERÍA-ECINOMICA-Z1-C-E-L",
+    "nombre_punto": "FERRETERÍA-ECINOMICA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "EL ARENAL",
+    "subcircuito": "EL ARENAL 1",
+    "id": "MALECON-LAS-PALMAS-Z1-E-E-E",
+    "nombre_punto": "MALECON LAS PALMAS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "TUFIÑO",
+    "subcircuito": "TUFIÑO 1",
+    "id": "MERCADO-MUNICIPAL-TUFIÑO-Z1-C-T-T",
+    "nombre_punto": "MERCADO MUNICIPAL TUFIÑO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "LA PAZ",
+    "subcircuito": "LA PAZ 1",
+    "id": "TENENCIA-POLÍTICA-DE-LA-PAZ-Z1-C-M-L",
+    "nombre_punto": "TENENCIA POLÍTICA DE LA PAZ"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL NORTE",
+    "subcircuito": "SAN GABRIEL NORTE 1",
+    "id": "IGLESIA-MATRIZ-Z1-C-M-S",
+    "nombre_punto": "IGLESIA MATRIZ"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "LA PAZ",
+    "subcircuito": "LA PAZ 1",
+    "id": "GASOLINERA-P&S-Z1-C-M-L",
+    "nombre_punto": "GASOLINERA P&S"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL NORTE",
+    "subcircuito": "SAN GABRIEL NORTE 1",
+    "id": "BANCO-PICHINCHA-Z1-C-M-S",
+    "nombre_punto": "BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL NORTE",
+    "subcircuito": "SAN GABRIEL NORTE 1",
+    "id": "MERCADO-CENTRAL-Z1-C-M-S",
+    "nombre_punto": "MERCADO CENTRAL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "TUFIÑO",
+    "subcircuito": "TUFIÑO 1",
+    "id": "MERCADO-TUFIÑO-Z1-C-T-T",
+    "nombre_punto": "MERCADO TUFIÑO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "TARAPOA",
+    "subcircuito": "TARAPOA 1",
+    "id": "PARQUE-LA-FAMILIA-Z1-S-P-T",
+    "nombre_punto": "PARQUE LA FAMILIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "BARRIO-NORMALISTA-Z1-C-M-S",
+    "nombre_punto": "BARRIO NORMALISTA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "CRISTOBAL COLON",
+    "subcircuito": "CRISTOBAL COLON 1",
+    "id": "MICRO-MERCADO-SAN-PEDRO-Z1-C-M-C",
+    "nombre_punto": "MICRO MERCADO SAN PEDRO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "CRISTOBAL COLON",
+    "subcircuito": "CRISTOBAL COLON 1",
+    "id": "PARQUE-CHITAN-DE-NAVARRETE-Z1-C-M-C",
+    "nombre_punto": "PARQUE CHITAN DE NAVARRETE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL NORTE",
+    "subcircuito": "SAN GABRIEL NORTE 1",
+    "id": "TERMINAL-TERRESTRE-DE-SANGABRIEL-Z1-C-M-S",
+    "nombre_punto": "TERMINAL TERRESTRE DE SANGABRIEL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "CASCALES",
+    "subcircuito": "CASCALES 1",
+    "id": "AGROVETERINARIO-BRIANCITO-Z1-S-S-C",
+    "nombre_punto": "AGROVETERINARIO BRIANCITO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "MONUMENTO-EL-AVION-Z1-C-M-S",
+    "nombre_punto": "MONUMENTO EL AVION"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "CASCALES",
+    "subcircuito": "CASCALES 1",
+    "id": "AGROVETERINARIA-CASCALES-Z1-S-S-C",
+    "nombre_punto": "AGROVETERINARIA CASCALES"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "CASCALES",
+    "subcircuito": "CASCALES 1",
+    "id": "SUPERTIENDA-PIN-2-Z1-S-S-C",
+    "nombre_punto": "SUPERTIENDA PIN 2"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "CENTRO-DEPORTIVO-SAN-JOSÉ-Z1-C-M-S",
+    "nombre_punto": "CENTRO DEPORTIVO SAN JOSÉ"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "COLISEO-LUIS-ALBERTO-LANDAZURI-Z1-C-M-S",
+    "nombre_punto": "COLISEO LUIS ALBERTO LANDAZURI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "FERRETERÍA-ARMAS-Z1-C-M-S",
+    "nombre_punto": "FERRETERÍA ARMAS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CODESA",
+    "subcircuito": "CODESA 1",
+    "id": "TERMINAL-TERRESTRE-Z1-E-E-C",
+    "nombre_punto": "TERMINAL TERRESTRE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "MIRA",
+    "subcircuito": "MIRA 1",
+    "id": "PARQUE-JUAN-MONTALVO-Z1-C-E-M",
+    "nombre_punto": "PARQUE JUAN MONTALVO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "CENTRO-DE-ALTO-RENDIMIENTO-RIOVERDE-Z1-E-R-P",
+    "nombre_punto": "CENTRO DE ALTO RENDIMIENTO RIOVERDE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "MIRA",
+    "subcircuito": "MIRA 1",
+    "id": "EL-OBELISCO-Z1-C-E-M",
+    "nombre_punto": "EL OBELISCO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LA TOLITA",
+    "subcircuito": "LA TOLITA 2",
+    "id": "TOLITA-DOS-CIUDADELA-Z1-E-E-L",
+    "nombre_punto": "TOLITA DOS CIUDADELA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LA TOLITA",
+    "subcircuito": "LA TOLITA 2",
+    "id": "LOCAL-TÍA-Z1-E-E-L",
+    "nombre_punto": "LOCAL  TÍA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "PARQUE-CENTRAL-20-DE-MARZO-Z1-E-E-C",
+    "nombre_punto": "PARQUE CENTRAL 20 DE MARZO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA INDEPENDENCIA",
+    "subcircuito": "LA INDEPENDENCIA 1",
+    "id": "PARQUE-CENTRAL-LA-INDEPENDENCIA-Z1-E-Q-L",
+    "nombre_punto": "PARQUE CENTRAL LA INDEPENDENCIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "FRSHOP-Z1-C-T-K",
+    "nombre_punto": "FRSHOP"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "SANTA MARTHA 1",
+    "id": "BANCO-DEL-PICHINCHA-Z1-E-E-S",
+    "nombre_punto": "BANCO DEL PICHINCHA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "SANTA MARTHA 1",
+    "id": "TIA-DE-LA-AV.-BOLIVAR-Z1-E-E-S",
+    "nombre_punto": "TIA DE LA AV. BOLIVAR"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "C.C.-JARDÍN-DEL-NORTE-Z1-C-T-K",
+    "nombre_punto": "C.C. JARDÍN DEL NORTE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "ROSA ZARATE",
+    "subcircuito": "ROSA ZARATE 1",
+    "id": "VÍVERES-TERESITA-Z1-E-Q-R",
+    "nombre_punto": "VÍVERES TERESITA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "SANTA MARTHA 1",
+    "id": "UNIDAD-JUDICIAL-DE-LA-FAMILIA-NIÑEZ-Y-ADOLESCENCIA-Z1-E-E-S",
+    "nombre_punto": "UNIDAD JUDICIAL DE LA FAMILIA NIÑEZ Y ADOLESCENCIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL PORTAL",
+    "subcircuito": "EL PORTAL 1",
+    "id": "SUPERMAXI-Z1-C-T-E",
+    "nombre_punto": "SUPERMAXI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "SANTA MARTHA 1",
+    "id": "PLAZA-CIVICA-LOCAL-TENTACION-AV.-BOLIVAR-Y-JUAN-MONTALVO-ESQUINA-Z1-E-E-S",
+    "nombre_punto": "PLAZA CIVICA-LOCAL TENTACION AV. BOLIVAR Y JUAN MONTALVO ESQUINA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL PORTAL",
+    "subcircuito": "EL PORTAL 1",
+    "id": "SURTÍ-MÁX-Z1-C-T-E",
+    "nombre_punto": "SURTÍ MÁX"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "QUININDE",
+    "subcircuito": "QUININDE 2",
+    "id": "FERRETERÍA-BM-Z1-E-Q-Q",
+    "nombre_punto": "FERRETERÍA BM"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "ROSA ZARATE",
+    "subcircuito": "ROSA ZARATE 1",
+    "id": "TÍA-SA-Z1-E-Q-R",
+    "nombre_punto": "TÍA SA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "ROSA ZARATE",
+    "subcircuito": "ROSA ZARATE 1",
+    "id": "MINIMARKET-DELICATESSEN-BECKS-Z1-E-Q-R",
+    "nombre_punto": "MINIMARKET DELICATESSEN BECKS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "LA CONCEPCION",
+    "subcircuito": "LA CONCEPCION 1",
+    "id": "PARQUE-CENTRAL-DE-LA-CONCEPCIÓN-Z1-C-E-L",
+    "nombre_punto": "PARQUE CENTRAL DE LA CONCEPCIÓN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 1",
+    "id": "PATIO-DE-COMIADAS-Z1-S-S-S",
+    "nombre_punto": "PATIO DE COMIADAS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LAS PALMAS",
+    "subcircuito": "LAS PALMAS 1",
+    "id": "FRUTERÍA-SANDRY-Z1-E-E-L",
+    "nombre_punto": "FRUTERÍA SANDRY"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LAS PALMAS",
+    "subcircuito": "LAS PALMAS 1",
+    "id": "POLLO-EL-REY-Z1-E-E-L",
+    "nombre_punto": "POLLO EL REY"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LAS PALMAS",
+    "subcircuito": "LAS PALMAS 1",
+    "id": "ASADERO-DE-POLLO-PICO-RICO-Z1-E-E-L",
+    "nombre_punto": "ASADERO DE POLLO PICO RICO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LAS PALMAS",
+    "subcircuito": "LAS PALMAS 1",
+    "id": "CHIFA-NUEVA-ERA-Z1-E-E-L",
+    "nombre_punto": "CHIFA NUEVA ERA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "NUEVO SUCUMBIOS",
+    "subcircuito": "NUEVO SUCUMBIOS 1",
+    "id": "SHALOM-G&J-Z1-S-L-N",
+    "nombre_punto": "SHALOM G&J"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LAS PALMAS",
+    "subcircuito": "LAS PALMAS 1",
+    "id": "FARMACIA-METROPOLITANA-Z1-E-E-L",
+    "nombre_punto": "FARMACIA METROPOLITANA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LAS PALMAS",
+    "subcircuito": "",
+    "id": "TIENDA-KEVIN-Z1-E-E-L",
+    "nombre_punto": "TIENDA KEVIN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "EL DORADO",
+    "subcircuito": "EL DORADO 1",
+    "id": "HELADERIA-GREENFROTS-Z1-S-L-E",
+    "nombre_punto": "HELADERIA GREENFROTS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "LAS PALMERAS",
+    "subcircuito": "LAS PALMERAS 1",
+    "id": "TIEMDA-PATICO-Z1-S-L-L",
+    "nombre_punto": "TIEMDA PATICO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "PARADA-DE-LAS-RANCHERAS-Z1-E-Q-L",
+    "nombre_punto": "PARADA DE LAS RANCHERAS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "SUPERMERCADO-DON-POLLO-Z1-E-Q-L",
+    "nombre_punto": "SUPERMERCADO DON POLLO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "PAPELERÍA-D'ANY-Z1-E-Q-L",
+    "nombre_punto": "PAPELERÍA D'ANY"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "",
+    "id": "GASOLINERA-PETROECUADOR,,,,DE-LA-MALECON-Y-MEJIA-Z1-E-E-C",
+    "nombre_punto": "GASOLINERA PETROECUADOR,,,,DE LA MALECON Y MEJIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "",
+    "id": "LOCAL-COMERCIAL-DOBLE-IMPACTO,,,-PEDRO-VICENTE-MALDONADO-Y-BOLIVAR-Z1-E-E-S",
+    "nombre_punto": "LOCAL COMERCIAL DOBLE IMPACTO,,, PEDRO VICENTE MALDONADO Y BOLIVAR"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "SANTA MARTHA 1",
+    "id": "COPIADORA-DISTRON,,,,,,DE-LAS-CALLES-9-DE-OCTUBRE-ENTRE-PEDRO-VICENTE-MALDONADO-Y-BOLIVAR-Z1-E-E-S",
+    "nombre_punto": "COPIADORA DISTRON,,,,,,DE LAS CALLES 9 DE OCTUBRE ENTRE PEDRO VICENTE MALDONADO Y BOLIVAR"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 1",
+    "id": "BANCO-INTERNACIONA-Z1-S-S-S",
+    "nombre_punto": "BANCO INTERNACIONA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 1",
+    "id": "PARA-DE-TAXI-SHUSHUFINDI-Z1-S-S-S",
+    "nombre_punto": "PARA DE TAXI SHUSHUFINDI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "SANTA MARTHA 1",
+    "id": "EL-SANTUARIO-DEL-CELULAR,,,DE-LA-BOLIVAR-ENTRE-9-DE-OCTUBRE-Y-10-DE-AGOSTO-Z1-E-E-S",
+    "nombre_punto": "EL SANTUARIO DEL CELULAR,,,DE LA BOLIVAR ENTRE 9 DE OCTUBRE Y 10 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 1",
+    "id": "COMERCIAL-TIA-Z1-I-T-C",
+    "nombre_punto": "COMERCIAL TIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "SANTA MARTHA 1",
+    "id": "DISTRIBUIDORA-PLAZA,,,,DE-LAS-CALLES-BOLIVAR-ENTRE-10.DE-AGOSTO-Y-ROCA-FUERTE-Z1-E-E-S",
+    "nombre_punto": "DISTRIBUIDORA PLAZA,,,,DE LAS CALLES BOLIVAR ENTRE 10.DE AGOSTO Y ROCA FUERTE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "LOCAL-FERRI-ACABADOS-MACONSE-Z1-E-S-F",
+    "nombre_punto": "LOCAL FERRI ACABADOS MACONSE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "SANTA MARTHA 1",
+    "id": "GRAN-SHOPPING,,,,DE-LA-BOLIVAR-ENTRE-10-DE-AGOSTO-Y-ROCA-FUERTE-Z1-E-E-S",
+    "nombre_punto": "GRAN SHOPPING,,,,DE LA BOLIVAR ENTRE 10 DE AGOSTO Y ROCA FUERTE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 1",
+    "id": "COMERCIAL-TUTI-Z1-I-T-C",
+    "nombre_punto": "COMERCIAL TUTI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "LOCAL-SUPERMERCADO-LA-COMPETENCIA-Z1-E-S-F",
+    "nombre_punto": "LOCAL SUPERMERCADO LA COMPETENCIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "ALCALDIA-MUNICIPAL-Z1-E-S-F",
+    "nombre_punto": "ALCALDIA MUNICIPAL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "LOCAL-SANA-SANA-CENTRO-Z1-E-S-F",
+    "nombre_punto": "LOCAL SANA SANA CENTRO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "FARMACIA-ECONOMICA-IMBABURA-Z1-E-S-F",
+    "nombre_punto": "FARMACIA ECONOMICA IMBABURA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "ALMACEN-LA-GANGA-Z1-E-S-F",
+    "nombre_punto": "ALMACEN LA GANGA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "COMERCIAL-DEL-PACIFICO-Z1-E-S-F",
+    "nombre_punto": "COMERCIAL DEL PACIFICO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "COMERCIAL-PRISCILLA-Z1-E-S-F",
+    "nombre_punto": "COMERCIAL PRISCILLA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 2",
+    "id": "COMERCIAL-QUIÑONEZ-Z1-E-R-M",
+    "nombre_punto": "COMERCIAL QUIÑONEZ"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 2",
+    "id": "MULTI-COMERCIO-MONTALVO-Z1-E-R-M",
+    "nombre_punto": "MULTI COMERCIO MONTALVO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 2",
+    "id": "PAPELERIA-Y-SOLUCIONES-MONTALVO-Z1-E-R-M",
+    "nombre_punto": "PAPELERIA Y SOLUCIONES MONTALVO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "FERRETERÍA-DISTRIBUIDOR-PAZ-Z1-E-S-F",
+    "nombre_punto": "FERRETERÍA DISTRIBUIDOR PAZ"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 2",
+    "id": "AGRO-DESCUENTO-FUERZA-VERDE-Z1-E-R-M",
+    "nombre_punto": "AGRO DESCUENTO FUERZA VERDE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 2",
+    "id": "FERRETERIA-EL-DESCUENTO-Z1-E-R-M",
+    "nombre_punto": "FERRETERIA EL DESCUENTO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "ENVASADORA-DE-AGUA-VITAL-Z1-E-S-F",
+    "nombre_punto": "ENVASADORA DE AGUA VITAL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 3",
+    "id": "FERTICAMPO-Z1-E-R-M",
+    "nombre_punto": "FERTICAMPO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "RESORT-OASIS-Z1-E-S-F",
+    "nombre_punto": "RESORT OASIS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 3",
+    "id": "MINI-MARKET-NILA-JENNIFER-Z1-E-R-M",
+    "nombre_punto": "MINI MARKET NILA JENNIFER"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "AMAZONAS",
+    "subcircuito": "AMAZONAS 1",
+    "id": "OBELISCO-Z1-I-C-A",
+    "nombre_punto": "OBELISCO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "AMAZONAS",
+    "subcircuito": "AMAZONAS 1",
+    "id": "TERMINAL-TERRESTRE-DE-IBARRA-Z1-I-C-A",
+    "nombre_punto": "TERMINAL TERRESTRE DE IBARRA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "ESTADIO",
+    "subcircuito": "ESTADIO 2",
+    "id": "PARQUE-PEDRO-MONCAYO-Z1-I-C-E",
+    "nombre_punto": "PARQUE PEDRO MONCAYO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "JULIO ANDRADE",
+    "subcircuito": "JULIO ANDRADE 1",
+    "id": "NARFELED-Z1-C-T-J",
+    "nombre_punto": "NARFELED"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 1",
+    "id": "TIENDA-GEMA-Z1-E-E-L",
+    "nombre_punto": "TIENDA GEMA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 1",
+    "id": "DESPENSA-ESTEFANÍA-Z1-E-E-L",
+    "nombre_punto": "DESPENSA ESTEFANÍA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS LAGOS",
+    "subcircuito": "LOS LAGOS 2",
+    "id": "SUPER-MARKET-MONSERRAT-Z1-I-V-L",
+    "nombre_punto": "SUPER MARKET MONSERRAT"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "SAN LUIS",
+    "subcircuito": "SAN LUIS 1",
+    "id": "EMPAPELADOS-SAN-BLAS-Z1-I-V-S",
+    "nombre_punto": "EMPAPELADOS SAN BLAS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "SAN LUIS",
+    "subcircuito": "SAN LUIS 1",
+    "id": "ECO-TIENDA-VALLE-DEL-TAMBO-VIA-MOJANDA-Z1-I-V-S",
+    "nombre_punto": "ECO TIENDA VALLE DEL TAMBO VIA MOJANDA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "ANDRADE MARIN",
+    "subcircuito": "ANDRADE MARIN 1",
+    "id": "WOODEEHOUSE-Z1-I-V-A",
+    "nombre_punto": "WOODEEHOUSE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "EL ANGEL",
+    "subcircuito": "EL ANGEL 1",
+    "id": "PARQUE-LA-LIBERTAD-CIUDAD-DEL-ANGEL-Z1-C-E-E",
+    "nombre_punto": "PARQUE LA LIBERTAD CIUDAD DEL ANGEL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "PROPICIA",
+    "subcircuito": "PROPICIA 1",
+    "id": "COLEGIO-5-DE-AGOSTO-Z1-E-E-P",
+    "nombre_punto": "COLEGIO 5 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "PROPICIA",
+    "subcircuito": "PROPICIA 1",
+    "id": "INSTITUTO-LUIS-TELLO-EN-LA-PROPICIA-2-Z1-E-E-P",
+    "nombre_punto": "INSTITUTO LUIS TELLO EN LA PROPICIA 2"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "COMERCIAL-EMILE-Z1-E-S-F",
+    "nombre_punto": "COMERCIAL EMILE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "RED-MULTIPAGOS-Z1-E-S-F",
+    "nombre_punto": "RED MULTIPAGOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "TABIAZO",
+    "subcircuito": "TABIAZO 1",
+    "id": "PEDRO-MANUEL-BONE-MONTAÑO-Z1-E-E-T",
+    "nombre_punto": "PEDRO MANUEL BONE MONTAÑO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "TABIAZO",
+    "subcircuito": "TABIAZO 1",
+    "id": "RESTO-BAR-Z1-E-E-T",
+    "nombre_punto": "RESTO BAR"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "TABIAZO",
+    "subcircuito": "TABIAZO 1",
+    "id": "TIENDA-BENDICIÓN.-DE-DIOS-Z1-E-E-T",
+    "nombre_punto": "TIENDA BENDICIÓN. DE DIOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "VALLE HERMOSO",
+    "subcircuito": "VALLE HERMOSO 2",
+    "id": "HOSPITAL-DELFINA-TORRES-Z1-E-E-V",
+    "nombre_punto": "HOSPITAL DELFINA TORRES"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "EL ARENAL",
+    "subcircuito": "EL ARENAL 1",
+    "id": "GASOLINERA-PRIMAX-Z1-E-E-E",
+    "nombre_punto": "GASOLINERA PRIMAX"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "EL ARENAL",
+    "subcircuito": "EL ARENAL 1",
+    "id": "MERCADO-MINORISTA-PUERTO-PESQUERO-Z1-E-E-E",
+    "nombre_punto": "MERCADO MINORISTA PUERTO PESQUERO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "EL ARENAL",
+    "subcircuito": "EL ARENAL 1",
+    "id": "GASOLINERA-UPROCOOPES-PUERTO-PESQUERO-Z1-E-E-E",
+    "nombre_punto": "GASOLINERA UPROCOOPES PUERTO PESQUERO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "COLECTIVA",
+    "subcircuito": "COLECTIVA 2",
+    "id": "CYBER-JESSI-Z1-E-E-C",
+    "nombre_punto": "CYBER JESSI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "EL ARENAL",
+    "subcircuito": "EL ARENAL 1",
+    "id": "GASOLINERA-TERPEL-VÍA-LOS-PUENTES-Z1-E-E-E",
+    "nombre_punto": "GASOLINERA TERPEL VÍA LOS PUENTES"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "COLECTIVA",
+    "subcircuito": "COLECTIVA 2",
+    "id": "FERRETERÍA-ALEXANDRA-Z1-E-E-C",
+    "nombre_punto": "FERRETERÍA ALEXANDRA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "VALLE HERMOSO",
+    "subcircuito": "VALLE HERMOSO 3",
+    "id": "TIENDA-LUZ-PROAÑO-Z1-E-E-V",
+    "nombre_punto": "TIENDA LUZ PROAÑO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "TABIAZO",
+    "subcircuito": "TABIAZO 1",
+    "id": "TIENDA-EL-NIÑO-Z1-E-E-T",
+    "nombre_punto": "TIENDA EL NIÑO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "TABIAZO",
+    "subcircuito": "TABIAZO 1",
+    "id": "TIENDA-TABIAZO-Z1-E-E-T",
+    "nombre_punto": "TIENDA TABIAZO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "EL ANGEL",
+    "subcircuito": "EL ANGEL 1",
+    "id": "FARMACIAS-ECONÓMICAS-01-Z1-C-E-E",
+    "nombre_punto": "FARMACIAS ECONÓMICAS 01"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "EL ANGEL",
+    "subcircuito": "EL ANGEL 1",
+    "id": "FARMACIAS-ECONÓMICAS-02-Z1-C-E-E",
+    "nombre_punto": "FARMACIAS ECONÓMICAS 02"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "EL ANGEL",
+    "subcircuito": "EL ANGEL 1",
+    "id": "FARMACIAS-COMUNITARIAS-01-Z1-C-E-E",
+    "nombre_punto": "FARMACIAS COMUNITARIAS 01"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "EL ANGEL",
+    "subcircuito": "EL ANGEL 1",
+    "id": "PARQUE-10-DE-AGOSTO-EL-ANGEL-Z1-C-E-E",
+    "nombre_punto": "PARQUE 10 DE AGOSTO EL ANGEL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "EL ARENAL",
+    "subcircuito": "EL ARENAL 1",
+    "id": "PARQUE-DE-LAS-PALMAS-Z1-E-E-E",
+    "nombre_punto": "PARQUE DE LAS PALMAS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "BELLAVISTA NORTE",
+    "subcircuito": "",
+    "id": "MERCADO-MUNICIPAL-Z1-E-E-B",
+    "nombre_punto": "MERCADO MUNICIPAL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "ENCEBOLLADOS-EL-CHINO-Z1-E-E-C",
+    "nombre_punto": "ENCEBOLLADOS EL CHINO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "BEBE-CRECE-Z1-E-E-C",
+    "nombre_punto": "BEBE CRECE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "MIRA",
+    "subcircuito": "MIRA 1",
+    "id": "EL-CÓNDOR-Z1-C-E-M",
+    "nombre_punto": "EL CÓNDOR"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUPA",
+    "subcircuito": "CUPA 1",
+    "id": "E-20-Z1-E-Q-C",
+    "nombre_punto": "E-20"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "ROSA ZARATE",
+    "subcircuito": "ROSA ZARATE 1",
+    "id": "RESTAURANTE-MI-CHUCKY-Z1-E-Q-R",
+    "nombre_punto": "RESTAURANTE MI CHUCKY"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "ROSA ZARATE",
+    "subcircuito": "ROSA ZARATE 2",
+    "id": "PARQUE-BRASISLIA-Z1-E-Q-R",
+    "nombre_punto": "PARQUE BRASISLIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "MALIMPIA",
+    "subcircuito": "MALIMPIA 1",
+    "id": "MALECÓN-MALIMPIA-Z1-E-Q-M",
+    "nombre_punto": "MALECÓN MALIMPIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONSUPA",
+    "subcircuito": "TONSUPA 1",
+    "id": "TRANS-ESMERALDAS-TONSUPA-Z1-E-A-T",
+    "nombre_punto": "TRANS ESMERALDAS TONSUPA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONSUPA",
+    "subcircuito": "TONSUPA 1",
+    "id": "GASOLINERA-THIARA-Z1-E-A-T",
+    "nombre_punto": "GASOLINERA THIARA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONSUPA",
+    "subcircuito": "TONSUPA 1",
+    "id": "RESTAURANTE-BUENA-BOCA-Z1-E-A-T",
+    "nombre_punto": "RESTAURANTE BUENA BOCA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONSUPA",
+    "subcircuito": "TONSUPA 1",
+    "id": "EDIFICIO-PLAYA-AZUL-Z1-E-A-T",
+    "nombre_punto": "EDIFICIO PLAYA AZUL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONSUPA",
+    "subcircuito": "TONSUPA 1",
+    "id": "FONTAINE-BLEAU-Z1-E-A-T",
+    "nombre_punto": "FONTAINE BLEAU"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUPA",
+    "subcircuito": "CUPA 1",
+    "id": "DESPENSA-MARCELA-Z1-E-Q-C",
+    "nombre_punto": "DESPENSA MARCELA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUPA",
+    "subcircuito": "CUPA 1",
+    "id": "UNIDAD-EDUCATIVA-ERNESTO-VELASQUEZ-KUFFO-Z1-E-Q-C",
+    "nombre_punto": "UNIDAD EDUCATIVA ERNESTO VELASQUEZ KUFFO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUPA",
+    "subcircuito": "CUPA 1",
+    "id": "MINI-TIENDA-3-CORAZONES-Z1-E-Q-C",
+    "nombre_punto": "MINI TIENDA 3 CORAZONES"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "VICHE",
+    "subcircuito": "",
+    "id": "LOS-3-HERMANOS-Z1-E-Q-V",
+    "nombre_punto": "LOS 3 HERMANOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "VICHE",
+    "subcircuito": "VICHE 1",
+    "id": "LICORERÍA-LA-ÚLTIMA-Y-NOS-VAMOS-Z1-E-Q-V",
+    "nombre_punto": "LICORERÍA LA ÚLTIMA Y NOS VAMOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "VICHE",
+    "subcircuito": "VICHE 1",
+    "id": "AZÚCAR-Y-MIEL-Z1-E-Q-V",
+    "nombre_punto": "AZÚCAR Y MIEL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "VICHE",
+    "subcircuito": "VICHE 1",
+    "id": "DTODO-MI-MARKET-Z1-E-Q-V",
+    "nombre_punto": "DTODO MI MARKET"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "VALLE HERMOSO",
+    "subcircuito": "VALLE HERMOSO 3",
+    "id": "HOTEL-EL-CISNE-Z1-E-E-V",
+    "nombre_punto": "HOTEL EL CISNE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "VICHE",
+    "subcircuito": "VICHE 1",
+    "id": "CAJERO-JEP-Z1-E-Q-V",
+    "nombre_punto": "CAJERO JEP"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA INDEPENDENCIA",
+    "subcircuito": "LA INDEPENDENCIA 1",
+    "id": "ROPA-AMERICANA-Z1-E-Q-L",
+    "nombre_punto": "ROPA AMERICANA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA INDEPENDENCIA",
+    "subcircuito": "LA INDEPENDENCIA 1",
+    "id": "RESTAURANTE-COMO-EN-CASA-Z1-E-Q-L",
+    "nombre_punto": "RESTAURANTE COMO EN CASA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA INDEPENDENCIA",
+    "subcircuito": "LA INDEPENDENCIA 1",
+    "id": "FARMACIA-FIORE-Z1-E-Q-L",
+    "nombre_punto": "FARMACIA FIORE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA INDEPENDENCIA",
+    "subcircuito": "LA INDEPENDENCIA 1",
+    "id": "GASOLINERA-PETRO-WORLD-Z1-E-Q-L",
+    "nombre_punto": "GASOLINERA PETRO WORLD"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA INDEPENDENCIA",
+    "subcircuito": "LA INDEPENDENCIA 1",
+    "id": "RESTAURANTE-LA-RIOJA-DE-ANGELITO-Z1-E-Q-L",
+    "nombre_punto": "RESTAURANTE LA RIOJA DE ANGELITO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUPA",
+    "subcircuito": "CUPA 1",
+    "id": "DESPENSA-SAN-CARLOS-Z1-E-Q-C",
+    "nombre_punto": "DESPENSA SAN CARLOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUPA",
+    "subcircuito": "CUPA 1",
+    "id": "TERCENA-Z1-E-Q-C",
+    "nombre_punto": "TERCENA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUPA",
+    "subcircuito": "CUPA 1",
+    "id": "FERRETERÍA-ANDEC-Z1-E-Q-C",
+    "nombre_punto": "FERRETERÍA ANDEC"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUPA",
+    "subcircuito": "CUPA 1",
+    "id": "ASADERO-DON-BAQUE-Z1-E-Q-C",
+    "nombre_punto": "ASADERO DON BAQUE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "VALLE HERMOSO",
+    "subcircuito": "VALLE HERMOSO 3",
+    "id": "GASOLINERA-PRIMAX-Z1-E-E-V",
+    "nombre_punto": "GASOLINERA PRIMAX"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "VALLE HERMOSO",
+    "subcircuito": "VALLE HERMOSO 3",
+    "id": "GASOLINERA-PRIMAX-CASA-BONITA-Z1-E-E-V",
+    "nombre_punto": "GASOLINERA PRIMAX CASA BONITA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "QUININDE",
+    "subcircuito": "QUININDE 2",
+    "id": "CANCHA-MÚLTIPLE-3-DE-MARZO-Z1-E-Q-Q",
+    "nombre_punto": "CANCHA MÚLTIPLE 3 DE MARZO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "QUININDE",
+    "subcircuito": "QUININDE 1",
+    "id": "CENTRO-DE-SALUD-NUEVO-QUININDÉ-Z1-E-Q-Q",
+    "nombre_punto": "CENTRO DE SALUD NUEVO QUININDÉ"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "QUININDE",
+    "subcircuito": "QUININDE 1",
+    "id": "GASOLINERA-FANNY-AMÉRICA-Z1-E-Q-Q",
+    "nombre_punto": "GASOLINERA FANNY AMÉRICA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "QUININDE",
+    "subcircuito": "QUININDE 1",
+    "id": "FARMACIA-SAN-GREGORIO-Z1-E-Q-Q",
+    "nombre_punto": "FARMACIA SAN GREGORIO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "BOCANA DE BUA",
+    "subcircuito": "BOCANA DE BUA 1",
+    "id": "SUBCENTRO-DE-SALUD-BOCANA-DEL-BUA-Z1-E-Q-B",
+    "nombre_punto": "SUBCENTRO DE SALUD BOCANA DEL BUA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "BOCANA DE BUA",
+    "subcircuito": "BOCANA DE BUA 1",
+    "id": "INFOCENTRO-Z1-E-Q-B",
+    "nombre_punto": "INFOCENTRO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "BOCANA DE BUA",
+    "subcircuito": "BOCANA DE BUA 1",
+    "id": "TIENDA-ALEJANDRINA-Z1-E-Q-B",
+    "nombre_punto": "TIENDA ALEJANDRINA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUPA",
+    "subcircuito": "CUPA 1",
+    "id": "CHOZA-DOÑA-VENUS-Z1-E-Q-C",
+    "nombre_punto": "CHOZA DOÑA VENUS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUPA",
+    "subcircuito": "CUPA 1",
+    "id": "FARMACIA-FARMASALUD-Z1-E-Q-C",
+    "nombre_punto": "FARMACIA FARMASALUD"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUPA",
+    "subcircuito": "CUPA 1",
+    "id": "PANADERÍA-Y-PASTELERÍA-Z1-E-Q-C",
+    "nombre_punto": "PANADERÍA Y PASTELERÍA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUPA",
+    "subcircuito": "CUPA 1",
+    "id": "CUPA-CELL-Z1-E-Q-C",
+    "nombre_punto": "CUPA CELL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONSUPA",
+    "subcircuito": "TONSUPA 1",
+    "id": "TORRES-PLATINUM-Z1-E-A-T",
+    "nombre_punto": "TORRES PLATINUM"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "PARADA-DE-BUSES-LA-UNIÓN-QUININDE-Z1-E-Q-L",
+    "nombre_punto": "PARADA DE BUSES LA UNIÓN-QUININDE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "PARADA-DE-BUSES-LA-UNIÓN-SANTO-DOMINGO-Z1-E-Q-L",
+    "nombre_punto": "PARADA DE BUSES LA UNIÓN-SANTO DOMINGO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "PUERTO DEL CARMEN",
+    "subcircuito": "PUERTO DEL CARMEN 1",
+    "id": "PARQUE-CENTRAL-PUERTO-EL-CARMEN-Z1-S-P-P",
+    "nombre_punto": "PARQUE CENTRAL PUERTO EL CARMEN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LAS PALMAS",
+    "subcircuito": "LAS PALMAS 1",
+    "id": "LICORERÍA-D'-VALLARDO-Z1-E-E-L",
+    "nombre_punto": "LICORERÍA D' VALLARDO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "QUIROGA",
+    "subcircuito": "QUIROGA 1",
+    "id": "SAN-MARTIN-COMISARIATO-Z1-I-T-Q",
+    "nombre_punto": "SAN MARTIN COMISARIATO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 1",
+    "id": "FAMILY-MARKET-Z1-I-T-C",
+    "nombre_punto": "FAMILY MARKET"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LAS PALMAS",
+    "subcircuito": "LAS PALMAS 1",
+    "id": "LABORATORIO-MICROBIOS-Z1-E-E-L",
+    "nombre_punto": "Laboratorio MICROBIOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LAS PALMAS",
+    "subcircuito": "LAS PALMAS 1",
+    "id": "FERRETERÍA-EDSOFER-Z1-E-E-L",
+    "nombre_punto": "FERRETERÍA EDSOFER"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LAS PALMAS",
+    "subcircuito": "LAS PALMAS 1",
+    "id": "RESTAURANTE-Y-CEVICHERIA-DELICIAS-DEL-MAR-Z1-E-E-L",
+    "nombre_punto": "Restaurante y Cevicheria Delicias del Mar"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "PALMA ROJA",
+    "subcircuito": "PALMA ROJA 1",
+    "id": "GAD-PARROQUIAL-DE-SANSAHUARI-Z1-S-P-P",
+    "nombre_punto": "GAD PARROQUIAL DE SANSAHUARI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 1",
+    "id": "FERRETERÍA-ANDEC-Z1-E-E-L",
+    "nombre_punto": "ferretería Andec"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "VICHE",
+    "subcircuito": "",
+    "id": "AVENIDA-TARQUI-Z1-E-Q-V",
+    "nombre_punto": "Avenida Tarqui"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "VICHE",
+    "subcircuito": "VICHE 1",
+    "id": "GASOLINERA-Z1-E-Q-V",
+    "nombre_punto": "Gasolinera"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "SANTA MARTHA 1",
+    "id": "UNIDAD-EDUCATIVA-ANGEL-BARBIZOTI-Z1-E-E-S",
+    "nombre_punto": "UNIDAD EDUCATIVA ANGEL BARBIZOTI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 1",
+    "id": "SERVICIOS-AUTOMOTRICES-E-INDUSTRIALES-ALDAZ-Z1-S-S-S",
+    "nombre_punto": "SERVICIOS AUTOMOTRICES E INDUSTRIALES ALDAZ"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CAMARONES",
+    "subcircuito": "CAMARONES 1",
+    "id": "GASOLINERA-PRIMAX-Z1-E-E-C",
+    "nombre_punto": "Gasolinera primax"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "QUININDE",
+    "subcircuito": "QUININDE 1",
+    "id": "TIENDA-NUÑEZ-MONTAÑO-MIGUEL-Z1-E-Q-Q",
+    "nombre_punto": "TIENDA NUÑEZ MONTAÑO MIGUEL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "EL ARENAL",
+    "subcircuito": "EL ARENAL 1",
+    "id": "PAPELERIA-Y-BAZAR-DON-A-Z1-E-E-E",
+    "nombre_punto": "papeleria y bazar Don A"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL MAESTRO",
+    "subcircuito": "EL MAESTRO 1",
+    "id": "FARMACIA-MUNICIPAL-Z1-C-T-E",
+    "nombre_punto": "Farmacia municipal"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "EL ARENAL",
+    "subcircuito": "EL ARENAL 1",
+    "id": "CORTE-DE-ESMERALDAS-Z1-E-E-E",
+    "nombre_punto": "Corte de Esmeraldas"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "EL ARENAL",
+    "subcircuito": "EL ARENAL 1",
+    "id": "GASOLINERA-PETRO-ECUADOR-Z1-E-E-E",
+    "nombre_punto": "Gasolinera Petro Ecuador"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "EL ARENAL",
+    "subcircuito": "EL ARENAL 1",
+    "id": "D'MAFER-NAILS-Z1-E-E-E",
+    "nombre_punto": "D'Mafer Nails"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "SAN MATEO",
+    "subcircuito": "SAN MATEO 1",
+    "id": "SAN-MATEO-MUTILES-UNIVERSIDAD-LUIS-VARGAS-TORRES-Z1-E-E-S",
+    "nombre_punto": "San Mateo MUTILES universidad LUIS VARGAS TORRES"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "VALLE HERMOSO",
+    "subcircuito": "VALLE HERMOSO 2",
+    "id": "BODEGA-BIG-COLA-Z1-E-E-V",
+    "nombre_punto": "Bodega BIG COLA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "FORASTERO-RICAUTER-Z1-E-E-C",
+    "nombre_punto": "Forastero Ricauter"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "VALLE HERMOSO",
+    "subcircuito": "VALLE HERMOSO 3",
+    "id": "RESTAURANTE-HACIENDA-Z1-E-E-V",
+    "nombre_punto": "RESTAURANTE HACIENDA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "EL-AHORRO-Z1-E-E-B",
+    "nombre_punto": "EL AHORRO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "MR.-DOLAR-Z1-E-E-B",
+    "nombre_punto": "Mr. Dolar"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "DESPENSA-3-HERMANOS-Z1-E-E-B",
+    "nombre_punto": "DESPENSA 3 HERMANOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "NOVEDADES-CARMITA-Z1-E-E-B",
+    "nombre_punto": "NOVEDADES CARMITA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "MODA-CENTRO-Z1-E-E-B",
+    "nombre_punto": "MODA CENTRO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "DOÑA-LUSMI-Z1-E-E-B",
+    "nombre_punto": "DOÑA LUSMI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "TIA-COLON-Z1-E-E-C",
+    "nombre_punto": "Tia colon"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "ENCEBOLLADO-PUNTO-BLUE-Z1-E-E-C",
+    "nombre_punto": "Encebollado Punto blue"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z1-E-E-B",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "SELVA ALEGRE",
+    "subcircuito": "SELVA ALEGRE 2",
+    "id": "FERRETERÍA-MORALES-Z1-E-E-S",
+    "nombre_punto": "Ferretería Morales"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "VARIEDADES-SARA-Z1-E-E-B",
+    "nombre_punto": "VARIEDADES SARA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "ANCHAYACU",
+    "subcircuito": "ANCHAYACU 1",
+    "id": "LA-PRADERA-Z1-E-E-A",
+    "nombre_punto": "La pradera"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "ANCHAYACU",
+    "subcircuito": "ANCHAYACU 1",
+    "id": "VARIEDADES-HERMANOS-PJ-Z1-E-E-A",
+    "nombre_punto": "Variedades Hermanos PJ"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "SELVA ALEGRE",
+    "subcircuito": "SELVA ALEGRE 2",
+    "id": "TIENDA-MARIANITA-Z1-E-E-S",
+    "nombre_punto": "TIENDA MARIANITA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "SELVA ALEGRE",
+    "subcircuito": "SELVA ALEGRE 2",
+    "id": "TIENDA-GIRA-Z1-E-E-S",
+    "nombre_punto": "TIENDA GIRA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "CELUTRONIC-2-Z1-E-E-B",
+    "nombre_punto": "CELUTRONIC 2"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "PAÑALERA-JOSEPH-Z1-E-E-B",
+    "nombre_punto": "PAÑALERA JOSEPH"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "FARMACIAS-ECONÓMICAS-Z1-E-E-B",
+    "nombre_punto": "FARMACIAS ECONÓMICAS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "SELVA ALEGRE",
+    "subcircuito": "SELVA ALEGRE 2",
+    "id": "COMERCIAL-MORALES-Z1-E-E-S",
+    "nombre_punto": "COMERCIAL MORALES"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "BAZAR-Y-NOVEDADES-DOÑA-TOÑI-Z1-E-R-P",
+    "nombre_punto": "Bazar y novedades doña Toñi"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "CAJERO-AUTOMATICO-Z1-E-R-P",
+    "nombre_punto": "CAJERO AUTOMATICO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "MALIMPIA",
+    "subcircuito": "MALIMPIA 1",
+    "id": "ASADERO-LAS-DELICIAS-DE-DOÑA-YETTY-Z1-E-Q-M",
+    "nombre_punto": "Asadero Las Delicias de Doña Yetty"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "MUISNE",
+    "subcircuito": "MUISNE 1",
+    "id": "PARQUE-CENTRAL-DE-MUISNE-Z1-E-A-M",
+    "nombre_punto": "PARQUE CENTRAL DE MUISNE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "MUISNE",
+    "subcircuito": "MUISNE 3",
+    "id": "TRANS-ESMERALDAS-MUISNE-Z1-E-A-M",
+    "nombre_punto": "TRANS ESMERALDAS MUISNE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 3",
+    "id": "TIENDA-LA-ECONOMICA-Z1-E-R-M",
+    "nombre_punto": "TIENDA LA ECONOMICA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "PARQUE DEL 8",
+    "subcircuito": "PARQUE DEL 8 1",
+    "id": "EL-CAFECITO-DEL-SUR-Z1-C-T-P",
+    "nombre_punto": "El Cafecito del Sur"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "TERMINAL-TULCÁN-Z1-C-T-K",
+    "nombre_punto": "TERMINAL TULCÁN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "OLIMPICO",
+    "subcircuito": "OLIMPICO 1",
+    "id": "ANYMALVET-Z1-C-T-O",
+    "nombre_punto": "ANYMALVET"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "MERCADO-SAN-MIGUEL-Z1-C-T-K",
+    "nombre_punto": "MERCADO SAN MIGUEL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "LA-ESQUINA-DEL-CUY-Z1-C-T-K",
+    "nombre_punto": "La ESQUINA DEL CUY"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL MAESTRO",
+    "subcircuito": "EL MAESTRO 1",
+    "id": "MERCADO-CENTRAL-Z1-C-T-E",
+    "nombre_punto": "MERCADO CENTRAL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL MAESTRO",
+    "subcircuito": "EL MAESTRO 1",
+    "id": "MERCADO-POPULAR-VISIÓNFUND-Z1-C-T-E",
+    "nombre_punto": "MERCADO POPULAR VISIÓNFUND"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "COMUNEROS",
+    "subcircuito": "COMUNEROS 1",
+    "id": "CABINAS-WESTER-UNIÓN-Z1-C-T-C",
+    "nombre_punto": "Cabinas-Wester Unión"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA SEXTA",
+    "subcircuito": "LA SEXTA 1",
+    "id": "ESCUELA-MANUEL-CORDOVA-GALARZA-Z1-E-Q-L",
+    "nombre_punto": "Escuela Manuel Cordova Galarza"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA SEXTA",
+    "subcircuito": "LA SEXTA 1",
+    "id": "UNIDAD-EDUCATIVA-FERNANDO-CORRAL-Z1-E-Q-L",
+    "nombre_punto": "Unidad Educativa Fernando Corral"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 1",
+    "id": "RED-SOCIAL-Z1-E-A-A",
+    "nombre_punto": "RED SOCIAL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "ISIDRO AYORA",
+    "subcircuito": "ISIDRO AYORA 1",
+    "id": "FUNNY-SHOP-Z1-C-T-I",
+    "nombre_punto": "Funny shop"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "LUMBAQUI",
+    "subcircuito": "LUMBAQUI 1",
+    "id": "VARIEDAS-Y-MODISTERIA-SILVANA-Z1-S-S-L",
+    "nombre_punto": "VARIEDAS Y MODISTERIA SILVANA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "ISIDRO AYORA",
+    "subcircuito": "ISIDRO AYORA 1",
+    "id": "SANI-DENTAL-Z1-C-T-I",
+    "nombre_punto": "Sani Dental"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "LUMBAQUI",
+    "subcircuito": "LUMBAQUI 1",
+    "id": "TECNOLOGÍA-Y-BAZAR-MIA-Z1-S-S-L",
+    "nombre_punto": "TECNOLOGÍA Y BAZAR MIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "LUMBAQUI",
+    "subcircuito": "LUMBAQUI 1",
+    "id": "TERCENA-FRIGORÍFICO-JHADIEL-Z1-S-S-L",
+    "nombre_punto": "TERCENA FRIGORÍFICO JHADIEL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "LUMBAQUI",
+    "subcircuito": "LUMBAQUI 1",
+    "id": "SUPER-MOVIL-Z1-S-S-L",
+    "nombre_punto": "SUPER MOVIL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "ISIDRO AYORA",
+    "subcircuito": "ISIDRO AYORA 1",
+    "id": "WESTERN-UNION-Z1-C-T-I",
+    "nombre_punto": "Western Union"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "LUMBAQUI",
+    "subcircuito": "LUMBAQUI 1",
+    "id": "PANADERIA-Y-PASTELERIA-PASTELEITE-Z1-S-S-L",
+    "nombre_punto": "PANADERIA Y PASTELERIA PASTELEITE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SIETE DE JULIO",
+    "subcircuito": "SIETE DE JULIO 1",
+    "id": "PARADA-DE-TAXI-JIVINO-VERDE-Z1-S-S-S",
+    "nombre_punto": "PARADA DE TAXI JIVINO VERDE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SIETE DE JULIO",
+    "subcircuito": "SIETE DE JULIO 1",
+    "id": "GASOLINERA-EL-PROYECTO-DYSVANA-CIA.LTDA-Z1-S-S-S",
+    "nombre_punto": "GASOLINERA EL PROYECTO DYSVANA CIA.LTDA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "TARAPOA",
+    "subcircuito": "TARAPOA 1",
+    "id": "OFICINA-PUTUMAYO-(PARADA-DE-BUSES)-Z1-S-P-T",
+    "nombre_punto": "Oficina Putumayo (Parada de buses)"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA SEXTA",
+    "subcircuito": "LA SEXTA 1",
+    "id": "TIENDA-LISBETH-Z1-E-Q-L",
+    "nombre_punto": "Tienda Lisbeth"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "TARAPOA",
+    "subcircuito": "TARAPOA 1",
+    "id": "MULTISERVICIO-PAZ-Y-BIEN-Z1-S-P-T",
+    "nombre_punto": "Multiservicio paz y bien"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "CASCALES",
+    "subcircuito": "CASCALES 1",
+    "id": "PUNTO-FERRETERO-CASCALES-Z1-S-S-C",
+    "nombre_punto": "Punto Ferretero cascales"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "CASCALES",
+    "subcircuito": "CASCALES 1",
+    "id": "PAPELERÍA-LA-TRONCAL-Z1-S-S-C",
+    "nombre_punto": "Papelería la troncal"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "COMUNEROS",
+    "subcircuito": "COMUNEROS 1",
+    "id": "FARMACIA-LA-REBAJA-Z1-C-T-C",
+    "nombre_punto": "Farmacia La Rebaja"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL MAESTRO",
+    "subcircuito": "EL MAESTRO 1",
+    "id": "MERCADO-CEPIA-ELOY-ALFARO-Z1-C-T-E",
+    "nombre_punto": "MERCADO CEPIA ELOY ALFARO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL MAESTRO",
+    "subcircuito": "EL MAESTRO 1",
+    "id": "UPC-ANTIGUO-CIRCUITO-MAESTRO-Z1-C-T-E",
+    "nombre_punto": "UPC ANTIGUO CIRCUITO MAESTRO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "UPC-NUEVO-KENNEDY-Z1-C-T-K",
+    "nombre_punto": "UPC NUEVO KENNEDY"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "PUERTO DEL CARMEN",
+    "subcircuito": "PUERTO DEL CARMEN 1",
+    "id": "UNIDAD-EDUCATIVA-SAN-MIGUEL-DE-PUTUMAY-Z1-S-P-P",
+    "nombre_punto": "UNIDAD EDUCATIVA SAN MIGUEL DE PUTUMAY"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "PUERTO DEL CARMEN",
+    "subcircuito": "PUERTO DEL CARMEN 1",
+    "id": "COOPERATIVA-PUTUMAYO-Z1-S-P-P",
+    "nombre_punto": "COOPERATIVA PUTUMAYO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "PUERTO DEL CARMEN",
+    "subcircuito": "PUERTO DEL CARMEN 1",
+    "id": "MALECON-SAN-MIGUEL-Z1-S-P-P",
+    "nombre_punto": "MALECON SAN MIGUEL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "MALIMPIA",
+    "subcircuito": "MALIMPIA 1",
+    "id": "TIENDA-ALISSON-MALIMPIA-Z1-E-Q-M",
+    "nombre_punto": "TIENDA ALISSON MALIMPIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "TARAPOA",
+    "subcircuito": "TARAPOA 1",
+    "id": "GAD-MUNICIPAL-Z1-S-P-T",
+    "nombre_punto": "GAD MUNICIPAL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "EL NOGAL",
+    "subcircuito": "EL NOGAL 1",
+    "id": "PLAZA-ELEODORO-AYALA-Z1-I-C-E",
+    "nombre_punto": "PLAZA ELEODORO AYALA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "TARAPOA",
+    "subcircuito": "TARAPOA 1",
+    "id": "UNIDAD-EDUCATIVA-CUYABENO-BLOQUE-2-Z1-S-P-T",
+    "nombre_punto": "Unidad Educativa Cuyabeno bloque 2"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "SAN PEDRO DE HUACA",
+    "subcircuito": "SAN PEDRO DE HUACA 1",
+    "id": "PETROECUADOR-HUACA-Z1-C-T-S",
+    "nombre_punto": "Petroecuador Huaca"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL MAESTRO",
+    "subcircuito": "EL MAESTRO 1",
+    "id": "REGISTRO-CIVIL-Z1-C-T-E",
+    "nombre_punto": "REGISTRO CIVIL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "ARCANGEL",
+    "subcircuito": "ARCANGEL 1",
+    "id": "CASA-DEL-ARBOL---YAHUARCOCHA-Z1-I-C-A",
+    "nombre_punto": "CASA DEL ARBOL YAHUARCOCHA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONCHIGUE",
+    "subcircuito": "TONCHIGUE 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z1-E-A-T",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "SAN PEDRO DE HUACA",
+    "subcircuito": "SAN PEDRO DE HUACA 1",
+    "id": "TIENDA-SAN-FRANCISCO-Z1-C-T-S",
+    "nombre_punto": "TIENDA SAN FRANCISCO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "AMAZONAS",
+    "subcircuito": "AMAZONAS 2",
+    "id": "BANCO-PICHINCHA-Z1-I-C-A",
+    "nombre_punto": "BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LOS CEIBOS",
+    "subcircuito": "LOS CEIBOS 1",
+    "id": "SUPERMERCADO-EL-RETORNO-Z1-I-C-L",
+    "nombre_punto": "Supwr"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "AZAYA",
+    "subcircuito": "AZAYA 1",
+    "id": "MERCADO-MAYORISTA-Z1-I-C-A",
+    "nombre_punto": "MERCADO MAYORISTA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 2",
+    "id": "MERCADO-ARTESANAL-PARQUE-CIUDAD-BLANCA-Z1-I-C-L",
+    "nombre_punto": "MERCADO ARTESANAL PARQUE CIUDAD BLANCA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "JULIO ANDRADE",
+    "subcircuito": "JULIO ANDRADE 2",
+    "id": "COLISEO-CARMELO-Z1-C-T-J",
+    "nombre_punto": "Coliseo Carmelo"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "NUEVO SUCUMBIOS",
+    "subcircuito": "NUEVO SUCUMBIOS 1",
+    "id": "ENVÍA-RAPIDÍSIMO-Z1-S-L-N",
+    "nombre_punto": "Envía rapidísimo"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "EL ENO",
+    "subcircuito": "EL ENO 1",
+    "id": "CYBER-LAURITA-Z1-S-L-E",
+    "nombre_punto": "CYBER LAURITA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "GENERAL FARFAN",
+    "subcircuito": "GENERAL FARFAN 1",
+    "id": "COMERCIAL-TITO-Z1-S-L-G",
+    "nombre_punto": "COMERCIAL TITO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "NUEVO SUCUMBIOS",
+    "subcircuito": "NUEVO SUCUMBIOS 1",
+    "id": "HOTEL-REY-SALOMON-Z1-S-L-N",
+    "nombre_punto": "HOTEL REY SALOMON"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "PARQUE ECOLOGICO",
+    "subcircuito": "PARQUE ECOLOGICO 1",
+    "id": "GRAN-AKI-Z1-S-L-P",
+    "nombre_punto": "GRAN AKI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "PARQUE ECOLOGICO",
+    "subcircuito": "PARQUE ECOLOGICO 1",
+    "id": "FARMACIA-SANA-SANA-Z1-S-L-P",
+    "nombre_punto": "FARMACIA SANA SANA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "NUEVO SUCUMBIOS",
+    "subcircuito": "NUEVO SUCUMBIOS 1",
+    "id": "MUNDO-SPORT-JOAN-Z1-S-L-N",
+    "nombre_punto": "MUNDO SPORT JOAN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 1",
+    "id": "COMERCIAL-PAUTA-Z1-S-S-S",
+    "nombre_punto": "Comercial Pauta"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LA PRIMAVERA",
+    "subcircuito": "LA PRIMAVERA 1",
+    "id": "TIENDA-MELISA-Z1-S-S-L",
+    "nombre_punto": "Tienda Melisa"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LIMONCOCHA",
+    "subcircuito": "LIMONCOCHA 1",
+    "id": "YESYUNE-Z1-S-S-L",
+    "nombre_punto": "Yesyune"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LIMONCOCHA",
+    "subcircuito": "LIMONCOCHA 1",
+    "id": "JEYSLI-Z1-S-S-L",
+    "nombre_punto": "Jeysli"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LIMONCOCHA",
+    "subcircuito": "LIMONCOCHA 1",
+    "id": "JEYSLADY-PELUQUERIA-Z1-S-S-L",
+    "nombre_punto": "JEYSLADY PELUQUERIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LIMONCOCHA",
+    "subcircuito": "LIMONCOCHA 1",
+    "id": "VÍVERES-SEBASTIÁN-Z1-S-S-L",
+    "nombre_punto": "Víveres Sebastián"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONSUPA",
+    "subcircuito": "TONSUPA 1",
+    "id": "JEFATURA-DE-ANTINARCOTICOS-Z1-E-A-T",
+    "nombre_punto": "JEFATURA DE ANTINARCOTICOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "HOTEL-EL-CISNE-1,,,,,CALLES-10-DE-AGOSTO-ENTRE-OLMEDO-Y-COLON-Z1-E-E-C",
+    "nombre_punto": "HOTEL EL CISNE 1,,,,,CALLES 10 DE AGOSTO ENTRE OLMEDO Y COLON"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "SANTA CECILIA",
+    "subcircuito": "SANTA CECILIA 2",
+    "id": "FARMACIA-COMUNIDAD-Z1-S-L-S",
+    "nombre_punto": "FARMACIA COMUNIDAD"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "COMPLEJO DEPORTIVO",
+    "subcircuito": "COMPLEJO DEPORTIVO 1",
+    "id": "DISFRUTA-JUGUERIA-Z1-I-C-C",
+    "nombre_punto": "Disfruta Jugueria"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "LAS PALMERAS",
+    "subcircuito": "LAS PALMERAS 2",
+    "id": "TIENDA-LEYDI-Z1-S-L-L",
+    "nombre_punto": "Tienda Leydi"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "TARAPOA",
+    "subcircuito": "TARAPOA 1",
+    "id": "TIENDA-COMERCIAL-JAVIER-Z1-S-P-T",
+    "nombre_punto": "Tienda comercial Javier"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "EL ANGEL",
+    "subcircuito": "EL ANGEL 1",
+    "id": "NUTRA-BOS-Z1-C-E-E",
+    "nombre_punto": "Nutra Bos"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "QUININDE",
+    "subcircuito": "QUININDE 2",
+    "id": "STYLE-LULU-Z1-E-Q-Q",
+    "nombre_punto": "STYLE LULU"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL NORTE",
+    "subcircuito": "SAN GABRIEL NORTE 1",
+    "id": "UNIDAD-EDUCATIVA-JOSÉ-JULIÁN-ANDRADE-SEDE-1-Z1-C-M-S",
+    "nombre_punto": "Unidad educativa José Julián Andrade Sede 1"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "BORBON",
+    "subcircuito": "BORBON 1",
+    "id": "SHANN-MARCHE-Z1-E-E-B",
+    "nombre_punto": "SHANN MARCHE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LA PRIMAVERA",
+    "subcircuito": "LA PRIMAVERA 1",
+    "id": "SUPERMERCADO-SUMESA-Z1-S-S-L",
+    "nombre_punto": "Supermercado Sumesa"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "RAGOX-CELL-Z1-E-S-F",
+    "nombre_punto": "RAGOX CELL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "REGISTRO-CIVIL-Z1-E-R-P",
+    "nombre_punto": "REGISTRO CIVIL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "ISIDRO AYORA",
+    "subcircuito": "ISIDRO AYORA 1",
+    "id": "VÍVERES-LA-HABANA-Z1-C-T-I",
+    "nombre_punto": "VÍVERES LA HABANA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "PARQUE DEL 8",
+    "subcircuito": "PARQUE DEL 8 1",
+    "id": "RESTAURANTE-LA-PLAYA-Z1-C-T-P",
+    "nombre_punto": "RESTAURANTE LA PLAYA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "CASCALES",
+    "subcircuito": "CASCALES 1",
+    "id": "CAFETERÍA-SAN-MIGUEL-Z1-S-S-C",
+    "nombre_punto": "Cafetería San Miguel"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 1",
+    "id": "PARQUE-SAN-FRANCISCO-Z1-I-T-C",
+    "nombre_punto": "Parque San Francisco"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "LUMBAQUI",
+    "subcircuito": "LUMBAQUI 1",
+    "id": "LIBRERÍA-Y-BAZAR-OMARCITO-Z1-S-S-L",
+    "nombre_punto": "Librería y Bazar Omarcito"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 2",
+    "id": "BANCO-PICHINCHA-Z1-E-A-A",
+    "nombre_punto": "Banco Pichincha"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "TUTI-Z1-C-M-S",
+    "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "TURKEY-Z1-E-Q-L",
+    "nombre_punto": "TURKEY"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "ASADERO-DE-CUYES-EL-SABOR-Z1-C-T-K",
+    "nombre_punto": "Asadero de Cuyes El Sabor"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "MIRA",
+    "subcircuito": "MIRA 1",
+    "id": "MINIMARKET-DULCE-TRADICIÓN-Z1-C-E-M",
+    "nombre_punto": "Minimarket Dulce Tradición"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 2",
+    "id": "COMERCIAL-TERESITA-Z1-S-S-S",
+    "nombre_punto": "COMERCIAL TERESITA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 1",
+    "id": "COMERCIAL-DON-ANTONIO-Z1-E-S-F",
+    "nombre_punto": "COMERCIAL DON ANTONIO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONCHIGUE",
+    "subcircuito": "TONCHIGUE 2",
+    "id": "PANADERÍA-LUIS-Z1-E-A-T",
+    "nombre_punto": "Panadería Luis"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "QUIROGA",
+    "subcircuito": "QUIROGA 1",
+    "id": "PARQUE-QUIROGA-Z1-I-T-Q",
+    "nombre_punto": "PARQUE QUIROGA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "EL DORADO",
+    "subcircuito": "EL DORADO 1",
+    "id": "PANADERÍA-GUSTA-PANES-Z1-S-L-E",
+    "nombre_punto": "Panadería GUSTA PANES"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "MIRADOR-DE-RIOVERDE-Z1-E-R-P",
+    "nombre_punto": "MIRADOR DE RIOVERDE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "RESTAURANTE-BRISA-MAR-Z1-E-R-P",
+    "nombre_punto": "RESTAURANTE BRISA MAR"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "COLECTIVA",
+    "subcircuito": "COLECTIVA 1",
+    "id": "FERRETERÍA-M&M-Z1-E-E-C",
+    "nombre_punto": "Ferretería M&M"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "CASCALES",
+    "subcircuito": "CASCALES 1",
+    "id": "VÍVERES-DANIELITA-Z1-S-S-C",
+    "nombre_punto": "Víveres Danielita"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "NUEVO SUCUMBIOS",
+    "subcircuito": "NUEVO SUCUMBIOS 1",
+    "id": "PUNTO-CEL-Z1-S-L-N",
+    "nombre_punto": "Punto Cel"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "MEGAREGALON-Z1-E-S-F",
+    "nombre_punto": "MEGAREGALON"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 1",
+    "id": "CENTRO-DE-SALUD-URBANO-LOS-BOSQUE-Z1-S-S-S",
+    "nombre_punto": "Centro de Salud Urbano Los Bosques"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 1",
+    "id": "HOTEL-MARIMBA-Z1-E-A-A",
+    "nombre_punto": "HOTEL MARIMBA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "ROSA ZARATE",
+    "subcircuito": "ROSA ZARATE 1",
+    "id": "GRAN-CINCUENTAZO-COLOMBIANO-Z1-E-Q-R",
+    "nombre_punto": "Gran cincuentazo colombiano"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "PALMA ROJA",
+    "subcircuito": "PALMA ROJA 1",
+    "id": "PARADA-DE-BUSES-REDONDEL-TIPISCA-Z1-S-P-P",
+    "nombre_punto": "PARADA DE BUSES REDONDEL TIPISCA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "CENTRO-DE-SALUD-TIPO-C-Z1-E-R-P",
+    "nombre_punto": "CENTRO DE SALUD TIPO C"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "LUMBAQUI",
+    "subcircuito": "LUMBAQUI 1",
+    "id": "TIENDA-MOLINA-Z1-S-S-L",
+    "nombre_punto": "TIENDA MOLINA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "PUNTO-DE-LA-BELLEZA-Z1-E-S-F",
+    "nombre_punto": "PUNTO DE LA BELLEZA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CAMARONES",
+    "subcircuito": "CAMARONES 1",
+    "id": "AGROAVICOLA-JOSUE-Z1-E-E-C",
+    "nombre_punto": "AGROAVICOLA JOSUE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LA PRIMAVERA",
+    "subcircuito": "LA PRIMAVERA 1",
+    "id": "AP-MOVIL-Z1-S-S-L",
+    "nombre_punto": "AP MOVIL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "LAS PALMERAS",
+    "subcircuito": "LAS PALMERAS 2",
+    "id": "TECNICENTRO-GENERAL-Z1-S-L-L",
+    "nombre_punto": "Tecnicentro General"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 1",
+    "id": "GASOLINERA-ARTESANAL-ROCAFUERTE-Z1-E-R-M",
+    "nombre_punto": "GASOLINERA ARTESANAL ROCAFUERTE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 2",
+    "id": "MERCADO-Z1-I-T-C",
+    "nombre_punto": "Mercado"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "MUISNE",
+    "subcircuito": "MUISNE 1",
+    "id": "BANCO-DEL-FOMENTO-Z1-E-A-M",
+    "nombre_punto": "BANCO DEL FOMENTO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "COLECTIVA",
+    "subcircuito": "COLECTIVA 1",
+    "id": "UNIVERSIDAD-LUIS-VARGAS-TORRES-Z1-E-E-C",
+    "nombre_punto": "Universidad Luis Vargas Torres"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "ROSA ZARATE",
+    "subcircuito": "ROSA ZARATE 1",
+    "id": "TIENDA-GUTIÉRREZ-Z1-E-Q-R",
+    "nombre_punto": "TIENDA GUTIÉRREZ"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "PARQUE ECOLOGICO",
+    "subcircuito": "PARQUE ECOLOGICO 1",
+    "id": "FARMACIAS-COMUNITARIAS-Z1-S-L-P",
+    "nombre_punto": "Farmacias comunitarias"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "EL DORADO",
+    "subcircuito": "EL DORADO 1",
+    "id": "CENTROCOLOR-Z1-S-L-E",
+    "nombre_punto": "Centrocolor"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "AGROFUTURO-Z1-C-M-S",
+    "nombre_punto": "AGROFUTURO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "AGRÍCOLA-EL-CAMPO-Z1-C-M-S",
+    "nombre_punto": "AGRÍCOLA EL CAMPO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "TODO-A-5-Z1-E-S-F",
+    "nombre_punto": "TODO A 5"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "TARAPOA",
+    "subcircuito": "TARAPOA 1",
+    "id": "UNIDAD-EDUCATIVA-CUYABENO-BACHILLERATO-Z1-S-P-T",
+    "nombre_punto": "Unidad educativa Cuyabeno Bachillerato"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "MUNICIPIO-DEL-CANTÓN-RIOVERDE-Z1-E-R-P",
+    "nombre_punto": "MUNICIPIO DEL CANTÓN RIOVERDE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "RIOVERDE-Z1-E-R-P",
+    "nombre_punto": "RIOVERDE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 2",
+    "id": "SUPER-TILAPIA-Z1-I-T-C",
+    "nombre_punto": "Super Tilapia"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 3",
+    "id": "FARMACIA-AL-VITA-Z1-E-E-L",
+    "nombre_punto": "FARMACIA AL VITA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 2",
+    "id": "DISENSA-EL-FERRETERO-Z1-S-S-S",
+    "nombre_punto": "DISENSA EL FERRETERO"
+  }
+]
