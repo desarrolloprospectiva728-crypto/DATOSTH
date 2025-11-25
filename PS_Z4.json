@@ -1,1 +1,6320 @@
-
+[
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "CASCOL",
+    "subcircuito": "CASCOL 1",
+    "id": "CEVICHERIA-RESAKA-Z4-M-P-C",
+    "nombre_punto": "CEVICHERIA RESAKA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "CASCOL",
+    "subcircuito": "CASCOL 1",
+    "id": "MARKET-TITO-JUNIOR-Z4-M-P-C",
+    "nombre_punto": "MARKET TITO JUNIOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "LASCANO",
+    "subcircuito": "LASCANO 1",
+    "id": "CIRCUITO-LASCANO-Z4-M-P-L",
+    "nombre_punto": "CIRCUITO LASCANO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "PAPELERÍA-LIBERTADOR-Z4-S-L-M",
+    "nombre_punto": "PAPELERÍA LIBERTADOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "CRUCITA",
+    "subcircuito": "CRUCITA 1",
+    "id": "GAD-PARROQUIAL-Z4-M-P-C",
+    "nombre_punto": "GAD PARROQUIAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "ALEJO-Z4-S-L-M",
+    "nombre_punto": "ALEJO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "CAMPOZANO",
+    "subcircuito": "CAMPOZANO 1",
+    "id": "RECINTO-SANTA-BARBARA-Z4-M-P-C",
+    "nombre_punto": "RECINTO SANTA BARBARA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "ALAJUELA",
+    "subcircuito": "ALAJUELA 2",
+    "id": "FERRETERIA-MOREIRA-Z4-M-P-A",
+    "nombre_punto": "FERRETERIA MOREIRA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "NUEVO PORTOVIEJO",
+    "subcircuito": "NUEVO PORTOVIEJO 1",
+    "id": "LENIN-BIKES-SECTOR-HOSPITAL-Z4-M-P-N",
+    "nombre_punto": "LENIN BIKES-SECTOR HOSPITAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PICOAZA",
+    "subcircuito": "PICOAZA 2",
+    "id": "NOVEDADES-ANAHI-Z4-M-P-P",
+    "nombre_punto": "NOVEDADES ANAHI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PICOAZA",
+    "subcircuito": "PICOAZA 2",
+    "id": "LOCAL-COMERCIAL-ANAHI-Z4-M-P-P",
+    "nombre_punto": "LOCAL COMERCIAL ANAHI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "LOS CEREZOS",
+    "subcircuito": "LOS CEREZOS 2",
+    "id": "FARMACIA-SANTA-MARTHA-Z4-M-P-L",
+    "nombre_punto": "FARMACIA SANTA MARTHA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "MEJIA",
+    "subcircuito": "MEJIA 1",
+    "id": "RESTAURAN-MARGOTH-Z4-M-P-M",
+    "nombre_punto": "RESTAURAN MARGOTH"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "SUPERMERCADO-TODYCASA-Z4-M-P-P",
+    "nombre_punto": "SUPERMERCADO  TODYCASA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "SAN PABLO",
+    "subcircuito": "",
+    "id": "SU-FERRETERIA-CAMILA-Z4-M-P-S",
+    "nombre_punto": "SU FERRETERIA CAMILA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "COLON",
+    "subcircuito": "COLON 1",
+    "id": "MINIMARKET-JUNTO-AQUI-Z4-M-P-C",
+    "nombre_punto": "MINIMARKET JUNTO AQUI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN ANDRES",
+    "subcircuito": "SAN ANDRES 1",
+    "id": "FARMACIA-ECONÓMICA-SAN-ANDRÉS-Z4-M-C-S",
+    "nombre_punto": "FARMACIA ECONÓMICA SAN ANDRÉS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "FUENTE-DE-SODA-Z4-S-L-M",
+    "nombre_punto": "FUENTE DE SODA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN ANDRES",
+    "subcircuito": "SAN ANDRES 1",
+    "id": "GASOLINERA-SAN-ANDRES-Z4-M-C-S",
+    "nombre_punto": "GASOLINERA SAN ANDRES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "UNIDAD-JUDICIAL-MULTI-COMPETENTE-CONSEJO-DE-LA-JUDICATURA-PEDERNALES-MANABÍ-Z4-M-P-P",
+    "nombre_punto": "UNIDAD JUDICIAL MULTI COMPETENTE CONSEJO DE LA JUDICATURA PEDERNALES MANABÍ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "CENTRO-HIDROELÉCTRICO-A&Y-Z4-M-P-P",
+    "nombre_punto": "CENTRO  HIDROELÉCTRICO A&Y"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "GASOLINERA-PETRORIOS-Z4-M-P-P",
+    "nombre_punto": "GASOLINERA PETRORIOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "GASOLINERA-\"PAMAVI\"-Z4-M-P-P",
+    "nombre_punto": "GASOLINERA \"PAMAVI\""
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 1",
+    "id": "A-LO-CRIOLLO-Z4-S-S-E",
+    "nombre_punto": "A LO CRIOLLO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "JAMA",
+    "subcircuito": "JAMA 1",
+    "id": "UNIDAD-JUDICIAL-MULTICOMPETENTE-DEL-CANTÓN-JAMA-Z4-M-P-J",
+    "nombre_punto": "UNIDAD JUDICIAL MULTICOMPETENTE DEL CANTÓN JAMA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "NOTARÍA-1-CANTÓN-PEDERNALES-DR.-GERARDO-LEONEL-ALARCÓN-GUILLÉN-Z4-M-P-P",
+    "nombre_punto": "NOTARÍA 1 CANTÓN PEDERNALES DR. GERARDO LEONEL ALARCÓN GUILLÉN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "JAMA",
+    "subcircuito": "JAMA 1",
+    "id": "CENTRO-DE-SALUD-DEL-CANTÓN-JAMA-Z4-M-P-J",
+    "nombre_punto": "CENTRO DE SALUD DEL CANTÓN JAMA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 4",
+    "id": "HOSPITAL-DE-ESPECIALIDADES-Z4-M-P-E",
+    "nombre_punto": "HOSPITAL DE ESPECIALIDADES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "JAMA",
+    "subcircuito": "JAMA 1",
+    "id": "GASOLINERA-P&S-SILMOD-Z4-M-P-J",
+    "nombre_punto": "GASOLINERA P&S SILMOD"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "DESPENSA-SAN-ANTONIO-Z4-M-C-R",
+    "nombre_punto": "DESPENSA SAN ANTONIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "NUTRIL-Z4-S-L-M",
+    "nombre_punto": "NUTRIL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "BOYACA",
+    "subcircuito": "BOYACA 1",
+    "id": "TIENDA-ABASTOS-MARCO-Z4-M-C-B",
+    "nombre_punto": "TIENDA ABASTOS MARCO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "BOYACA",
+    "subcircuito": "BOYACA 1",
+    "id": "TIENDA-4-HERMANOS-Z4-M-C-B",
+    "nombre_punto": "TIENDA 4 HERMANOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "SAN ANTONIO 1",
+    "id": "TIENDA-SUPER-BARATON-Z4-M-C-S",
+    "nombre_punto": "TIENDA SUPER BARATON"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "SAN ANTONIO 1",
+    "id": "TIENDA-CENTRO-ORO-Z4-M-C-S",
+    "nombre_punto": "TIENDA CENTRO ORO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "PATACONES-PISADO-JIIS-Z4-M-R-R",
+    "nombre_punto": "PATACONES PISADO JIIS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "COJIMIES",
+    "subcircuito": "COJIMIES 1",
+    "id": "COJIMIES-Z4-M-P-C",
+    "nombre_punto": "COJIMIES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "KENO-Z4-S-L-M",
+    "nombre_punto": "KENO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "ZONA-FRÍA-Z4-S-L-M",
+    "nombre_punto": "ZONA FRÍA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "PARQUE-CENTRAL-DE-PEDERNALES-Z4-M-P-P",
+    "nombre_punto": "PARQUE CENTRAL DE PEDERNALES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "CENTRO-DE-SALUD-TIPO-B-PEDERNALES-Z4-M-P-P",
+    "nombre_punto": "CENTRO DE SALUD TIPO B PEDERNALES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "FISCALÌA-GENERAL-DEL-ESTADO-DE-PEDERNALES-Z4-M-P-P",
+    "nombre_punto": "FISCALÌA GENERAL DEL ESTADO DE PEDERNALES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "DELICREAM-Z4-M-R-R",
+    "nombre_punto": "DELICREAM"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "PATACON-PISADO-JIIS-Z4-M-R-R",
+    "nombre_punto": "PATACON PISADO JIIS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "MI-PASTELITO-Z4-M-R-R",
+    "nombre_punto": "MI PASTELITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "CITIOFER-Z4-M-R-R",
+    "nombre_punto": "CITIOFER"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "YOGURT-ARABE-Z4-S-L-C",
+    "nombre_punto": "YOGURT ARABE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "PAPELERÍA-LIBERTADOR-Z4-S-L-C",
+    "nombre_punto": "PAPELERÍA LIBERTADOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "MOTOS-MATIAS-Z4-S-L-M",
+    "nombre_punto": "MOTOS MATIAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "CHAMPIONS-Z4-S-L-M",
+    "nombre_punto": "CHAMPIONS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "ORIGAMI-Z4-S-L-C",
+    "nombre_punto": "ORIGAMI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "MR.PAN-Z4-S-L-C",
+    "nombre_punto": "MR.PAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARIA",
+    "subcircuito": "SANTA MARIA 1",
+    "id": "TENENCIA-POLÍTICA-DE-SANTA-MARÍA-DEL-TOACHI-Z4-S-S-S",
+    "nombre_punto": "TENENCIA POLÍTICA DE SANTA MARÍA DEL TOACHI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARIA",
+    "subcircuito": "SANTA MARIA 1",
+    "id": "BAZAR-TAÑITA-Z4-S-S-S",
+    "nombre_punto": "BAZAR TAÑITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "PAPELERÍA-ALISS-Z4-S-L-C",
+    "nombre_punto": "PAPELERÍA ALISS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "BARBERSHO-Z4-S-L-M",
+    "nombre_punto": "BARBERSHO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 1",
+    "id": "VÍVERES-JUAN-JOHAN-ALISS-Z4-S-S-E",
+    "nombre_punto": "VÍVERES JUAN JOHAN ALISS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 1",
+    "id": "FUL-PAGOS-Z4-S-S-E",
+    "nombre_punto": "FUL PAGOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "VARIEDADES-ISABEL-Z4-S-L-M",
+    "nombre_punto": "VARIEDADES ISABEL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 1",
+    "id": "TIDAG-Z4-S-S-E",
+    "nombre_punto": "TIDAG"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "VÍVERES-SUSANITA-Z4-S-S-B",
+    "nombre_punto": "VÍVERES SUSANITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "VALLE HERMOSO",
+    "subcircuito": "VALLE HERMOSO 1",
+    "id": "CYBER-INTERBETZY-Z4-S-S-V",
+    "nombre_punto": "CYBER INTERBETZY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "CHILA",
+    "subcircuito": "CHILA 1",
+    "id": "PAPAS-FREIRE-Z4-S-S-C",
+    "nombre_punto": "PAPAS FREIRE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "EL ESFUERZO",
+    "subcircuito": "EL ESFUERZO 1",
+    "id": "IGLESIA-SAN-VICENTE-DE-PAUL-Z4-S-S-E",
+    "nombre_punto": "IGLESIA SAN VICENTE DE PAUL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "VALLE HERMOSO",
+    "subcircuito": "VALLE HERMOSO 1",
+    "id": "COMERCIAL-ARIEL-Z4-S-S-V",
+    "nombre_punto": "COMERCIAL ARIEL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "EL ESFUERZO",
+    "subcircuito": "EL ESFUERZO 1",
+    "id": "TENENCIA-POLITICA-EL-ESFUERZO-Z4-S-S-E",
+    "nombre_punto": "TENENCIA POLITICA EL ESFUERZO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "CHILA",
+    "subcircuito": "CHILA 1",
+    "id": "FERRETERÍA-BV-Z4-S-S-C",
+    "nombre_punto": "FERRETERÍA BV"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "CHILA",
+    "subcircuito": "CHILA 1",
+    "id": "COMEDOR-Z4-S-S-C",
+    "nombre_punto": "COMEDOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CARMEN",
+    "subcircuito": "EL CARMEN 1",
+    "id": "DISPENSA-EL-CISNE-Z4-M-E-E",
+    "nombre_punto": "DISPENSA EL CISNE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CARMEN",
+    "subcircuito": "EL CARMEN 2",
+    "id": "TIENDA-ROLDAN-Z4-M-E-E",
+    "nombre_punto": "TIENDA ROLDAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CARMEN",
+    "subcircuito": "EL CARMEN 2",
+    "id": "MUNICIPIO-DEL-CANTÓN-EL-CARMEN-Z4-M-E-E",
+    "nombre_punto": "MUNICIPIO DEL CANTÓN EL CARMEN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CARMEN",
+    "subcircuito": "EL CARMEN 3",
+    "id": "TERMINAL-TERRESTRE-EL-CARMEN-Z4-M-E-E",
+    "nombre_punto": "TERMINAL TERRESTRE EL CARMEN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "EL TOACHI",
+    "subcircuito": "EL TOACHI 2",
+    "id": "GASOLINERA-PETRO-ECUADOR-Z4-S-S-E",
+    "nombre_punto": "GASOLINERA PETRO ECUADOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CARMEN",
+    "subcircuito": "EL CARMEN 2",
+    "id": "CÁMARA-DE-COMERCIO-EL-CARMEN-Z4-M-E-E",
+    "nombre_punto": "CÁMARA DE COMERCIO EL CARMEN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "EL TOACHI",
+    "subcircuito": "EL TOACHI 1",
+    "id": "GASOLINERA-PETROLRIOS-RIO-TOACHI-Z4-S-S-E",
+    "nombre_punto": "GASOLINERA PETROLRIOS RIO TOACHI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CARMEN",
+    "subcircuito": "EL CARMEN 2",
+    "id": "MERCADO-CENTRAL-EL-CARMEN-Z4-M-E-E",
+    "nombre_punto": "MERCADO CENTRAL EL CARMEN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "EL TOACHI",
+    "subcircuito": "EL TOACHI 1",
+    "id": "GYM-ARTES-MARCIALES-COMPANY-FIGHT-Z4-S-S-E",
+    "nombre_punto": "GYM ARTES MARCIALES COMPANY FIGHT"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CARMEN",
+    "subcircuito": "EL CARMEN 2",
+    "id": "ALMACENES-TIA-Z4-M-E-E",
+    "nombre_punto": "ALMACENES TIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CARMEN",
+    "subcircuito": "EL CARMEN 2",
+    "id": "COMERCIAL-DIANITA-Z4-M-E-E",
+    "nombre_punto": "COMERCIAL DIANITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CARMEN",
+    "subcircuito": "EL CARMEN 3",
+    "id": "TUTI-Z4-M-E-E",
+    "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "GALOSINERA-PRIMAX-Z4-S-S-B",
+    "nombre_punto": "GALOSINERA PRIMAX"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CHAPARRAL",
+    "subcircuito": "EL CHAPARRAL 1",
+    "id": "COMERCIAL-MULTIMARKET-Z4-M-E-E",
+    "nombre_punto": "COMERCIAL MULTIMARKET"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "PELUQUERÍA-CANINA-Z4-S-L-C",
+    "nombre_punto": "PELUQUERÍA CANINA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "KENO-SALON-DE-JUEGOS-Z4-S-L-M",
+    "nombre_punto": "KENO SALON DE JUEGOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "CONTRUCCIÓN-Y-REPARACIÓN-VIDRIOS-Y-ESPEJOS-Z4-S-L-M",
+    "nombre_punto": "CONTRUCCIÓN Y REPARACIÓN VIDRIOS Y ESPEJOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL PROLETARIADO",
+    "subcircuito": "EL PROLETARIADO 1",
+    "id": "VÍVERES-ALEJANDRA-Z4-S-S-E",
+    "nombre_punto": "VÍVERES ALEJANDRA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "CLARO-Z4-S-L-M",
+    "nombre_punto": "CLARO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "FERRETERÍA-AC-Z4-S-L-M",
+    "nombre_punto": "FERRETERÍA AC"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "PANADERÍA-BENDICIÓN-DE-DIOS-Z4-S-L-M",
+    "nombre_punto": "PANADERÍA BENDICIÓN DE DIOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL PROLETARIADO",
+    "subcircuito": "EL PROLETARIADO 2",
+    "id": "CYBER-LINABYR2-Z4-S-S-E",
+    "nombre_punto": "CYBER LINABYR2"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "AGROPECUARIA-GABRIELA-Z4-S-L-M",
+    "nombre_punto": "AGROPECUARIA GABRIELA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL PROLETARIADO",
+    "subcircuito": "EL PROLETARIADO 2",
+    "id": "VÍVERES-SAID-Z4-S-S-E",
+    "nombre_punto": "VÍVERES SAID"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "PAGO-ÁGIL-Z4-S-L-M",
+    "nombre_punto": "PAGO ÁGIL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "FARMACIA-SAN-GREGORIO-Z4-S-L-M",
+    "nombre_punto": "FARMACIA SAN GREGORIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 1",
+    "id": "CYBER-PAPELERÍA-ALEJANDRITO-Z4-S-L-M",
+    "nombre_punto": "CYBER PAPELERÍA ALEJANDRITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL PROLETARIADO",
+    "subcircuito": "EL PROLETARIADO 2",
+    "id": "TIENDA-EL-TORITO-Z4-S-S-E",
+    "nombre_punto": "TIENDA EL TORITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL PROLETARIADO",
+    "subcircuito": "EL PROLETARIADO 1",
+    "id": "FERRETERÍA-H&G-Z4-S-S-E",
+    "nombre_punto": "FERRETERÍA H&G"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 3",
+    "id": "MERCADO-MUNICIPAL-Z4-S-S-C",
+    "nombre_punto": "MERCADO MUNICIPAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 2",
+    "id": "KYG-Z4-S-L-M",
+    "nombre_punto": "KYG"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 2",
+    "id": "LUBRICADORA-SANDOVAL-Z4-S-L-M",
+    "nombre_punto": "LUBRICADORA SANDOVAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CRISTO VIVE",
+    "subcircuito": "CRISTO VIVE 1",
+    "id": "GASOLINERA-UNITAXIS-Z4-S-S-C",
+    "nombre_punto": "GASOLINERA UNITAXIS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 2",
+    "id": "PANADERÍA-MIA-ISABELLA-Z4-S-L-M",
+    "nombre_punto": "PANADERÍA MIA ISABELLA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CRISTO VIVE",
+    "subcircuito": "CRISTO VIVE 1",
+    "id": "SUBCENTRO-DE-SALUD-CRISTO-VIVE-Z4-S-S-C",
+    "nombre_punto": "SUBCENTRO DE SALUD CRISTO VIVE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 2",
+    "id": "COMERCIAL-KENMELL-Z4-S-L-M",
+    "nombre_punto": "COMERCIAL KENMELL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 2",
+    "id": "PANADERÍA-Y-PASTELERÍA-BON-PAN-Z4-S-L-M",
+    "nombre_punto": "PANADERÍA Y PASTELERÍA BON PAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 1",
+    "id": "PALACIO-DEL-ASESORIO-Z4-S-S-E",
+    "nombre_punto": "PALACIO DEL ASESORIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 3",
+    "id": "REGISTRO-DE-PROPIEDAD-Z4-S-S-C",
+    "nombre_punto": "REGISTRO DE PROPIEDAD"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "HOSPITAL-GUSTAVO-DOMÍNGUEZ-Z4-S-S-C",
+    "nombre_punto": "HOSPITAL GUSTAVO DOMÍNGUEZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 3",
+    "id": "FISCALÍA-Z4-S-S-C",
+    "nombre_punto": "FISCALÍA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 3",
+    "id": "ALMACÉN-TIA-Z4-S-S-C",
+    "nombre_punto": "ALMACÉN TIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "MONTERREY",
+    "subcircuito": "MONTERREY 2",
+    "id": "COMERCIAL-GENERAL-Z4-S-L-M",
+    "nombre_punto": "COMERCIAL GENERAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "PARQUE-SAN-JACINTO-Z4-M-P-P",
+    "nombre_punto": "PARQUE SAN JACINTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LA LORENA",
+    "subcircuito": "LA LORENA 1",
+    "id": "MEGA-MADERAS-SUCURSAL-4-Z4-S-S-L",
+    "nombre_punto": "MEGA MADERAS SUCURSAL 4"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LA LORENA",
+    "subcircuito": "LA LORENA 1",
+    "id": "CHINA-DEPOT-Z4-S-S-L",
+    "nombre_punto": "CHINA DEPOT"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 2",
+    "id": "LAS-FRIS-DE-PANCHO-Z4-S-S-B",
+    "nombre_punto": "LAS FRIS DE PANCHO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 2",
+    "id": "MINI-NARKET-EXPRESS-Z4-S-S-B",
+    "nombre_punto": "MINI NARKET EXPRESS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "",
+    "id": "IMPORTADORA-DISKARMAR-Z4-S-S-B",
+    "nombre_punto": "IMPORTADORA DISKARMAR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "LA BRAMADORA",
+    "subcircuito": "LA BRAMADORA 1",
+    "id": "TIENDA-CUENCA-Z4-M-E-L",
+    "nombre_punto": "TIENDA CUENCA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "LA BRAMADORA",
+    "subcircuito": "LA BRAMADORA 1",
+    "id": "TIENDA-AHORRO-Z4-M-E-L",
+    "nombre_punto": "TIENDA AHORRO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "ALMACENES-LG-Z4-M-2-S",
+    "nombre_punto": "ALMACENES LG"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "ANDRYCELL-Z4-M-2-S",
+    "nombre_punto": "ANDRYCELL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "BOUTIQUE-D'-LUISANA-Z4-M-2-S",
+    "nombre_punto": "BOUTIQUE D' LUISANA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "SUPERMERCADO-MI-PRECIO-Z4-M-2-S",
+    "nombre_punto": "SUPERMERCADO MI PRECIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "MANGA DEL CURA SUR",
+    "subcircuito": "MANGA DEL CURA SUR 1",
+    "id": "FARMACIAS-CRUZ-AZUL-Z4-M-E-M",
+    "nombre_punto": "FARMACIAS  CRUZ  AZUL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "VARIEDADES-SU-PASITOS-Z4-M-2-S",
+    "nombre_punto": "VARIEDADES SU PASITOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "MANGA DEL CURA NORTE",
+    "subcircuito": "MANGA DEL CURA NORTE 1",
+    "id": "FRIGORÍFICOS-D'-ELIAN-Z4-M-E-M",
+    "nombre_punto": "FRIGORÍFICOS  D' ELIAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "LOCAL-MULTI-HOGAR-Z4-M-2-S",
+    "nombre_punto": "LOCAL MULTI HOGAR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "MANGA DEL CURA NORTE",
+    "subcircuito": "MANGA DEL CURA NORTE 1",
+    "id": "INSUMOS-AGROMAG-Z4-M-E-M",
+    "nombre_punto": "INSUMOS AGROMAG"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 1",
+    "id": "CHIFA-CENTRAL-Z4-S-S-B",
+    "nombre_punto": "CHIFA CENTRAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 1",
+    "id": "BILLYS-LIQUIR-STORE-Z4-S-S-B",
+    "nombre_punto": "BILLYS LIQUIR STORE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "HOSTAL-OMAR-ALEJANDRO-Z4-M-2-S",
+    "nombre_punto": "HOSTAL OMAR ALEJANDRO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "MANGA DEL CURA SUR",
+    "subcircuito": "MANGA DEL CURA SUR 1",
+    "id": "COMERCIAL-DANIELA-Z4-M-E-M",
+    "nombre_punto": "COMERCIAL  DANIELA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "ALMACÉN-CREDIT-Z4-M-2-S",
+    "nombre_punto": "ALMACÉN CREDIT"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CHAPARRAL",
+    "subcircuito": "EL CHAPARRAL 1",
+    "id": "TIENDA-DE-ABARROTES-LINAJE-REAL-Z4-M-E-E",
+    "nombre_punto": "TIENDA DE ABARROTES LINAJE REAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "DIVERZU-Z4-M-P-P",
+    "nombre_punto": "DIVERZU"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "INFINITY-COFFEE-Z4-M-2-S",
+    "nombre_punto": "INFINITY COFFEE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CHAPARRAL",
+    "subcircuito": "EL CHAPARRAL 1",
+    "id": "MEGA-SHOPPING-Z4-M-E-E",
+    "nombre_punto": "MEGA SHOPPING"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "CENTRO-ESTÉTICO-MAYTE-PONCE-Z4-M-2-S",
+    "nombre_punto": "CENTRO ESTÉTICO MAYTE PONCE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CHAPARRAL",
+    "subcircuito": "EL CHAPARRAL 1",
+    "id": "AGROVETERINARIA-LA-FORTUNA-Z4-M-E-E",
+    "nombre_punto": "AGROVETERINARIA  LA FORTUNA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "ALLURIQUIN",
+    "subcircuito": "ALLURIQUIN 1",
+    "id": "HELADERÍA-DBRYAN-Z4-S-S-A",
+    "nombre_punto": "HELADERÍA DBRYAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "ALLURIQUIN",
+    "subcircuito": "ALLURIQUIN 1",
+    "id": "GAD-PARROQUIAL-Z4-S-S-A",
+    "nombre_punto": "GAD PARROQUIAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "ALLURIQUIN",
+    "subcircuito": "ALLURIQUIN 1",
+    "id": "TUTI-Z4-S-S-A",
+    "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CHAPARRAL",
+    "subcircuito": "EL CHAPARRAL 1",
+    "id": "MEGA-VECINO-Z4-M-E-E",
+    "nombre_punto": "MEGA VECINO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 1",
+    "id": "UNIDAD-EDUCATIVA-HEROEZ-DE-PAQUISHA-Z4-S-S-S",
+    "nombre_punto": "UNIDAD EDUCATIVA HEROEZ DE PAQUISHA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CRISTO VIVE",
+    "subcircuito": "CRISTO VIVE 2",
+    "id": "GASOLINERA-LUZ-DE-AMÉRICA-Z4-S-S-C",
+    "nombre_punto": "GASOLINERA LUZ DE AMÉRICA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CRISTO VIVE",
+    "subcircuito": "CRISTO VIVE 2",
+    "id": "CENTRO-TURÍSTICO-MUSHILY-Z4-S-S-C",
+    "nombre_punto": "CENTRO TURÍSTICO MUSHILY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "COORPOGAN-Z4-M-C-R",
+    "nombre_punto": "COORPOGAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "UNIFICADOS",
+    "subcircuito": "UNIFICADOS 2",
+    "id": "CENTRO-DE-SALUD-ASISTENCIA-MUNICIPAL-TIPO-B-Z4-S-S-U",
+    "nombre_punto": "CENTRO DE SALUD ASISTENCIA MUNICIPAL TIPO B"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "UNIFICADOS",
+    "subcircuito": "UNIFICADOS 1",
+    "id": "PARRILLADAS-LÓPEZ-Z4-S-S-U",
+    "nombre_punto": "PARRILLADAS LÓPEZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "UNIFICADOS",
+    "subcircuito": "UNIFICADOS 1",
+    "id": "ALDEAN-SUPERMERCADO-Z4-S-S-U",
+    "nombre_punto": "ALDEAN SUPERMERCADO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "NUEVO ISRAEL",
+    "subcircuito": "NUEVO ISRAEL 1",
+    "id": "VARIEDADES-M.-G.-Z4-S-S-N",
+    "nombre_punto": "VARIEDADES M. G."
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "NUEVO ISRAEL",
+    "subcircuito": "NUEVO ISRAEL 1",
+    "id": "CEDE-HOME-PLUS-Z4-S-S-N",
+    "nombre_punto": "CEDE HOME PLUS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "NUEVO ISRAEL",
+    "subcircuito": "NUEVO ISRAEL 1",
+    "id": "DIVERMAN-Z4-S-S-N",
+    "nombre_punto": "DIVERMAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "PANADERÍA-ESPIGA-DE-ORO-Z4-M-P-P",
+    "nombre_punto": "PANADERÍA ESPIGA DE ORO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "BAZAR-EL-REGALO-Z4-M-P-P",
+    "nombre_punto": "BAZAR EL REGALO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "LA AMERICA",
+    "subcircuito": "LA AMERICA 1",
+    "id": "CABECERA-PARROQUIAL-LA-AMERICA-Z4-M-J-L",
+    "nombre_punto": "CABECERA PARROQUIAL LA AMERICA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PUERTO LIMON",
+    "subcircuito": "PUERTO LIMON 1",
+    "id": "PETROWORLD-Z4-S-S-P",
+    "nombre_punto": "PETROWORLD"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA SUR",
+    "subcircuito": "CALCETA SUR 1",
+    "id": "TERMINAL-TERRESTRE-Z4-M-B-C",
+    "nombre_punto": "TERMINAL TERRESTRE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "",
+    "id": "ALMACENES-LA-GANGA-Z4-M-B-C",
+    "nombre_punto": "ALMACENES LA GANGA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "JAHER-Z4-M-B-C",
+    "nombre_punto": "JAHER"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "SANCAN",
+    "subcircuito": "SANCAN 1",
+    "id": "GASOLINERA-P&S-Z4-M-J-S",
+    "nombre_punto": "GASOLINERA P&S"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "ALMACENES-ARTEFACTA-Z4-M-B-C",
+    "nombre_punto": "ALMACENES ARTEFACTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "ALAJUELA",
+    "subcircuito": "ALAJUELA 2",
+    "id": "FERRETERIA-LOOR-Z4-M-P-A",
+    "nombre_punto": "FERRETERIA LOOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "PLAZA-CIVICA-Z4-M-B-C",
+    "nombre_punto": "PLAZA CIVICA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "CRÉDITOS-ECONOMICOS-Z4-S-L-C",
+    "nombre_punto": "CRÉDITOS ECONOMICOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "CENTRO-NATURISTA-EL-POLEN-Z4-S-L-C",
+    "nombre_punto": "CENTRO NATURISTA EL POLEN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "LA AMERICA",
+    "subcircuito": "",
+    "id": "GASOLINERA-P&S-SAMBEMBE-Z4-M-J-L",
+    "nombre_punto": "GASOLINERA P&S SAMBEMBE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PUERTO LIMON",
+    "subcircuito": "PUERTO LIMON 1",
+    "id": "MATA-HAMBRE-Z4-S-S-P",
+    "nombre_punto": "MATA HAMBRE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PUERTO LIMON",
+    "subcircuito": "PUERTO LIMON 1",
+    "id": "MOTO-SUR-Z4-S-S-P",
+    "nombre_punto": "MOTO SUR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO CAYO",
+    "subcircuito": "PUERTO CAYO 1",
+    "id": "COMEDOR-ELIANI-Z4-M-J-P",
+    "nombre_punto": "COMEDOR ELIANI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 1",
+    "id": "GASOLINERA-PRIMAX-REDONDEL-DE-BUENOS-AIRES-Z4-M-R-R",
+    "nombre_punto": "GASOLINERA PRIMAX  REDONDEL DE BUENOS AIRES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 1",
+    "id": "GASOLINERA-P&S-ENTRADA-A-ROCAFUERTE-Z4-M-R-R",
+    "nombre_punto": "GASOLINERA P&S ENTRADA A ROCAFUERTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "DANZARIN",
+    "subcircuito": "DANZARIN 1",
+    "id": "GASOLINERA-PRIMAX-DANZARIN-1-Z4-M-R-D",
+    "nombre_punto": "GASOLINERA PRIMAX DANZARIN 1"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 1",
+    "id": "MERCADO-LEONIDAS-PLAZA-Z4-M-S-B",
+    "nombre_punto": "MERCADO LEONIDAS PLAZA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 1",
+    "id": "EL-HAREN-Z4-M-R-R",
+    "nombre_punto": "EL HAREN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 1",
+    "id": "PISTA-DE-PATINAJE-Z4-M-S-B",
+    "nombre_punto": "PISTA DE PATINAJE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "SAN ISIDRO",
+    "subcircuito": "SAN ISIDRO 1",
+    "id": "PLAZA-CIVICA-DANILO-CUEVA-VERA-Z4-M-S-S",
+    "nombre_punto": "PLAZA CIVICA DANILO CUEVA VERA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "JUNIN NORTE",
+    "subcircuito": "JUNIN NORTE 1",
+    "id": "PLAZA-CIVICA-JUNIN-Z4-M-B-J",
+    "nombre_punto": "PLAZA CIVICA JUNIN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "JUNIN NORTE",
+    "subcircuito": "JUNIN NORTE 1",
+    "id": "IGLESIA-NUESTRO-SEÑOR-LOURDES-JUNIN-Z4-M-B-J",
+    "nombre_punto": "IGLESIA NUESTRO SEÑOR LOURDES JUNIN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "JUNIN SUR",
+    "subcircuito": "JUNIN SUR 1",
+    "id": "SAENZ-MARKET-Z4-M-B-J",
+    "nombre_punto": "SAENZ MARKET"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LUZ DE AMERICA",
+    "subcircuito": "LUZ DE AMERICA 1",
+    "id": "PARQUE-CENTRAL-Z4-S-S-L",
+    "nombre_punto": "PARQUE CENTRAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LUZ DE AMERICA",
+    "subcircuito": "LUZ DE AMERICA 1",
+    "id": "GASOLINERA-PETROWOLD-Z4-S-S-L",
+    "nombre_punto": "GASOLINERA PETROWOLD"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LUZ DE AMERICA",
+    "subcircuito": "LUZ DE AMERICA 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z4-S-S-L",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "JUNIN SUR",
+    "subcircuito": "",
+    "id": "TIENDA-MORA-Z4-M-B-J",
+    "nombre_punto": "TIENDA MORA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "BANCO-PICHINCHA-Z4-M-P-P",
+    "nombre_punto": "BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 1",
+    "id": "GASOLINERA-PRIMAX-Z4-M-J-J",
+    "nombre_punto": "GASOLINERA PRIMAX"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "JUNIN NORTE",
+    "subcircuito": "JUNIN NORTE 1",
+    "id": "GASOLINERA-PETROLRIOS-Z4-M-B-J",
+    "nombre_punto": "GASOLINERA  PETROLRIOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "COMEDOR-EL-DRAGON-Z4-M-P-S",
+    "nombre_punto": "COMEDOR EL DRAGON"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "MUNICIPIO-DEL-CANTON-PICHINCHA-Z4-M-P-P",
+    "nombre_punto": "MUNICIPIO DEL CANTON PICHINCHA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "TRES DE MAYO",
+    "subcircuito": "TRES DE MAYO 1",
+    "id": "CRECOS-Z4-M-J-3",
+    "nombre_punto": "CRECOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "COMERCIAL-FABIOLITA-Z4-M-P-S",
+    "nombre_punto": "COMERCIAL FABIOLITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "MUNICIPIO-DE-PEDERNALES-Z4-M-P-P",
+    "nombre_punto": "MUNICIPIO DE PEDERNALES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "TRES DE MAYO",
+    "subcircuito": "TRES DE MAYO 1",
+    "id": "FARMACIA-FYBECA-Z4-M-J-3",
+    "nombre_punto": "FARMACIA FYBECA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "TRES DE MAYO",
+    "subcircuito": "TRES DE MAYO 1",
+    "id": "MINI-MARKET-D-JONY-Z4-M-J-3",
+    "nombre_punto": "MINI MARKET D JONY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 2",
+    "id": "AUTO-1-Z4-S-S-E",
+    "nombre_punto": "AUTO 1"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "SAN VICENTE",
+    "subcircuito": "SAN VICENTE 1",
+    "id": "PARQUE-CENTRAL-DE-SAN-VICENTE-Z4-M-S-S",
+    "nombre_punto": "PARQUE CENTRAL DE SAN VICENTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "SAN VICENTE",
+    "subcircuito": "SAN VICENTE 1",
+    "id": "TIA-DE-SAN-VICENTE-Z4-M-S-S",
+    "nombre_punto": "TIA DE SAN VICENTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "FARMACIA-SAN-GREGORIO-Z4-M-P-P",
+    "nombre_punto": "FARMACIA SAN GREGORIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "SAN JACINTO DEL BUA",
+    "subcircuito": "SAN JACINTO DEL BUA 1",
+    "id": "PETRO-WORD-GASOLINERA-Z4-S-S-S",
+    "nombre_punto": "PETRO WORD GASOLINERA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "SAN JACINTO DEL BUA",
+    "subcircuito": "SAN JACINTO DEL BUA 1",
+    "id": "\"TUTI\"-SAN-JACINTO-Z4-S-S-S",
+    "nombre_punto": "\"TUTI\" SAN JACINTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO LOPEZ",
+    "subcircuito": "PUERTO LOPEZ 1",
+    "id": "PARQUE-CENTRAL-DE-PUERTO-LÓPEZ-Z4-M-J-P",
+    "nombre_punto": "PARQUE CENTRAL DE PUERTO LÓPEZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "UPC-SAN-SEBASTIÁN-Z4-M-P-S",
+    "nombre_punto": "UPC SAN SEBASTIÁN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "MEGA-CINCUENTAZO-JM-Z4-M-P-S",
+    "nombre_punto": "MEGA CINCUENTAZO JM"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA SUR",
+    "subcircuito": "CALCETA SUR 1",
+    "id": "COMISARIATO-CLEYMER-Z4-M-B-C",
+    "nombre_punto": "COMISARIATO CLEYMER"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA SUR",
+    "subcircuito": "CALCETA SUR 1",
+    "id": "PARQUE-LA-MADRE-PUENTE-ROJO-Z4-M-B-C",
+    "nombre_punto": "PARQUE LA MADRE PUENTE ROJO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "ALMACEN-MARCIMEX-Z4-M-B-C",
+    "nombre_punto": "ALMACEN MARCIMEX"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "ALMACEN-TIA-Z4-M-B-C",
+    "nombre_punto": "ALMACEN TIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA SUR",
+    "subcircuito": "SANTA MARTHA SUR 3",
+    "id": "GASOLINERA-GAS-PETROLIUM-LA-CADENA-Z4-S-S-S",
+    "nombre_punto": "GASOLINERA GAS PETROLIUM LA CADENA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "ENTIDAD-BANCARIA-BANCO-PICHINCHA-Z4-M-B-C",
+    "nombre_punto": "ENTIDAD BANCARIA BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA SUR",
+    "subcircuito": "SANTA MARTHA SUR 1",
+    "id": "GASOLINERA-GAS-PETROLIUM-JAMAJAY-Z4-S-S-S",
+    "nombre_punto": "GASOLINERA GAS PETROLIUM JAMAJAY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "SAN-BLAS-SUPERMERCADOS-Z4-S-S-B",
+    "nombre_punto": "San Blas Supermercados"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "CANOA",
+    "subcircuito": "CANOA 1",
+    "id": "PLAYA---MALECON-DE-CANOA-Z4-M-S-C",
+    "nombre_punto": "PLAYA - MALECON DE CANOA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CARMEN",
+    "subcircuito": "EL CARMEN 3",
+    "id": "MIKA-WINGS-Z4-M-E-E",
+    "nombre_punto": "Mika Wings"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CARMEN",
+    "subcircuito": "EL CARMEN 2",
+    "id": "CLÍNICA-MANABI-Z4-M-E-E",
+    "nombre_punto": "Clínica Manabi"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CHAPARRAL",
+    "subcircuito": "EL CHAPARRAL 1",
+    "id": "PARRILLADAS-BLACK-BULL-Z4-M-E-E",
+    "nombre_punto": "Parrilladas Black Bull"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LA LORENA",
+    "subcircuito": "LA LORENA 1",
+    "id": "GASOLINERA-P&S-PETROLEOS-Y-SERVICIOS-Z4-S-S-L",
+    "nombre_punto": "GASOLINERA P&S PETROLEOS Y SERVICIOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO LOPEZ",
+    "subcircuito": "PUERTO LOPEZ 1",
+    "id": "PARQUE-CENTRAL-PUERTO-LOPEZ-Z4-M-J-P",
+    "nombre_punto": "PARQUE CENTRAL PUERTO LOPEZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "QUIROGA",
+    "subcircuito": "QUIROGA 1",
+    "id": "MERCADO-CENTRAL-DE-QUIROGA-Z4-M-B-Q",
+    "nombre_punto": "MERCADO CENTRAL DE QUIROGA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "QUIROGA",
+    "subcircuito": "QUIROGA 1",
+    "id": "PARQUE-CENTRAL-QUIROGA-Z4-M-B-Q",
+    "nombre_punto": "PARQUE CENTRAL QUIROGA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "QUIROGA",
+    "subcircuito": "QUIROGA 1",
+    "id": "TIENDA-SAN-FRANSISCO-Z4-M-B-Q",
+    "nombre_punto": "TIENDA SAN FRANSISCO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "MEMBRILLO",
+    "subcircuito": "MEMBRILLO 1",
+    "id": "PARQUE-CENTRAL-MEMBRILLO-Z4-M-B-M",
+    "nombre_punto": "PARQUE CENTRAL MEMBRILLO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "MEMBRILLO",
+    "subcircuito": "MEMBRILLO 1",
+    "id": "COMERCIAL-LA-PALMAS-Z4-M-B-M",
+    "nombre_punto": "COMERCIAL LA PALMAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "VALLE HERMOSO",
+    "subcircuito": "VALLE HERMOSO 1",
+    "id": "COMERCIAL-CELI-Z4-S-S-V",
+    "nombre_punto": "COMERCIAL CELI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "MERCADO-LOS-ESTEROS-Z4-M-M-T",
+    "nombre_punto": "Mercado los Esteros"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "SUCURSAL-Z4-M-R-L",
+    "nombre_punto": "Sucursal"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "MEGA-SHOPING-Z4-M-R-L",
+    "nombre_punto": "Mega Shoping"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "MEGA-SHOPPING-Z4-M-R-L",
+    "nombre_punto": "Mega shopping"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "TÍA-Z4-M-R-L",
+    "nombre_punto": "Tía"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "JUNCO",
+    "subcircuito": "JUNCO 1",
+    "id": "FARMACIA-SANTA-MARTA-Z4-M-R-J",
+    "nombre_punto": "FARMACIA SANTA MARTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "JUNCO",
+    "subcircuito": "JUNCO 1",
+    "id": "DESPENSA-ROLI-Z4-M-R-J",
+    "nombre_punto": "DESPENSA ROLI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "POLLOS-A-LA-BRASA-KAMADA'S-Z4-M-R-L",
+    "nombre_punto": "POLLOS A LA BRASA KAMADA'S"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "JUNCO",
+    "subcircuito": "JUNCO 1",
+    "id": "TAPIA-MARKET-Z4-M-R-J",
+    "nombre_punto": "TAPIA MARKET"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "BACHILLERO",
+    "subcircuito": "BACHILLERO 1",
+    "id": "PAPI-CIELOS-MARKET-Z4-M-R-B",
+    "nombre_punto": "PAPI CIELOS MARKET"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "BACHILLERO",
+    "subcircuito": "BACHILLERO 1",
+    "id": "TIENDA-PAPÁ-NINO-Z4-M-R-B",
+    "nombre_punto": "TIENDA PAPÁ NINO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "BACHILLERO",
+    "subcircuito": "BACHILLERO 1",
+    "id": "COMERCIAL-PEPE-PAEZ-Z4-M-R-B",
+    "nombre_punto": "COMERCIAL PEPE PAEZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "GASOLINERA-TOSAGUA-Z4-M-R-L",
+    "nombre_punto": "GASOLINERA TOSAGUA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PRADERA",
+    "subcircuito": "LA PRADERA 1",
+    "id": "TITAN-Z4-M-M-L",
+    "nombre_punto": "TITAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PRADERA",
+    "subcircuito": "LA PRADERA 2",
+    "id": "HERMANOS-MENDOZA-Z4-M-M-L",
+    "nombre_punto": "Hermanos Mendoza"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PRADERA",
+    "subcircuito": "LA PRADERA 2",
+    "id": "CHIFA-KILIAN-Z4-M-M-L",
+    "nombre_punto": "CHIFA KILIAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "JUNCO",
+    "subcircuito": "JUNCO 1",
+    "id": "SUCURSAL-MINI-MARKET-Z4-M-R-J",
+    "nombre_punto": "Sucursal mini market"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "MINI-MARKET-TAPIA-Z4-M-R-L",
+    "nombre_punto": "Mini Market Tapia"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "LA-MADRINA-Z4-M-R-L",
+    "nombre_punto": "La Madrina"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "PASEO-SHOPPING-Z4-S-S-C",
+    "nombre_punto": "Paseo Shopping"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "BATALLA-DE-LOS-AMARILLOS-Z4-M-R-L",
+    "nombre_punto": "Batalla de los amarillos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "HOSPITAL-BASICO-FRANCISCO-VÁSQUEZ-BALDA-Z4-M-P-P",
+    "nombre_punto": "HOSPITAL BASICO FRANCISCO VÁSQUEZ BALDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARIA",
+    "subcircuito": "SANTA MARIA 1",
+    "id": "IMPORVENSA-Z4-S-S-S",
+    "nombre_punto": "Imporvensa"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "JOYERÍA-Y-RELOJERÍA-ORIENT-Z4-M-P-P",
+    "nombre_punto": "Joyería y relojería orient"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "FARMACIA-SANTA-MARTA-Z4-M-P-P",
+    "nombre_punto": "Farmacia santa Marta"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "LA-CASA-DEL-CENTENARIO-Z4-M-P-B",
+    "nombre_punto": "la casa del centenario"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "ASADERO-RICO-POLLO-Z4-M-P-B",
+    "nombre_punto": "ASADERO RICO POLLO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "DISTRIBUIDORA-ROUS-Z4-M-P-B",
+    "nombre_punto": "DISTRIBUIDORA ROUS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "AGROVETERINARIA-EL-TORO-Z4-M-P-B",
+    "nombre_punto": "AGROVETERINARIA EL TORO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "BARATON-3-HERMANAS-Z4-M-P-B",
+    "nombre_punto": "BARATON 3 HERMANAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "MEGA-CINCUENTAZO-Z4-M-P-B",
+    "nombre_punto": "MEGA CINCUENTAZO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "FERRECENTER-Z4-M-P-B",
+    "nombre_punto": "FERRECENTER"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "AGROVET-MENDIETA-Z4-M-P-B",
+    "nombre_punto": "AGROVET MENDIETA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "AGROVETERINARIA-SOLOZARNO-Z4-M-P-B",
+    "nombre_punto": "AGROVETERINARIA SOLOZARNO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "MEDI-SALUD-Z4-M-P-B",
+    "nombre_punto": "MEDI SALUD"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "CENTRO-NATURISTA-LORENITA-Z4-M-P-B",
+    "nombre_punto": "CENTRO NATURISTA LORENITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "MAX-PAN-Z4-S-L-C",
+    "nombre_punto": "Max pan"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "CENTRO-COMERCIAL-LA-QUADRA-Z4-M-M-U",
+    "nombre_punto": "CENTRO COMERCIAL LA QUADRA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "SAN PABLO",
+    "subcircuito": "SAN PABLO 2",
+    "id": "FARMACIA-SAN-PABLO-Z4-M-P-S",
+    "nombre_punto": "FARMACIA SAN PABLO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "SAN PABLO",
+    "subcircuito": "SAN PABLO 2",
+    "id": "BAZAR-Y-MINI-HELADERIA-LUIMAY-Z4-M-P-S",
+    "nombre_punto": "BAZAR Y MINI HELADERIA  LUIMAY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "CENTRO-COMERCIAL-TIA-Z4-M-M-U",
+    "nombre_punto": "CENTRO COMERCIAL TIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "NUEVO PORTOVIEJO",
+    "subcircuito": "NUEVO PORTOVIEJO 1",
+    "id": "CDLA-PROGRESO-CICERON-ROBLES-Z4-M-P-N",
+    "nombre_punto": "Cdla Progreso-CICERON ROBLES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "HOTEL-GALEMS-Z4-S-L-C",
+    "nombre_punto": "HOTEL GALEMS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "NUEVO PORTOVIEJO",
+    "subcircuito": "NUEVO PORTOVIEJO 2",
+    "id": "SECTOR-EL-LIMÓN-AGUA-MAX-Z4-M-P-N",
+    "nombre_punto": "Sector el Limón-Agua Max"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "NUEVO PORTOVIEJO",
+    "subcircuito": "NUEVO PORTOVIEJO 2",
+    "id": "AV-15-DE-ABRIL-COCA-COLA-Z4-M-P-N",
+    "nombre_punto": "Av 15 de abril-Coca Cola"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "ROPA-AMERICANA-ALEJO-Z4-S-L-C",
+    "nombre_punto": "Ropa americana Alejo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "NUEVO PORTOVIEJO",
+    "subcircuito": "NUEVO PORTOVIEJO 1",
+    "id": "VÍA-ZAPALLO-RESTAURANTE-LA-SAZÓN-DE-CHARO-Z4-M-P-N",
+    "nombre_punto": "Vía Zapallo-Restaurante la Sazón de Charo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "JE-COSMETICOS-Z4-S-L-C",
+    "nombre_punto": "JE COSMETICOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "LOS CEREZOS",
+    "subcircuito": "LOS CEREZOS 1",
+    "id": "MINIMARKET-Y-LICORES-R-Y-M-Z4-M-P-L",
+    "nombre_punto": "MINIMARKET Y LICORES R Y M"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "LOS CEREZOS",
+    "subcircuito": "LOS CEREZOS 1",
+    "id": "PELUQUERÍA-ESTILO-DERYMARK-Z4-M-P-L",
+    "nombre_punto": "PELUQUERÍA ESTILO DERYMARK"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "TODO-5-Z4-S-L-C",
+    "nombre_punto": "Todo 5"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "ALMACENES-SARITA-Z4-S-L-C",
+    "nombre_punto": "ALMACENES SARITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "FARMACIA-SAN-GREGORIO-Z4-S-L-C",
+    "nombre_punto": "FARMACIA SAN GREGORIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "TOTO-A-5-Z4-S-L-C",
+    "nombre_punto": "TOTO A 5"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "PUNTO-MOVIL-Z4-S-L-C",
+    "nombre_punto": "PUNTO MOVIL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "FRITAS-Y-VERDURAS-PRISCILA-Z4-S-L-C",
+    "nombre_punto": "FRUTAS Y VERDURAS PRISCILA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "BUBBED-SODA-BUBBLE-TE-Z4-S-L-C",
+    "nombre_punto": "BUBBED SODA BUBBLE TE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "SORBETES-JC-Z4-S-L-C",
+    "nombre_punto": "SORBETES JC"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "SANTAS-ALITAS-Z4-S-L-C",
+    "nombre_punto": "SANTAS ALITAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "FLASH-PIZZA-Z4-S-L-C",
+    "nombre_punto": "FLASH pizza"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PLAN DE VIVIENDA",
+    "subcircuito": "PLAN DE VIVIENDA 1",
+    "id": "FERROMAX-Z4-S-S-P",
+    "nombre_punto": "Ferromax"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "TV-DATOS-Z4-S-L-C",
+    "nombre_punto": "TV DATOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "TIA---TIENDAS-INDUSTRIALES-ASOCIADAS-S.-A-Z4-S-L-C",
+    "nombre_punto": "TIA - TIENDAS INDUSTRIALES ASOCIADAS S. A"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "TECNICELULAR-2-Z4-S-L-C",
+    "nombre_punto": "TECNICELULAR 2"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "TUTI-S.-A-Z4-S-L-C",
+    "nombre_punto": "TUTI  S. A"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "LOS-PINCHOS-DE-LA-CONCORDIA-Z4-S-L-C",
+    "nombre_punto": "LOS PINCHOS DE LA CONCORDIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PLAN DE VIVIENDA",
+    "subcircuito": "PLAN DE VIVIENDA 2",
+    "id": "TIENDA-JOEL-Z4-S-S-P",
+    "nombre_punto": "Tienda Joel"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "ASADERO-DE-POLLOS-LA-ESQUINA-DE-ALES-Z4-S-L-C",
+    "nombre_punto": "ASADERO DE POLLOS LA ESQUINA DE ALES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PLAN DE VIVIENDA",
+    "subcircuito": "PLAN DE VIVIENDA 1",
+    "id": "VÍVERES-GAROFALO-Z4-S-S-P",
+    "nombre_punto": "Víveres Garofalo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PLAN DE VIVIENDA",
+    "subcircuito": "PLAN DE VIVIENDA 1",
+    "id": "PANIFICADORA-ADRIANITA-Z4-S-S-P",
+    "nombre_punto": "Panificadora adrianita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "ZHONG-MOTO-REPUESTOS-Z4-S-L-C",
+    "nombre_punto": "ZHONG MOTO REPUESTOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "POLLOS-A-LA-BRASA-EL-IDOLO-Z4-S-L-C",
+    "nombre_punto": "POLLOS A LA BRASA EL IDOLO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "COMERCIAL-PROVESA-Z4-S-L-C",
+    "nombre_punto": "COMERCIAL PROVESA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "COMERCIAL-YAPERITO-Z4-S-L-C",
+    "nombre_punto": "COMERCIAL YAPERITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "AKI-Z4-S-L-C",
+    "nombre_punto": "AKI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "1716610132-Z4-S-L-C",
+    "nombre_punto": "PANADERÍA Y PASTELERÍA LA FONTANA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "BANCO-PICHINCHA-Z4-S-S-C",
+    "nombre_punto": "Banco Pichincha"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "MEJIA",
+    "subcircuito": "MEJIA 1",
+    "id": "GASOLINERA-Z4-M-P-M",
+    "nombre_punto": "Gasolinera"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 3",
+    "id": "CENTRO-DE-SALUD-SAN-JOSE-Z4-M-M-T",
+    "nombre_punto": "CENTRO DE SALUD SAN JOSE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 2",
+    "id": "EXTERIOR-TIA-FRENTE-A-PARQUE-JOCAY-Z4-M-M-M",
+    "nombre_punto": "Exterior Tia Frente a Parque Jocay"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "JUAN EULOGIO",
+    "subcircuito": "JUAN EULOGIO 3",
+    "id": "TIA-Z4-S-S-J",
+    "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "JUAN EULOGIO",
+    "subcircuito": "JUAN EULOGIO 3",
+    "id": "TUTI-Z4-S-S-J",
+    "nombre_punto": "TuTi"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 1",
+    "id": "LUJO-CARD-Z4-S-S-S",
+    "nombre_punto": "Lujo card"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 1",
+    "id": "MERCADO-MAYORISTA-JIPIJAPA-Z4-M-J-J",
+    "nombre_punto": "MERCADO MAYORISTA JIPIJAPA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "JUAN EULOGIO",
+    "subcircuito": "JUAN EULOGIO 3",
+    "id": "GASOLINERA-TRANS-ESMERALDAS-Z4-S-S-J",
+    "nombre_punto": "GASOLINERA TRANS ESMERALDAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "JUAN EULOGIO",
+    "subcircuito": "JUAN EULOGIO 3",
+    "id": "CAFETERÍA-JUAN-VALDEZ-Z4-S-S-J",
+    "nombre_punto": "CAFETERÍA JUAN VALDEZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "JUAN EULOGIO",
+    "subcircuito": "JUAN EULOGIO 3",
+    "id": "KFC-Z4-S-S-J",
+    "nombre_punto": "KFC"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "INGRESO-AUTORIDAD-PURTUARIA-Z4-M-M-M",
+    "nombre_punto": "INGRESO AUTORIDAD PURTUARIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "INGRESO-AL-PARQUEADERO-AUTORIDAD-PURTUARIA-Z4-M-M-M",
+    "nombre_punto": "INGRESO AL PARQUEADERO AUTORIDAD PURTUARIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "AREA-ADMINISTRATIVA-AUTORIDAD-PURTUARIA-Z4-M-M-M",
+    "nombre_punto": "AREA ADMINISTRATIVA AUTORIDAD PURTUARIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "PUERTAS-DEL-SOL-Z4-M-P-P",
+    "nombre_punto": "Puertas del sol"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "10 DE agosto",
+    "subcircuito": "2001-08-10T05:00:00.000Z",
+    "id": "CENTRO-DE-SALUD-DE-LA-PARROQUIA-10-DE-AGOSTO-Z4-M-P-1",
+    "nombre_punto": "Centro de Salud de la Parroquia 10 de agosto"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PLAN DE VIVIENDA",
+    "subcircuito": "PLAN DE VIVIENDA 1",
+    "id": "DESPENSA-EL-AHORRO-Z4-S-S-P",
+    "nombre_punto": "Despensa El Ahorro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PLAN DE VIVIENDA",
+    "subcircuito": "PLAN DE VIVIENDA 1",
+    "id": "COBRA-IMPORTACIONES-Z4-S-S-P",
+    "nombre_punto": "Cobra Importaciones"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "10 DE agosto",
+    "subcircuito": "2001-08-10T05:00:00.000Z",
+    "id": "TENENCIA-POLÍTICA-DIEZ-DE-AGOSTO-Z4-M-P-1",
+    "nombre_punto": "Tenencia Política Diez de Agosto"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "10 DE agosto",
+    "subcircuito": "2001-08-10T05:00:00.000Z",
+    "id": "PUNTOS-DIGITALES-DIEZ-DE-AGOSTO-Z4-M-P-1",
+    "nombre_punto": "Puntos Digitales Diez de Agosto"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 1",
+    "id": "TERMINAL-TERRRESTRE-Z4-S-S-B",
+    "nombre_punto": "TERMINAL TERRRESTRE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "LOCAL-DE-COMIDA-CASA-ROSADA-Z4-M-M-M",
+    "nombre_punto": "LOCAL DE COMIDA CASA ROSADA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PICOAZA",
+    "subcircuito": "PICOAZA 1",
+    "id": "MUNDI-CELL-Z4-M-P-P",
+    "nombre_punto": "MUNDI CELL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "NAYIMAR-HELADERÍA-Z4-M-P-S",
+    "nombre_punto": "NAYIMAR HELADERÍA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "COMERCIAL-DIANA-Z4-M-P-S",
+    "nombre_punto": "COMERCIAL DIANA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "COMERCIAL-PETER-LOOR-Z4-M-P-S",
+    "nombre_punto": "COMERCIAL PETER LOOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "COMERCIAL-SUPER-OFERTA-Z4-M-P-S",
+    "nombre_punto": "COMERCIAL SUPER OFERTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL GUABITO",
+    "subcircuito": "EL GUABITO 1",
+    "id": "GASOLINERA-PS-Z4-M-P-E",
+    "nombre_punto": "Gasolinera PS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "PANADERÍA-Y-PASTELERÍA-STESFANY-Z4-M-P-S",
+    "nombre_punto": "PANADERÍA Y PASTELERÍA STESFANY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "PIQUEOS-KASS-Z4-M-P-S",
+    "nombre_punto": "PIQUEOS KASS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL GUABITO",
+    "subcircuito": "EL GUABITO 1",
+    "id": "TIENDA-KLM-Z4-M-P-E",
+    "nombre_punto": "Tienda KLM"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL GUABITO",
+    "subcircuito": "EL GUABITO 1",
+    "id": "FARMACIA-SANTA-MARTHA-Z4-M-P-E",
+    "nombre_punto": "FARMACIA SANTA MARTHA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "JAMA",
+    "subcircuito": "JAMA 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CREDITO-CALCETA-Z4-M-P-J",
+    "nombre_punto": "Cooperativa de Ahorro y Credito Calceta"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 1",
+    "id": "LEVAPAN-Z4-S-S-E",
+    "nombre_punto": "Levapan"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO CAYO",
+    "subcircuito": "PUERTO CAYO 1",
+    "id": "TIENDA-LISEET-Z4-M-J-P",
+    "nombre_punto": "Tienda Liseet"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "SAN ANTONIO 1",
+    "id": "GASOLINERA-P-Y-S-Z4-M-C-S",
+    "nombre_punto": "Gasolinera P y S"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "LA-PIÑATA-Z4-M-C-C",
+    "nombre_punto": "La piñata"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "FARMACIA-SANTA-MARTHA-Z4-M-C-C",
+    "nombre_punto": "Farmacia Santa Martha"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "ESTACIÓN-DE-SERVICIO-CHIMBORAZO-Z4-M-C-C",
+    "nombre_punto": "Estación de servicio Chimborazo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 4",
+    "id": "FLORISTERÍA-LEITO-Z4-S-S-C",
+    "nombre_punto": "Floristería Leito"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 4",
+    "id": "CAFEPAN-Z4-S-S-C",
+    "nombre_punto": "Cafepan"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "FARMACIA-PACHICHO-Z4-M-P-P",
+    "nombre_punto": "Farmacia pachicho"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "PLAZA-23-ORÍGENES-Z4-S-S-C",
+    "nombre_punto": "PLAZA 23 ORÍGENES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "CRUZ-AZUL-Z4-M-P-P",
+    "nombre_punto": "Cruz azul"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PUERTO LIMON",
+    "subcircuito": "PUERTO LIMON 1",
+    "id": "AGROPECUARIA-AGROCAMPOS-Z4-S-S-P",
+    "nombre_punto": "AGROPECUARIA AGROCAMPOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PUERTO LIMON",
+    "subcircuito": "PUERTO LIMON 1",
+    "id": "FERRETERÍA-TRES-HERMANOS-Z4-S-S-P",
+    "nombre_punto": "FERRETERÍA TRES HERMANOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PUERTO LIMON",
+    "subcircuito": "PUERTO LIMON 1",
+    "id": "EXPORTADORA-DE-CACAO-PUERTO-CAO-Z4-S-S-P",
+    "nombre_punto": "EXPORTADORA DE CACAO PUERTO CAO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "SAN ANTONIO 2",
+    "id": "TIENDA-DIMAS-Z4-M-C-S",
+    "nombre_punto": "Tienda Dimas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "SAN ANTONIO 2",
+    "id": "BOMBA-DE-COMBUSTIBLE-ABANDONADA-Z4-M-C-S",
+    "nombre_punto": "Bomba de combustible abandonada"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 3",
+    "id": "COMERCIAL-LA-FERIA-Z4-S-S-C",
+    "nombre_punto": "Comercial La Feria"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "COMEDOR-BELLA-VISTA-Z4-M-P-P",
+    "nombre_punto": "Comedor bella vista"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "UPC-PICHINCHA-Z4-M-P-P",
+    "nombre_punto": "UPC PICHINCHA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "SUPER-EXITO-Z4-S-S-C",
+    "nombre_punto": "SUPER EXITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "UNIDAD-EDUCATIVA-PICHINCHA-Z4-M-P-P",
+    "nombre_punto": "Unidad educativa Pichincha"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "REGISTRO-CIVIL-Z4-S-S-C",
+    "nombre_punto": "Registro Civil"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "IMPORTADORA-CASTRO-Z4-S-S-C",
+    "nombre_punto": "Importadora Castro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "FISCALIA-ROCAFUERTE-Z4-M-R-R",
+    "nombre_punto": "FISCALIA ROCAFUERTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "JUNCO",
+    "subcircuito": "JUNCO 1",
+    "id": "FISCALIA-GENERAL-DEL-ESTADO-Z4-M-R-J",
+    "nombre_punto": "Fiscalia General Del Estado"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 4",
+    "id": "CASA-DE-LA-CULTURA-ECUATORIANA-SDT-Z4-S-S-C",
+    "nombre_punto": "CASA DE LA CULTURA ECUATORIANA SDT"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "SAN JACINTO DEL BUA",
+    "subcircuito": "SAN JACINTO DEL BUA 1",
+    "id": "PARQUE-SAN-JACINTO-DEL-BUA-Z4-S-S-S",
+    "nombre_punto": "PARQUE SAN JACINTO DEL BUA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "3 DE mayo",
+    "subcircuito": "2001-05-03T05:00:00.000Z",
+    "id": "FISCALIA-Z4-M-J-3",
+    "nombre_punto": "FISCALIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL CARMEN",
+    "subcircuito": "EL CARMEN 2",
+    "id": "FISCALÍA-DEL-CANTÓN-EL-CARMEN-Z4-M-E-E",
+    "nombre_punto": "FISCALÍA DEL CANTÓN EL CARMEN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "FISCALÍA-DISTRITO-PICHINCHA-Z4-M-P-P",
+    "nombre_punto": "Fiscalía distrito Pichincha"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "FISCALIA-Z4-M-C-C",
+    "nombre_punto": "Fiscalia"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 2",
+    "id": "FISCALÍA-FGE-Z4-M-M-M",
+    "nombre_punto": "FISCALÍA F.G.E. "
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "FISCALIA-GENERAL-DEL-ESTADO-CALCETA-Z4-M-B-C",
+    "nombre_punto": "FISCALIA GENERAL DEL ESTADO CALCETA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "FLAVIO ALFARO",
+    "subcircuito": "FLAVIO ALFARO 1",
+    "id": "NOTARIA-PRIMERA-DE-FLAVIO-ALFARO-Z4-M-C-F",
+    "nombre_punto": "Notaria primera de flavio Alfaro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "FLAVIO ALFARO",
+    "subcircuito": "FLAVIO ALFARO 1",
+    "id": "GASOLINERA-PETROLEOS-Y-SERVICIOS-Z4-M-C-F",
+    "nombre_punto": "GASOLINERA PETROLEOS Y SERVICIOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "FLAVIO ALFARO",
+    "subcircuito": "FLAVIO ALFARO 1",
+    "id": "MUNICIPIO-DE-FLAVIO-ALFARO-Z4-M-C-F",
+    "nombre_punto": "MUNICIPIO DE FLAVIO ALFARO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "FLAVIO ALFARO",
+    "subcircuito": "FLAVIO ALFARO 1",
+    "id": "FISCALÍA-DE-FLAVIO-ALFARO-Z4-M-C-F",
+    "nombre_punto": "FISCALÍA DE FLAVIO ALFARO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "SAN PABLO",
+    "subcircuito": "SAN PABLO 2",
+    "id": "CDI-MADRE-ISABEL-Z4-M-P-S",
+    "nombre_punto": "CDI MADRE ISABEL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "CENTRO-DE-SALUD-CUCUY-TIPO-A-Z4-M-C-E",
+    "nombre_punto": "Centro de Salud Cucuy Tipo A"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "FLAVIO ALFARO",
+    "subcircuito": "FLAVIO ALFARO 1",
+    "id": "CENTRO-DE-SALUD-TIPO-A-Z4-M-C-F",
+    "nombre_punto": "Centro de Salud Tipo A"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "TIENDA-BENDDICION-DE-DIOS-Z4-M-C-E",
+    "nombre_punto": "Tienda Benddicion de Dios"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "SAN ANTONIO 2",
+    "id": "LA-RAMADA-Z4-M-C-S",
+    "nombre_punto": "La Ramada"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "FISCALIA-MULTICOMPETENTE-DEL-CANTON-SANTA-ANA-Z4-M-V-S",
+    "nombre_punto": "FISCALIA MULTICOMPETENTE DEL CANTON SANTA ANA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "KFC-CHONE-Z4-M-C-C",
+    "nombre_punto": "KFC Chone"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "HOSPITAL-BÁSICO-NATALIA-HUERTA-DE-NIEMES-Z4-M-R-R",
+    "nombre_punto": "HOSPITAL BÁSICO NATALIA HUERTA DE NIEMES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "BANCO-PICHINCHA-Z4-M-C-C",
+    "nombre_punto": "Banco Pichincha"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "NUEVO PORTOVIEJO",
+    "subcircuito": "NUEVO PORTOVIEJO 1",
+    "id": "CDI-NUEVA-SEMILLA-SECTOR-SANTA-LUCIA-Z4-M-P-N",
+    "nombre_punto": "CDI NUEVA SEMILLA-SECTOR SANTA LUCIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CHIBUNGA",
+    "subcircuito": "CHIBUNGA 1",
+    "id": "GAD-PARROQUIAL-Z4-M-C-C",
+    "nombre_punto": "GAD PARROQUIAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CHIBUNGA",
+    "subcircuito": "CHIBUNGA 1",
+    "id": "CENTRO-DE-SALUD-Z4-M-C-C",
+    "nombre_punto": "CENTRO DE SALUD CHIBUNGA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CHIBUNGA",
+    "subcircuito": "CHIBUNGA 1",
+    "id": "CENTRO-DE-SALUD-CHIBUNGA-Z4-M-C-C",
+    "nombre_punto": "CENTRO DE SALUD CHIBUNGA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "TENENCIA-POLITICA-SANTA-ANA-Z4-M-V-S",
+    "nombre_punto": "TENENCIA POLITICA SANTA ANA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CANUTO",
+    "subcircuito": "CANUTO 1",
+    "id": "CLEMER-CANUTO-Z4-M-C-C",
+    "nombre_punto": "Clemer canuto"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CANUTO",
+    "subcircuito": "CANUTO 1",
+    "id": "INGRESO-DE-HUESO-DE-VACA-Z4-M-C-C",
+    "nombre_punto": "INGRESO DE HUESO DE VACA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CANUTO",
+    "subcircuito": "CANUTO 1",
+    "id": "Y-DE-CANUTO-VIA-CALCETA-Z4-M-C-C",
+    "nombre_punto": "Y DE CANUTO VIA CALCETA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "FISCALIA-CANTÓN-24-DE-MAYO-Z4-M-V-V",
+    "nombre_punto": "Fiscalia Cantón 24 de Mayo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "AYACUCHO",
+    "subcircuito": "AYACUCHO 1",
+    "id": "MINI-MARKET-B-Y-M-Z4-M-V-A",
+    "nombre_punto": "Mini Market B y M"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "DEPOSITO-DE-GAS-Z4-M-V-S",
+    "nombre_punto": "DEPOSITO DE GAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "AYACUCHO",
+    "subcircuito": "AYACUCHO 1",
+    "id": "TIENDA-Y-POLLO-WESTEN-ONION-Z4-M-V-A",
+    "nombre_punto": "Tienda y pollo Westen Onion"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "ILUSTRE-MUNICIPALIDAD-DE-SANTA-ANA-Z4-M-V-S",
+    "nombre_punto": "ILUSTRE MUNICIPALIDAD DE SANTA ANA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "PICANTERIA-EL-\"MARINO\"-Z4-M-M-T",
+    "nombre_punto": "PICANTERIA EL \"MARINO\""
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "FLAVIO ALFARO",
+    "subcircuito": "FLAVIO ALFARO 1",
+    "id": "COMERCIAL-MOREIRA-Z4-M-C-F",
+    "nombre_punto": "COMERCIAL MOREIRA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ZAPALLO",
+    "subcircuito": "ZAPALLO 1",
+    "id": "GAD-ZAPALLO-Z4-M-C-Z",
+    "nombre_punto": "GAD ZAPALLO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ZAPALLO",
+    "subcircuito": "ZAPALLO 1",
+    "id": "COMERCIAL-MOREIRA-Z4-M-C-Z",
+    "nombre_punto": "COMERCIAL MOREIRA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "EL-ECONOMICO-Z4-M-C-E",
+    "nombre_punto": "El Economico"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "COMERCIAL-ECONÓMICO-ELOY-ALFARO-Z4-M-C-E",
+    "nombre_punto": "Comercial Económico Eloy Alfaro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "CENTRO-DE-SALUD-ELOY-ALFARO-Z4-M-C-E",
+    "nombre_punto": "Centro de salud Eloy Alfaro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "PALANQUITA",
+    "subcircuito": "PALANQUITA 1",
+    "id": "RESTAURANTE-BELLITA-Z4-M-C-P",
+    "nombre_punto": "Restaurante Bellita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "PALANQUITA",
+    "subcircuito": "PALANQUITA 1",
+    "id": "DULCERIA-JUANITO-Z4-M-C-P",
+    "nombre_punto": "Dulceria Juanito"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 4",
+    "id": "CENTRO-COMERCIAL-Y-PARQUEADERO-MUNICIPAL-Z4-S-S-C",
+    "nombre_punto": "CENTRO COMERCIAL Y PARQUEADERO MUNICIPAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "FLAVIO ALFARO",
+    "subcircuito": "FLAVIO ALFARO 1",
+    "id": "RESTAURANTE-NEGRO-VICO-Z4-M-C-F",
+    "nombre_punto": "Restaurante Negro Vico"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CONVENTO",
+    "subcircuito": "CONVENTO 1",
+    "id": "COMISARIATO-ECONOMICO-Z4-M-C-C",
+    "nombre_punto": "Comisariato Economico"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CONVENTO",
+    "subcircuito": "CONVENTO 1",
+    "id": "RESTAURANTE-NEGRO-VICO-Z4-M-C-C",
+    "nombre_punto": "Restaurante Negro Vico"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 1",
+    "id": "CDI-LUNITA-Z4-M-P-P",
+    "nombre_punto": "CDI LUNITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 2",
+    "id": "COMERCIAL-VERGARA-Z4-M-P-P",
+    "nombre_punto": "COMERCIAL VERGARA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "DR.-GREGORY-GONZÁLEZ-LÓPEZ-Z4-M-P-P",
+    "nombre_punto": "Dr. Gregory González López"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "DMK-ESTILO-Z4-M-V-S",
+    "nombre_punto": "DMK ESTILO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "CINCUENTAZO-Z4-M-V-V",
+    "nombre_punto": "Cincuentazo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "COOPERATIVA-CALCETA-Z4-M-V-V",
+    "nombre_punto": "Cooperativa Calceta"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "ESQUINA-DE-ALEX-ASADERO-Z4-M-V-V",
+    "nombre_punto": "Esquina de Alex Asadero"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "HOTEL-CUNA-DE-CASCADAS-Z4-M-V-V",
+    "nombre_punto": "Hotel cuna de cascadas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "TIENDA-PILAR-Z4-M-V-V",
+    "nombre_punto": "Tienda pilar"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "CASCOL",
+    "subcircuito": "CASCOL 1",
+    "id": "MINIMARKET-CERCADO-Z4-M-P-C",
+    "nombre_punto": "Minimarket cercado"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 3",
+    "id": "PUPUSA-Z4-S-S-C",
+    "nombre_punto": "PUPUSA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "KIOSKO-CACHARRI-Z4-M-V-O",
+    "nombre_punto": "KIOSKO CACHARRI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "SANCAN",
+    "subcircuito": "SANCAN 1",
+    "id": "TIENDA-JEREMIAS-Z4-M-J-S",
+    "nombre_punto": "TIENDA JEREMIAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "EXCLUSIVIDADES-NEYGIN-Z4-M-V-O",
+    "nombre_punto": "EXCLUSIVIDADES NEYGIN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "SANCAN",
+    "subcircuito": "SANCAN 1",
+    "id": "CHIFA-LUCIA-Z4-M-J-S",
+    "nombre_punto": "CHIFA LUCIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "CHARAPOTO",
+    "subcircuito": "CHARAPOTO 2",
+    "id": "CENTRO-COMERCIAL-CHARAPOTO-Z4-M-S-C",
+    "nombre_punto": "Centro Comercial Charapoto"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "CHARAPOTO",
+    "subcircuito": "CHARAPOTO 1",
+    "id": "LETRAS-SAN-JACINTO-Z4-M-S-C",
+    "nombre_punto": "LETRAS SAN JACINTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "BANECUADOR-Z4-M-R-R",
+    "nombre_punto": "BanEcuador"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "CALLE-FLORESTA-Z4-M-P-M",
+    "nombre_punto": "Night Club Calle Floresta"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "CENTRO-DE-SALUD-TIPO-C-Z4-M-R-L",
+    "nombre_punto": "Centro de Salud Tipo C"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "MUNICIPIO-Z4-M-P-M",
+    "nombre_punto": "Municipio"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "BANECUADOR-Z4-M-P-M",
+    "nombre_punto": "BanEcuador"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "TIENDA-JOSTEIN-LA-INVASION-Z4-M-P-M",
+    "nombre_punto": "Tienda Jostein La Invasion"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "TORRE-SALVA-VIDA-SOCORRISTA-Z4-M-P-P",
+    "nombre_punto": "Torre Salva Vida Socorrista"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "TOMA-DE-AGUA-Z4-M-P-M",
+    "nombre_punto": "Toma de Agua"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "COLIMES-DE-PAJAN-Z4-M-P-M",
+    "nombre_punto": "Colimes de Pajan"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "CUERPO-DE-BOMBEROS-DE-PEDERNALES-Z4-M-P-P",
+    "nombre_punto": "CUERPO DE BOMBEROS DE PEDERNALES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "HOSPITAL-IESS-Z4-M-P-M",
+    "nombre_punto": "Hospital IESS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "HOSPITAL-QUINTERO-Z4-M-P-M",
+    "nombre_punto": "Hospital Quintero"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "UNIDAD-JUDICIAL-Z4-M-P-M",
+    "nombre_punto": "Unidad Judicial"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "MONUMENTOS",
+    "subcircuito": "MONUMENTOS 1",
+    "id": "FISCALIA-Z4-M-P-M",
+    "nombre_punto": "Fiscalia"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PRADERA",
+    "subcircuito": "LA PRADERA 1",
+    "id": "U.E.-PEDRO-BALDA-CUCALON-Z4-M-M-L",
+    "nombre_punto": "U.E. PEDRO BALDA CUCALON"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "GLOBAL-NET-Z4-M-P-P",
+    "nombre_punto": "Global net"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "3 DE mayo",
+    "subcircuito": "2001-05-03T05:00:00.000Z",
+    "id": "SERVIENTREGA-Z4-M-J-3",
+    "nombre_punto": "SERVIENTREGA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "CASCOL",
+    "subcircuito": "CASCOL 1",
+    "id": "TITO-MARKET-Z4-M-P-C",
+    "nombre_punto": "Tito Market"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "CASCOL",
+    "subcircuito": "CASCOL 1",
+    "id": "COMERCIAL-DELBERT-ANDRÉS-Z4-M-P-C",
+    "nombre_punto": "Comercial Delbert Andrés"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 2",
+    "id": "FUNDACIÓN-RÍO-MANTA-Z4-M-M-M",
+    "nombre_punto": "Fundación Río Manta"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 2",
+    "id": "MARISQUERIA-MERCA-FISH-Z4-M-P-E",
+    "nombre_punto": "Marisqueria Merca fish"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 2",
+    "id": "UNIDAD-EDUCATIVA-GIRÓN-Z4-M-M-M",
+    "nombre_punto": "Unidad Educativa Girón"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "SAN VICENTE",
+    "subcircuito": "SAN VICENTE 1",
+    "id": "LOS-PERALES-AV-LEONIDAS-VEGA-AEROPUERTO-Z4-M-S-S",
+    "nombre_punto": "LOS PERALES Av LEONIDAS VEGA AEROPUERTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS BAJOS",
+    "subcircuito": "LOS BAJOS 1",
+    "id": "MUEBLERÍA-ISAI-Z4-M-M-L",
+    "nombre_punto": "Mueblería Isai"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS BAJOS",
+    "subcircuito": "LOS BAJOS 1",
+    "id": "MUEBLERÍA-SHIRLEY-Z4-M-M-L",
+    "nombre_punto": "Mueblería Shirley"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "COMERCIAL-AKI-Z4-M-M-C",
+    "nombre_punto": "Comercial AKI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "CHONEPORT-Z4-M-M-C",
+    "nombre_punto": "Choneport"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "IGLESIA-LA-DOLOROSA-Z4-M-M-C",
+    "nombre_punto": "iglesia la Dolorosa"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 1",
+    "id": "UNIDAD-EDUCATIVA-NORMA-GUERRERO-DE-CASTILLO-Z4-M-M-M",
+    "nombre_punto": "UNIDAD EDUCATIVA NORMA GUERRERO DE CASTILLO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "NOVICOMPU-Z4-M-M-C",
+    "nombre_punto": "Novicompu"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "UPC-Z4-M-M-L",
+    "nombre_punto": "Iglesia la Merced"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "SAN PLACIDO",
+    "subcircuito": "SAN PLACIDO 1",
+    "id": "PAPELERÍA-Y-BAZAR-KAMILITA-Z4-M-P-S",
+    "nombre_punto": "papelería y bazar kamilita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "TIA-Z4-M-M-C",
+    "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "AYACUCHO",
+    "subcircuito": "AYACUCHO 1",
+    "id": "QUINTA-ALMA-Y-VIDA-Z4-M-V-A",
+    "nombre_punto": "QUINTA ALMA Y VIDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "GASOLINERA-PRIMAX-Z4-M-M-S",
+    "nombre_punto": "Gasolinera PRIMAX"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "JOMAS-Z4-M-M-C",
+    "nombre_punto": "JOMAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "PATRONATO-MUNICIPAL-Z4-M-M-C",
+    "nombre_punto": "Patronato municipal"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "CREDITOS-JORDAN-Z4-M-P-S",
+    "nombre_punto": "CREDITOS JORDAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "NUEVO-TARQUI-BANECUADOR-Z4-M-M-C",
+    "nombre_punto": "NUEVO TARQUI BANECUADOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "FUNERARIA-MUÑOZ-Z4-M-P-S",
+    "nombre_punto": "FUNERARIA MUÑOZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 2",
+    "id": "TIA-Z4-S-S-S",
+    "nombre_punto": "Tia"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 3",
+    "id": "TERMINAL-TERRESTRE-REINA-DEL-CAMINO-Z4-M-M-L",
+    "nombre_punto": "Terminal Terrestre Reina del Camino"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 1",
+    "id": "TERMINAL-TERRESTRE-CARLOS-ALBERTO-ARAY-Z4-M-M-L",
+    "nombre_punto": "Terminal Terrestre Carlos Alberto Aray"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 2",
+    "id": "TUTI-Z4-S-S-S",
+    "nombre_punto": "Tuti"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 2",
+    "id": "BARRIO-OARAISO-Z4-S-S-S",
+    "nombre_punto": "Barrio oaraiso"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 1",
+    "id": "TUTI-EL-PALMAR-Z4-M-M-L",
+    "nombre_punto": "TUTI EL PALMAR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 2",
+    "id": "PANADERIA-EL-ENCANTO-Z4-S-S-S",
+    "nombre_punto": "Panaderia el encanto"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 2",
+    "id": "PLAZA-SANTA-MARTHA-Z4-S-S-S",
+    "nombre_punto": "Plaza santa martha"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 1",
+    "id": "ALMACEN-ZONA-FRANCA-Z4-S-S-T",
+    "nombre_punto": "ALMACEN ZONA FRANCA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 2",
+    "id": "UNIDAD-JUDICIAL-DE-SANTO-DOMINGO-DE-LOS-TSÁCHILAS.-Z4-S-S-T",
+    "nombre_punto": "UNIDAD JUDICIAL DE SANTO DOMINGO DE LOS TSÁCHILAS."
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 2",
+    "id": "SUPERMERCADOS-TUTI-Z4-S-S-T",
+    "nombre_punto": "SUPERMERCADOS TUTI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "KFC-Z4-M-M-M",
+    "nombre_punto": "KFC"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "COMISARIATO-JUNIOR-Z4-M-M-M",
+    "nombre_punto": "COMISARIATO JUNIOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SANTA RITA",
+    "subcircuito": "SANTA RITA 1",
+    "id": "UNIDAD-EDUCATIVA-SANTA-RITA-Z4-M-C-S",
+    "nombre_punto": "Unidad Educativa Santa Rita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "CASA-NIKE-Z4-M-M-M",
+    "nombre_punto": "CASA NIKE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS BAJOS",
+    "subcircuito": "LOS BAJOS 1",
+    "id": "MUEBLERÍA-DON-MERO-Z4-M-M-L",
+    "nombre_punto": "Mueblería Don Mero"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "TUTI-Z4-M-M-M",
+    "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "COMEDOR-DUBAI-Z4-M-M-M",
+    "nombre_punto": "COMEDOR DUBAI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 2",
+    "id": "PARQUE-DE-LA-MADRE-Z4-M-M-M",
+    "nombre_punto": "PARQUE DE LA MADRE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "MUNICIPIO-DE-ROCAFUERTE-Z4-M-R-R",
+    "nombre_punto": "MUNICIPIO DE ROCAFUERTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 2",
+    "id": "IGLESIA-LA-MERCED-Z4-M-M-M",
+    "nombre_punto": "IGLESIA LA MERCED"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PILA",
+    "subcircuito": "LA PILA 1",
+    "id": "GASOLINERA-LA-PILA-JIPIJAPA-Z4-M-M-L",
+    "nombre_punto": "Gasolinera la Pila-Jipijapa"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PILA",
+    "subcircuito": "LA PILA 1",
+    "id": "CERÁMICA-LA-PILA-Z4-M-M-L",
+    "nombre_punto": "Cerámica La Pila"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PILA",
+    "subcircuito": "LA PILA 1",
+    "id": "ZONA-FRANCA-Z4-M-M-L",
+    "nombre_punto": "Zona Franca"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 1",
+    "id": "CENTRO-DE-SALUD-AUGUSTO-EGAS-Z4-S-S-T",
+    "nombre_punto": "CENTRO DE SALUD AUGUSTO EGAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "TIA-S.A.-TARQUII-Z4-M-M-T",
+    "nombre_punto": "TIA S.A. TARQUII"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "GRAN-AKI-TARQUI-Z4-M-M-T",
+    "nombre_punto": "GRAN AKI TARQUI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 1",
+    "id": "TIA-BAHIA-AV.-ASCAZUBI-Y-AV.-ALBERTO-SANTOS-Z4-M-S-B",
+    "nombre_punto": "TIA BAHIA AV ASCAZUBI Y AV ALBERTO SANTOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "PUERTA-1-ULEAM-Z4-M-M-U",
+    "nombre_punto": "PUERTA 1-ULEAM"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "JUNCO",
+    "subcircuito": "JUNCO 1",
+    "id": "MUNICIPIO-DEL-CANTÓN-TOSAGUA-Z4-M-R-J",
+    "nombre_punto": "Municipio del Cantón Tosagua"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "MEGAPARQUE-CENTENARIO-AGUSTÍN-INTRIAGO-Z4-M-M-T",
+    "nombre_punto": "MEGAPARQUE CENTENARIO AGUSTÍN INTRIAGO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 1",
+    "id": "UE-MARUJA-CEDEÑO-DE-DELGADO-Z4-M-M-T",
+    "nombre_punto": "UE MARUJA CEDEÑO DE DELGADO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 3",
+    "id": "UE-GIL-DELGADO-PINTO-Z4-M-M-T",
+    "nombre_punto": "UE GIL DELGADO PINTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 2",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-CARLOS-POLIT-ORTIZ-Z4-M-M-C",
+    "nombre_punto": "UNIDAD EDUCATIVA FISCAL CARLOS POLIT ORTIZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "PUERTA-2-ULEAM-Z4-M-M-U",
+    "nombre_punto": "PUERTA 2 ULEAM"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 2",
+    "id": "LA-CABAÑA-DE-YAHVEH-Z4-M-M-L",
+    "nombre_punto": "La cabaña de Yahveh"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-ANÍBAL-SAN-ANDRÉS-1-Z4-M-M-M",
+    "nombre_punto": "UNIDAD EDUCATIVA FISCAL ANÍBAL SAN ANDRÉS 1"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "FARMACIA-CRUZ-AZUL-CALLE-319-INTERBARRIAL-Z4-M-M-C",
+    "nombre_punto": "FARMACIA CRUZ AZUL CALLE 319 INTERBARRIAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "BADARACCO-PLAZA-Z4-M-M-U",
+    "nombre_punto": "BADARACCO PLAZA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 2",
+    "id": "GASOLINERA-PRIMAX-CALLE-321-CUBA-Z4-M-M-C",
+    "nombre_punto": "GASOLINERA PRIMAX CALLE 321 CUBA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "BLESSED-PHONE-Z4-M-M-M",
+    "nombre_punto": "BLESSED PHONE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 1",
+    "id": "SOLUCIONES-Y-SERVICIOS-Z4-M-P-P",
+    "nombre_punto": "Soluciones y servicios"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "CASCOL",
+    "subcircuito": "CASCOL 1",
+    "id": "COMEDOR-BACHITA-Z4-M-P-C",
+    "nombre_punto": "Comedor Bachita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "FARMACIA-CRUZ-AZUL-FRENTE-A-URB.-MANTA-2000-Z4-M-M-U",
+    "nombre_punto": "FARMACIA CRUZ AZUL FRENTE A URB. MANTA 2000"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "GASOLINERA-SHELL--CALLE-15-AV-28-Z4-M-M-U",
+    "nombre_punto": "GASOLINERA SHELL- CALLE 15  AV 28"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 2",
+    "id": "UE.-SAN-JOSE-Z4-M-M-T",
+    "nombre_punto": "UE. SAN JOSE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 1",
+    "id": "GASOLINERA-MAS-GAS-Z4-M-M-J",
+    "nombre_punto": "Gasolinera Mas Gas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 3",
+    "id": "TIA-ESTEROS-Z4-M-M-L",
+    "nombre_punto": "TIA Esteros"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 2",
+    "id": "IGLESIA-CATÓLICA-SAN-PEDRO-Y-SAN-PABLO-Z4-M-M-T",
+    "nombre_punto": "IGLESIA CATÓLICA SAN PEDRO Y SAN PABLO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 1",
+    "id": "GASOLINERA-PRIMAX-FARYB-Z4-M-M-J",
+    "nombre_punto": "Gasolinera Primax Faryb"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 2",
+    "id": "MECÁNICA-DG-MOTOS-Z4-M-M-J",
+    "nombre_punto": "Mecánica DG Motos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 2",
+    "id": "LOS-ASADOS-DE-LA-108-Z4-M-M-T",
+    "nombre_punto": "LOS ASADOS DE LA 108"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "REGISTRO-CIVIL-PEDERNALES-Z4-M-P-P",
+    "nombre_punto": "Registro Civil Pedernales"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 2",
+    "id": "TÍA-JARAMIJO-Z4-M-M-J",
+    "nombre_punto": "Tía Jaramijo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 2",
+    "id": "PLAZA-DEL-MAR-Z4-M-M-T",
+    "nombre_punto": "PLAZA DEL MAR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 2",
+    "id": "TUTI-COSTA-AZUL-Z4-M-M-L",
+    "nombre_punto": "TUTI Costa Azul"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 1",
+    "id": "OFICINAS-DE-LA-CTM-DEL-REDONDEL-DE-LA-TEJEDORA-Z4-M-M-M",
+    "nombre_punto": "OFICINAS DE LA CTM DEL REDONDEL DE LA TEJEDORA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 1",
+    "id": "GASOLINERA-PYS-JARAMIJO-Z4-M-M-J",
+    "nombre_punto": "Gasolinera PYS Jaramijo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 3",
+    "id": "PARQUE-CRISTO-REY-Z4-M-M-T",
+    "nombre_punto": "PARQUE CRISTO REY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 1",
+    "id": "PARQUE-JARAMISOL-NUEVO-AMANECER-Z4-M-M-J",
+    "nombre_punto": "Parque Jaramisol Nuevo Amanecer"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 2",
+    "id": "CALLE-110-Y-AV.-111-ENTRADA-AL-7-PUÑALADAS-Z4-M-M-T",
+    "nombre_punto": "CALLE 110 Y AV. 111 ENTRADA AL 7 PUÑALADAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "PUERTA-3-ULEAM.-Z4-M-M-U",
+    "nombre_punto": "PUERTA 3-ULEAM."
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "PARQUE-ANIBAL-SAN-ANDRES-Z4-M-M-M",
+    "nombre_punto": "PARQUE ANIBAL SAN ANDRES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "RESTAURANTE-ROLLWINGS-Z4-M-M-U",
+    "nombre_punto": "RESTAURANTE ROLLWINGS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 1",
+    "id": "GASOLINERA-SAN-ANTONIO-PETROECUADOR-Z4-M-M-M",
+    "nombre_punto": "Gasolinera San Antonio Petroecuador"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 2",
+    "id": "CASA-ROSADA-Z4-M-M-M",
+    "nombre_punto": "CASA ROSADA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA NORTE",
+    "subcircuito": "SANTA MARTHA NORTE 2",
+    "id": "MEGAMADERA-Z4-S-S-S",
+    "nombre_punto": "Megamadera"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "MEJIA",
+    "subcircuito": "MEJIA 1",
+    "id": "LOCAL-VERDURAS-Y-FRUTAS-Z4-M-P-M",
+    "nombre_punto": "Local Verduras y Frutas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "SAN PLACIDO",
+    "subcircuito": "SAN PLACIDO 1",
+    "id": "WESTER-UNION-Z4-M-P-S",
+    "nombre_punto": "wester union"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "EL-GRAN-CHONERO-Z4-M-P-P",
+    "nombre_punto": "El Gran Chonero"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "VILORE-RESTAURANT-Z4-M-P-P",
+    "nombre_punto": "Vilore Restaurant"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "BLANQUIS-PLAZA-Z4-M-R-L",
+    "nombre_punto": "Blanquis Plaza"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "JUNCO",
+    "subcircuito": "JUNCO 1",
+    "id": "TIENDA-LA-FLOR-LOMA-DEL-JUNCO-Z4-M-R-J",
+    "nombre_punto": "TIENDA LA FLOR-LOMA DEL JUNCO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 4",
+    "id": "C.D.I.-CORAZÓN-DE-NIÑO.-Z4-M-P-E",
+    "nombre_punto": "C.D.I. Corazón de Niño."
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "DANZARIN",
+    "subcircuito": "DANZARIN 1",
+    "id": "HOSPITAL-ENERGIA-Y-VIDA-Z4-M-R-D",
+    "nombre_punto": "HOSPITAL ENERGIA Y VIDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "IGLESIA-MONSERRATE-MONTECRISTI-Z4-M-M-M",
+    "nombre_punto": "IGLESIA MONSERRATE MONTECRISTI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "GASOLINERA-PRIMAX-Y-DE-MONTECRISTI-Z4-M-M-M",
+    "nombre_punto": "GASOLINERA PRIMAX Y DE MONTECRISTI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 3",
+    "id": "C.D.I.-NUEVO-AMANECER-Z4-M-P-E",
+    "nombre_punto": "C.D.I. NUEVO AMANECER"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "LOCAL-ALMACENES-TÍA-Z4-M-M-M",
+    "nombre_punto": "LOCAL ALMACENES TÍA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 1",
+    "id": "C.D.I.-10-DE-AGOSTO-Z4-M-P-E",
+    "nombre_punto": "C.D.I. 10 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 2",
+    "id": "C.D.I.-LA-ORQUÍDEAS-Z4-M-P-E",
+    "nombre_punto": "C.D.I. LA ORQUÍDEAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "BANCO-DE-GUAYAQUIL-Z4-M-M-M",
+    "nombre_punto": "BANCO DE GUAYAQUIL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 1",
+    "id": "UNIDAD-EDUCATIVA-TIERRA-SANTA-Z4-M-M-M",
+    "nombre_punto": "UNIDAD EDUCATIVA TIERRA SANTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "COJIMIES",
+    "subcircuito": "COJIMIES 1",
+    "id": "TIENDA-RAQUELITA-Z4-M-P-C",
+    "nombre_punto": "Tienda raquelita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "COJIMIES",
+    "subcircuito": "COJIMIES 1",
+    "id": "BAR-3-HERMANOS-Z4-M-P-C",
+    "nombre_punto": "Bar 3 hermanos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "COJIMIES",
+    "subcircuito": "COJIMIES 1",
+    "id": "TIENDA-ELIAS-Z4-M-P-C",
+    "nombre_punto": "Tienda Elias"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "FARMACIA-FIBECCA-A-LADO-DE-LA-PLAZA-CIVICA-Z4-M-M-M",
+    "nombre_punto": "FARMACIA FIBECCA  A LADO DE LA PLAZA CIVICA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "LICORERIA-EL-PADRINO-Z4-M-M-U",
+    "nombre_punto": "LICORERIA EL PADRINO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 1",
+    "id": "COMERCIAL-RAYALO-Z4-M-P-P",
+    "nombre_punto": "COMERCIAL RAYALO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 1",
+    "id": "COMERCIAL-PALACIO-RIOCHICO-Z4-M-P-P",
+    "nombre_punto": "COMERCIAL PALACIO RIOCHICO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "SAN PLACIDO",
+    "subcircuito": "SAN PLACIDO 1",
+    "id": "PARQUE-SAN-PLÁCIDO-Z4-M-P-S",
+    "nombre_punto": "parque san plácido"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "FARMACIA-CRUZ-AZUL-Z4-M-P-P",
+    "nombre_punto": "Farmacia Cruz azul"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "BAR-6-DE-DICIEMBRE-Z4-M-P-P",
+    "nombre_punto": "Bar 6 de diciembre"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "SODA-BAR-CARAMEL-1-Z4-M-P-P",
+    "nombre_punto": "Soda Bar Caramel 1"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "JUNCO",
+    "subcircuito": "JUNCO 1",
+    "id": "COMERCIAL-URETA-Z4-M-R-J",
+    "nombre_punto": "Comercial Ureta"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "CHARAPOTO",
+    "subcircuito": "CHARAPOTO 1",
+    "id": "SECTOR-SAN-CLEMENTE-Z4-M-S-C",
+    "nombre_punto": "SECTOR SAN CLEMENTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "MUSEO-OLLA-RESTAURANTE-Z4-M-P-P",
+    "nombre_punto": "Museo Olla Restaurante"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 2",
+    "id": "MONTUBIO-RESTAURANTE-Z4-M-P-P",
+    "nombre_punto": "Montubio Restaurante"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "JULIO MORENO",
+    "subcircuito": "JULIO MORENO 1",
+    "id": "SUBCENTRO-DE-SALUD-SAN-GABRIEL-DEL-BABA-Z4-S-S-J",
+    "nombre_punto": "SUBCENTRO DE SALUD SAN GABRIEL DEL BABA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LAS MERCEDES",
+    "subcircuito": "LAS MERCEDES 1",
+    "id": "HIPER-MERCADO-D'-LILYS-Z4-S-S-L",
+    "nombre_punto": "HIPER MERCADO D' LILYS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "JULIO MORENO",
+    "subcircuito": "JULIO MORENO 1",
+    "id": "SUBCENTRO-DE-SALUD-JULIO-MORENO-Z4-S-S-J",
+    "nombre_punto": "SUBCENTRO DE SALUD JULIO MORENO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "JULIO MORENO",
+    "subcircuito": "JULIO MORENO 1",
+    "id": "MALECÓN-SAN-GABRIEL-DEL-BABA-Z4-S-S-J",
+    "nombre_punto": "Malecón San Gabriel del Baba"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN FRANCISCO DE NOVILLO",
+    "subcircuito": "SAN FRANCISCO DE NOVILLO 1",
+    "id": "TIENDA-EMA-Z4-M-C-S",
+    "nombre_punto": "TIENDA EMA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LAS MERCEDES",
+    "subcircuito": "LAS MERCEDES 1",
+    "id": "GASOLINERA-PUMA-Z4-S-S-L",
+    "nombre_punto": "GASOLINERA PUMA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN FRANCISCO DE NOVILLO",
+    "subcircuito": "SAN FRANCISCO DE NOVILLO 1",
+    "id": "COLEGIO-JOSÉ-Z4-M-C-S",
+    "nombre_punto": "Colegio José"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LAS MERCEDES",
+    "subcircuito": "LAS MERCEDES 1",
+    "id": "GASOLINERA-PUMA-BARRIO-10-DE-AGOSTO-Z4-S-S-L",
+    "nombre_punto": "GASOLINERA PUMA BARRIO 10 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LAS MERCEDES",
+    "subcircuito": "LAS MERCEDES 1",
+    "id": "SUBCENTRO-DE-SALUD-LAS-MERCEDES-Z4-S-S-L",
+    "nombre_punto": "SUBCENTRO DE SALUD LAS MERCEDES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "FLAVIO ALFARO",
+    "subcircuito": "FLAVIO ALFARO 1",
+    "id": "COOPERATIVA-CHONE-LTDA-Z4-M-C-F",
+    "nombre_punto": "COOPERATIVA CHONE LTDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CHIBUNGA",
+    "subcircuito": "CHIBUNGA 1",
+    "id": "TENENCIA-POLITICA-Z4-M-C-C",
+    "nombre_punto": "TENENCIA POLITICA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "BECHE",
+    "subcircuito": "BECHE 1",
+    "id": "2350828626-Z4-M-P-B",
+    "nombre_punto": 2350828626
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "COJIMIES",
+    "subcircuito": "COJIMIES 1",
+    "id": "CENTRO-DE-SALUD-Z4-M-P-C",
+    "nombre_punto": "Centro de salud"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "BARRAGANETE",
+    "subcircuito": "BARRAGANETE 1",
+    "id": "UPC-BARRAGANETE-Z4-M-P-B",
+    "nombre_punto": "UPC BARRAGANETE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "PALANQUITA",
+    "subcircuito": "PALANQUITA 1",
+    "id": "DULCERIA-EL-PROFESOR-Z4-M-C-P",
+    "nombre_punto": "Dulceria el profesor"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 2",
+    "id": "GRUTA-COMITE-PROMEJORES-UNIDOS-PARA-VENCER-Z4-M-M-M",
+    "nombre_punto": "GRUTA COMITE PROMEJORES UNIDOS PARA VENCER"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "LABORATORIO-SANTA-RITA-Z4-M-M-U",
+    "nombre_punto": "LABORATORIO SANTA RITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "RESTAURANTE-LAS-HAMACAS-DE-SOSOTE-Z4-M-M-L",
+    "nombre_punto": "RESTAURANTE LAS HAMACAS DE SOSOTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "BODEGAS-DEL-TUTTI-Z4-M-M-L",
+    "nombre_punto": "BODEGAS DEL TUTTI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "RESTAURANTE-MONTUBIO-GUAYABAL-Z4-M-M-L",
+    "nombre_punto": "RESTAURANTE MONTUBIO GUAYABAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "PEAJE-MANTA-PORTOVIEJO-Z4-M-M-L",
+    "nombre_punto": "PEAJE MANTA-PORTOVIEJO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PRADERA",
+    "subcircuito": "LA PRADERA 3",
+    "id": "CARNICERIATO-EL-CHONERO-Z4-M-M-L",
+    "nombre_punto": "CARNICERIATO EL CHONERO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "Y-DEL-CERRO-GUAYABAL-Z4-M-M-L",
+    "nombre_punto": "Y DEL CERRO GUAYABAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "DESVÍO-MONTECRISTI-JARAMIJO-URB.-SANTA-CRUZ-Z4-M-M-L",
+    "nombre_punto": "DESVÍO MONTECRISTI-JARAMIJO URB. SANTA CRUZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LA LORENA",
+    "subcircuito": "LA LORENA 1",
+    "id": "PLANETARIUM-GASTROPLAZA-Z4-S-S-L",
+    "nombre_punto": "PLANETARIUM GASTROPLAZA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "EPAPAR-Z4-M-R-R",
+    "nombre_punto": "EPAPAR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 2",
+    "id": "TIA-Z4-M-R-R",
+    "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "PLAZA-VALKIHA-Z4-M-M-S",
+    "nombre_punto": "Plaza Valkiha"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "EL TOACHI",
+    "subcircuito": "EL TOACHI 1",
+    "id": "FABRICA-DE-HIELO-SAN-ROQUE-Z4-S-S-E",
+    "nombre_punto": "Fabrica de Hielo SAN ROQUE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "UNIFICADOS",
+    "subcircuito": "UNIFICADOS 1",
+    "id": "TUTI-AV-LA-LORENA-Z4-S-S-U",
+    "nombre_punto": "TUTI AV LA LORENA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 1",
+    "id": "CENTRO-FORENSE-PORTOVIEJO-Z4-M-P-E",
+    "nombre_punto": "Centro forense Portoviejo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 2",
+    "id": "TIA-CUBA-Z4-M-M-C",
+    "nombre_punto": "TIA CUBA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 1",
+    "id": "FARMACIA-SAN-GREGORIO-(LETRAS-SOSOTE)-Z4-M-R-R",
+    "nombre_punto": "FARMACIA SAN GREGORIO (LETRAS SOSOTE)"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "JULIO MORENO",
+    "subcircuito": "JULIO MORENO 1",
+    "id": "SEGURO-CAMPESINO-IESS-Z4-S-S-J",
+    "nombre_punto": "Seguro Campesino iess"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA SUR",
+    "subcircuito": "SANTA MARTHA SUR 1",
+    "id": "PLASTIFE-Z4-S-S-S",
+    "nombre_punto": "PLASTIFE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 3",
+    "id": "RESTAURANTE-MAVI-Z4-M-M-L",
+    "nombre_punto": "Restaurante MAVI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "CLÍNICA-CUBA-CENTER-Z4-S-S-B",
+    "nombre_punto": "CLÍNICA CUBA CENTER"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CONVENTO",
+    "subcircuito": "CONVENTO 1",
+    "id": "MULTI-COMERCIO-CONVENTO-Z4-M-C-C",
+    "nombre_punto": "MULTI COMERCIO CONVENTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "BECHE",
+    "subcircuito": "BECHE 1",
+    "id": "COMERCIAL-PRECIADO-Z4-M-P-B",
+    "nombre_punto": "COMERCIAL PRECIADO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SAN FRANCISCO DE NOVILLO",
+    "subcircuito": "SAN FRANCISCO DE NOVILLO 1",
+    "id": "GAD-PARROQUIAL-Z4-M-C-S",
+    "nombre_punto": "Gad Parroquial"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 1",
+    "id": "PARADA-DE-BUS-MERCADO-BAHIA-Z4-M-S-B",
+    "nombre_punto": "PARADA DE BUS MERCADO BAHIA Av Ante y Montufar"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "RESTAURANTE-BAR-DLEYT-Z4-M-B-C",
+    "nombre_punto": "Restaurante Bar Dleyt"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ELOY ALFARO",
+    "subcircuito": "ELOY ALFARO 1",
+    "id": "AGROVET-ELOY-ALFARO-Z4-M-C-E",
+    "nombre_punto": "AGROVET ELOY ALFARO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 4",
+    "id": "GYM-SPORT-Z4-M-M-C",
+    "nombre_punto": "GYM SPORT"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "BECHE",
+    "subcircuito": "BECHE 1",
+    "id": "TIENDA-VICTORINO-Z4-M-P-B",
+    "nombre_punto": "Tienda Victorino"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 1",
+    "id": "COOPERATIVA-DE-TRANSPORTE-JIPIJAPA-Z4-M-J-J",
+    "nombre_punto": "COOPERATIVA DE TRANSPORTE JIPIJAPA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ZAPALLO",
+    "subcircuito": "ZAPALLO 1",
+    "id": "DISPENSARIO-MEDICO-ZAPALLO-IESS-SEGURO-SOCIAL-Z4-M-C-Z",
+    "nombre_punto": "DISPENSARIO MEDICO ZAPALLO IESS SEGURO SOCIAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ZAPALLO",
+    "subcircuito": "ZAPALLO 1",
+    "id": "DISPENSARIO-MÉDICO-IESS-SEGURO-SOCIAL-Z4-M-C-Z",
+    "nombre_punto": "DISPENSARIO MÉDICO IESS SEGURO SOCIAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "ZAPALLO",
+    "subcircuito": "ZAPALLO 1",
+    "id": "DISPENSARIO-MEDICO-ZAPALLO-IESS-Z4-M-C-Z",
+    "nombre_punto": "DISPENSARIO MEDICO ZAPALLO IESS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "FIBECA-Z4-M-C-C",
+    "nombre_punto": "FIBECA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "ESCUELA-JESUS-DE-NAZARET-Z4-M-M-U",
+    "nombre_punto": "ESCUELA JESUS DE NAZARET"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL GUABITO",
+    "subcircuito": "EL GUABITO 1",
+    "id": "LICORERIA-MOVAVE-Z4-M-P-E",
+    "nombre_punto": "LICORERIA MOVAVE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "CONFIACONT-ASESORÍA-CONTABLE-Y-TRIBUTARIA-Z4-M-P-P",
+    "nombre_punto": "ConfiaCont Asesoría contable y tributaria"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "ALAJUELA",
+    "subcircuito": "ALAJUELA 1",
+    "id": "BARBELIA-LUIGI-AFRO-STUDIO-Z4-M-P-A",
+    "nombre_punto": "barbelia luigi afro studio"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "ALAJUELA",
+    "subcircuito": "ALAJUELA 1",
+    "id": "LUIGGI-ESTUDIO-Z4-M-P-A",
+    "nombre_punto": "luiggi estudio"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PAJAN",
+    "circuito": "LASCANO",
+    "subcircuito": "LASCANO 1",
+    "id": "NICOLÁS-SEGURA-Z4-M-P-L",
+    "nombre_punto": "NICOLÁS SEGURA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "JUNIN NORTE",
+    "subcircuito": "JUNIN NORTE 1",
+    "id": "POLLOSASADOS-MONCA-Z4-M-B-J",
+    "nombre_punto": "POLLOSASADOS MONCA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 1",
+    "id": "CAÑA-MANABITA-Z4-M-P-E",
+    "nombre_punto": "CAÑA MANABITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 3",
+    "id": "MEDIOS-EDIASA-EL-DIARIO-MANABÍTA-Z4-M-P-E",
+    "nombre_punto": "Medios Ediasa EL DIARIO MANABÍTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "ESCUELA-DE-EDUCACIÓN-BASICA-ANGEL-ARTEAGA-CAÑARTE-Z4-M-V-S",
+    "nombre_punto": "ESCUELA DE EDUCACIÓN BASICA ANGEL ARTEAGA CAÑARTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 4",
+    "id": "CASA-LEGISLATIVA-MANABI-ASAMBLEA-NACIONAL-Z4-M-P-E",
+    "nombre_punto": "Casa legislativa Manabi ASAMBLEA NACIONAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "SAN VICENTE",
+    "subcircuito": "SAN VICENTE 2",
+    "id": "NAUTIKA-Z4-M-J-S",
+    "nombre_punto": "NAUTIKA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "RESTAURANTE-PORTO-CAÑA-Z4-M-P-P",
+    "nombre_punto": "Restaurante Porto Caña"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "GIMNASIO-JP-Z4-M-P-P",
+    "nombre_punto": "Gimnasio JP"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "CRABS-HOUSE-Z4-M-P-P",
+    "nombre_punto": "Crabs house"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LA LORENA",
+    "subcircuito": "LA LORENA 1",
+    "id": "CAMPAMENTO-HUNAN-Z4-S-S-L",
+    "nombre_punto": "CAMPAMENTO HUNAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "24. DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "CASA-DE-LA-GOBERNADORA-Z4-M-V-S",
+    "nombre_punto": "Casa de la gobernadora"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 1",
+    "id": "DESPENSA-LAS-LUPITA-Z4-M-M-L",
+    "nombre_punto": "Despensa Las lupita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 2",
+    "id": "MI-COMISARIATO-Z4-M-M-L",
+    "nombre_punto": "Mi Comisariato"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 2",
+    "id": "PARQUE-LOS-ANGELES-Z4-M-M-L",
+    "nombre_punto": "Parque los Angeles"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "1309850483-Z4-M-M-L",
+    "nombre_punto": 1309850483
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 2",
+    "id": "TERMINAL-TERRESTRE-BAHIA-Z4-M-S-B",
+    "nombre_punto": "TERMINAL TERRESTRE BAHIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 4",
+    "id": "PICANTERIA-LEVIS-Z4-M-P-E",
+    "nombre_punto": "PICANTERIA LEVIS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL PORVENIR",
+    "subcircuito": "EL PORVENIR 1",
+    "id": "EL-PORVENIR-TIENDA-LA-FORTUNA-Z4-M-E-E",
+    "nombre_punto": "El porvenir tienda la fortuna"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "EL PORVENIR",
+    "subcircuito": "EL PORVENIR 1",
+    "id": "EL-PORVENIR-FARMACIA-PINARGOTE-Z4-M-E-E",
+    "nombre_punto": "El porvenir farmacia pinargote"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "COMISARIATO-ECONÓMICO-Z4-M-P-A",
+    "nombre_punto": "Comisariato Económico"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "MOTO-REPUESTOS-Z4-M-P-A",
+    "nombre_punto": "Moto Repuestos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "MULTISERVICIOS-AVE-COMPANY-Z4-M-P-A",
+    "nombre_punto": "Multiservicios Ave Company"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO LOPEZ",
+    "subcircuito": "PUERTO LOPEZ 1",
+    "id": "GASOLINERA-PETROLRIOS-Z4-M-J-P",
+    "nombre_punto": "GASOLINERA PETROLRIOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "COMERCIAL-DON-DERLY-Z4-M-P-A",
+    "nombre_punto": "Comercial Don Derly"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 1",
+    "id": "CENTRO-FORENSE-ZONA-4-MANTA-Z4-M-M-M",
+    "nombre_punto": "Centro Forense Zona 4 Manta"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 1",
+    "id": "COLEGIO-REPLICA-MANTA-Z4-M-M-M",
+    "nombre_punto": "Colegio Replica Manta"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 4",
+    "id": "LICORERIA-3-TORRES-Z4-M-P-E",
+    "nombre_punto": "LICORERIA 3 TORRES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "HOSPITAL-RODRIGUEZ-ZAMBRANO-Z4-M-M-U",
+    "nombre_punto": "HOSPITAL RODRIGUEZ ZAMBRANO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS BAJOS",
+    "subcircuito": "LOS BAJOS 1",
+    "id": "PANADERÍA-SUPER-PAN-Z4-M-M-L",
+    "nombre_punto": "Panadería Super Pan"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS BAJOS",
+    "subcircuito": "LOS BAJOS 1",
+    "id": "GASOLINERA-P&S-LOS-BAJOS-Z4-M-M-L",
+    "nombre_punto": "GASOLINERA P&S LOS BAJOS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS BAJOS",
+    "subcircuito": "LOS BAJOS 1",
+    "id": "FARMACIA-SANTA-MARTHA,-BAJO-DE-LA-PALMA-Z4-M-M-L",
+    "nombre_punto": "Farmacia Santa Martha, Bajo de la Palma"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "CENTRO-MEDICO-BITALIS-Z4-M-M-L",
+    "nombre_punto": "Centro Medico Bitalis"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "SUB-CENTRO-DE-SALUD-LEONIDAS-PROAÑO-Z4-M-M-L",
+    "nombre_punto": "Sub centro de salud Leonidas Proaño"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 3",
+    "id": "PIZZERIA-IL-FARO-Z4-M-M-U",
+    "nombre_punto": "PIZZERIA IL FARO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "GASOLINERA-PRIMAXS-Z4-M-M-U",
+    "nombre_punto": "GASOLINERA PRIMAX VIA. SAN MATEO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "FARMACIA-DEL-DESCUENTO-LAS-PALMAS-Z4-M-M-L",
+    "nombre_punto": "FARMACIA DEL DESCUENTO-LAS PALMAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "BANCO-DE-BARRIO-GUAYAQUIL-Z4-M-M-L",
+    "nombre_punto": "Banco de barrio Guayaquil"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "CARNISARIATO-EL-CHONERO-Z4-M-M-L",
+    "nombre_punto": "Carnisariato el chonero"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 1",
+    "id": "SUPER-OFERTA-Z4-M-M-C",
+    "nombre_punto": "SUPER OFERTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 1",
+    "id": "GYM-POWER-HOUSE-Z4-M-M-C",
+    "nombre_punto": "GYM POWER HOUSE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 1",
+    "id": "CHIFA-JACINTO-Z4-M-M-C",
+    "nombre_punto": "CHIFA JACINTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PILA",
+    "subcircuito": "LA PILA 1",
+    "id": "GENETSA-LA-PILA-Z4-M-M-L",
+    "nombre_punto": "GENETSA LA PILA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 2",
+    "id": "GYMNASIO-SHARK-Z4-M-M-J",
+    "nombre_punto": "GYMNASIO SHARK"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 2",
+    "id": "PARRILLADAS-D'YANDRY-Z4-M-M-J",
+    "nombre_punto": "PARRILLADAS D'YANDRY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PILA",
+    "subcircuito": "LA PILA 1",
+    "id": "DISPENSARIO-MEDICO-IESS-Z4-M-M-L",
+    "nombre_punto": "DISPENSARIO MEDICO IESS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "TIENDA-LAS-COLINAS-Z4-M-M-L",
+    "nombre_punto": "Tienda las colinas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "GASOLINERA-PETROECUADOR-Z4-M-M-S",
+    "nombre_punto": "Gasolinera Petroecuador"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "TUTI-Z4-M-M-S",
+    "nombre_punto": "TUTi"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "TARQUI",
+    "subcircuito": "TARQUI 2",
+    "id": "LA-ESQUINA-DEL-PINGÜINO-Z4-M-M-T",
+    "nombre_punto": "LA ESQUINA DEL PINGÜINO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 1",
+    "id": "TUTI-JARAMIJO-Z4-M-M-J",
+    "nombre_punto": "TUTI JARAMIJO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 2",
+    "id": "LAVADORA-Y-LUBRICADORA-GG-Z4-M-M-M",
+    "nombre_punto": "LAVADORA Y LUBRICADORA GG"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "TIENDA-ZULEYKA-Z4-M-M-S",
+    "nombre_punto": "Tienda Zuleyka"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 2",
+    "id": "UNIDAD-EDUCATIVA-JORGE-WASHIGTON-Z4-M-M-M",
+    "nombre_punto": "UNIDAD EDUCATIVA JORGE WASHIGTON"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "FOTO-ESTUDIO-LUX-Z4-M-M-C",
+    "nombre_punto": "Foto Estudio Lux"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 3",
+    "id": "DEPOSITO-LAS-NENAS-Z4-M-M-M",
+    "nombre_punto": "DEPOSITO LAS NENAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 1",
+    "id": "MI-MARKET-XPRES-CUMBRES-Z4-M-M-M",
+    "nombre_punto": "MI MARKET XPRES CUMBRES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "FARMACIA-KELLY-Z4-M-M-S",
+    "nombre_punto": "Farmacia Kelly"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "BABY-VICTORIA-Z4-M-M-C",
+    "nombre_punto": "Baby victoria"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 2",
+    "id": "FERRETERIA-CONELSA-Z4-M-M-C",
+    "nombre_punto": "FERRETERIA CONELSA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "TIENDA-SUPER-TIENDA-Z4-M-M-C",
+    "nombre_punto": "TIENDA SUPER TIENDA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "PERFUMERÍA-LOS-PAISAS-LA-MAYORISTA-Z4-M-M-C",
+    "nombre_punto": "Perfumería los paisas la mayorista"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "ALMACÉN-DE-BICICLETAS-BIKE-Z4-M-M-C",
+    "nombre_punto": "Almacén de bicicletas bike"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 1",
+    "id": "LOS-PERICOS-Z4-M-E-S",
+    "nombre_punto": "Los Pericos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA SEQUITA",
+    "subcircuito": "LA SEQUITA 1",
+    "id": "TIENDA-K-SI-TODO-PEPA-DE-USO-Z4-M-M-L",
+    "nombre_punto": "TIENDA K-SI TODO-PEPA DE USO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "CEVICHERÍA-JUVENTUD-ITALIANA-Z4-M-M-C",
+    "nombre_punto": "Cevichería juventud italiana"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "ELECTRO-BRIONES-Z4-M-M-C",
+    "nombre_punto": "Electro Briones"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 2",
+    "id": "TALLER-KZM-Z4-M-M-M",
+    "nombre_punto": "TALLER  KZM"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 3",
+    "id": "LOCAL-MIVA-Z4-M-M-M",
+    "nombre_punto": "LOCAL MIVA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 1",
+    "id": "COMERCIAL-MJ-Z4-M-M-L",
+    "nombre_punto": "Comercial MJ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 4",
+    "id": "DEPÓSITO-DURAGAS-Z4-M-M-C",
+    "nombre_punto": "DEPÓSITO DURAGAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 1",
+    "id": "GISTECH-EQUIPOS-Y-SERVICIOS-TECNOLÓGICOS-Z4-M-M-L",
+    "nombre_punto": "GisTech Equipos y Servicios Tecnológicos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 4",
+    "id": "ZAMBRANO-JUNIOR-Z4-M-M-C",
+    "nombre_punto": "ZAMBRANO JUNIOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "IMPORTA-MANTA-Z4-M-M-M",
+    "nombre_punto": "IMPORTA MANTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 2",
+    "id": "HIPER-FARMACIA-Z4-M-M-L",
+    "nombre_punto": "Hiper Farmacia"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "LA-NOVIA-DEL-TORO-Z4-M-M-M",
+    "nombre_punto": "LA NOVIA DEL TORO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 1",
+    "id": "MINIMARKET-ZONA-FRIA-Z4-M-M-M",
+    "nombre_punto": "MiniMarket Zona Fria"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 3",
+    "id": "JHON-BURGUER-Z4-M-M-M",
+    "nombre_punto": "Jhon Burguer"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 2",
+    "id": "LA-PATRONA-Z4-M-M-M",
+    "nombre_punto": "La Patrona"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "FARMACIA-CRUZ-AZUL-SANTA-ANA-Z4-M-M-C",
+    "nombre_punto": "FARMACIA CRUZ AZUL SANTA ANA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 1",
+    "id": "LABORATORIO-SANTA-RITA-Z4-M-M-C",
+    "nombre_punto": "LABORATORIO SANTA RITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "NOTARÍA-ÚNICA-CANTÓN-LA-CONCORDIA-Z4-S-L-C",
+    "nombre_punto": "Notaría Única Cantón la Concordia"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "NOTARÍA-ÚNICA-DEL-CANTON-LA-CONCORDIA-Z4-S-L-C",
+    "nombre_punto": "Notaría Única del Canton la concordia"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA SUR",
+    "subcircuito": "CALCETA SUR 1",
+    "id": "COMERCIAL-SUPER-1-Z4-M-B-C",
+    "nombre_punto": "Comercial Super 1"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA SUR",
+    "subcircuito": "CALCETA SUR 1",
+    "id": "SUPER-1-Z4-M-B-C",
+    "nombre_punto": "Super 1"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "CHUCU-BURGUER-Z4-M-M-C",
+    "nombre_punto": "CHUCU BURGUER"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 1",
+    "id": "LUBRI-LAVADO-LAS-CUMBRES-Z4-M-M-M",
+    "nombre_punto": "LUBRI LAVADO LAS CUMBRES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 1",
+    "id": "TUTI-LAS-CUMBRES-Z4-M-M-M",
+    "nombre_punto": "TUTI LAS CUMBRES"
+  }
+]
