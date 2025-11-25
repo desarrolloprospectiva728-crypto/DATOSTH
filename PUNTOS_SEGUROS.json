@@ -51595,5 +51595,14 @@
     "subcircuito": "SAN BARTOLOME DE PINLLO 2",
     "id": "BARRIO-MADRIGAL-VIVIENDA-MANGARREZ-LALAMA-Z3-T-A-S",
     "nombre_punto": "Barrio Madrigal Vivienda Mangarrez Lalama"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "EL CORAZON",
+    "subcircuito": "EL CORAZON 1",
+    "id": "BANECUADOR-Z3-C-P-E",
+    "nombre_punto": "BanEcuador"
   }
 ]
