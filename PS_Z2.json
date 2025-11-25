@@ -1,1 +1,3539 @@
-
+[
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "TIENDA-INDUSTRIALES-ASOCIADOS-TIA-S.A-Z2-N-T-A",
+    "nombre_punto": "TIENDA INDUSTRIALES ASOCIADOS TIA S.A"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "STEAK-NACHO-HOUSE-Z2-N-T-A",
+    "nombre_punto": "STEAK NACHO HOUSE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "TUTI-Z2-N-T-A",
+    "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "FARMACIA-ECONOMICAS-Z2-O-L-S",
+    "nombre_punto": "FARMACIA ECONOMICAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SAN RAFAEL",
+    "subcircuito": "SAN RAFAEL 1",
+    "id": "FARMACIA-SANA-SANA-Z2-P-R-S",
+    "nombre_punto": "FARMACIA SANA SANA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "ALOAG",
+    "subcircuito": "ALOAG 1",
+    "id": "LA-PASTORITA-Z2-P-R-A",
+    "nombre_punto": "LA PASTORITA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SAN RAFAEL",
+    "subcircuito": "SAN RAFAEL 1",
+    "id": "BAGUETTE-Z2-P-R-S",
+    "nombre_punto": "BAGUETTE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "MACHACHI SUR",
+    "subcircuito": "MACHACHI SUR 1",
+    "id": "PAGO-AGIL-Z2-P-R-M",
+    "nombre_punto": "PAGO AGIL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "FAJARDO",
+    "subcircuito": "FAJARDO 1",
+    "id": "BABYCENTRO-Z2-P-R-F",
+    "nombre_punto": "BABYCENTRO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO SUR",
+    "subcircuito": "PUERTO QUITO SUR 2",
+    "id": "ABARROTES-YESSENIA-Z2-P-N-P",
+    "nombre_punto": "ABARROTES YESSENIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO SUR",
+    "subcircuito": "PUERTO QUITO SUR 2",
+    "id": "FRIGO-TERCENA-EL-BUEN-AMIGO-Z2-P-N-P",
+    "nombre_punto": "FRIGO TERCENA EL BUEN AMIGO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "FARMACIA-SANA-SANA-Z2-O-O-C",
+    "nombre_punto": "FARMACIA SANA SANA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "ARTEFACTA-Z2-O-O-C",
+    "nombre_punto": "ARTEFACTA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 2",
+    "id": "FARMACIA-ECONÓMICAS-Z2-O-O-C",
+    "nombre_punto": "FARMACIA ECONÓMICAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "MINI-MARKT-EL-PUNTO-Z2-O-O-C",
+    "nombre_punto": "MINI MARKT EL PUNTO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "ALMACENES-NOVOA-Z2-O-O-C",
+    "nombre_punto": "ALMACENES NOVOA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "BARBERIA-Y-CAFETERIA-BRAVOS-Z2-O-O-C",
+    "nombre_punto": "BARBERIA Y CAFETERIA BRAVOS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "GIVIKAJOPA-Z2-O-O-C",
+    "nombre_punto": "GIVIKAJOPA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "BARBERIA-CLUB-CABALLEROS-Z2-O-O-C",
+    "nombre_punto": "BARBERIA CLUB CABALLEROS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "TODO-A-5-Z2-O-O-C",
+    "nombre_punto": "TODO A 5"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "CEVICHERIA-EL-RINCÓN-MANABITA-Z2-O-O-C",
+    "nombre_punto": "CEVICHERIA EL RINCÓN MANABITA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "PARQUE-CENTRAL-Z2-O-O-C",
+    "nombre_punto": "PARQUE CENTRAL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "COOPERATIVA-CHIBULEO-Z2-O-O-C",
+    "nombre_punto": "COOPERATIVA CHIBULEO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "OROCASH-Z2-O-O-C",
+    "nombre_punto": "OROCASH"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "",
+    "id": "TIA-Z2-O-O-C",
+    "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "RESTO-BAR-COQUEÑO'S-Z2-O-O-C",
+    "nombre_punto": "RESTO BAR COQUEÑO'S"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "CEVICHERIA-COLORADO-Z2-O-O-C",
+    "nombre_punto": "CEVICHERIA COLORADO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "CAÑARI-KAUSAY-Z2-O-O-C",
+    "nombre_punto": "CAÑARI KAUSAY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "ALMACENES-TIA-Z2-O-L-S",
+    "nombre_punto": "ALMACENES TIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "",
+    "id": "ASADERO-CARRITO-MOVIL-Z2-O-O-C",
+    "nombre_punto": "ASADERO CARRITO MOVIL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "TIA-Z2-O-L-S",
+    "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "SATÉLITE.EC-Z2-O-L-S",
+    "nombre_punto": "SATÉLITE.EC"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
+    "id": "RIVERAACELL-MOVIL-Z2-O-L-S",
+    "nombre_punto": "RIVERAACELL MOVIL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
+    "id": "MINIMARKET-MI-CUCHITO-Z2-O-L-S",
+    "nombre_punto": "MINIMARKET MI CUCHITO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "GASOLINERA-SAN-JOSÉ-Z2-O-L-S",
+    "nombre_punto": "GASOLINERA SAN JOSÉ"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "ITSO-UNIVERSITARIO-Z2-O-L-S",
+    "nombre_punto": "ITSO UNIVERSITARIO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "COLISEO-JOYA-DE-LOS-SACHAS-Z2-O-L-S",
+    "nombre_punto": "COLISEO JOYA DE LOS SACHAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "CEMENTERIO-JOYA-DE-LOS-SACHAS-Z2-O-L-S",
+    "nombre_punto": "CEMENTERIO JOYA DE LOS SACHAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
+    "id": "UNIDAD-EDUCATIVA-12-DE-FEBRERO-Z2-O-L-S",
+    "nombre_punto": "UNIDAD EDUCATIVA 12 DE FEBRERO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
+    "id": "PARQUE-INFANTIL-LAS-CONCHAS-Z2-O-L-S",
+    "nombre_punto": "PARQUE INFANTIL LAS CONCHAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "BANCO-PICHINCHA-Z2-O-L-S",
+    "nombre_punto": "BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "GASOLINERA-DIVINO-NIÑO-Z2-O-L-S",
+    "nombre_punto": "GASOLINERA DIVINO NIÑO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "ALOAG",
+    "subcircuito": "ALOAG 1",
+    "id": "CYBER-Y-PAPELERIA-MYM-Z2-P-R-A",
+    "nombre_punto": "CYBER Y PAPELERIA MYM"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "ALOAG",
+    "subcircuito": "ALOAG 1",
+    "id": "SUPERMERCADO-LA-ECONOMIA-Z2-P-R-A",
+    "nombre_punto": "SUPERMERCADO LA ECONOMIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SANGOLQUI",
+    "subcircuito": "SANGOLQUI 2",
+    "id": "BODEGAS-ALEXIS-Z2-P-R-S",
+    "nombre_punto": "BODEGAS ALEXIS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "MACHACHI NORTE",
+    "subcircuito": "MACHACHI NORTE 1",
+    "id": "VICTORIAS-BOUTIQUE-Z2-P-R-M",
+    "nombre_punto": "VICTORIAS BOUTIQUE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "MACHACHI NORTE",
+    "subcircuito": "MACHACHI NORTE 1",
+    "id": "SUPER-SERVICAR-Z2-P-R-M",
+    "nombre_punto": "SUPER SERVICAR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "FAJARDO",
+    "subcircuito": "",
+    "id": "VARIEDADES-VALETIN-Z2-P-R-F",
+    "nombre_punto": "VARIEDADES VALETIN"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SAN RAFAEL",
+    "subcircuito": "SAN RAFAEL 1",
+    "id": "COPY-SO-Z2-P-R-S",
+    "nombre_punto": "COPY SOFT"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "PETRÓLEOS-Y-SERVICIOS-JURADO-Z2-N-T-P",
+    "nombre_punto": "PETRÓLEOS Y SERVICIOS JURADO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "CENTRO-COMERCIAL-MOSCOSO-Z2-N-T-A",
+    "nombre_punto": "CENTRO COMERCIAL MOSCOSO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "TÍA-Z2-N-T-P",
+    "nombre_punto": "TÍA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "ZONA-DIGITAL-Z2-P-N-L",
+    "nombre_punto": "ZONA DIGITAL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 1",
+    "id": "SWEET-SKY-Z2-P-N-L",
+    "nombre_punto": "SWEET SKY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "SUPERMERCADO-CENTRAL-Z2-P-N-L",
+    "nombre_punto": "SUPERMERCADO CENTRAL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 1",
+    "id": "JYC-Z2-P-N-M",
+    "nombre_punto": "JYC"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "LOCAL-SEGURO-Z2-P-N-L",
+    "nombre_punto": "LOCAL SEGURO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 1",
+    "id": "PLAZA-CALI-Z2-P-N-M",
+    "nombre_punto": "PLAZA CALI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "EL-MALECON-Z2-O-O-C",
+    "nombre_punto": "EL MALECON"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "",
+    "id": "VUCANA-Z2-O-O-C",
+    "nombre_punto": "VUCANA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "VIVERES-Y-LEGUMBRES-TONITO-Z2-O-A-N",
+    "nombre_punto": "VIVERES Y LEGUMBRES TONITO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "MINI-MARKET-\"SOL-Y-MAR\"-Z2-O-A-N",
+    "nombre_punto": "MINI MARKET \"SOL Y MAR\""
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "MINI-MARKET-\"PAULINA\"-Z2-O-A-N",
+    "nombre_punto": "MINI MARKET \"PAULINA\""
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SANGOLQUI",
+    "subcircuito": "",
+    "id": "SALDOS-Y-ALGO-MAS-Z2-P-R-S",
+    "nombre_punto": "SALDOS Y ALGO MAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "MINIMARKET-PABLITO-JR-Z2-P-N-L",
+    "nombre_punto": "MINIMARKET PABLITO JR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 3",
+    "id": "EMPAPICA-Z2-P-N-M",
+    "nombre_punto": "EMPAPICA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 1",
+    "id": "DULCE-AROMA-Z2-P-C-C",
+    "nombre_punto": "DULCE AROMA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CUSUBAMBA",
+    "subcircuito": "CUSUBAMBA 1",
+    "id": "Y-DE-CUSUBAMBA-Z2-P-C-C",
+    "nombre_punto": "Y DE CUSUBAMBA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "B-Z2-P-C-O",
+    "nombre_punto": "B OKI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "BIOCROPA--GASOLINERA-PETROECUADOR-Z2-P-C-O",
+    "nombre_punto": "BIOCROPA- GASOLINERA PETROECUADOR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
+    "id": "ACADEMIA-DE-PREPARACIÓN-MILITAR-Y-POLICIAL-Z2-P-C-C",
+    "nombre_punto": "ACADEMIA DE PREPARACIÓN MILITAR Y POLICIAL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "PETROECUADOR-OLMEDO-Z2-P-C-O",
+    "nombre_punto": "PETROECUADOR OLMEDO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "ENCEBOLLADO-MANABITA-Z2-P-C-O",
+    "nombre_punto": "ENCEBOLLADO MANABITA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
+    "id": "HOSPITAL-BASICO-CAYAMBE-RAUL-MALDONADO-Z2-P-C-C",
+    "nombre_punto": "HOSPITAL BASICO CAYAMBE RAUL MALDONADO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "SYL-ULCUANGO-Z2-P-C-O",
+    "nombre_punto": "SYL ULCUANGO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CANGAGUA",
+    "subcircuito": "CANGAGUA 1",
+    "id": "LA-ESPERANZA-Z2-P-C-C",
+    "nombre_punto": "LA ESPERANZA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "FERRIEGO-Z2-P-C-O",
+    "nombre_punto": "FERRIEGO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
+    "id": "MINI-PRECIOS-Z2-P-C-C",
+    "nombre_punto": "MINI PRECIOS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "AGROBALANCIADOS-EDITH-Z2-P-C-O",
+    "nombre_punto": "AGROBALANCIADOS EDITH"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "MÍNI-MARKET-FERNANDA-Z2-P-C-O",
+    "nombre_punto": "MÍNI MARKET FERNANDA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "PANADERÍA-Y-PASTELERÍA-PATITO-Z2-P-C-O",
+    "nombre_punto": "Panadería y pastelería patito"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
+    "id": "LOCAL-TUTTI-Z2-P-C-C",
+    "nombre_punto": "LOCAL TUTTI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "SUPER-DESPENSA-EL-METRO-Z2-P-C-O",
+    "nombre_punto": "Super despensa el metro"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "DIABLO-HUMA-RESTOURANT-Z2-P-C-O",
+    "nombre_punto": "Diablo huma restourant"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
+    "id": "GRAN-AKI-Z2-P-C-C",
+    "nombre_punto": "GRAN AKI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 1",
+    "id": "COOPERATIVA-CHUCHUQUI-Z2-P-C-C",
+    "nombre_punto": "Cooperativa Chuchuqui"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 1",
+    "id": "LA-GANGA-Z2-P-C-C",
+    "nombre_punto": "LA GANGA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 1",
+    "id": "ANDESCELL-Z2-P-C-C",
+    "nombre_punto": "ANDESCELL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 1",
+    "id": "CENTER-MARKET-Z2-P-C-C",
+    "nombre_punto": "CENTER MARKET"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 1",
+    "id": "A&A-Z2-P-C-C",
+    "nombre_punto": "A&A"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CUSUBAMBA",
+    "subcircuito": "CUSUBAMBA 2",
+    "id": "MERCADO-DE-ASCAZUBI-Z2-P-C-C",
+    "nombre_punto": "MERCADO DE ASCAZUBI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "FARMACIAS-ECONÓMICAS-Z2-P-N-L",
+    "nombre_punto": "Farmacias Económicas"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 1",
+    "id": "LA-FACTORIA-Z2-P-N-L",
+    "nombre_punto": "La Factoria"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 1",
+    "id": "VERIFRUIT-Z2-P-N-L",
+    "nombre_punto": "Verifruit"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 3",
+    "id": "CENTRO-DE-ACPPIO-LA-CELICA-Z2-P-N-M",
+    "nombre_punto": "CENTRO DE ACPPIO LA CELICA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 3",
+    "id": "VÍVERES-JUANITO-Z2-P-N-M",
+    "nombre_punto": "VÍVERES JUANITO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 3",
+    "id": "TIENDA-LA-INDUSTRIA-Z2-P-N-M",
+    "nombre_punto": "TIENDA LA INDUSTRIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 4",
+    "id": "ABARROTES-QUEZADA-Z2-P-N-L",
+    "nombre_punto": "Abarrotes Quezada"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 1",
+    "id": "JIC-Z2-P-N-M",
+    "nombre_punto": "JIC"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "FISCALIA-DE-ORELLANA-Z2-O-O-C",
+    "nombre_punto": "Fiscalia de orellana"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "CATEDRAL-NUESTRA-SEÑORA-DEL-CARMEN-Z2-O-O-C",
+    "nombre_punto": "Catedral nuestra señora del Carmen"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO SUR",
+    "subcircuito": "PUERTO QUITO SUR 2",
+    "id": "VÍVERES-JESSENIA-Z2-P-N-P",
+    "nombre_punto": "Víveres Jessenia"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "FERRETERÍA-BALCAZAR-Z2-O-L-S",
+    "nombre_punto": "Ferretería Balcazar"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "LOCAL-FASHION-KIDS-Z2-O-L-S",
+    "nombre_punto": "LOCAL FASHION KIDS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "CAJERO-AUTOMÁTICO-BANCO-PICHINCHA-Z2-O-L-S",
+    "nombre_punto": "Cajero Automático Banco Pichincha"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "COMEDOR-MJ-Z2-O-L-S",
+    "nombre_punto": "Comedor MJ"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "LABORATORIO-MUÑOZ-Z2-O-L-S",
+    "nombre_punto": "LABORATORIO MUÑOZ"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "NOTARIA-Z2-O-L-S",
+    "nombre_punto": "NOTARIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "BANCO-INTERNACIONAL-Z2-O-L-S",
+    "nombre_punto": "BANCO INTERNACIONAL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "COOPERATIVA-PUTUMAYO-Z2-O-L-S",
+    "nombre_punto": "COOPERATIVA PUTUMAYO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "COOPERATIVA-BAÑOS-Z2-O-L-S",
+    "nombre_punto": "COOPERATIVA BAÑOS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "LOCAL-KOREAMI-Z2-O-L-S",
+    "nombre_punto": "LOCAL Koreami"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "COOPERATIVA-AHORRO-Y-CREDIVO-Z2-O-L-S",
+    "nombre_punto": "COOPERATIVA Ahorro y Credivo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "LA-GANGA-Z2-O-L-S",
+    "nombre_punto": "La Ganga"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "WESTER-UNION-Z2-O-L-S",
+    "nombre_punto": "WESTER UNION"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "ALMACÉN-ARTEFACTA-Z2-O-L-S",
+    "nombre_punto": "ALMACÉN ARTEFACTA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "ALMACÉN-JAHER-Z2-O-L-S",
+    "nombre_punto": "ALMACÉN JAHER"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "LOCAL-AUTOPARTES3B-Z2-O-L-S",
+    "nombre_punto": "LOCAL AUTOPARTES3B"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "CEVICHERIA-EL-CUCO-Z2-O-L-S",
+    "nombre_punto": "CEVICHERIA EL CUCO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "GASOLINERA-MIRAFLORES-Z2-O-L-S",
+    "nombre_punto": "Gasolinera miraflores"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "LOCAL-ALISTAS-DEL-SHERIFF-Z2-O-L-S",
+    "nombre_punto": "LOCAL ALISTAS DEL SHERIFF"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "LAVANDERÍA-LORETO-Z2-O-O-L",
+    "nombre_punto": "Lavandería Loreto"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "TERMINAL-TERRETRE-Z2-O-O-L",
+    "nombre_punto": "Terminal terretre"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "PARQUE-DE-LA-FAMILIA-Z2-O-O-L",
+    "nombre_punto": "Parque de la familia"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "HOSTERÍA-OJO-DE-AGUA-Z2-O-O-L",
+    "nombre_punto": "Hostería ojo de agua"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "EL-RINCÓN-MANABITA-Z2-O-L-S",
+    "nombre_punto": "El rincón manabita"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "SERVIRNTREGA-Z2-O-L-S",
+    "nombre_punto": "Servirntrega"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "PIZZERIA(PAOLAPIZZA)-Z2-O-L-S",
+    "nombre_punto": "PIZZERIA(Paolapizza)"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "FISCALÍA-DEL-SACHA-Z2-O-L-S",
+    "nombre_punto": "FISCALÍA DEL SACHA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "AGUARICO",
+    "subcircuito": "AGUARICO 1",
+    "id": "MINI-MARKET-SARITA-Z2-O-A-A",
+    "nombre_punto": "Mini market sarita"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "UNIDAD-JUDICIAL-Z2-O-L-S",
+    "nombre_punto": "UNIDAD JUDICIAL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "SUPERMERKET-SANTA-ROSA-Z2-O-L-S",
+    "nombre_punto": "SUPERMERKET-SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "FLOWER-SHOP-Z2-O-L-S",
+    "nombre_punto": "FLOWER-SHOP"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "AGUARICO",
+    "subcircuito": "AGUARICO 1",
+    "id": "BAZAR-ANAHÍ-Z2-O-A-A",
+    "nombre_punto": "Bazar Anahí"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "AGUARICO",
+    "subcircuito": "AGUARICO 1",
+    "id": "REMATES-JOEL-Z2-O-A-A",
+    "nombre_punto": "Remates Joel"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z2-O-L-S",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "AGUARICO",
+    "subcircuito": "AGUARICO 1",
+    "id": "VARIEDADES-MARGARITA-Z2-O-A-A",
+    "nombre_punto": "Variedades Margarita"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "AGUARICO",
+    "subcircuito": "AGUARICO 1",
+    "id": "BAZAR-\"EL-ARMARIO-MÁGICO-DE-MARY\"-Z2-O-A-A",
+    "nombre_punto": "Bazar \"El armario mágico de Mary\""
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 1",
+    "id": "LA-SAZÓN-DE-SOFI-Z2-P-N-M",
+    "nombre_punto": "LA  SAZÓN DE SOFI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 1",
+    "id": "SAZÓN-DE-SOFI-Z2-P-N-M",
+    "nombre_punto": "Sazón de Sofi"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "FERRETERIA-ENOKANQUI-Z2-O-L-S",
+    "nombre_punto": "FERRETERIA ENOKANQUI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "BALANCEADOS-ENOKANQUI-Z2-O-L-S",
+    "nombre_punto": "BALANCEADOS ENOKANQUI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "TIENDA-GANIMEDES-Z2-O-L-S",
+    "nombre_punto": "TIENDA GANIMEDES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "NEGOCIO-SU-TIENDA-Z2-O-L-S",
+    "nombre_punto": "NEGOCIO SU TIENDA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "CENTRO-DE-SALUD-ENOKANQUI-Z2-O-L-S",
+    "nombre_punto": "CENTRO DE SALUD ENOKANQUI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "JUGOS-Y-BATIDOS-ENOKANQUI-Z2-O-L-S",
+    "nombre_punto": "JUGOS Y BATIDOS ENOKANQUI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "BOTICA-ECO-VIDA-Z2-O-L-S",
+    "nombre_punto": "BOTICA ECO VIDA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "TIENDA-ROSITA-CELI-Z2-O-L-S",
+    "nombre_punto": "TIENDA ROSITA CELI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "MARKET-EL-PUEBLO-Z2-O-L-S",
+    "nombre_punto": "MARKET EL PUEBLO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "ILINIZAS",
+    "subcircuito": "ILINIZAS 1",
+    "id": "FARMACIA-SAN-LUIS-Z2-P-R-I",
+    "nombre_punto": "FARMACIA SAN LUIS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "LAS-RICAS-FRITADAS-DE-ENOKANQUI-Z2-O-L-S",
+    "nombre_punto": "LAS RICAS FRITADAS DE ENOKANQUI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "ABASTOS-MELANIE-Z2-O-L-S",
+    "nombre_punto": "ABASTOS MELANIE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "MINIMARKET-MARTITA-Z2-O-L-S",
+    "nombre_punto": "MINIMARKET MARTITA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "MINI-TIENDA-JHAMILET-Z2-O-L-S",
+    "nombre_punto": "MINI TIENDA JHAMILET"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "BARBERIA-ESTEBAN-Z2-O-L-S",
+    "nombre_punto": "BARBERIA ESTEBAN"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "JUGUERIA-PURO-NECTAR-Z2-O-L-S",
+    "nombre_punto": "JUGUERIA PURO NECTAR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 3",
+    "id": "ELIPLAST-Z2-P-N-M",
+    "nombre_punto": "ELIPLAST"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "VARIEDADES-DAYANA-Z2-O-L-S",
+    "nombre_punto": "VARIEDADES DAYANA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "AGUARICO",
+    "subcircuito": "AGUARICO 1",
+    "id": "FERRETERÍA-LA-PESCA-Z2-O-A-A",
+    "nombre_punto": "Ferretería la pesca"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "AGUARICO",
+    "subcircuito": "AGUARICO 1",
+    "id": "MINI-MARKET-VARLIT-Z2-O-A-A",
+    "nombre_punto": "Mini market Varlit"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "AGUARICO",
+    "subcircuito": "AGUARICO 1",
+    "id": "LEGUMBRES-OTAVALEÑA-Z2-O-A-A",
+    "nombre_punto": "Legumbres Otavaleña"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "AGUARICO",
+    "subcircuito": "AGUARICO 1",
+    "id": "LOS-REYES-PELUQUERÍA-Z2-O-A-A",
+    "nombre_punto": "Los Reyes peluquería"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "LAS-TABLITAS-Z2-O-A-N",
+    "nombre_punto": "LAS TABLITAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SANGOLQUI",
+    "subcircuito": "SANGOLQUI 2",
+    "id": "ONDE-PEPE-LOCAL-COMIDA-Z2-P-R-S",
+    "nombre_punto": "ONDE PEPE LOCAL COMIDA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 2",
+    "id": "REY-POLLO-Z2-P-N-P",
+    "nombre_punto": "REY POLLO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "TIENDA-NANCY-Z2-O-A-N",
+    "nombre_punto": "TIENDA NANCY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "FARMACIA-SANA-SANA-Z2-O-O-L",
+    "nombre_punto": "Farmacia SANA SANA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "UNIDAD-EDUCATIVA-JUAN-PABLO-Z2-O-O-L",
+    "nombre_punto": "Unidad Educativa Juan Pablo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "HOSTAL-SAN-JOSÉ-DE-LORETO.-Z2-O-O-L",
+    "nombre_punto": "Hostal San José de Loreto."
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "JANETH-VARIEDADES-Z2-O-L-S",
+    "nombre_punto": "JANETH VARIEDADES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "TIENDA-REINA-DEL-CISNE-Z2-O-L-S",
+    "nombre_punto": "TIENDA REINA DEL CISNE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "VARIEDADES-GOMEZ-Z2-O-L-S",
+    "nombre_punto": "VARIEDADES GOMEZ"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "AGRO-VETERINARIA-LOS-JUANES-Z2-O-L-S",
+    "nombre_punto": "AGRO VETERINARIA LOS JUANES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "NEGOCIO-TECNOMUNDO-Z2-O-L-S",
+    "nombre_punto": "NEGOCIO TECNOMUNDO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "TIENDA-MONSERRAT-Z2-O-L-S",
+    "nombre_punto": "TIENDA MONSERRAT"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "MINIMARKET-EL-CAÑON-Z2-O-L-S",
+    "nombre_punto": "MINIMARKET EL CAÑON"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "PANADERÍA-Y-PASTELERIA-MAXIPANES-Z2-O-L-S",
+    "nombre_punto": "PANADERÍA Y PASTELERIA MAXIPANES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "TERCENA-LA-FAMILIA-Z2-O-L-S",
+    "nombre_punto": "TERCENA LA FAMILIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "FARMACIA-FARME-LIFE-Z2-O-L-S",
+    "nombre_punto": "FARMACIA FARME LIFE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "PANADERIA-EL-MALECON-Z2-O-A-N",
+    "nombre_punto": "PANADERIA EL MALECON"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "PARQUE-DEL-NIÑO-Z2-O-O-L",
+    "nombre_punto": "Parque del niño"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "ASOCIACIÓN-DE-COMIDAS-TÍPICAS-\"-ÁVILA-HUIRUNO\"-Z2-O-O-L",
+    "nombre_punto": "Asociación de comidas típicas \" Ávila Huiruno\""
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "CANCHA-SINTÉTICA-BARRIO-EL-TRIUNFO-Z2-O-O-L",
+    "nombre_punto": "Cancha sintética Barrio el Triunfo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "",
+    "id": "HOTEL-EL-AUCA-Z2-O-O-C",
+    "nombre_punto": "HOTEL EL AUCA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "ASOCIACIÓN-DE-PRODUCCIÓN-AGROPECUARIA-CAFÉ-SUMACO-ASUMACO-Z2-O-O-L",
+    "nombre_punto": "Asociación de producción agropecuaria café sumaco asumaco"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "BAN-ECUADOR-Z2-O-O-L",
+    "nombre_punto": "Ban Ecuador"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "CANCHA-CUBIERTA-EL-CISNE-Z2-O-O-L",
+    "nombre_punto": "Cancha cubierta El Cisne"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "PARQUE-ACUÁTICO-LA-ISLA-Z2-O-O-L",
+    "nombre_punto": "Parque acuático la Isla"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "CST.-SERVICIO-Y-TECNOLOGÍA-Z2-O-O-L",
+    "nombre_punto": "CST. SERVICIO Y TECNOLOGÍA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "VIVERES-ROSITA-Z2-O-O-L",
+    "nombre_punto": "VIVERES ROSITA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "LIGA-CANTONAL-LORETO-Z2-O-O-L",
+    "nombre_punto": "LIGA CANTONAL LORETO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "BAZAR-JAVIERCITO-Z2-O-O-L",
+    "nombre_punto": "Bazar Javiercito"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "LOCAL-ASADERO-ROUSE-Z2-N-E-S",
+    "nombre_punto": "Local Asadero Rouse"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SANGOLQUI",
+    "subcircuito": "SANGOLQUI 2",
+    "id": "LOCAL-DE-ROPA-DENISSE-Z2-P-R-S",
+    "nombre_punto": "LOCAL DE ROPA DENISSE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SANGOLQUI",
+    "subcircuito": "SANGOLQUI 2",
+    "id": "VIVERES-PAOLITO-Z2-P-R-S",
+    "nombre_punto": "VIVERES  PAOLITO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "COMERCIAL-LEMAS-Z2-N-E-E",
+    "nombre_punto": "COMERCIAL LEMAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "PLAZA-5-DE-MARZO-Z2-N-E-S",
+    "nombre_punto": "PLAZA 5 DE MARZO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 1",
+    "id": "GASOLINERA-MASGAS-Z2-O-O-L",
+    "nombre_punto": "Gasolinera MASGAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 2",
+    "id": "MANCOMUNIDAD-Z2-O-O-L",
+    "nombre_punto": "Mancomunidad"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 2",
+    "id": "SERVIENTREGA-LORETO-Z2-O-O-L",
+    "nombre_punto": "Servientrega Loreto"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "LOPEZ-SHOPPING-Z2-N-E-S",
+    "nombre_punto": "LOPEZ SHOPPING"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 2",
+    "id": "NOTARIA-01-Z2-O-O-L",
+    "nombre_punto": "Notaria 01"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "LORETO",
+    "subcircuito": "LORETO 2",
+    "id": "REGISTRO-CIVIL-DE-LORETO-Z2-O-O-L",
+    "nombre_punto": "Registro Civil De Loreto"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "PANADERIA-EL-TRIGAL-Z2-N-E-E",
+    "nombre_punto": "PANADERIA EL TRIGAL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "AMAZONTVNET-Z2-N-E-E",
+    "nombre_punto": "AMAZONTVNET"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 2",
+    "id": "LOCAL-COMERCIAL-LA-SEXTA-Z2-P-N-P",
+    "nombre_punto": "local comercial la sexta"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "BAZAR-Y-PAPELERÍA-P&P-Z2-P-N-L",
+    "nombre_punto": "BAZAR Y PAPELERÍA P&P"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 3",
+    "id": "BARRIO-GUADALUPE-LARRIBA-Z2-O-O-C",
+    "nombre_punto": "Barrio guadalupe larriba"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 4",
+    "id": "CANCHA-6-DE-DICIEMBRE-Z2-O-O-C",
+    "nombre_punto": "Cancha 6 de Diciembre"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 4",
+    "id": "TERMINAL-TERRESTRE-FRACISCO-DE-ORELLANA-Z2-O-O-C",
+    "nombre_punto": "Terminal terrestre Fracisco de Orellana"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 4",
+    "id": "ESCUELA-ARMADA-DEL-ECUADOR-Z2-O-O-C",
+    "nombre_punto": "Escuela armada del ecuador"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "COMERCIAL-NACHITO-Z2-N-E-S",
+    "nombre_punto": "COMERCIAL NACHITO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "CNE-Z2-O-O-C",
+    "nombre_punto": "CNE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "TERMINAL-ANTIGUO-Z2-O-O-C",
+    "nombre_punto": "Terminal antiguo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "MACCO-Z2-O-O-C",
+    "nombre_punto": "MACCO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SANGOLQUI",
+    "subcircuito": "SANGOLQUI 2",
+    "id": "HOSPITAL-BASICO-DE-SANGOLQUI-Z2-P-R-S",
+    "nombre_punto": "HOSPITAL BASICO DE SANGOLQUI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 3",
+    "id": "GASOLINERA-PAYAMINO-Z2-O-O-C",
+    "nombre_punto": "Gasolinera payamino"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 4",
+    "id": "BARRIO-NUEVO-COCA-CDI-SUMAK-SISA-Z2-O-O-C",
+    "nombre_punto": "Barrio Nuevo Coca CDI SUMAK SISA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 3",
+    "id": "CAMPUS-ESPOCH-Z2-O-O-C",
+    "nombre_punto": "CAMPUS ESPOCH"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 1",
+    "id": "UNIDAD-EDUCATIVA-AMAZONAS-Z2-O-O-C",
+    "nombre_punto": "Unidad educativa  Amazonas"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "BARRIO-UNION-Y-PROGRESO-LEOS-GYM-Z2-O-O-C",
+    "nombre_punto": "Barrio Union y Progreso LEOS GYM"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "GASOLINERA-AMAZONAS-Z2-O-O-C",
+    "nombre_punto": "Gasolinera amazonas"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "MALECÓN-NUEVO-ROCAFUERTE-Z2-O-A-N",
+    "nombre_punto": "Malecón Nuevo  Rocafuerte"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "AGUARICO",
+    "subcircuito": "AGUARICO 1",
+    "id": "PLAZA-CÍVICA-DE-TIPUTINI-Z2-O-A-A",
+    "nombre_punto": "Plaza Cívica de Tiputini"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "PARQUE-CENTRAL-DE-SAN-FRANCISCO-DE-BORJA-Z2-N-E-S",
+    "nombre_punto": "PARQUE CENTRAL DE SAN FRANCISCO DE BORJA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "GASOLINERA-P&S-DE-GUAGRAYACU-Z2-N-E-S",
+    "nombre_punto": "GASOLINERA P&S DE GUAGRAYACU"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "CONSULTORIO-DE-ECOGRAFIA-Z2-N-T-P",
+    "nombre_punto": "Consultorio de Ecografia"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "COMERCIAL-OLGUITA-Z2-N-T-P",
+    "nombre_punto": "Comercial Olguita"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "RESTAURANTE-AMELIA-Y-DE-PAPALLACTA-Z2-N-E-P",
+    "nombre_punto": "RESTAURANTE AMELIA Y DE PAPALLACTA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "TERMAS-JAMANCO-Z2-N-E-P",
+    "nombre_punto": "TERMAS JAMANCO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SANGOLQUI",
+    "subcircuito": "SANGOLQUI 2",
+    "id": "MUNDO-NET-Z2-P-R-S",
+    "nombre_punto": "MUNDO NET"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SANGOLQUI",
+    "subcircuito": "SANGOLQUI 2",
+    "id": "BAZAR-TABATA-Z2-P-R-S",
+    "nombre_punto": "BAZAR TABATA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PANADERÍA-REINA-DEL-CISNE-Z2-N-T-A",
+    "nombre_punto": "Panadería Reina del Cisne"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "ECO-TENA-FARMACIA-ECONÓMICA-Z2-N-T-P",
+    "nombre_punto": "ECO TENA FARMACIA ECONÓMICA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "ELADERIA-PUERTO-NAPO-Z2-N-T-M",
+    "nombre_punto": "Eladeria Puerto Napo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "MUNDO-SABORES-Z2-N-T-M",
+    "nombre_punto": "MUNDO SABORES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "SERVICIO-TÉCNICO-LEIDY-VIB-COMUNICACIONES-Z2-N-T-P",
+    "nombre_punto": "SERVICIO TÉCNICO LEIDY VIB COMUNICACIONES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CREDITO-CHIBULEO-Z2-N-T-P",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CREDITO CHIBULEO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "BRITEL-FIBRA-ÓPTICA-Z2-N-T-P",
+    "nombre_punto": "BRITEL FIBRA ÓPTICA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "LIBRERIA-Y-PAPELERIA-AMAZONAS-Z2-N-T-P",
+    "nombre_punto": "LIBRERIA Y PAPELERIA AMAZONAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "CHISBETH-Z2-N-T-P",
+    "nombre_punto": "CHISBETH"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "PAPELERIA-VITERI-Z2-N-T-P",
+    "nombre_punto": "PAPELERIA VITERI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "HOSPITAL-GENERAL-JOSE-MARIA-VELASCO-IBARRA-Z2-N-T-P",
+    "nombre_punto": "HOSPITAL GENERAL JOSE MARIA VELASCO IBARRA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "GALENUS-CCNI-DE-ESPECIALIDADES-Z2-N-T-P",
+    "nombre_punto": "GALENUS CCNI DE ESPECIALIDADES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "AEROBRANDS-Z2-N-T-P",
+    "nombre_punto": "AEROBRANDS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "PAPU-KIDS-Z2-N-T-P",
+    "nombre_punto": "PAPU KIDS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "FYBECA-Z2-N-T-P",
+    "nombre_punto": "FYBECA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "AMÉRICAN-JEANS-Z2-N-T-P",
+    "nombre_punto": "AMÉRICAN JEANS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "IMPORTADORA-LA-FAMILIA-Z2-N-T-P",
+    "nombre_punto": "IMPORTADORA LA FAMILIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "AMERICAN-CORAZON-VALIENTE-Z2-N-T-P",
+    "nombre_punto": "AMERICAN CORAZON VALIENTE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "H2OLAM-AGUA-PURIFICADA-OZONIZADA-Z2-N-T-P",
+    "nombre_punto": "H2OLAM AGUA PURIFICADA OZONIZADA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "LOCAL-C-L-DISTRIBUCIÓNES-Z2-N-T-M",
+    "nombre_punto": "LOCAL C-L DISTRIBUCIÓNES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "MINI-MARKET-Z2-N-T-M",
+    "nombre_punto": "MINI MARKET"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "GASONINERA-JUANITA-DE-CASTRO-Z2-N-T-M",
+    "nombre_punto": "GASONINERA JUANITA DE CASTRO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "MINI-MARKET-URDESA-Z2-N-T-M",
+    "nombre_punto": "MINI MARKET URDESA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "LOCAL-Z2-N-T-M",
+    "nombre_punto": "LOCAL MARIANITA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "TIENDA-EL-SUCO-Z2-N-T-M",
+    "nombre_punto": "TIENDA EL SUCO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "COMEDOR-COSTA-AZUL-Z2-N-T-M",
+    "nombre_punto": "COMEDOR COSTA AZUL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "TENENCIA-POLÍTICA-Z2-N-T-K",
+    "nombre_punto": "Tenencia Política"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "FERRETERÍA-MALUCIN-Z2-N-T-A",
+    "nombre_punto": "Ferretería Malucin"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "MINIMARKET-YULEXI-Z2-N-T-A",
+    "nombre_punto": "Minimarket Yulexi"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "ASADERO-CONEJITO-Z2-N-T-A",
+    "nombre_punto": "ASADERO CONEJITO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "TENENCIA-POLÍTICA-Z2-N-T-A",
+    "nombre_punto": "Tenencia Política"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "PANADERÍA-EL-DORADO-Z2-N-T-K",
+    "nombre_punto": "Panadería El dorado"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "TSATSAYAKU-Z2-N-T-A",
+    "nombre_punto": "TSATSAYAKU"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "BOTICA-ECONOFAR-Z2-N-T-K",
+    "nombre_punto": "Botica Econofar"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "TIENDA-SANTIAGUITO-Z2-N-T-K",
+    "nombre_punto": "Tienda Santiaguito"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "ESTACIÓN-PLUSPETROL-Z2-N-T-K",
+    "nombre_punto": "Estación Pluspetrol"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PAPELERÍA-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "Papelería Archidona"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PANADERÍA-EL-IMPERIO-DEL-SABOR-Z2-N-T-A",
+    "nombre_punto": "PANADERÍA EL IMPERIO DEL SABOR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "BODEGA-MOYA-2-Z2-N-T-A",
+    "nombre_punto": "Bodega Moya 2"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "COMERCIAL-DANIELITO-1-Z2-N-T-A",
+    "nombre_punto": "Comercial Danielito 1"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "AGROFERRETERO-NAPO-Z2-N-T-A",
+    "nombre_punto": "Agroferretero Napo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "BAÑOS-CANCHAS-BARRIO-INTEROCEÁNICA-Z2-N-E-S",
+    "nombre_punto": "BAÑOS CANCHAS BARRIO INTEROCEÁNICA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PAPELERIA-AMERICA-Z2-N-T-A",
+    "nombre_punto": "PAPELERIA AMERICA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "FARMACIAS-COMUNITARIAS-Z2-N-E-S",
+    "nombre_punto": "FARMACIAS COMUNITARIAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "FERRETERÍA-MOLINA-Z2-N-T-A",
+    "nombre_punto": "FERRETERÍA MOLINA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "TIENDA-NUEVO-AMANECER-SAN-PEDRO-Z2-N-E-E",
+    "nombre_punto": "TIENDA NUEVO AMANECER SAN PEDRO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "RENTAURANTE-EL-BUEN-SABOR-Z2-N-E-E",
+    "nombre_punto": "RENTAURANTE EL BUEN SABOR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "PLASTICOS-TODO-ÚTIL-Z2-N-E-E",
+    "nombre_punto": "PLASTICOS TODO ÚTIL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "TERCENA-DON-PATITO-Z2-N-E-E",
+    "nombre_punto": "TERCENA DON PATITO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "SERVIENTREGA-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "SERVIENTREGA ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "D'ARELIZ-BOLETERIA-JUMANDY-Z2-N-T-A",
+    "nombre_punto": "D'ARELIZ BOLETERIA JUMANDY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 2",
+    "id": "FERRETERIA-FEGA-Z2-N-T-M",
+    "nombre_punto": "FERRETERIA FEGA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "TERMAS-PAPALLACTA-Z2-N-E-P",
+    "nombre_punto": "Termas Papallacta"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "RESTAURANTE-MI-LAGUNITA---LAGUNA-DE-PAPALLACTA-Z2-N-E-P",
+    "nombre_punto": "RESTAURANTE MI LAGUNITA - LAGUNA DE PAPALLACTA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "FARMACIAS-COMUNITARIAS-Z2-N-T-A",
+    "nombre_punto": "FARMACIAS COMUNITARIAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "TUTI-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "TUTI ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "AMAZONTV-NET-Z2-N-T-A",
+    "nombre_punto": "AMAZONTV NET"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "COOP-TENA-LTDA.-Z2-N-T-A",
+    "nombre_punto": "COOP TENA LTDA. AGENCIA ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "BRITEL-AGENCIA-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "BRITEL AGENCIA ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "COMIDA-TÍPICA-Z2-N-T-K",
+    "nombre_punto": "Comida Típica"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "PAPELERÍA-BACHITA-Z2-N-T-K",
+    "nombre_punto": "Papelería Bachita"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "CENTRO-AGRÍCOLA-Z2-N-T-K",
+    "nombre_punto": "Centro Agrícola"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "COMERCIAL-DANIELITO-Z2-N-T-K",
+    "nombre_punto": "Comercial Danielito"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "COMEDOR-KOMA-Z2-N-T-K",
+    "nombre_punto": "Comedor Koma"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "PANADERÍA-SABOR-QUITEÑO-Z2-N-T-K",
+    "nombre_punto": "Panadería  sabor Quiteño"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "TIENDA-DIANITA-Z2-N-T-K",
+    "nombre_punto": "Tienda Dianita"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "LAVANDERÍA-Z2-N-T-K",
+    "nombre_punto": "Lavandería"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "COMEDOR-SACHI-Z2-N-T-K",
+    "nombre_punto": "Comedor Sachi"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "TIENDA-LA-CISTENITA-Z2-N-T-K",
+    "nombre_punto": "Tienda La Cistenita"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "TIENDA-VERITA-Z2-N-T-K",
+    "nombre_punto": "Tienda Verita"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "BAZAR-VALERIA-Z2-N-T-K",
+    "nombre_punto": "Bazar Valeria"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "LOCAL-MARI-Z2-N-T-K",
+    "nombre_punto": "Local  Mari"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "FERRETERÍA-Z2-N-T-K",
+    "nombre_punto": "Ferretería"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "FARMACIA-Z2-N-T-K",
+    "nombre_punto": "Farmacia"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "BAZAR-CYBER-Z2-N-T-K",
+    "nombre_punto": "Bazar  Cyber"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "TIENDA-KALOLO-Z2-N-T-K",
+    "nombre_punto": "Tienda  Kalolo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "LOCAL-YOYOS-VARIEDADES-Z2-N-T-K",
+    "nombre_punto": "Local yoyos Variedades"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "VÍVERES-COTUNDO-Z2-N-T-K",
+    "nombre_punto": "Víveres Cotundo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "LICORERÍA-MAMBO-Z2-N-T-K",
+    "nombre_punto": "Licorería Mambo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "CAFÉ-Y-BAR-CHERIE-Z2-N-T-K",
+    "nombre_punto": "Café y Bar Cherie"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "FARMACIAS-ECONOMICAS-Z2-N-T-A",
+    "nombre_punto": "FARMACIAS ECONOMICAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "IMPRENTA-ALEGRAFIC-Z2-N-T-A",
+    "nombre_punto": "IMPRENTA ALEGRAFIC"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "RESTAURANT-SUPER-POLLO-Z2-N-T-A",
+    "nombre_punto": "RESTAURANT SUPER POLLO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "FARMACIAS-SANA-SANA-Z2-N-T-A",
+    "nombre_punto": "FARMACIAS SANA SANA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "TIENDA-LIAM-Z2-N-T-K",
+    "nombre_punto": "Tienda Liam"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "TIENDA-YUJI-Z2-N-T-K",
+    "nombre_punto": "Tienda YUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "KM 24",
+    "subcircuito": "KM 24 1",
+    "id": "MINIMARKET-VIRGEN-DE-AGUA-SANTA-NARUPA-Z2-N-T-K",
+    "nombre_punto": "MiniMarket Virgen de agua Santa-NARUPA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "YOGUR-Y-PAN-DE-YUCA-Z2-N-T-A",
+    "nombre_punto": "YOGUR Y PAN DE YUCA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "NAPU-MARKA-Z2-N-T-A",
+    "nombre_punto": "NAPU MARKA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "LA-CHORRERA-Z2-N-T-A",
+    "nombre_punto": "LA CHORRERA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "PANADERIA-Y-PASTELERIA-EL-BUEN-SABOR-Z2-N-T-A",
+    "nombre_punto": "PANADERIA Y PASTELERIA EL BUEN SABOR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "SUPER-TIENDA-TRES-HERMANOS-Z2-N-T-A",
+    "nombre_punto": "SUPER TIENDA TRES HERMANOS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "RESTAURANT-THE-MARQUIS-Z2-N-T-A",
+    "nombre_punto": "RESTAURANT THE MARQUIS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "SHUGAA-SHOP-Z2-N-T-A",
+    "nombre_punto": "SHUGAA SHOP"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "TENA-MEDIC-Z2-N-T-A",
+    "nombre_punto": "TENA MEDIC"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AROSEMENA TOLA",
+    "subcircuito": "AROSEMENA TOLA 1",
+    "id": "DISTR-Z2-N-T-A",
+    "nombre_punto": "DISTR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "ESTACIÓN-DE-BOMBEO-NRO-5-PAPALLACTA-Z2-N-E-P",
+    "nombre_punto": "ESTACIÓN DE BOMBEO NRO 5 PAPALLACTA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "ESTACIÓN-DE-BOMBEO-CHALPI-PETRO-CUADOR-Z2-N-E-P",
+    "nombre_punto": "ESTACIÓN DE BOMBEO CHALPI PETRO CUADOR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "OCP-ESTACIÓN-SARDINAS-PS-3-Z2-N-E-S",
+    "nombre_punto": "OCP ESTACIÓN SARDINAS PS-3"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "ESTACION-PLUSPETROL-Z2-N-E-S",
+    "nombre_punto": "ESTACION PLUSPETROL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "PETROECUADOR-ESTACIÓN-OSAYACU-Z2-N-E-S",
+    "nombre_punto": "PETROECUADOR ESTACIÓN OSAYACU"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "GASOLINERA-PETROECUADOR-EP-Z2-N-E-S",
+    "nombre_punto": "GASOLINERA PETROECUADOR EP"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "ESTACION-DE-PETROECUADOR-BAEZA-4-Z2-N-E-S",
+    "nombre_punto": "ESTACION DE PETROECUADOR BAEZA 4"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "DULCE-VIDA-Z2-P-C-T",
+    "nombre_punto": "DULCE VIDA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "RUTH-MORILLO-Z2-P-C-T",
+    "nombre_punto": "LENIMOR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "SUPER-OFERTAS-EL-HOGAR-Z2-P-C-T",
+    "nombre_punto": "SUPER OFERTAS EL HOGAR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "PAÑALERA-POTOTIN-TABACUNDO-Z2-P-C-T",
+    "nombre_punto": "PAÑALERA POTOTIN TABACUNDO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "CAÑAS-FLAQUITO-Z2-P-C-T",
+    "nombre_punto": "CAÑAS FLAQUITO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "UNIDAD-EDUCATIVA-JUAN-BAUTISTA-MONTINI-Z2-N-E-S",
+    "nombre_punto": "UNIDAD EDUCATIVA JUAN BAUTISTA MONTINI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "SUPERMERCADO-AKA-Z2-N-E-S",
+    "nombre_punto": "SUPERMERCADO AKA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "TUTI-DE-BAEZA-Z2-N-E-S",
+    "nombre_punto": "TUTI DE BAEZA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CUSUBAMBA",
+    "subcircuito": "CUSUBAMBA 2",
+    "id": "MINI-MARKE-MARY-Z2-P-C-C",
+    "nombre_punto": "MINI MARKE MARY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CUSUBAMBA",
+    "subcircuito": "CUSUBAMBA 1",
+    "id": "PANADERIA-ROSITA-Z2-P-C-C",
+    "nombre_punto": "PANADERIA ROSITA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "TENENCIA-POLÍTICA-MISAHUALLI-Z2-N-T-M",
+    "nombre_punto": "Tenencia política Misahualli"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "MINIMERCADO-Z2-N-T-M",
+    "nombre_punto": "MINIMERCADO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "PRTO.-MONO-COMEDOR-Z2-N-T-M",
+    "nombre_punto": "Prto. Mono Comedor"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "FERRETERIA-MISAHUALLI-Z2-N-T-M",
+    "nombre_punto": "FERRETERIA MISAHUALLI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "MULTIPAN-PANADERÍA-Z2-N-T-M",
+    "nombre_punto": "MULTIPAN PANADERÍA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "RESTAURANTE-NICO-Z2-N-T-M",
+    "nombre_punto": "Restaurante Nico"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "MINIMARKET-JAELYN-Z2-N-T-M",
+    "nombre_punto": "Minimarket Jaelyn"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "MULTIMEGA-VARIEDADES-Z2-N-T-M",
+    "nombre_punto": "MULTIMEGA VARIEDADES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "GAD-S-F-DE-BORJA-Z2-N-E-S",
+    "nombre_punto": "GAD S F DE BORJA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "BIBLIOTECA-DEL-CENTRO-CULTURAL-DE-BORJA-Z2-N-E-S",
+    "nombre_punto": "BIBLIOTECA DEL CENTRO CULTURAL DE BORJA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "BANECUADOR-BAEZA-Z2-N-E-S",
+    "nombre_punto": "BANECUADOR BAEZA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "TERCENA-RUNA-MIZI-Z2-N-T-A",
+    "nombre_punto": "TERCENA RUNA MIZI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PAPELERÍA-FUTURO-Z2-N-T-A",
+    "nombre_punto": "PAPELERÍA FUTURO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PANADERÍA-PAN-DE-CASA-Z2-N-T-A",
+    "nombre_punto": "PANADERÍA PAN DE CASA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "PANADERÍA-Z2-N-T-A",
+    "nombre_punto": "PANADERÍA DORIS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "SHIPATI-WASI-PATIO-DE-COMIDA-TIPICAS-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "SHIPATI WASI PATIO DE COMIDA TIPICAS ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "LICORERIA-LA-FERIA-Z2-N-T-A",
+    "nombre_punto": "LICORERIA LA FERIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "ARCHIDONA",
+    "subcircuito": "ARCHIDONA 1",
+    "id": "FISCALIA-ARCHIDONA-Z2-N-T-A",
+    "nombre_punto": "FISCALIA ARCHIDONA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "OFICINAS-DE-PETROECUADOR-BORJA-Z2-N-E-S",
+    "nombre_punto": "OFICINAS DE PETROECUADOR BORJA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "CAJERO-BANCO-DEL-PICHINCHA-BORJA-Z2-N-E-S",
+    "nombre_punto": "CAJERO BANCO DEL PICHINCHA BORJA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SANGOLQUI",
+    "subcircuito": "SANGOLQUI 2",
+    "id": "ALIMENTO-DIVINO-CARNICERIA-Z2-P-R-S",
+    "nombre_punto": "ALIMENTO DIVINO CARNICERIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO SUR",
+    "subcircuito": "PUERTO QUITO SUR 1",
+    "id": "BALANCEADOS-DANIELITA-Z2-P-N-P",
+    "nombre_punto": "BALANCEADOS DANIELITA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO SUR",
+    "subcircuito": "PUERTO QUITO SUR 1",
+    "id": "ABARROTES-3-HERMANOS-Z2-P-N-P",
+    "nombre_punto": "ABARROTES 3 HERMANOS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 2",
+    "id": "COMERCIAL-JENNIFER-Z2-P-N-P",
+    "nombre_punto": "Comercial Jennifer"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 2",
+    "id": "LA-ECONÓMICA-Z2-P-N-P",
+    "nombre_punto": "La Económica"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "UE-DEL-MILENIO-\"JORGE-RODRÍGUEZ-ROMÁN\"-Z2-O-O-C",
+    "nombre_punto": "UE del Milenio  \"Jorge Rodríguez Román\""
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 1",
+    "id": "HOTEL-VISTA-AMAZÓNICA-Z2-O-O-C",
+    "nombre_punto": "Hotel Vista  Amazónica"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "FERRETERÍA-JORDY-Z2-P-N-L",
+    "nombre_punto": "FERRETERÍA JORDY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "ILINIZAS",
+    "subcircuito": "ILINIZAS 1",
+    "id": "BAZAR-Y-PAPELERIA-Z2-P-R-I",
+    "nombre_punto": "BAZAR Y PAPELERIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "FAJARDO",
+    "subcircuito": "FAJARDO 1",
+    "id": "MACASI-JEAS-Z2-P-R-F",
+    "nombre_punto": "MACASI JEAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 1",
+    "id": "COMERCIAL-CUJI-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "ALOAG",
+    "subcircuito": "ALOAG 1",
+    "id": "QUEZADA-SUPERMERCADO-Z2-P-R-A",
+    "nombre_punto": "QUEZADA SUPERMERCADO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "ALOAG",
+    "subcircuito": "ALOAG 1",
+    "id": "SUPERMERCADO-QUEZADA-Z2-P-R-A",
+    "nombre_punto": "SUPERMERCADO QUEZADA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "SAN LUIS DE ARMENIA",
+    "subcircuito": "SAN LUIS DE ARMENIA 1",
+    "id": "SAN-LUIS-DE-ARMENIA-Z2-O-O-S",
+    "nombre_punto": "San Luis de Armenia"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 2",
+    "id": "RESTAURANTE-MARITZA-Z2-P-N-P",
+    "nombre_punto": "Restaurante Maritza"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "FERRETERÍA-M&T-Z2-P-N-L",
+    "nombre_punto": "FERRETERÍA M&T"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 1",
+    "id": "COMERCIAL-ALEXANDER-Z2-P-N-M",
+    "nombre_punto": "COMERCIAL ALEXANDER"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 2",
+    "id": "CERES-FARMS-Z2-P-C-C",
+    "nombre_punto": "Ceres Farms"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 1",
+    "id": "LA-VIÑA-Z2-P-C-C",
+    "nombre_punto": "LA VIÑA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "TIENDA-LA-ESQUINA-SANTA-ROSA-Z2-N-E-S",
+    "nombre_punto": "TIENDA LA ESQUINA SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "IGLESIA-CRISTIANA-PENTECOSTES-Z2-N-E-S",
+    "nombre_punto": "IGLESIA CRISTIANA  PENTECOSTES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 1",
+    "id": "PREFECTURA-DE-ORELLANA-Z2-O-O-C",
+    "nombre_punto": "Prefectura de orellana"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "CUTUGLAGUA",
+    "subcircuito": "CUTUGLAGUA 1",
+    "id": "SAN-ANDRES-Z2-P-R-C",
+    "nombre_punto": "San Andres"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RUMIÑAHUI",
+    "subcircuito": "RUMIÑAHUI 1",
+    "id": "FÁBRICA-MATAMOROS-Z2-P-R-R",
+    "nombre_punto": "FÁBRICA MATAMOROS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 3",
+    "id": "PANADERÍA-GRAN-TRIGALIA-Z2-O-O-C",
+    "nombre_punto": "Panadería Gran trigalia"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
+    "id": "POWER-STORE-Z2-P-C-C",
+    "nombre_punto": "POWER STORE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
+    "id": "FARMACIA-FIBECA-Z2-P-C-C",
+    "nombre_punto": "FARMACIA FIBECA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 4",
+    "id": "SUPER-AKI-Z2-O-O-C",
+    "nombre_punto": "SUPER AKI"
+  }
+]
