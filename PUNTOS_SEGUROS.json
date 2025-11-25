@@ -51604,5 +51604,23 @@
     "subcircuito": "EL CORAZON 1",
     "id": "BANECUADOR-Z3-C-P-E",
     "nombre_punto": "BanEcuador"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "UNION LOJANA",
+    "subcircuito": "UNION LOJANA 2",
+    "id": "MERCADO-MUNICIPAL-18-DE-NOVIEMBRE-Z7-E-H-U",
+    "nombre_punto": "Mercado Municipal 18 De Noviembre"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "LAS PALMERAS",
+    "subcircuito": "LAS PALMERAS 1",
+    "id": "UTOPIA-RESTAURANTE-Z7-E-S-L",
+    "nombre_punto": "UTOPIA RESTAURANTE"
   }
 ]
