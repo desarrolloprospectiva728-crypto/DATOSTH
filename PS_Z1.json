@@ -3121,5 +3121,14 @@
     "subcircuito": "SHUSHUFINDI CENTRO 2",
     "id": "DISENSA-EL-FERRETERO-Z1-S-S-S",
     "nombre_punto": "DISENSA EL FERRETERO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "CASA-DE-LOS-ABONOS-Z1-C-M-B",
+    "nombre_punto": "CASA DE LOS ABONOS"
   }
 ]
