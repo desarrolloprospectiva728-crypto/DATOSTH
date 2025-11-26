@@ -51,7 +51,7 @@
     "circuito": "7 DE OCTUBRE",
     "subcircuito": "7 DE OCTUBRE",
     "id": "29-DE-OCTUBRE-Z10-L-Q-7",
-    "nombre_punto": "29 DE OCTUBRE"
+    "nombre_punto": "2025-10-29T05:00:00.000Z"
   },
   {
     "zona": "ZONA 5",
@@ -184,7 +184,7 @@
     "subzona": "SANTA ELENA",
     "distrito": "LIBERTAD SALINAS",
     "circuito": "5 DE JUNIO",
-    "subcircuito": "5 DE JUNIO 2001",
+    "subcircuito": "2001-06-05T05:00:00.000Z",
     "id": "QUESO-MANABA-Z5-S-L-5",
     "nombre_punto": "QUESO MANABA"
   },
@@ -636,7 +636,7 @@
     "circuito": "ECHEANDIA",
     "subcircuito": "ECHEANDIA 1",
     "id": "13-DE-AGOSTO-Z5-B-S-E",
-    "nombre_punto": "13 DE AGOSTO"
+    "nombre_punto": "2025-08-13T05:00:00.000Z"
   },
   {
     "zona": "ZONA 5",
@@ -8710,5 +8710,41 @@
     "subcircuito": "SALITRE NORTE 1",
     "id": "FISCALÍA-Z5-G-S-S",
     "nombre_punto": "FISCALÍA DE SALITRE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 1",
+    "id": "FINCA-AGUAS-CLARAS-Z5-L-Q-G",
+    "nombre_punto": "Finca aguas claras"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "CYBER-GENESIS-Z5-L-Q-M",
+    "nombre_punto": "Cyber Genesis"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "CASA-COMERCIAL-DONOSO-Z5-L-Q-M",
+    "nombre_punto": "CASA COMERCIAL DONOSO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "CHILLANES",
+    "circuito": "CHILLANES",
+    "subcircuito": "CHILLANES 1",
+    "id": "MERCADO-MUNICIPAL-DEL-CANTÓN-\"LA-MERCED\"-Z5-B-C-C",
+    "nombre_punto": "MERCADO MUNICIPAL DEL CANTÓN \"LA MERCED\""
   }
 ]
