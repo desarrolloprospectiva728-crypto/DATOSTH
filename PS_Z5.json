@@ -8746,5 +8746,14 @@
     "subcircuito": "CHILLANES 1",
     "id": "MERCADO-MUNICIPAL-DEL-CANTÓN-\"LA-MERCED\"-Z5-B-C-C",
     "nombre_punto": "MERCADO MUNICIPAL DEL CANTÓN \"LA MERCED\""
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "LA-CASA-DE-LOS-RULIMANES-Z5-L-V-V",
+    "nombre_punto": "LA CASA DE LOS RULIMANES"
   }
 ]
