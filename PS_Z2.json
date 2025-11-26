@@ -3535,5 +3535,50 @@
     "subcircuito": "COCA OCCIDENTE 4",
     "id": "SUPER-AKI-Z2-O-O-C",
     "nombre_punto": "SUPER AKI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SANGOLQUI",
+    "subcircuito": "SANGOLQUI 2",
+    "id": "KS-DISEÑOS-Z2-P-R-S",
+    "nombre_punto": "kS Diseños"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "MINDO-CELL-Z2-P-N-L",
+    "nombre_punto": "MINDO CELL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "FAJARDO",
+    "subcircuito": "FAJARDO 1",
+    "id": "TIA-Z2-P-R-F",
+    "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO SUR",
+    "subcircuito": "PUERTO QUITO SUR 2",
+    "id": "MODAS-JC-Z2-P-N-P",
+    "nombre_punto": "MODAS JC"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RUMIÑAHUI",
+    "subcircuito": "RUMIÑAHUI 1",
+    "id": "FERCHOS-PIZZERIA-Z2-P-R-R",
+    "nombre_punto": "FERCHOS PIZZERIA"
   }
 ]
