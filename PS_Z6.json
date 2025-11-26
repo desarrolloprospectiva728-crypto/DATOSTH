@@ -2356,5 +2356,14 @@
     "subcircuito": "SAN BLAS 1",
     "id": "5-D-SUPEROFERTAS-Z6-A-C-S",
     "nombre_punto": "5 D SUPEROFERTAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "CONSEJO-DE-LA-JUDICATURA-DEL-CANTON-PAUTE-Z6-A-P-P",
+    "nombre_punto": "CONSEJO DE LA JUDICATURA DEL CANTON PAUTE"
   }
 ]
