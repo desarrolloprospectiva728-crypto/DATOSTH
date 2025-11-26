@@ -51631,5 +51631,68 @@
     "subcircuito": "BOLIVAR 1",
     "id": "CASA-DE-LOS-ABONOS-Z1-C-M-B",
     "nombre_punto": "CASA DE LOS ABONOS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SANGOLQUI",
+    "subcircuito": "SANGOLQUI 2",
+    "id": "KS-DISEÑOS-Z2-P-R-S",
+    "nombre_punto": "kS Diseños"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 1",
+    "id": "FINCA-AGUAS-CLARAS-Z5-L-Q-G",
+    "nombre_punto": "Finca aguas claras"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "MINDO-CELL-Z2-P-N-L",
+    "nombre_punto": "MINDO CELL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "CYBER-GENESIS-Z5-L-Q-M",
+    "nombre_punto": "Cyber Genesis"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "PICANTERIA-DON-JUAN-Z4-M-M-M",
+    "nombre_punto": "Picanteria Don Juan"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "PICANTERIA-DON-JUAN-Z4-M-M-M",
+    "nombre_punto": "Picanteria Don Juan"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "CASA-COMERCIAL-DONOSO-Z5-L-Q-M",
+    "nombre_punto": "CASA COMERCIAL DONOSO"
   }
 ]
