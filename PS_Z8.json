@@ -19667,15 +19667,6 @@
   {
     "zona": "ZONA 8",
     "subzona": "DMG",
-    "distrito": "NUEVA PROSPERINA",
-    "circuito": "FLOR DE BASTION",
-    "subcircuito": "FLOR DE BASTION 6",
-    "id": "ZONA 8-NUEVA PROSPERINA-FLOR DE BASTION-CAYA SUPERMERCADOS-FLOR DE BASTION 6",
-    "nombre_punto": "CAYA SUPERMERCADOS"
-  },
-  {
-    "zona": "ZONA 8",
-    "subzona": "DMG",
     "distrito": "MODELO",
     "circuito": "SAUCES",
     "subcircuito": "SAUCES 1",
@@ -20423,6 +20414,15 @@
   {
     "zona": "ZONA 8",
     "subzona": "DMG",
+    "distrito": "SAMBORONDON",
+    "circuito": "SAMBORONDON",
+    "subcircuito": "SAMBORONDON 3",
+    "id": "ZONA 8-SAMBORONDON-SAMBORONDON-CAFE DE TERE-CIUDAD CELESTE-SAMBORONDON 3",
+    "nombre_punto": "CAFE DE TERE - CIUDAD CELESTE"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
     "distrito": "CEIBOS",
     "circuito": "CHONGON",
     "subcircuito": "CHONGON 1",
@@ -20720,10 +20720,82 @@
   {
     "zona": "ZONA 8",
     "subzona": "DMG",
-    "distrito": "SAMBORONDON",
-    "circuito": "SAMBORONDON",
-    "subcircuito": "SAMBORONDON 3",
-    "id": "ZONA 8-SAMBORONDON-SAMBORONDON-CAFE DE TERE-CIUDAD CELESTE-SAMBORONDON 3",
-    "nombre_punto": "CAFE DE TERE - CIUDAD CELESTE"
+    "distrito": "PASCUALES",
+    "circuito": "BASTION POPULAR NORTE",
+    "subcircuito": "BASTION POPULAR NORTE 3",
+    "id": "ZONA 8-PASCUALES-BASTION POPULAR NORTE-MATERIALES DE CONSTRUCCIÓN EL CHIVO-BASTION POPULAR NORTE 3",
+    "nombre_punto": "MATERIALES DE CONSTRUCCIÓN EL CHIVO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "ZONA 8-SUR-FLORESTA-LOCAL FULL FRIO GALECIO -FLORESTA 2",
+    "nombre_punto": "LOCAL FULL FRIO GALECIO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 1",
+    "id": "ZONA 8-SUR-CENTENARIO-ALMACEN DEPRATTY SUR-CENTENARIO 1",
+    "nombre_punto": "ALMACEN DEPRATTY SUR"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PROGRESO",
+    "circuito": "PROGRESO",
+    "subcircuito": "PROGRESO 1",
+    "id": "ZONA 8-PROGRESO-PROGRESO-TUTI -PROGRESO 1",
+    "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PROGRESO",
+    "circuito": "PROGRESO",
+    "subcircuito": "PROGRESO 1",
+    "id": "ZONA 8-PROGRESO-PROGRESO-GASOLINERA PRIMAX-PROGRESO 1",
+    "nombre_punto": "GASOLINERA PRIMAX"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PROGRESO",
+    "circuito": "PROGRESO",
+    "subcircuito": "PROGRESO 1",
+    "id": "ZONA 8-PROGRESO-PROGRESO-FARMACIA 911-PROGRESO 1",
+    "nombre_punto": "FARMACIA 911"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "NUEVA PROSPERINA",
+    "circuito": "FLOR DE BASTION",
+    "subcircuito": "FLOR DE BASTION 6",
+    "id": "ZONA 8-NUEVA PROSPERINA-FLOR DE BASTION-CAYA SUPERMERCADOS-FLOR DE BASTION 6",
+    "nombre_punto": "CAYA SUPERMERCADOS"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "NUEVA PROSPERINA",
+    "circuito": "PARAISO LA FLOR",
+    "subcircuito": "PARAISO LA FLOR 1",
+    "id": "ZONA 8-NUEVA PROSPERINA-PARAISO LA FLOR-TIA PARAISO DE LA FLOR -PARAISO LA FLOR 1",
+    "nombre_punto": "TIA PARAISO DE LA FLOR"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "NUEVA PROSPERINA",
+    "circuito": "PARAISO LA FLOR",
+    "subcircuito": "PARAISO LA FLOR 1",
+    "id": "ZONA 8-NUEVA PROSPERINA-PARAISO LA FLOR-TUTI-PARAISO LA FLOR 1",
+    "nombre_punto": "TUTI"
   }
 ]
