@@ -51678,15 +51678,6 @@
     "nombre_punto": "Picanteria Don Juan"
   },
   {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
-    "distrito": "MANTA",
-    "circuito": "MONTECRISTI",
-    "subcircuito": "MONTECRISTI 2",
-    "id": "PICANTERIA-DON-JUAN-Z4-M-M-M",
-    "nombre_punto": "Picanteria Don Juan"
-  },
-  {
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "QUEVEDO",
@@ -51694,15 +51685,6 @@
     "subcircuito": "MOCACHE 2",
     "id": "CASA-COMERCIAL-DONOSO-Z5-L-Q-M",
     "nombre_punto": "CASA COMERCIAL DONOSO"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "FAJARDO",
-    "subcircuito": "FAJARDO 1",
-    "id": "TIA-Z2-P-R-F",
-    "nombre_punto": "TIA"
   },
   {
     "zona": "ZONA 2",
@@ -51730,42 +51712,6 @@
     "subcircuito": "PUERTO QUITO SUR 2",
     "id": "MODAS-JC-Z2-P-N-P",
     "nombre_punto": "MODAS JC"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "NOROCCIDENTE",
-    "circuito": "PUERTO QUITO SUR",
-    "subcircuito": "PUERTO QUITO SUR 2",
-    "id": "MODAS-JC-Z2-P-N-P",
-    "nombre_punto": "MODAS JC"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RUMIÑAHUI",
-    "subcircuito": "RUMIÑAHUI 1",
-    "id": "FERCHOS-PIZZERIA-Z2-P-R-R",
-    "nombre_punto": "FERCHOS PIZZERIA"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RUMIÑAHUI",
-    "subcircuito": "RUMIÑAHUI 1",
-    "id": "FERCHOS-PIZZERIA-Z2-P-R-R",
-    "nombre_punto": "FERCHOS PIZZERIA"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "PICHINCHA",
-    "distrito": "RUMIÑAHUI - MEJIA",
-    "circuito": "RUMIÑAHUI",
-    "subcircuito": "RUMIÑAHUI 1",
-    "id": "FERCHOS-PIZZERIA-Z2-P-R-R",
-    "nombre_punto": "FERCHOS PIZZERIA"
   },
   {
     "zona": "ZONA 2",
