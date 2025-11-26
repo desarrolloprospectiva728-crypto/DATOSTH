@@ -3148,5 +3148,14 @@
     "subcircuito": "PROPICIA 1",
     "id": "ESC-WALTER-VEVILLA-BLOQUE-2-Z1-E-E-P",
     "nombre_punto": "Esc Walter Vevilla Bloque 2"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 1",
+    "id": "LATINVOIP-Z1-E-S-F",
+    "nombre_punto": "LATINVOIP"
   }
 ]
