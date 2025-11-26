@@ -825,7 +825,7 @@
     "circuito": "PUYO SUR",
     "subcircuito": "PUYO SUR 2",
     "id": "9-DE-OCTUBRE-Z3-P-P-P",
-    "nombre_punto": "9 DE OCTUBRE"
+    "nombre_punto": "2025-10-09T05:00:00.000Z"
   },
   {
     "zona": "ZONA 3",
@@ -1779,7 +1779,7 @@
     "circuito": "MIÑARICA",
     "subcircuito": "MIÑARICA 2",
     "id": "PARQUE-LA-PRESIDENCIA-Z3-T-A-M",
-    "nombre_punto": "PARQUE LA PRESIDENCIA "
+    "nombre_punto": "PARQUE LA PRESIDENCIA"
   },
   {
     "zona": "ZONA 3",
@@ -3679,5 +3679,14 @@
     "subcircuito": "SAN BARTOLOME DE PINLLO 2",
     "id": "BARRIO-MADRIGAL-VIVIENDA-MANGARREZ-LALAMA-Z3-T-A-S",
     "nombre_punto": "Barrio Madrigal Vivienda Mangarrez Lalama"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "PANGUA",
+    "circuito": "EL CORAZON",
+    "subcircuito": "EL CORAZON 1",
+    "id": "BANECUADOR-Z3-C-P-E",
+    "nombre_punto": "BanEcuador"
   }
 ]
