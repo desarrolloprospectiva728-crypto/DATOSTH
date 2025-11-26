@@ -1796,8 +1796,8 @@
     "distrito": "SANTO DOMINGO OESTE",
     "circuito": "SAN JACINTO DEL BUA",
     "subcircuito": "SAN JACINTO DEL BUA 1",
-    "id": "\"TUTI\"-SAN-JACINTO-Z4-S-S-S",
-    "nombre_punto": "\"TUTI\" SAN JACINTO"
+    "id": "TUTI-SAN-JACINTO-Z4-S-S-S",
+    "nombre_punto": "TUTI SAN JACINTO"
   },
   {
     "zona": "ZONA 4",
@@ -3273,7 +3273,7 @@
     "circuito": "MIRAFLORES",
     "subcircuito": "MIRAFLORES 2",
     "id": "FISCALÍA-FGE-Z4-M-M-M",
-    "nombre_punto": "FISCALÍA F.G.E. "
+    "nombre_punto": "FISCALÍA F.G.E."
   },
   {
     "zona": "ZONA 4",
@@ -6316,5 +6316,14 @@
     "subcircuito": "MIRAFLORES 1",
     "id": "TUTI-LAS-CUMBRES-Z4-M-M-M",
     "nombre_punto": "TUTI LAS CUMBRES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "PICANTERIA-DON-JUAN-Z4-M-M-M",
+    "nombre_punto": "Picanteria Don Juan"
   }
 ]
