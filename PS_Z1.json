@@ -3130,5 +3130,14 @@
     "subcircuito": "BOLIVAR 1",
     "id": "CASA-DE-LOS-ABONOS-Z1-C-M-B",
     "nombre_punto": "CASA DE LOS ABONOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "NUEVO SUCUMBIOS",
+    "subcircuito": "NUEVO SUCUMBIOS 1",
+    "id": "LIBRERIA-SELECTA-Z1-S-L-N",
+    "nombre_punto": "LIBRERIA SELECTA"
   }
 ]
