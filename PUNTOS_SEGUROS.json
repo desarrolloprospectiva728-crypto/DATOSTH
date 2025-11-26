@@ -51694,5 +51694,50 @@
     "subcircuito": "MOCACHE 2",
     "id": "CASA-COMERCIAL-DONOSO-Z5-L-Q-M",
     "nombre_punto": "CASA COMERCIAL DONOSO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "FAJARDO",
+    "subcircuito": "FAJARDO 1",
+    "id": "TIA-Z2-P-R-F",
+    "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "FAJARDO",
+    "subcircuito": "FAJARDO 1",
+    "id": "TIA-Z2-P-R-F",
+    "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "CHILLANES",
+    "circuito": "CHILLANES",
+    "subcircuito": "CHILLANES 1",
+    "id": "MERCADO-MUNICIPAL-DEL-CANTÓN-\"LA-MERCED\"-Z5-B-C-C",
+    "nombre_punto": "MERCADO MUNICIPAL DEL CANTÓN \"LA MERCED\""
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO SUR",
+    "subcircuito": "PUERTO QUITO SUR 2",
+    "id": "MODAS-JC-Z2-P-N-P",
+    "nombre_punto": "MODAS JC"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO SUR",
+    "subcircuito": "PUERTO QUITO SUR 2",
+    "id": "MODAS-JC-Z2-P-N-P",
+    "nombre_punto": "MODAS JC"
   }
 ]
