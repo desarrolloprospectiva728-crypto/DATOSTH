@@ -7360,5 +7360,14 @@
     "subcircuito": "",
     "id": "POLLOS_STAV_LD_CT",
     "nombre_punto": "POLLOS STAV - COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "ECUATORIANA",
+    "subcircuito": "ECUATORIANA 4",
+    "id": "EJEMPLO-VERSION-2-Z9-D-Q-E",
+    "nombre_punto": "ejemplo version 2"
   }
 ]
