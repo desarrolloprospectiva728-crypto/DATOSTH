@@ -3139,5 +3139,14 @@
     "subcircuito": "NUEVO SUCUMBIOS 1",
     "id": "LIBRERIA-SELECTA-Z1-S-L-N",
     "nombre_punto": "LIBRERIA SELECTA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "PROPICIA",
+    "subcircuito": "PROPICIA 1",
+    "id": "ESC-WALTER-VEVILLA-BLOQUE-2-Z1-E-E-P",
+    "nombre_punto": "Esc Walter Vevilla Bloque 2"
   }
 ]
