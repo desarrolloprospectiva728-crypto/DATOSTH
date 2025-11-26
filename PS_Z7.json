@@ -904,7 +904,7 @@
     "subzona": "EL ORO",
     "distrito": "MACHALA",
     "circuito": "27 DE FEBRERO",
-    "subcircuito": "27 DE FEBRERO 2001",
+    "subcircuito": "2001-02-27T05:00:00.000Z",
     "id": "CDLA.-9-DE-OCTUBRE-Z7-E-M-2",
     "nombre_punto": "CDLA. 9 DE OCTUBRE"
   },
@@ -2457,22 +2457,22 @@
     "nombre_punto": "MINI MARKET CORAYMA"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "ZAMORA CHINCHIPE",
-    "distrito": "PAQUISHA",
-    "circuito": "ZUMBI",
-    "subcircuito": "ZUMBI 1",
-    "id": "\"TIENDA-SAN-JOSE-Z7-Z-P-Z",
-    "nombre_punto": "\"TIENDA SAN JOSE"
+    "zona": -39001141,
+    "subzona": 1943,
+    "distrito": "-78.8176205",
+    "circuito": "ZAMORA CHINCHIPE",
+    "subcircuito": "-3.9001141, -78.8176205",
+    "id": "TIENDA-SAN-JOSE-Z7-Z-P-Z\tZONA 7\tPAQUISHA\tZUMBI\tTIENDA SAN JOSE",
+    "nombre_punto": "ZUMBI 1"
   },
   {
-    "zona": "ZONA 7",
-    "subzona": "ZAMORA CHINCHIPE",
-    "distrito": "PAQUISHA",
-    "circuito": "ZUMBI",
-    "subcircuito": "ZUMBI 1",
-    "id": "\"MAMA-JUL-Z7-Z-P-Z",
-    "nombre_punto": "\"MAMA JUL"
+    "zona": -38795194,
+    "subzona": 1944,
+    "distrito": "-78.7771084",
+    "circuito": "ZAMORA CHINCHIPE",
+    "subcircuito": "-3.8795194, -78.7771084",
+    "id": "MAMA-JUL-Z7-Z-P-Z\tZONA 7\tPAQUISHA\tZUMBI\tMAMA JUL",
+    "nombre_punto": "ZUMBI 1"
   },
   {
     "zona": "ZONA 7",
@@ -2784,7 +2784,7 @@
     "zona": "ZONA 7",
     "subzona": "EL ORO",
     "distrito": "MACHALA",
-    "circuito": "DIECINUEVE DE NOVIEMBRE ",
+    "circuito": "DIECINUEVE DE NOVIEMBRE",
     "subcircuito": "DIECINUEVE DE NOVIEMBRE 1",
     "id": "CENTRO-COMERCIAL-LAS-PALMERAS-Z7-E-M-D",
     "nombre_punto": "Centro Comercial Las Palmeras"
@@ -2874,7 +2874,7 @@
     "zona": "ZONA 7",
     "subzona": "EL ORO",
     "distrito": "MACHALA",
-    "circuito": "DIECINUEVE DE NOVIEMBRE ",
+    "circuito": "DIECINUEVE DE NOVIEMBRE",
     "subcircuito": "DIECINUEVE DE NOVIEMBRE 1",
     "id": "MERCADO-LAS-PALMERAS-Z7-E-M-D",
     "nombre_punto": "Mercado Las Palmeras"
@@ -3463,5 +3463,23 @@
     "subcircuito": "AMALUZA 1",
     "id": "CANCHA-DE-USO-MULTIPLE-BARRIO-LA-PLAYA-Z7-L-E-A",
     "nombre_punto": "CANCHA DE USO MULTIPLE BARRIO LA PLAYA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "UNION LOJANA",
+    "subcircuito": "UNION LOJANA 2",
+    "id": "MERCADO-MUNICIPAL-18-DE-NOVIEMBRE-Z7-E-H-U",
+    "nombre_punto": "Mercado Municipal 18 De Noviembre"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "LAS PALMERAS",
+    "subcircuito": "LAS PALMERAS 1",
+    "id": "UTOPIA-RESTAURANTE-Z7-E-S-L",
+    "nombre_punto": "UTOPIA RESTAURANTE"
   }
 ]
