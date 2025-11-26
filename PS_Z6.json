@@ -2365,5 +2365,14 @@
     "subcircuito": "PAUTE 1",
     "id": "CONSEJO-DE-LA-JUDICATURA-DEL-CANTON-PAUTE-Z6-A-P-P",
     "nombre_punto": "CONSEJO DE LA JUDICATURA DEL CANTON PAUTE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "CERRO NEGRO",
+    "subcircuito": "CERRO NEGRO 1",
+    "id": "GASOLINERA-P&S-SARAYUNGA-Z6-A-G-C",
+    "nombre_punto": "GASOLINERA P&S SARAYUNGA"
   }
 ]
