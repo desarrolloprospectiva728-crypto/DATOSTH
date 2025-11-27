@@ -3688,5 +3688,14 @@
     "subcircuito": "EL CORAZON 1",
     "id": "BANECUADOR-Z3-C-P-E",
     "nombre_punto": "BanEcuador"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "SAN ANTONIO 1",
+    "id": "PLAZA-PACHANO-Z3-T-A-S",
+    "nombre_punto": "Plaza Pachano"
   }
 ]
