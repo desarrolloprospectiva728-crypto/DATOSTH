@@ -3616,5 +3616,14 @@
     "subcircuito": "LOS BANCOS 2",
     "id": "QUINDE-MINDO-Z2-P-N-L",
     "nombre_punto": "QUINDE MINDO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CUSUBAMBA",
+    "subcircuito": "CUSUBAMBA 2",
+    "id": "PANADERÍA-PAN-CALIENTE-Z2-P-C-C",
+    "nombre_punto": "Panadería Pan Caliente"
   }
 ]
