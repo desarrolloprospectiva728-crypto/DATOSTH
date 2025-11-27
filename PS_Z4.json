@@ -6343,5 +6343,23 @@
     "subcircuito": "MONTECRISTI 1",
     "id": "FERRETERÍA-SAEL-TIERRA-SANTA-Z4-M-M-M",
     "nombre_punto": "FERRETERÍA SAEL TIERRA SANTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 1",
+    "id": "TIENDA-ROSY-TIERRA-SANTA-Z4-M-M-M",
+    "nombre_punto": "TIENDA ROSY TIERRA SANTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 1",
+    "id": "TIENDA-ROSY-TIERRA-SANTA-Z4-M-M-M",
+    "nombre_punto": "TIENDA ROSY TIERRA SANTA"
   }
 ]
