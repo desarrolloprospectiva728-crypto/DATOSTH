@@ -8764,5 +8764,14 @@
     "subcircuito": "NARANJITO ESTE 2",
     "id": "ALMACÉN-CREDIPARRA-Z5-G-N-N",
     "nombre_punto": "Almacén Crediparra"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "NARANJITO ESTE",
+    "subcircuito": "NARANJITO ESTE 2",
+    "id": "CAJEROS-JEP-Y-PICHINCHA-Z5-G-N-N",
+    "nombre_punto": "Cajeros Jep y Pichincha"
   }
 ]
