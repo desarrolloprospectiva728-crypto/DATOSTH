@@ -3661,5 +3661,14 @@
     "subcircuito": "CUSUBAMBA 2",
     "id": "MINI-MARKET-MIKE-Z2-P-C-C",
     "nombre_punto": "MINI MARKET MIKE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CUSUBAMBA",
+    "subcircuito": "CUSUBAMBA 1",
+    "id": "FERRETERIA-DISENSA-Z2-P-C-C",
+    "nombre_punto": "FERRETERIA DISENSA"
   }
 ]
