@@ -3481,5 +3481,14 @@
     "subcircuito": "LAS PALMERAS 1",
     "id": "UTOPIA-RESTAURANTE-Z7-E-S-L",
     "nombre_punto": "UTOPIA RESTAURANTE"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "LOJA",
+    "circuito": "IV CENTENARIO",
+    "subcircuito": "IV CENTENARIO 1",
+    "id": "LAURO-GUERRERO-ENTRE-AZUAY-Y-MIGUEL-RIOFRÍO-Z7-L-L-I",
+    "nombre_punto": "Lauro guerrero entre azuay y Miguel Riofrío"
   }
 ]
