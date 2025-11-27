@@ -3157,5 +3157,14 @@
     "subcircuito": "FRONTERA 1",
     "id": "LATINVOIP-Z1-E-S-F",
     "nombre_punto": "LATINVOIP"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "CENTRO-RECREATIVO-EL-CAPULÍ-Z1-C-M-S",
+    "nombre_punto": "CENTRO RECREATIVO EL CAPULÍ"
   }
 ]
