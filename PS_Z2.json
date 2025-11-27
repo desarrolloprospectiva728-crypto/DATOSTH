@@ -3589,5 +3589,14 @@
     "subcircuito": "PUERTO QUITO NORTE 2",
     "id": "GRANIHELAFOS-Z2-P-N-P",
     "nombre_punto": "Granihelafos"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 2",
+    "id": "TIENDA-LA-TÍA-JUANITA-Z2-P-N-M",
+    "nombre_punto": "TIENDA LA TÍA JUANITA"
   }
 ]
