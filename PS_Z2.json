@@ -3598,5 +3598,23 @@
     "subcircuito": "MALDONADO 2",
     "id": "TIENDA-LA-TÍA-JUANITA-Z2-P-N-M",
     "nombre_punto": "TIENDA LA TÍA JUANITA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 2",
+    "id": "VARIEDADES-MAFER-Z2-P-N-M",
+    "nombre_punto": "VARIEDADES MAFER"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "QUINDE-MINDO-Z2-P-N-L",
+    "nombre_punto": "QUINDE MINDO"
   }
 ]
