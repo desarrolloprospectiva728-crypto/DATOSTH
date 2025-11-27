@@ -3670,5 +3670,14 @@
     "subcircuito": "CUSUBAMBA 1",
     "id": "FERRETERIA-DISENSA-Z2-P-C-C",
     "nombre_punto": "FERRETERIA DISENSA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CUSUBAMBA",
+    "subcircuito": "CUSUBAMBA 1",
+    "id": "MEDIFARM-Z2-P-C-C",
+    "nombre_punto": "MEDIFARM"
   }
 ]
