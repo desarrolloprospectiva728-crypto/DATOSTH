@@ -3499,5 +3499,14 @@
     "subcircuito": "ZARUMA 1",
     "id": "RAMIZA-CONSTRUCCIONES-Z7-E-Z-Z",
     "nombre_punto": "RAMIZA CONSTRUCCIONES"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "ZARUMA",
+    "subcircuito": "ZARUMA 1",
+    "id": "PARQUE-URBANIZACIÓN-SUR-Z7-E-Z-Z",
+    "nombre_punto": "Parque URBANIZACIÓN SUR"
   }
 ]
