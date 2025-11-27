@@ -7360,5 +7360,14 @@
     "subcircuito": "",
     "id": "POLLOS_STAV_LD_CT",
     "nombre_punto": "POLLOS STAV - COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "QUITUMBE",
+    "circuito": "LAS CUADRAS",
+    "subcircuito": "LAS CUADRAS 3",
+    "id": "SANTA-MARIA-Z9-D-Q-L",
+    "nombre_punto": "SANTA MARIA"
   }
 ]
