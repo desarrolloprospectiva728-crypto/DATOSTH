@@ -8755,5 +8755,14 @@
     "subcircuito": "VINCES SUR 1",
     "id": "LA-CASA-DE-LOS-RULIMANES-Z5-L-V-V",
     "nombre_punto": "LA CASA DE LOS RULIMANES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "NARANJITO ESTE",
+    "subcircuito": "NARANJITO ESTE 2",
+    "id": "ALMACÉN-CREDIPARRA-Z5-G-N-N",
+    "nombre_punto": "Almacén Crediparra"
   }
 ]
