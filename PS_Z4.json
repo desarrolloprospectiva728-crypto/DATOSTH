@@ -6325,5 +6325,14 @@
     "subcircuito": "MONTECRISTI 2",
     "id": "PICANTERIA-DON-JUAN-Z4-M-M-M",
     "nombre_punto": "Picanteria Don Juan"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 1",
+    "id": "FARMACIA-SANTA-MARTHA-EL-COLORADO-Z4-M-M-M",
+    "nombre_punto": "FARMACIA SANTA MARTHA EL COLORADO"
   }
 ]
