@@ -3490,5 +3490,14 @@
     "subcircuito": "IV CENTENARIO 1",
     "id": "LAURO-GUERRERO-ENTRE-AZUAY-Y-MIGUEL-RIOFRÍO-Z7-L-L-I",
     "nombre_punto": "Lauro guerrero entre azuay y Miguel Riofrío"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "ZARUMA",
+    "subcircuito": "ZARUMA 1",
+    "id": "RAMIZA-CONSTRUCCIONES-Z7-E-Z-Z",
+    "nombre_punto": "RAMIZA CONSTRUCCIONES"
   }
 ]
