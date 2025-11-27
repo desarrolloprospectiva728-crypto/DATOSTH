@@ -3580,5 +3580,14 @@
     "subcircuito": "RUMIÑAHUI 1",
     "id": "FERCHOS-PIZZERIA-Z2-P-R-R",
     "nombre_punto": "FERCHOS PIZZERIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 2",
+    "id": "GRANIHELAFOS-Z2-P-N-P",
+    "nombre_punto": "Granihelafos"
   }
 ]
