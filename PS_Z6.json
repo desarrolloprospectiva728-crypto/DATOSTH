@@ -2383,5 +2383,14 @@
     "subcircuito": "JIMA 1",
     "id": "LOCAL-COMUNICACIONES-Z6-A-S-J",
     "nombre_punto": "Local Comunicaciones"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "LA-PLAZA-RESTAURANT-Z6-A-N-N",
+    "nombre_punto": "LA PLAZA RESTAURANT"
   }
 ]
