@@ -2374,5 +2374,14 @@
     "subcircuito": "CERRO NEGRO 1",
     "id": "GASOLINERA-P&S-SARAYUNGA-Z6-A-G-C",
     "nombre_punto": "GASOLINERA P&S SARAYUNGA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "JIMA",
+    "subcircuito": "JIMA 1",
+    "id": "LOCAL-COMUNICACIONES-Z6-A-S-J",
+    "nombre_punto": "Local Comunicaciones"
   }
 ]
