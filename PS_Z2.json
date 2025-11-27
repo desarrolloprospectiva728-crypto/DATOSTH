@@ -3679,5 +3679,23 @@
     "subcircuito": "CUSUBAMBA 1",
     "id": "MEDIFARM-Z2-P-C-C",
     "nombre_punto": "MEDIFARM"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "VARIEDADES-PUJOTA-Z2-P-C-T",
+    "nombre_punto": "VARIEDADES PUJOTA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "CREA-TU-MODA-Z2-P-C-T",
+    "nombre_punto": "CREA TU MODA"
   }
 ]
