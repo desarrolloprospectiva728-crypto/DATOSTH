@@ -3625,5 +3625,41 @@
     "subcircuito": "CUSUBAMBA 2",
     "id": "PANADERÍA-PAN-CALIENTE-Z2-P-C-C",
     "nombre_punto": "Panadería Pan Caliente"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "TOUCAN-PHOTO-TOURS-Z2-P-N-L",
+    "nombre_punto": "TOUCAN PHOTO TOURS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "MINDO-CELL-Z2-P-N-L",
+    "nombre_punto": "MINDO CELL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 2",
+    "id": "MUNDO-ENVÍOS-D-Y-D-MINDO-Z2-P-N-L",
+    "nombre_punto": "MUNDO ENVÍOS D Y D MINDO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CUSUBAMBA",
+    "subcircuito": "CUSUBAMBA 2",
+    "id": "MINI-MARKET-MIKE-Z2-P-C-C",
+    "nombre_punto": "MINI MARKET MIKE"
   }
 ]
