@@ -3697,5 +3697,14 @@
     "subcircuito": "TABACUNDO 1",
     "id": "CREA-TU-MODA-Z2-P-C-T",
     "nombre_punto": "CREA TU MODA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "ELECTRODOMÉSTICOS-JUAN-MONTALVO-Z2-P-C-T",
+    "nombre_punto": "ELECTRODOMÉSTICOS  JUAN MONTALVO"
   }
 ]
