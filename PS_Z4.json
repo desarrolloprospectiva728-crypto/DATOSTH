@@ -6379,5 +6379,14 @@
     "subcircuito": "MONTECRISTI 1",
     "id": "COMEDOR-MARIANITA-LOS-CORRALLES-Z4-M-M-M",
     "nombre_punto": "COMEDOR MARIANITA LOS CORRALLES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 1",
+    "id": "TIENDA-BICHICHE-DIAGONAL-AL-CEMENTERIO-LA-JACUATAS-Z4-M-M-L",
+    "nombre_punto": "Tienda Bichiche diagonal al cementerio la jacuatas"
   }
 ]
