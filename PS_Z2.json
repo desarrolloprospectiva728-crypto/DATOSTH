@@ -3724,5 +3724,14 @@
     "subcircuito": "MALCHINGUI 2",
     "id": "SARAHI-PIZZERIA-Z2-P-C-M",
     "nombre_punto": "SARAHI PIZZERIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "RM-SPORT-Z2-P-C-T",
+    "nombre_punto": "RM SPORT"
   }
 ]
