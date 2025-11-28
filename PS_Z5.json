@@ -8782,5 +8782,23 @@
     "subcircuito": "VENTANAS SUR 1",
     "id": "LAVADORA-AUTOFRESH-Z5-L-V-V",
     "nombre_punto": "Lavadora Autofresh"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "AGROQUIMICO-LOS-TRONCOS-Z5-L-P-S",
+    "nombre_punto": "AGROQUIMICO LOS TRONCOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "MINIMARKET-MARANATHA-Z5-L-P-S",
+    "nombre_punto": "MINIMARKET MARANATHA"
   }
 ]
