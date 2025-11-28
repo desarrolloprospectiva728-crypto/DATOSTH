@@ -3850,5 +3850,14 @@
     "subcircuito": "MACHACHI SUR 1",
     "id": "POLLOS-DE-LA-TRI-Z2-P-R-M",
     "nombre_punto": "POLLOS DE LA TRI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "MACHACHI SUR",
+    "subcircuito": "MACHACHI SUR 1",
+    "id": "FARMACIA-SANA-SANA-Z2-P-R-M",
+    "nombre_punto": "FARMACIA SANA SANA"
   }
 ]
