@@ -8872,5 +8872,23 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "SODABAR-EL-FRUTAL-Z5-L-V-V",
     "nombre_punto": "SODABAR EL FRUTAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "COMERCIAL-JOSSEPY-ROSADO-Z5-L-V-V",
+    "nombre_punto": "COMERCIAL JOSSEPY ROSADO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "NARANJITO ESTE",
+    "subcircuito": "NARANJITO ESTE 1",
+    "id": "FERRETERIA-LITUMA-Z5-G-N-N",
+    "nombre_punto": "FERRETERIA LITUMA"
   }
 ]
