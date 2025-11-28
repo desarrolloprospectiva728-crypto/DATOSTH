@@ -3724,5 +3724,23 @@
     "subcircuito": "TABACUNDO 1",
     "id": "RM-SPORT-Z2-P-C-T",
     "nombre_punto": "RM SPORT"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "MALCHINGUI",
+    "subcircuito": "MALCHINGUI 2",
+    "id": "HELADIA-LA-AVANZADA-Z2-P-C-M",
+    "nombre_punto": "HELADIA LA AVANZADA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "MALCHINGUI",
+    "subcircuito": "MALCHINGUI 2",
+    "id": "KATY-BIZCOCHOS-ESPECIALES-Z2-P-C-M",
+    "nombre_punto": "KATY BIZCOCHOS ESPECIALES"
   }
 ]
