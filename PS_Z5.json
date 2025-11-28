@@ -8800,5 +8800,14 @@
     "subcircuito": "SAN JUAN 1",
     "id": "MINIMARKET-MARANATHA-Z5-L-P-S",
     "nombre_punto": "MINIMARKET MARANATHA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "ENRIQUEZ GALLO",
+    "subcircuito": "ENRIQUEZ GALLO 1",
+    "id": "ALEX-TYRES-Z5-S-L-E",
+    "nombre_punto": "ALEX TYRES"
   }
 ]
