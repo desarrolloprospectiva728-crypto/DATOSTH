@@ -20995,5 +20995,14 @@
     "subcircuito": "PUERTO HONDO 1",
     "id": "ITALIAN-DELI-Z8-D-C-P",
     "nombre_punto": "Italian Deli"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "PUERTO HONDO",
+    "subcircuito": "PUERTO HONDO 1",
+    "id": "SMASH-Z8-D-C-P",
+    "nombre_punto": "Smash"
   }
 ]
