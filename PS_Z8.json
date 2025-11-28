@@ -20815,5 +20815,23 @@
     "subcircuito": "PARAISO LA FLOR 1",
     "id": "TUTI-Z8-D-N-P",
     "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "CHONGON",
+    "subcircuito": "CHONGON 1",
+    "id": "EL-VECI-Z8-D-C-C",
+    "nombre_punto": "El Veci"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "CHONGON",
+    "subcircuito": "CHONGON 1",
+    "id": "DESPENSA-ADRIAN-Z8-D-C-C",
+    "nombre_punto": "Despensa Adrian"
   }
 ]
