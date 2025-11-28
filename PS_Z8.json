@@ -20977,5 +20977,23 @@
     "subcircuito": "PUERTO HONDO 1",
     "id": "ADRIANA-PASTELERÍA-Y-PANADERÍA-Z8-D-C-P",
     "nombre_punto": "Adriana Pastelería y Panadería"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "PUERTO HONDO",
+    "subcircuito": "PUERTO HONDO 1",
+    "id": "DIPPING-COOKIES-Z8-D-C-P",
+    "nombre_punto": "Dipping Cookies"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "PUERTO HONDO",
+    "subcircuito": "PUERTO HONDO 1",
+    "id": "ITALIAN-DELI-Z8-D-C-P",
+    "nombre_punto": "Italian Deli"
   }
 ]
