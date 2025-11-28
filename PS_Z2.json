@@ -3814,5 +3814,14 @@
     "subcircuito": "CAYAMBE SUR 1",
     "id": "SUPER-CARNES-Z2-P-C-C",
     "nombre_punto": "Super Carnes"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 1",
+    "id": "MIS-TERREMOTOS-MINIMARKET-Z2-P-N-P",
+    "nombre_punto": "Mis terremotos Minimarket"
   }
 ]
