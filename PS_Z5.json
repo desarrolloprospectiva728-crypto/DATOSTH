@@ -8773,5 +8773,14 @@
     "subcircuito": "NARANJITO ESTE 2",
     "id": "CAJEROS-JEP-Y-PICHINCHA-Z5-G-N-N",
     "nombre_punto": "Cajeros Jep y Pichincha"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "LAVADORA-AUTOFRESH-Z5-L-V-V",
+    "nombre_punto": "Lavadora Autofresh"
   }
 ]
