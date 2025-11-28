@@ -20860,5 +20860,32 @@
     "subcircuito": "CHONGON 1",
     "id": "POLLO-DORADO-GITANO-JR-Z8-D-C-C",
     "nombre_punto": "Pollo Dorado Gitano Jr"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "CHONGON",
+    "subcircuito": "CHONGON 1",
+    "id": "PICANTERIA-PABLITO-Z8-D-C-C",
+    "nombre_punto": "Picanteria Pablito"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "CHONGON",
+    "subcircuito": "CHONGON 1",
+    "id": "ASADERO-LUNA-Z8-D-C-C",
+    "nombre_punto": "Asadero Luna"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "CHONGON",
+    "subcircuito": "CHONGON 1",
+    "id": "SUPERMERCADO-LA-COSECHA-Z8-D-C-C",
+    "nombre_punto": "Supermercado La Cosecha"
   }
 ]
