@@ -8854,5 +8854,23 @@
     "subcircuito": "SAN JUAN 1",
     "id": "HELADERIA-PINGÜINO-Z5-L-P-S",
     "nombre_punto": "HELADERIA PINGÜINO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 1",
+    "id": "COMERCIAL-DONOSO-2-Z5-L-Q-M",
+    "nombre_punto": "COMERCIAL DONOSO 2"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "SODABAR-EL-FRUTAL-Z5-L-V-V",
+    "nombre_punto": "SODABAR EL FRUTAL"
   }
 ]
