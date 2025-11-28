@@ -3706,5 +3706,14 @@
     "subcircuito": "TABACUNDO 1",
     "id": "ELECTRODOMÉSTICOS-JUAN-MONTALVO-Z2-P-C-T",
     "nombre_punto": "ELECTRODOMÉSTICOS  JUAN MONTALVO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "TABACUNDO",
+    "subcircuito": "TABACUNDO 1",
+    "id": "SARAHI-PIZZERIA-Z2-P-C-T",
+    "nombre_punto": "SARAHI PIZZERIA"
   }
 ]
