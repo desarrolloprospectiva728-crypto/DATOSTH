@@ -20833,5 +20833,32 @@
     "subcircuito": "CHONGON 1",
     "id": "DESPENSA-ADRIAN-Z8-D-C-C",
     "nombre_punto": "Despensa Adrian"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "CHONGON",
+    "subcircuito": "CHONGON 1",
+    "id": "FARMACIAS-KEYLA-Z8-D-C-C",
+    "nombre_punto": "Farmacias Keyla"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "CHONGON",
+    "subcircuito": "CHONGON 1",
+    "id": "DESPENSA-MAXI-AHORRO-Z8-D-C-C",
+    "nombre_punto": "Despensa Maxi Ahorro"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "CHONGON",
+    "subcircuito": "CHONGON 1",
+    "id": "POLLO-DORADO-GITANO-JR-Z8-D-C-C",
+    "nombre_punto": "Pollo Dorado Gitano Jr"
   }
 ]
