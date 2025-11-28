@@ -3841,5 +3841,14 @@
     "subcircuito": "LOS BANCOS 1",
     "id": "VARIEDADES-KINBERLIN-Z2-P-N-L",
     "nombre_punto": "Variedades kinberlin"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "MACHACHI SUR",
+    "subcircuito": "MACHACHI SUR 1",
+    "id": "POLLOS-DE-LA-TRI-Z2-P-R-M",
+    "nombre_punto": "POLLOS DE LA TRI"
   }
 ]
