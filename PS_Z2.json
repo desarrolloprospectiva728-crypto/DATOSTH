@@ -3823,5 +3823,14 @@
     "subcircuito": "PUERTO QUITO NORTE 1",
     "id": "MIS-TERREMOTOS-MINIMARKET-Z2-P-N-P",
     "nombre_punto": "Mis terremotos Minimarket"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "LOS BANCOS",
+    "subcircuito": "LOS BANCOS 1",
+    "id": "ASADERO-LAS-BRAZAS-Z2-P-N-L",
+    "nombre_punto": "Asadero las brazas"
   }
 ]
