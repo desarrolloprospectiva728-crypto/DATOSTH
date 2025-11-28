@@ -3805,5 +3805,14 @@
     "subcircuito": "CAYAMBE SUR 1",
     "id": "FARMACIA-RAMIREZ-Z2-P-C-C",
     "nombre_punto": "FARMACIA RAMIREZ"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
+    "id": "SUPER-CARNES-Z2-P-C-C",
+    "nombre_punto": "Super Carnes"
   }
 ]
