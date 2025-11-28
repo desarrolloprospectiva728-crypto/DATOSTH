@@ -20932,5 +20932,32 @@
     "subcircuito": "PUERTO HONDO 1",
     "id": "ME.-MANABA-Z8-D-C-P",
     "nombre_punto": "Me. Manaba"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "PUERTO HONDO",
+    "subcircuito": "PUERTO HONDO 1",
+    "id": "ALADDIN-SHAWARMA-Z8-D-C-P",
+    "nombre_punto": "Aladdin Shawarma"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "PUERTO HONDO",
+    "subcircuito": "PUERTO HONDO 1",
+    "id": "SERVIENTREGA-Z8-D-C-P",
+    "nombre_punto": "Servientrega"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "PUERTO HONDO",
+    "subcircuito": "PUERTO HONDO 1",
+    "id": "COSTA-GRILL-Z8-D-C-P",
+    "nombre_punto": "Costa Grill"
   }
 ]
