@@ -8890,5 +8890,14 @@
     "subcircuito": "NARANJITO ESTE 1",
     "id": "FERRETERIA-LITUMA-Z5-G-N-N",
     "nombre_punto": "FERRETERIA LITUMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "NARANJITO ESTE",
+    "subcircuito": "NARANJITO ESTE 1",
+    "id": "FARMACIA-GREGORIO-Z5-G-N-N",
+    "nombre_punto": "Farmacia gregorio"
   }
 ]
