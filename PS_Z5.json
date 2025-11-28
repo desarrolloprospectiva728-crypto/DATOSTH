@@ -8836,5 +8836,14 @@
     "subcircuito": "MAR NEGRO 1",
     "id": "HELPS-MARKET-Z5-G-M-M",
     "nombre_punto": "Helps market"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "MILAGRO",
+    "circuito": "APOLO",
+    "subcircuito": "APOLO 1",
+    "id": "FARMACIA-REY-DE-LA-SALUD-Z5-G-M-A",
+    "nombre_punto": "Farmacia rey de la salud"
   }
 ]
