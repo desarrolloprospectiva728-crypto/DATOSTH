@@ -2392,5 +2392,14 @@
     "subcircuito": "NABON 1",
     "id": "LA-PLAZA-RESTAURANT-Z6-A-N-N",
     "nombre_punto": "LA PLAZA RESTAURANT"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CARMEN DE PIJILI",
+    "subcircuito": "CARMEN DE PIJILI 1",
+    "id": "CANCHAS-DE-USO-MULTIPLE-Z6-A-P-C",
+    "nombre_punto": "CANCHAS DE USO MULTIPLE"
   }
 ]
