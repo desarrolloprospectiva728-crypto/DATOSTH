@@ -3697,5 +3697,14 @@
     "subcircuito": "SAN ANTONIO 1",
     "id": "PLAZA-PACHANO-Z3-T-A-S",
     "nombre_punto": "Plaza Pachano"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "SALCEDO",
+    "circuito": "SALCEDO",
+    "subcircuito": "SALCEDO 2",
+    "id": "FARMACIAS-FARMAREDS-Z3-C-S-S",
+    "nombre_punto": "FARMACIAS FARMAREDS"
   }
 ]
