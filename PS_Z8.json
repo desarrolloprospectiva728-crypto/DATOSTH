@@ -20905,5 +20905,32 @@
     "subcircuito": "CHONGON 1",
     "id": "TIENDA-MARÍA-LUISA-Z8-D-C-C",
     "nombre_punto": "Tienda María Luisa"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "NUEVA PROSPERINA",
+    "circuito": "NUEVO GUAYAQUIL",
+    "subcircuito": "NUEVO GUAYAQUIL 2",
+    "id": "PANADERÍA-Z8-D-N-N",
+    "nombre_punto": "Panadería"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "PUERTO HONDO",
+    "subcircuito": "PUERTO HONDO 1",
+    "id": "PAÑALERA-D'BEBES-Z8-D-C-P",
+    "nombre_punto": "Pañalera D'bebes"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "PUERTO HONDO",
+    "subcircuito": "PUERTO HONDO 1",
+    "id": "ME.-MANABA-Z8-D-C-P",
+    "nombre_punto": "Me. Manaba"
   }
 ]
