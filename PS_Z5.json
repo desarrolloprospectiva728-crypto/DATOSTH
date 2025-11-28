@@ -8899,5 +8899,14 @@
     "subcircuito": "NARANJITO ESTE 1",
     "id": "FARMACIA-GREGORIO-Z5-G-N-N",
     "nombre_punto": "Farmacia gregorio"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 2",
+    "id": "GASOLINERA-TERPEL-Z5-L-P-S",
+    "nombre_punto": "GASOLINERA TERPEL"
   }
 ]
