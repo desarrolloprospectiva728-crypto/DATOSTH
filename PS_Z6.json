@@ -2401,5 +2401,14 @@
     "subcircuito": "CARMEN DE PIJILI 1",
     "id": "CANCHAS-DE-USO-MULTIPLE-Z6-A-P-C",
     "nombre_punto": "CANCHAS DE USO MULTIPLE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR - MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "MERCADO-CENTRAL-Z6-M-S-G",
+    "nombre_punto": "Mercado Central"
   }
 ]
