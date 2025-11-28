@@ -3751,5 +3751,14 @@
     "subcircuito": "CAYAMBE NORTE 2",
     "id": "GRUPO-ORO-Z2-P-C-C",
     "nombre_punto": "Grupo Oro"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 2",
+    "id": "LAARCOURIER-Z2-P-C-C",
+    "nombre_punto": "Laarcourier"
   }
 ]
