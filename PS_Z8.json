@@ -20797,5 +20797,23 @@
     "subcircuito": "PARAISO LA FLOR 1",
     "id": "ZONA 8-NUEVA PROSPERINA-PARAISO LA FLOR-TUTI-PARAISO LA FLOR 1",
     "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "NUEVA PROSPERINA",
+    "circuito": "PARAISO LA FLOR",
+    "subcircuito": "PARAISO LA FLOR 1",
+    "id": "TIA-PARAISO-DE-LA-FLOR-Z8-D-N-P",
+    "nombre_punto": "TIA PARAISO DE LA FLOR"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "NUEVA PROSPERINA",
+    "circuito": "PARAISO LA FLOR",
+    "subcircuito": "PARAISO LA FLOR 1",
+    "id": "TUTI-Z8-D-N-P",
+    "nombre_punto": "TUTI"
   }
 ]
