@@ -8818,5 +8818,14 @@
     "subcircuito": "SAN JUAN 1",
     "id": "GYM-ZEUS-Z5-L-P-S",
     "nombre_punto": "GYM ZEUS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "ENRIQUEZ GALLO",
+    "subcircuito": "ENRIQUEZ GALLO 1",
+    "id": "ALEX-TYRES-2-Z5-S-L-E",
+    "nombre_punto": "ALEX TYRES 2"
   }
 ]
