@@ -3760,5 +3760,14 @@
     "subcircuito": "CAYAMBE NORTE 2",
     "id": "LAARCOURIER-Z2-P-C-C",
     "nombre_punto": "Laarcourier"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 2",
+    "id": "COOPERATIVA-29-DE-JUNIO-Z2-P-C-C",
+    "nombre_punto": "Cooperativa 29 de junio"
   }
 ]
