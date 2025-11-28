@@ -6388,5 +6388,14 @@
     "subcircuito": "LA FABRIL 1",
     "id": "TIENDA-BICHICHE-DIAGONAL-AL-CEMENTERIO-LA-JACUATAS-Z4-M-M-L",
     "nombre_punto": "Tienda Bichiche diagonal al cementerio la jacuatas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "TIENDA-MONJE-Z4-M-M-L",
+    "nombre_punto": "Tienda Monje"
   }
 ]
