@@ -8827,5 +8827,14 @@
     "subcircuito": "ENRIQUEZ GALLO 1",
     "id": "ALEX-TYRES-2-Z5-S-L-E",
     "nombre_punto": "ALEX TYRES 2"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "MILAGRO",
+    "circuito": "MAR NEGRO",
+    "subcircuito": "MAR NEGRO 1",
+    "id": "HELPS-MARKET-Z5-G-M-M",
+    "nombre_punto": "Helps market"
   }
 ]
