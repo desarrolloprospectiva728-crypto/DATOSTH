@@ -3823,5 +3823,14 @@
     "subcircuito": "PUERTO QUITO NORTE 1",
     "id": "MIS-TERREMOTOS-MINIMARKET-Z2-P-N-P",
     "nombre_punto": "Mis terremotos Minimarket"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 1",
+    "id": "MINIMARKET-MIS-TERREMOTOS-Z2-P-N-P",
+    "nombre_punto": "MINIMARKET MIS TERREMOTOS"
   }
 ]
