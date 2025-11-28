@@ -3787,5 +3787,23 @@
     "subcircuito": "CAYAMBE SUR 1",
     "id": "FARMACIA-MODELO-Z2-P-C-C",
     "nombre_punto": "FARMACIA MODELO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
+    "id": "LA-DELICIA-Z2-P-C-C",
+    "nombre_punto": "LA DELICIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "CAYAMBE",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
+    "id": "FARMACIA-RAMIREZ-Z2-P-C-C",
+    "nombre_punto": "FARMACIA RAMIREZ"
   }
 ]
