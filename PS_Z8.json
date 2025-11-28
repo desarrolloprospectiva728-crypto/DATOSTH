@@ -20887,5 +20887,23 @@
     "subcircuito": "CHONGON 1",
     "id": "SUPERMERCADO-LA-COSECHA-Z8-D-C-C",
     "nombre_punto": "Supermercado La Cosecha"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "CHONGON",
+    "subcircuito": "CHONGON 1",
+    "id": "PICANTERIA-EL-COLORADO-Z8-D-C-C",
+    "nombre_punto": "Picanteria El Colorado"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "CHONGON",
+    "subcircuito": "CHONGON 1",
+    "id": "TIENDA-MARÍA-LUISA-Z8-D-C-C",
+    "nombre_punto": "Tienda María Luisa"
   }
 ]
