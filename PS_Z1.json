@@ -3175,5 +3175,14 @@
     "subcircuito": "TONCHIGUE 1",
     "id": "FERRETERÍA-TONCHIGUE-Z1-E-A-T",
     "nombre_punto": "FERRETERÍA TONCHIGUE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 3",
+    "id": "FERRETERÍA-EL-PRIMÓ-Z1-E-E-L",
+    "nombre_punto": "FERRETERÍA EL PRIMÓ"
   }
 ]
