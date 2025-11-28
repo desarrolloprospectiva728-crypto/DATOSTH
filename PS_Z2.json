@@ -3769,5 +3769,14 @@
     "subcircuito": "CAYAMBE NORTE 2",
     "id": "COOPERATIVA-29-DE-JUNIO-Z2-P-C-C",
     "nombre_punto": "Cooperativa 29 de junio"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "PUERTO QUITO SUR",
+    "subcircuito": "PUERTO QUITO SUR 2",
+    "id": "MINIMARKET-MIS-TERREMOTOS-Z2-P-N-P",
+    "nombre_punto": "Minimarket Mis Terremotos"
   }
 ]
