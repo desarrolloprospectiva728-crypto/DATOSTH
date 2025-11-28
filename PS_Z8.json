@@ -20959,5 +20959,23 @@
     "subcircuito": "PUERTO HONDO 1",
     "id": "COSTA-GRILL-Z8-D-C-P",
     "nombre_punto": "Costa Grill"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "PUERTO HONDO",
+    "subcircuito": "PUERTO HONDO 1",
+    "id": "MUNDO-CANGREJO-Z8-D-C-P",
+    "nombre_punto": "Mundo Cangrejo"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "PUERTO HONDO",
+    "subcircuito": "PUERTO HONDO 1",
+    "id": "ADRIANA-PASTELERÍA-Y-PANADERÍA-Z8-D-C-P",
+    "nombre_punto": "Adriana Pastelería y Panadería"
   }
 ]
