@@ -8944,5 +8944,14 @@
     "subcircuito": "PUERTO PECHICHE 1",
     "id": "EMPRESA-DR.-AGRO-Z5-L-P-P",
     "nombre_punto": "EMPRESA DR. AGRO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "HACIENDA-SAN-MATEO-Z5-L-B-C",
+    "nombre_punto": "HACIENDA SAN MATEO"
   }
 ]
