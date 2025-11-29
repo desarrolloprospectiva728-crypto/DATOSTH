@@ -8926,5 +8926,14 @@
     "subcircuito": "CHIMBO 1",
     "id": "CEMENTERIO-SNA-JOSE-DE-CHIMBO-Z5-B-S-C",
     "nombre_punto": "CEMENTERIO SNA JOSE DE CHIMBO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SAN MIGUEL",
+    "circuito": "CHIMBO",
+    "subcircuito": "CHIMBO 1",
+    "id": "PLAZA-MONUMENTAL-DE-TOROS-SEÑOR-DE-LA-DIVINA-JUSTICIA-Z5-B-S-C",
+    "nombre_punto": "PLAZA MONUMENTAL DE TOROS SEÑOR DE LA DIVINA JUSTICIA"
   }
 ]
