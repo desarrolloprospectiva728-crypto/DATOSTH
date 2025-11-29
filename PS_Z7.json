@@ -3508,5 +3508,14 @@
     "subcircuito": "ZARUMA 1",
     "id": "PARQUE-URBANIZACIÓN-SUR-Z7-E-Z-Z",
     "nombre_punto": "Parque URBANIZACIÓN SUR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "LAS PRADERAS",
+    "subcircuito": "LAS PRADERAS 1",
+    "id": "PUNTO-SEGURO-PRIMERO-DE-NOVIEMBRE-Z7-E-P-L",
+    "nombre_punto": "Punto seguro primero de noviembre"
   }
 ]
