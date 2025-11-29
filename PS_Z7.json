@@ -3517,5 +3517,14 @@
     "subcircuito": "LAS PRADERAS 1",
     "id": "PUNTO-SEGURO-PRIMERO-DE-NOVIEMBRE-Z7-E-P-L",
     "nombre_punto": "Punto seguro primero de noviembre"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "ARENILLAS",
+    "subcircuito": "ARENILLAS 1",
+    "id": "PAPITAS-DE-LA-MADRINA-Z7-E-H-A",
+    "nombre_punto": "Papitas de la Madrina"
   }
 ]
