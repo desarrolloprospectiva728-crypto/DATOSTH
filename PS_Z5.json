@@ -8917,5 +8917,14 @@
     "subcircuito": "SAN PABLO 1",
     "id": "FERRIPATRICIO-Z5-B-S-S",
     "nombre_punto": "FERRIPATRICIO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SAN MIGUEL",
+    "circuito": "CHIMBO",
+    "subcircuito": "CHIMBO 1",
+    "id": "CEMENTERIO-SNA-JOSE-DE-CHIMBO-Z5-B-S-C",
+    "nombre_punto": "CEMENTERIO SNA JOSE DE CHIMBO"
   }
 ]
