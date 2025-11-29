@@ -21031,5 +21031,14 @@
     "subcircuito": "LOS CEIBOS 3",
     "id": "MINI-MARKET-Z8-D-C-L",
     "nombre_punto": "MINI MARKET"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "CHONGON",
+    "subcircuito": "CHONGON 1",
+    "id": "ASADERO-DE-CARLITOS-VIA-PRINCIPAL-INGRESO-CHONGON-Z8-D-C-C",
+    "nombre_punto": "ASADERO DE CARLITOS VIA PRINCIPAL INGRESO CHONGON"
   }
 ]
