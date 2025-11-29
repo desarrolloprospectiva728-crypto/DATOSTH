@@ -8971,5 +8971,14 @@
     "subcircuito": "JUJAN OESTE 2",
     "id": "TIA-JUJAN-SUVURSAL-533-Z5-G-J-J",
     "nombre_punto": "TIA JUJAN SUVURSAL 533"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "JUJAN SIMON BOLIVAR",
+    "circuito": "JUJAN OESTE",
+    "subcircuito": "JUJAN OESTE 2",
+    "id": "GASOLINERA-PRIMAX-Z5-G-J-J",
+    "nombre_punto": "Gasolinera Primax"
   }
 ]
