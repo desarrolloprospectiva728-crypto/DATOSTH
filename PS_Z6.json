@@ -2419,5 +2419,14 @@
     "subcircuito": "SANTIAGO DE MENDEZ 1",
     "id": "PARADA-DE-LA-COOPERATIVA-ORIENT-RUT-Z6-M-M-S",
     "nombre_punto": "PARADA DE LA COOPERATIVA ORIENT RUT"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR - MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "MERCADO-CENTRAL-Z6-M-S-G",
+    "nombre_punto": "Mercado Central"
   }
 ]
