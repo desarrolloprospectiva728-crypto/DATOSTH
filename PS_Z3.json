@@ -3706,5 +3706,14 @@
     "subcircuito": "SALCEDO 2",
     "id": "FARMACIAS-FARMAREDS-Z3-C-S-S",
     "nombre_punto": "FARMACIAS FARMAREDS"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "SAN ANTONIO",
+    "subcircuito": "SAN ANTONIO 1",
+    "id": "ESTADIO-BELLAVISTA-Z3-T-A-S",
+    "nombre_punto": "ESTADIO BELLAVISTA"
   }
 ]
