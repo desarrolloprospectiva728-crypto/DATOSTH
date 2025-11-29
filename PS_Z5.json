@@ -8908,5 +8908,14 @@
     "subcircuito": "SAN JUAN 2",
     "id": "GASOLINERA-TERPEL-Z5-L-P-S",
     "nombre_punto": "GASOLINERA TERPEL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SAN MIGUEL",
+    "circuito": "SAN PABLO",
+    "subcircuito": "SAN PABLO 1",
+    "id": "FERRIPATRICIO-Z5-B-S-S",
+    "nombre_punto": "FERRIPATRICIO"
   }
 ]
