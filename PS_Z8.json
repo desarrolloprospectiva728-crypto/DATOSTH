@@ -21013,5 +21013,23 @@
     "subcircuito": "LOS CEIBOS 3",
     "id": "MC-DONALDS-Z8-D-C-L",
     "nombre_punto": "MC DONALDS"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "2025-10-09T05:00:00.000Z",
+    "circuito": "VICTORIA",
+    "subcircuito": "VICTORIA 1",
+    "id": "DISTRIBUIDORA-VIÑA-DEL-MAR-Z8-D-9-V",
+    "nombre_punto": "DISTRIBUIDORA VIÑA DEL MAR"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "LOS CEIBOS",
+    "subcircuito": "LOS CEIBOS 3",
+    "id": "MINI-MARKET-Z8-D-C-L",
+    "nombre_punto": "MINI MARKET"
   }
 ]
