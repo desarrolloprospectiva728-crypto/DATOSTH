@@ -21004,5 +21004,14 @@
     "subcircuito": "PUERTO HONDO 1",
     "id": "SMASH-Z8-D-C-P",
     "nombre_punto": "Smash"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "LOS CEIBOS",
+    "subcircuito": "LOS CEIBOS 3",
+    "id": "MC-DONALDS-Z8-D-C-L",
+    "nombre_punto": "MC DONALDS"
   }
 ]
