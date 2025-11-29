@@ -8953,5 +8953,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "HACIENDA-SAN-MATEO-Z5-L-B-C",
     "nombre_punto": "HACIENDA SAN MATEO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "ECHEANDIA",
+    "subcircuito": "ECHEANDIA 1",
+    "id": "MIRADOR-ALTO-Z5-B-S-E",
+    "nombre_punto": "MIRADOR ALTO"
   }
 ]
