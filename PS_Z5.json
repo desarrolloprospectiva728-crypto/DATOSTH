@@ -8962,5 +8962,14 @@
     "subcircuito": "ECHEANDIA 1",
     "id": "MIRADOR-ALTO-Z5-B-S-E",
     "nombre_punto": "MIRADOR ALTO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "JUJAN SIMON BOLIVAR",
+    "circuito": "JUJAN OESTE",
+    "subcircuito": "JUJAN OESTE 2",
+    "id": "TIA-JUJAN-SUVURSAL-533-Z5-G-J-J",
+    "nombre_punto": "TIA JUJAN SUVURSAL 533"
   }
 ]
