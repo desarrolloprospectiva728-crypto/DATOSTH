@@ -3184,5 +3184,23 @@
     "subcircuito": "LIMONES 3",
     "id": "FERRETERÍA-EL-PRIMÓ-Z1-E-E-L",
     "nombre_punto": "FERRETERÍA EL PRIMÓ"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "QUININDE",
+    "subcircuito": "QUININDE 1",
+    "id": "0805213907-Z1-E-Q-Q",
+    "nombre_punto": 805213907
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "GASOLINERA-P&S-Z1-E-Q-L",
+    "nombre_punto": "Gasolinera P&S"
   }
 ]
