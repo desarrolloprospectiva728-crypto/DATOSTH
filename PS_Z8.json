@@ -21040,5 +21040,14 @@
     "subcircuito": "CHONGON 1",
     "id": "ASADERO-DE-CARLITOS-VIA-PRINCIPAL-INGRESO-CHONGON-Z8-D-C-C",
     "nombre_punto": "ASADERO DE CARLITOS VIA PRINCIPAL INGRESO CHONGON"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "NUEVA PROSPERINA",
+    "circuito": "MONTE SINAI",
+    "subcircuito": "MONTE SINAI 1",
+    "id": "TUTI-JUNTO-A-LA-GASOLINERA-VALLE-ITALIANO-Z8-D-N-M",
+    "nombre_punto": "TUTI JUNTO A LA GASOLINERA VALLE ITALIANO"
   }
 ]
