@@ -2419,5 +2419,14 @@
     "subcircuito": "SANTIAGO DE MENDEZ 1",
     "id": "PARADA-DE-LA-COOPERATIVA-ORIENT-RUT-Z6-M-M-S",
     "nombre_punto": "PARADA DE LA COOPERATIVA ORIENT RUT"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "LAS NIEVES",
+    "subcircuito": "LAS NIEVES 1",
+    "id": "FARMACIA-REINA-DE-LA-PAZ-Z6-A-N-L",
+    "nombre_punto": "FARMACIA REINA DE LA PAZ"
   }
 ]
