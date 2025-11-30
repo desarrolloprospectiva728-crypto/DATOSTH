@@ -8980,5 +8980,14 @@
     "subcircuito": "JUJAN OESTE 2",
     "id": "GASOLINERA-PRIMAX-Z5-G-J-J",
     "nombre_punto": "Gasolinera Primax"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 2",
+    "id": "TIENDA-NUEVO-AMANECER-Z5-L-Q-G",
+    "nombre_punto": "TIENDA NUEVO AMANECER"
   }
 ]
