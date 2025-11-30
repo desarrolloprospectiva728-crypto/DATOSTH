@@ -8989,5 +8989,14 @@
     "subcircuito": "GALO PLAZA 2",
     "id": "TIENDA-NUEVO-AMANECER-Z5-L-Q-G",
     "nombre_punto": "TIENDA NUEVO AMANECER"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "VERNAZA",
+    "subcircuito": "VERNAZA 1",
+    "id": "MULTI-RECARGA-MI-SUB-Z5-G-S-V",
+    "nombre_punto": "MULTI RECARGA MI SUB"
   }
 ]
