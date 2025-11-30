@@ -21049,5 +21049,14 @@
     "subcircuito": "MONTE SINAI 1",
     "id": "TUTI-JUNTO-A-LA-GASOLINERA-VALLE-ITALIANO-Z8-D-N-M",
     "nombre_punto": "TUTI JUNTO A LA GASOLINERA VALLE ITALIANO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "CEIBOS",
+    "circuito": "LOS CEIBOS",
+    "subcircuito": "LOS CEIBOS 1",
+    "id": "TIA-GOD-Z8-D-C-L",
+    "nombre_punto": "TIA GOD"
   }
 ]
