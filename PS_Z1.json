@@ -3202,5 +3202,14 @@
     "subcircuito": "LA UNION 1",
     "id": "GASOLINERA-P&S-Z1-E-Q-L",
     "nombre_punto": "Gasolinera P&S"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA INDEPENDENCIA",
+    "subcircuito": "LA INDEPENDENCIA 1",
+    "id": "ICE-CREAM-€-BURGER-Z1-E-Q-L",
+    "nombre_punto": "ICE CREAM € BURGER"
   }
 ]
