@@ -9043,5 +9043,14 @@
     "subcircuito": "BALZAR OESTE 1",
     "id": "JEFATURA-POLÍTICA-Z5-G-B-B",
     "nombre_punto": "Jefatura política"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "INTERNET-AMG-Z5-L-V-V",
+    "nombre_punto": "INTERNET AMG"
   }
 ]
