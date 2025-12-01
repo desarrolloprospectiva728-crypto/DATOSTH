@@ -9025,5 +9025,14 @@
     "subcircuito": "LA RESERVA 1",
     "id": "PANADERÍA-LA-FAVORITA-Z5-L-B-L",
     "nombre_punto": "PANADERÍA LA FAVORITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA RESERVA",
+    "subcircuito": "LA RESERVA 1",
+    "id": "FRUTERIA-PAISA-Z5-L-B-L",
+    "nombre_punto": "FRUTERIA PAISA"
   }
 ]
