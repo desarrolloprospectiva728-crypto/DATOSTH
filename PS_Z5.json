@@ -9052,5 +9052,14 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "INTERNET-AMG-Z5-L-V-V",
     "nombre_punto": "INTERNET AMG"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "MARCELINO MARIDUEÑA",
+    "subcircuito": "MARCELINO MARIDUEÑA 2",
+    "id": "GASOLINERA-TERPEL.-Z5-G-N-M",
+    "nombre_punto": "Gasolinera Terpel."
   }
 ]
