@@ -9034,5 +9034,14 @@
     "subcircuito": "LA RESERVA 1",
     "id": "FRUTERIA-PAISA-Z5-L-B-L",
     "nombre_punto": "FRUTERIA PAISA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR OESTE",
+    "subcircuito": "BALZAR OESTE 1",
+    "id": "JEFATURA-POLÍTICA-Z5-G-B-B",
+    "nombre_punto": "Jefatura política"
   }
 ]
