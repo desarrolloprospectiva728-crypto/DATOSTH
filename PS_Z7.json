@@ -3553,5 +3553,14 @@
     "subcircuito": "LA TINGUE 1",
     "id": "LETRAS-LA-TINGUE-Z7-L-C-L",
     "nombre_punto": "Letras La Tingue"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "BUENAVISTA",
+    "subcircuito": "BUENAVISTA 1",
+    "id": "PARQUE-CENTRAL-BUENAVISTA-Z7-L-C-B",
+    "nombre_punto": "PARQUE CENTRAL BUENAVISTA"
   }
 ]
