@@ -8998,5 +8998,32 @@
     "subcircuito": "VERNAZA 1",
     "id": "MULTI-RECARGA-MI-SUB-Z5-G-S-V",
     "nombre_punto": "MULTI RECARGA MI SUB"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA RESERVA",
+    "subcircuito": "LA RESERVA 1",
+    "id": "RESTAURANTE-ANDRES-Z5-L-B-L",
+    "nombre_punto": "RESTAURANTE ANDRES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA RESERVA",
+    "subcircuito": "LA RESERVA 1",
+    "id": "FRIGORÍFICO-3-HERMANOS-Z5-L-B-L",
+    "nombre_punto": "FRIGORÍFICO 3 HERMANOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA RESERVA",
+    "subcircuito": "LA RESERVA 1",
+    "id": "PANADERÍA-LA-FAVORITA-Z5-L-B-L",
+    "nombre_punto": "PANADERÍA LA FAVORITA"
   }
 ]
