@@ -2473,5 +2473,14 @@
     "subcircuito": "TRONCAL NORTE 1",
     "id": "TIENDA-INDUSTRIALES-ASOCIADAS-TIA-SA-Z6-C-L-T",
     "nombre_punto": "TIENDA INDUSTRIALES ASOCIADAS TIA SA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL CENTRO",
+    "subcircuito": "TRONCAL CENTRO 2",
+    "id": "SUPERMERCADO-FAMA-Z6-C-L-T",
+    "nombre_punto": "SUPERMERCADO FAMA"
   }
 ]
