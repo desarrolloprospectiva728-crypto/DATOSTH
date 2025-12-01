@@ -3544,5 +3544,14 @@
     "subcircuito": "OLMEDO 1",
     "id": "URNA-REINA-DEL-CISNE-Z7-L-C-O",
     "nombre_punto": "Urna Reina del Cisne"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "LA TINGUE",
+    "subcircuito": "LA TINGUE 1",
+    "id": "LETRAS-LA-TINGUE-Z7-L-C-L",
+    "nombre_punto": "Letras La Tingue"
   }
 ]
