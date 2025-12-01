@@ -9070,5 +9070,14 @@
     "subcircuito": "MARCELINO MARIDUEÑA 2",
     "id": "PLAZA-GASTRONÓMICA-LOCAL-14-Z5-G-N-M",
     "nombre_punto": "PLAZA GASTRONÓMICA LOCAL 14"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "NARANJITO CENTRO",
+    "subcircuito": "NARANJITO CENTRO 1",
+    "id": "MEDALLON-DE-ORO.-Z5-G-N-N",
+    "nombre_punto": "MEDALLON DE ORO."
   }
 ]
