@@ -2428,5 +2428,14 @@
     "subcircuito": "LAS NIEVES 1",
     "id": "FARMACIA-REINA-DE-LA-PAZ-Z6-A-N-L",
     "nombre_punto": "FARMACIA REINA DE LA PAZ"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "IMPORTADORA-TOMEBAMBA-Z6-C-L-T",
+    "nombre_punto": "IMPORTADORA TOMEBAMBA"
   }
 ]
