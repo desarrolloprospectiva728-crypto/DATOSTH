@@ -2437,5 +2437,23 @@
     "subcircuito": "TRONCAL NORTE 1",
     "id": "IMPORTADORA-TOMEBAMBA-Z6-C-L-T",
     "nombre_punto": "IMPORTADORA TOMEBAMBA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "ALMACENES-JUANJOL-Z6-C-L-T",
+    "nombre_punto": "ALMACENES JUANJOL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "ALMACENES-JUANJOL-Z6-C-L-T",
+    "nombre_punto": "ALMACENES JUANJOL"
   }
 ]
