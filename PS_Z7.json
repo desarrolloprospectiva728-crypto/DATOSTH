@@ -3535,5 +3535,14 @@
     "subcircuito": "EL VALLE 1",
     "id": "PLAZA-DEL-VALLE-Z7-L-L-E",
     "nombre_punto": "Plaza del Valle"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "URNA-REINA-DEL-CISNE-Z7-L-C-O",
+    "nombre_punto": "Urna Reina del Cisne"
   }
 ]
