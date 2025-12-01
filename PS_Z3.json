@@ -3715,5 +3715,14 @@
     "subcircuito": "SAN ANTONIO 1",
     "id": "ESTADIO-BELLAVISTA-Z3-T-A-S",
     "nombre_punto": "ESTADIO BELLAVISTA"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "INGAURCO",
+    "subcircuito": "INGAURCO 1",
+    "id": "UNIVERSIDAD-TÉCNICA-DE-AMBATO-Z3-T-A-I",
+    "nombre_punto": "Universidad Técnica de Ambato"
   }
 ]
