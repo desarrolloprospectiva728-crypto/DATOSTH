@@ -3859,5 +3859,14 @@
     "subcircuito": "MACHACHI SUR 1",
     "id": "FARMACIA-SANA-SANA-Z2-P-R-M",
     "nombre_punto": "FARMACIA SANA SANA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "CUTUGLAGUA",
+    "subcircuito": "CUTUGLAGUA 1",
+    "id": "VIVERES-NATHALY-Z2-P-R-C",
+    "nombre_punto": "VIVERES NATHALY"
   }
 ]
