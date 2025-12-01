@@ -2482,5 +2482,14 @@
     "subcircuito": "TRONCAL CENTRO 2",
     "id": "SUPERMERCADO-FAMA-Z6-C-L-T",
     "nombre_punto": "SUPERMERCADO FAMA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL CENTRO",
+    "subcircuito": "TRONCAL CENTRO 2",
+    "id": "CINCUENTAZO-ALI-Z6-C-L-T",
+    "nombre_punto": "CINCUENTAZO ALI"
   }
 ]
