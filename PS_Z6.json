@@ -2453,15 +2453,6 @@
     "distrito": "LA TRONCAL",
     "circuito": "TRONCAL NORTE",
     "subcircuito": "TRONCAL NORTE 1",
-    "id": "ALMACENES-JUANJOL-Z6-C-L-T",
-    "nombre_punto": "ALMACENES JUANJOL"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "CAÑAR",
-    "distrito": "LA TRONCAL",
-    "circuito": "TRONCAL NORTE",
-    "subcircuito": "TRONCAL NORTE 1",
     "id": "PICANTERIA-QUI-ESTA-EL-ÑAÑITO-Z6-C-L-T",
     "nombre_punto": "PICANTERIA QUI ESTA EL ÑAÑITO"
   },
