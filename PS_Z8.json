@@ -21292,5 +21292,59 @@
     "subcircuito": "CENTENARIO 3",
     "id": "FARMACIA-FYBECA-Z8-D-S-C",
     "nombre_punto": "FARMACIA FYBECA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 3",
+    "id": "FARMACIA-ECONOMICA-Z8-D-S-C",
+    "nombre_punto": "FARMACIA ECONOMICA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 3",
+    "id": "FARMACIA-SANA-SANA-Z8-D-S-C",
+    "nombre_punto": "FARMACIA SANA SANA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "DISTRIBUIDORA-FARMACEUTICA-(MARTIN-AVILES-Y-ABDON-CALDERON)-Z8-D-S-U",
+    "nombre_punto": "DISTRIBUIDORA FARMACEUTICA (MARTIN AVILES Y ABDON CALDERON)"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 3",
+    "id": "MARISQUERIA-EL-SABOR-DE-LA-ISLA-Z8-D-S-C",
+    "nombre_punto": "MARISQUERIA EL SABOR DE LA ISLA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 1",
+    "id": "LAVANDERIA-MARTHITA-(MONS-ROGERIO)-Z8-D-S-U",
+    "nombre_punto": "LAVANDERIA MARTHITA (MONS ROGERIO)"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 3",
+    "id": "FARMACIA-FYBECA-Z8-D-S-C",
+    "nombre_punto": "FARMACIA FYBECA"
   }
 ]
