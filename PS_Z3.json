@@ -3733,5 +3733,14 @@
     "subcircuito": "LA ESPERANZA 1",
     "id": "CASCADA-DEL-MILAGRO-Z3-C-D-L",
     "nombre_punto": "CASCADA DEL MILAGRO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "PISHIDATA",
+    "subcircuito": "PISHIDATA 1",
+    "id": "PARQUE-DE-SAN-PEDRO-Z3-T-A-P",
+    "nombre_punto": "Parque de San Pedro"
   }
 ]
