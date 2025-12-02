@@ -9142,5 +9142,14 @@
     "subcircuito": "QUINSALOMA 1",
     "id": "COMERCIAL-NUÑEZ-Z5-L-V-Q",
     "nombre_punto": "COMERCIAL NUÑEZ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUERTO PECHICHE",
+    "subcircuito": "PUERTO PECHICHE 1",
+    "id": "FERRÉ-BUSTAMANTE-Z5-L-P-P",
+    "nombre_punto": "Ferré Bustamante"
   }
 ]
