@@ -3886,5 +3886,14 @@
     "subcircuito": "RURAL 1",
     "id": "COMERCIAL-CUJI-2-Z2-P-R-R",
     "nombre_punto": "COMERCIAL CUJI 2"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "PASOCHOA",
+    "subcircuito": "PASOCHOA 1",
+    "id": "FLAMINGO-Z2-P-R-P",
+    "nombre_punto": "FLAMINGO"
   }
 ]
