@@ -21094,5 +21094,50 @@
     "subcircuito": "FLORESTA 2",
     "id": "FARMACIA-CRUZ-AZUL-Z8-D-S-F",
     "nombre_punto": "Farmacia Cruz Azul"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "FARMACIA-BOLIVAR-Z8-D-S-F",
+    "nombre_punto": "Farmacia Bolivar"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "DESPENSA-REINA-DEL-CISNE-Z8-D-S-F",
+    "nombre_punto": "DESPENSA reina del cisne"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 2",
+    "id": "TODO-X-50-Z8-D-S-U",
+    "nombre_punto": "TODO X 50"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "REPUESTOS-AUTOMOTRICES-ARESUR-Z8-D-S-F",
+    "nombre_punto": "Repuestos Automotrices ARESUR"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "VETERINARIA-LAS-ESCLUSAS-Z8-D-S-F",
+    "nombre_punto": "Veterinaria las esclusas"
   }
 ]
