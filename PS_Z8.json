@@ -21211,5 +21211,23 @@
     "subcircuito": "GUASMO 4",
     "id": "TUTI.-STELA-MARIS-Z8-D-S-G",
     "nombre_punto": "Tuti. Stela Maris"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "GUASMO",
+    "subcircuito": "GUASMO 4",
+    "id": "SU-FARMACIAS-STELA-MARIS-1-Z8-D-S-G",
+    "nombre_punto": "Su Farmacias Stela Maris 1"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 1",
+    "id": "BOUTIQUE-LOVELY-Z8-D-S-C",
+    "nombre_punto": "Boutique lovely"
   }
 ]
