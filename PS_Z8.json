@@ -21166,5 +21166,32 @@
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "FARMACIA-KEYLA-AV-RAÚL-CLEMENTE-HUERTA-Z8-D-S-U",
     "nombre_punto": "Farmacia Keyla Av Raúl Clemente huerta"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "AVICOLA-FERNANDEZ-Z8-D-S-U",
+    "nombre_punto": "AVICOLA FERNANDEZ"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "JAHER-(PEDREGAL)-Z8-D-S-U",
+    "nombre_punto": "JAHER (PEDREGAL)"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "FRITANGUERIA-\"EL-BUEN-SABOR\"-(PEDREGAL)-Z8-D-S-U",
+    "nombre_punto": "FRITANGUERIA \"EL BUEN SABOR\" (PEDREGAL)"
   }
 ]
