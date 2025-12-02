@@ -21229,5 +21229,23 @@
     "subcircuito": "CENTENARIO 1",
     "id": "BOUTIQUE-LOVELY-Z8-D-S-C",
     "nombre_punto": "Boutique lovely"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 1",
+    "id": "ANDY-ZAMBRANO-Z8-D-S-C",
+    "nombre_punto": "PELUQUERIA ANDY ZAMBRANO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 1",
+    "id": "CABUTOS-MINIMARKET-Z8-D-S-C",
+    "nombre_punto": "CABUTOS MINIMARKET"
   }
 ]
