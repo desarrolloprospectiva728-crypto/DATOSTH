@@ -6406,5 +6406,14 @@
     "subcircuito": "SANTA ANA 1",
     "id": "LICORERIA.-LA-ELEGANTE-Z4-M-V-S",
     "nombre_punto": "LICORERIA.  LA ELEGANTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "PICHINCHA",
+    "subcircuito": "PICHINCHA 1",
+    "id": "VERUCHIS-COMEDOR-Z4-M-P-P",
+    "nombre_punto": "VERUCHIS COMEDOR"
   }
 ]
