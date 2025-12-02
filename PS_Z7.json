@@ -3580,5 +3580,14 @@
     "subcircuito": "ALAMOR 1",
     "id": "COOPMEGO-AGENCIA-ALAMOR-Z7-L-S-A",
     "nombre_punto": "COOPMEGO AGENCIA ALAMOR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SARAGURO",
+    "circuito": "SARAGURO",
+    "subcircuito": "SARAGURO 1",
+    "id": "SUCRE-Y-18-DE-NOVIEMBRE-Z7-L-S-S",
+    "nombre_punto": "Sucre y 18 de Noviembre"
   }
 ]
