@@ -3877,5 +3877,14 @@
     "subcircuito": "ILINIZAS 1",
     "id": "PAPELERIA-LUZ-MI-VIDA-Z2-P-R-I",
     "nombre_punto": "PAPELERIA LUZ MI VIDA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "RURAL",
+    "subcircuito": "RURAL 1",
+    "id": "COMERCIAL-CUJI-2-Z2-P-R-R",
+    "nombre_punto": "COMERCIAL CUJI 2"
   }
 ]
