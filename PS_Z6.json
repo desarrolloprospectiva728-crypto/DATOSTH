@@ -2500,5 +2500,14 @@
     "subcircuito": "GUALACEO SUR 1",
     "id": "0105954903-Z6-A-G-G",
     "nombre_punto": 105954903
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO SUR",
+    "subcircuito": "GUALACEO SUR 1",
+    "id": "FARMACIA-MONTE-SINAI-Z6-A-G-G",
+    "nombre_punto": "FARMACIA MONTE SINAI"
   }
 ]
