@@ -2509,5 +2509,14 @@
     "subcircuito": "GUALACEO SUR 1",
     "id": "FARMACIA-MONTE-SINAI-Z6-A-G-G",
     "nombre_punto": "FARMACIA MONTE SINAI"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "RIVAS-MOTORS-Z6-A-G-L",
+    "nombre_punto": "RIVAS MOTORS"
   }
 ]
