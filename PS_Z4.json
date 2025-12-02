@@ -6424,5 +6424,14 @@
     "subcircuito": "BAHIA 1",
     "id": "AV.-ESMERALDAS-Y-GARCIA-MORENO-MANGLE-2000-Z4-M-S-B",
     "nombre_punto": "AV. ESMERALDAS Y GARCIA MORENO MANGLE 2000"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "BARATOCELL-Z4-M-B-C",
+    "nombre_punto": "BARATOCELL"
   }
 ]
