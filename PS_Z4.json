@@ -6433,5 +6433,23 @@
     "subcircuito": "CALCETA CENTRO 1",
     "id": "BARATOCELL-Z4-M-B-C",
     "nombre_punto": "BARATOCELL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "JAMA",
+    "subcircuito": "JAMA 1",
+    "id": "MUNICIPIO-DEL-CANTÓN-JAMA-Z4-M-P-J",
+    "nombre_punto": "Municipio del Cantón Jama"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "JAMA",
+    "subcircuito": "JAMA 1",
+    "id": "EDIFICIO-ADMINISTRATIVO-GAD-JAMA-Z4-M-P-J",
+    "nombre_punto": "Edificio Administrativo  GAD  JAMA"
   }
 ]
