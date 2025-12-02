@@ -2527,5 +2527,14 @@
     "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
     "id": "CENTRO-DE-SALUD-PONCE-ENRIQUEZ-Z6-A-P-C",
     "nombre_punto": "CENTRO DE SALUD PONCE ENRIQUEZ"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "SUBCENTRO-DE-SALUD-PONCE-ENRIQUEZ-Z6-A-P-C",
+    "nombre_punto": "Subcentro de salud Ponce Enriquez"
   }
 ]
