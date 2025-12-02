@@ -9097,5 +9097,14 @@
     "subcircuito": "GUAYACAN 1",
     "id": "COOP-TAXIS-GRUPO-6-Z5-L-Q-G",
     "nombre_punto": "COOP EN TAXIS GRUPO 6"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 2",
+    "id": "PUNTO-SEGURO-FISCALÍA-PLAYAS-Z5-G-P-G",
+    "nombre_punto": "Punto seguro fiscalía playas"
   }
 ]
