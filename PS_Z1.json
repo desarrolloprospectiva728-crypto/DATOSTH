@@ -3211,5 +3211,14 @@
     "subcircuito": "LA INDEPENDENCIA 1",
     "id": "ICE-CREAM-€-BURGER-Z1-E-Q-L",
     "nombre_punto": "ICE CREAM € BURGER"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL NORTE",
+    "subcircuito": "SAN GABRIEL NORTE 1",
+    "id": "FISCALÍA-Z1-C-M-S",
+    "nombre_punto": "FISCALÍA"
   }
 ]
