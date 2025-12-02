@@ -6397,5 +6397,14 @@
     "subcircuito": "LEONIDAS PROAÑO 1",
     "id": "TIENDA-MONJE-Z4-M-M-L",
     "nombre_punto": "Tienda Monje"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "LICORERIA.-LA-ELEGANTE-Z4-M-V-S",
+    "nombre_punto": "LICORERIA.  LA ELEGANTE"
   }
 ]
