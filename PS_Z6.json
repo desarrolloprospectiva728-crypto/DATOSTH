@@ -2518,5 +2518,14 @@
     "subcircuito": "LA UNION 1",
     "id": "RIVAS-MOTORS-Z6-A-G-L",
     "nombre_punto": "RIVAS MOTORS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "CENTRO-DE-SALUD-PONCE-ENRIQUEZ-Z6-A-P-C",
+    "nombre_punto": "CENTRO DE SALUD PONCE ENRIQUEZ"
   }
 ]
