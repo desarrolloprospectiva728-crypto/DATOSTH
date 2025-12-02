@@ -6415,5 +6415,14 @@
     "subcircuito": "PICHINCHA 1",
     "id": "VERUCHIS-COMEDOR-Z4-M-P-P",
     "nombre_punto": "VERUCHIS COMEDOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 1",
+    "id": "AV.-ESMERALDAS-Y-GARCIA-MORENO-MANGLE-2000-Z4-M-S-B",
+    "nombre_punto": "AV. ESMERALDAS Y GARCIA MORENO MANGLE 2000"
   }
 ]
