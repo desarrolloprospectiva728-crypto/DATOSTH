@@ -3895,5 +3895,14 @@
     "subcircuito": "PASOCHOA 1",
     "id": "FLAMINGO-Z2-P-R-P",
     "nombre_punto": "FLAMINGO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "MACHACHI NORTE",
+    "subcircuito": "MACHACHI NORTE 2",
+    "id": "FUENTE-DE-LA-JUVENTUD-SPA-Z2-P-R-M",
+    "nombre_punto": "FUENTE DE LA JUVENTUD SPA"
   }
 ]
