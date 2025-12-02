@@ -9088,5 +9088,14 @@
     "subcircuito": "BARREIRO 1",
     "id": "AVICOLA-TIMARSU-Z5-L-B-B",
     "nombre_punto": "AVICOLA TIMARSU"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GUAYACAN",
+    "subcircuito": "GUAYACAN 1",
+    "id": "COOP-TAXIS-GRUPO-6-Z5-L-Q-G",
+    "nombre_punto": "COOP EN TAXIS GRUPO 6"
   }
 ]
