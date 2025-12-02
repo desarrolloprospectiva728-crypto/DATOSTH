@@ -21139,5 +21139,32 @@
     "subcircuito": "FLORESTA 2",
     "id": "VETERINARIA-LAS-ESCLUSAS-Z8-D-S-F",
     "nombre_punto": "Veterinaria las esclusas"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "COMERCIAL-CEVALLOS-AV-RAÚL-CLEMENTE-HUERTA-Z8-D-S-U",
+    "nombre_punto": "Comercial Cevallos  Av Raúl Clemente huerta"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "COMERCIAL-PINTURAS-Y-FERRETERIA-Z8-D-S-F",
+    "nombre_punto": "Comercial pinturas y ferreteria"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "FARMACIA-KEYLA-AV-RAÚL-CLEMENTE-HUERTA-Z8-D-S-U",
+    "nombre_punto": "Farmacia Keyla Av Raúl Clemente huerta"
   }
 ]
