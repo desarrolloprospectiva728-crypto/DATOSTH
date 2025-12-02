@@ -21193,5 +21193,23 @@
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "FRITANGUERIA-\"EL-BUEN-SABOR\"-(PEDREGAL)-Z8-D-S-U",
     "nombre_punto": "FRITANGUERIA \"EL BUEN SABOR\" (PEDREGAL)"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "GUASMO",
+    "subcircuito": "GUASMO 4",
+    "id": "DISPENSARIO-DANIEL-COMBONI-Z8-D-S-G",
+    "nombre_punto": "Dispensario Daniel Comboni"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "GUASMO",
+    "subcircuito": "GUASMO 4",
+    "id": "TUTI.-STELA-MARIS-Z8-D-S-G",
+    "nombre_punto": "Tuti. Stela Maris"
   }
 ]
