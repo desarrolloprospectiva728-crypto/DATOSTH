@@ -6451,5 +6451,14 @@
     "subcircuito": "JAMA 1",
     "id": "EDIFICIO-ADMINISTRATIVO-GAD-JAMA-Z4-M-P-J",
     "nombre_punto": "Edificio Administrativo  GAD  JAMA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "JAMA",
+    "subcircuito": "JAMA 1",
+    "id": "CASA-DEL-SR.-ALCALDE-DE-CANTÓN-JAMA-Z4-M-P-J",
+    "nombre_punto": "Casa del Sr. Alcalde de Cantón Jama"
   }
 ]
