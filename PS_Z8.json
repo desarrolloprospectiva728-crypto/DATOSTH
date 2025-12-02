@@ -21058,5 +21058,14 @@
     "subcircuito": "LOS CEIBOS 1",
     "id": "TIA-GOD-Z8-D-C-L",
     "nombre_punto": "TIA GOD"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "FARMACIA-DOCTORCITO-Z8-D-S-F",
+    "nombre_punto": "Farmacia Doctorcito"
   }
 ]
