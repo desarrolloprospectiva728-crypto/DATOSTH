@@ -21067,5 +21067,32 @@
     "subcircuito": "FLORESTA 2",
     "id": "FARMACIA-DOCTORCITO-Z8-D-S-F",
     "nombre_punto": "Farmacia Doctorcito"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "CYBER-Z8-D-S-F",
+    "nombre_punto": "Cyber"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "SERVIENTREGA-Z8-D-S-F",
+    "nombre_punto": "Servientrega"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "FARMACIA-CRUZ-AZUL-Z8-D-S-F",
+    "nombre_punto": "Farmacia Cruz Azul"
   }
 ]
