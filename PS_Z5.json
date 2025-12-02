@@ -9079,5 +9079,14 @@
     "subcircuito": "NARANJITO CENTRO 1",
     "id": "MEDALLON-DE-ORO.-Z5-G-N-N",
     "nombre_punto": "MEDALLON DE ORO."
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BARREIRO",
+    "subcircuito": "BARREIRO 1",
+    "id": "AVICOLA-TIMARSU-Z5-L-B-B",
+    "nombre_punto": "AVICOLA TIMARSU"
   }
 ]
