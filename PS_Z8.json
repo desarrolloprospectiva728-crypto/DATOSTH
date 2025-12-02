@@ -21247,5 +21247,50 @@
     "subcircuito": "CENTENARIO 1",
     "id": "CABUTOS-MINIMARKET-Z8-D-S-C",
     "nombre_punto": "CABUTOS MINIMARKET"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "GUASMO",
+    "subcircuito": "GUASMO 4",
+    "id": "ASADERO-EL-MANABA-Z8-D-S-G",
+    "nombre_punto": "Asadero El Manaba"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 3",
+    "id": "FARMACIA-CRUZ-AZUL-Z8-D-S-C",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "GUASMO",
+    "subcircuito": "GUASMO 4",
+    "id": "SU-FARMACIA-STELA-MARIS-2-Z8-D-S-G",
+    "nombre_punto": "Su Farmacia Stela Maris 2"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 1",
+    "id": "ASADERO-SUPER-POLLO-Z8-D-S-C",
+    "nombre_punto": "ASADERO SUPER POLLO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 3",
+    "id": "FARMACIA-FYBECA-Z8-D-S-C",
+    "nombre_punto": "FARMACIA FYBECA"
   }
 ]
