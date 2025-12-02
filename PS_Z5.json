@@ -9124,5 +9124,23 @@
     "subcircuito": "PUERTO PECHICHE 1",
     "id": "GAD-PARROQUIAL-PUERTO-PECHICHE-Z5-L-P-P",
     "nombre_punto": "Gad Parroquial Puerto Pechiche"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUERTO PECHICHE",
+    "subcircuito": "PUERTO PECHICHE 1",
+    "id": "PANADERÍA-Y-PASTELERÍA-NIÑO-JAVI-Z5-L-P-P",
+    "nombre_punto": "Panadería Y Pastelería Niño Javi"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "COMERCIAL-NUÑEZ-Z5-L-V-Q",
+    "nombre_punto": "COMERCIAL NUÑEZ"
   }
 ]
