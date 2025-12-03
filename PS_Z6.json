@@ -2536,5 +2536,14 @@
     "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
     "id": "SUBCENTRO-DE-SALUD-PONCE-ENRIQUEZ-Z6-A-P-C",
     "nombre_punto": "Subcentro de salud Ponce Enriquez"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 1",
+    "id": "MARKET-BAZAR-PANCHITO-Z6-A-S-S",
+    "nombre_punto": "MARKET BAZAR PANCHITO"
   }
 ]
