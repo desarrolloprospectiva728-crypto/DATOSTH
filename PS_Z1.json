@@ -3220,5 +3220,14 @@
     "subcircuito": "SAN GABRIEL NORTE 1",
     "id": "FISCALÍA-Z1-C-M-S",
     "nombre_punto": "FISCALÍA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "CONFESIONES-DE-UNIFORMES-BOGATEX-Z1-E-E-C",
+    "nombre_punto": "CONFESIONES DE UNIFORMES BOGATEX"
   }
 ]
