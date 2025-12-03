@@ -3940,5 +3940,14 @@
     "subcircuito": "FAJARDO 2",
     "id": "HANASKA-Z2-P-R-F",
     "nombre_punto": "HANASKA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "SAN RAFAEL",
+    "subcircuito": "SAN RAFAEL 1",
+    "id": "HELADERIA-FRUTTO-Z2-P-R-S",
+    "nombre_punto": "HELADERIA FRUTTO"
   }
 ]
