@@ -21832,5 +21832,14 @@
     "subcircuito": "MALVINAS NORTE 2",
     "id": "FERRETERÍA-DEL-PUEBLO-FRENTE-EL-TALLER-TOTAL-CAR-Z8-D-E-M",
     "nombre_punto": "FERRETERÍA DEL PUEBLO FRENTE EL TALLER TOTAL CAR Av. José de la cuadra"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "MUCHO LOTE",
+    "subcircuito": "MUCHO LOTE 1",
+    "id": "DISTRIBUIDORA-DE-PLÁSTICOS-CHOEZ-Z8-D-P-M",
+    "nombre_punto": "Distribuidora de Plásticos Choez"
   }
 ]
