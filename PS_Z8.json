@@ -21436,5 +21436,32 @@
     "subcircuito": "ESTEROS 2",
     "id": "TIA-AV-JOSÉ-TOMÁS-AGUIRRE-FRENTE-A-LA-FARMACIA-CRUZ-AZUL-Z8-D-E-E",
     "nombre_punto": "TIA AV JOSÉ TOMÁS AGUIRRE FRENTE A LA FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS SUR",
+    "subcircuito": "MALVINAS SUR 1",
+    "id": "BAZAR-Y-PAPELERÍA-MI-BANCO-EL-PACÍFICO-ALADO-DE-ASADERO-DE-POLLO-EL-COLORADO-Z8-D-E-M",
+    "nombre_punto": "BAZAR Y PAPELERÍA MI BANCO EL PACÍFICO ALADO DE ASADERO DE POLLO EL COLORADO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS SUR",
+    "subcircuito": "MALVINAS SUR 2",
+    "id": "UNIDAD-EDUCATIVA-JORGE-VILLEGAS-CERRANO-CALLE-TAHISA-Z8-D-E-M",
+    "nombre_punto": "UNIDAD EDUCATIVA JORGE VILLEGAS CERRANO Calle tahisa"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS SUR",
+    "subcircuito": "MALVINAS SUR 2",
+    "id": "BAZAR-J&A-ESQUINERO-COOP-DIGNIDAD-POPULAR-MZ-4263-SL-21-Z8-D-E-M",
+    "nombre_punto": "BAZAR J&A ESQUINERO COOP DIGNIDAD POPULAR MZ 4263 sl 21"
   }
 ]
