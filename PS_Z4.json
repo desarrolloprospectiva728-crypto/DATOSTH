@@ -6469,5 +6469,14 @@
     "subcircuito": "MONTECRISTI 2",
     "id": "FISCALIA-GENERAL-DEL-ESTADO-DEL-CANTÓN-MONTECRISTI-Z4-M-M-M",
     "nombre_punto": "FISCALIA GENERAL DEL ESTADO DEL CANTÓN MONTECRISTI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "FERRETERÍA-HIERRO-SAN-Z4-M-M-M",
+    "nombre_punto": "FERRETERÍA HIERRO SAN"
   }
 ]
