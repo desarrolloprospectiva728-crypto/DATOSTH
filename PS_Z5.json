@@ -9160,5 +9160,14 @@
     "subcircuito": "PUERTO PECHICHE 1",
     "id": "NUTRÍAGRO-Z5-L-P-P",
     "nombre_punto": "Nutríagro"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUERTO PECHICHE",
+    "subcircuito": "PUERTO PECHICHE 1",
+    "id": "AGROINSUMOS-KARLITA-Z5-L-P-P",
+    "nombre_punto": "AgroInsumos Karlita"
   }
 ]
