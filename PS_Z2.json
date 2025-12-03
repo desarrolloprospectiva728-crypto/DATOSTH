@@ -3931,5 +3931,14 @@
     "subcircuito": "PASOCHOA 1",
     "id": "CHEFSITO-Z2-P-R-P",
     "nombre_punto": "CHEFSITO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "FAJARDO",
+    "subcircuito": "FAJARDO 2",
+    "id": "HANASKA-Z2-P-R-F",
+    "nombre_punto": "HANASKA"
   }
 ]
