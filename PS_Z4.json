@@ -6505,5 +6505,14 @@
     "subcircuito": "MONTECRISTI 2",
     "id": "CERVECERÍA-MONTECRISTI-Z4-M-M-M",
     "nombre_punto": "CERVECERÍA MONTECRISTI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA SUR",
+    "subcircuito": "CALCETA SUR 1",
+    "id": "HIPERMARKET-SUPER-2-Z4-M-B-C",
+    "nombre_punto": "Hipermarket super 2"
   }
 ]
