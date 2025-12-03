@@ -3229,5 +3229,14 @@
     "subcircuito": "CENTRO 2",
     "id": "CONFESIONES-DE-UNIFORMES-BOGATEX-Z1-E-E-C",
     "nombre_punto": "CONFESIONES DE UNIFORMES BOGATEX"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "CASCALES",
+    "subcircuito": "CASCALES 1",
+    "id": "CARNICERÍA-PILLAREÑITA-Z1-S-S-C",
+    "nombre_punto": "Carnicería Pillareñita"
   }
 ]
