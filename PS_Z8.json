@@ -21625,5 +21625,23 @@
     "subcircuito": "PASCUALES 2",
     "id": "COMERCIAL-PURIHA-Z8-D-P-P",
     "nombre_punto": "COMERCIAL PURIHA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "TRINITARIA SUR",
+    "subcircuito": "TRINITARIA SUR 2",
+    "id": "BATIDOS-DEL-MERCADO-Z8-D-E-T",
+    "nombre_punto": "BATIDOS DEL MERCADO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "TRINITARIA SUR",
+    "subcircuito": "TRINITARIA SUR 2",
+    "id": "UNIDAD-EDUCATIVA-MIXTA-FISCAL-MONS-LEONIDAS-PROAÑO-Z8-D-E-T",
+    "nombre_punto": "UNIDAD EDUCATIVA MIXTA FISCAL MONS LEONIDAS PROAÑO"
   }
 ]
