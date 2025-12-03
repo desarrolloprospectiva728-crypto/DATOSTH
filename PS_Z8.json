@@ -21643,5 +21643,14 @@
     "subcircuito": "TRINITARIA SUR 2",
     "id": "UNIDAD-EDUCATIVA-MIXTA-FISCAL-MONS-LEONIDAS-PROAÑO-Z8-D-E-T",
     "nombre_punto": "UNIDAD EDUCATIVA MIXTA FISCAL MONS LEONIDAS PROAÑO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 4",
+    "id": "TIA-GO-COOP-7-LAGOS-Z8-D-S-7",
+    "nombre_punto": "Tia Go Coop 7 Lagos"
   }
 ]
