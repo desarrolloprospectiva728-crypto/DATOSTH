@@ -6478,5 +6478,14 @@
     "subcircuito": "MONTECRISTI 2",
     "id": "FERRETERÍA-HIERRO-SAN-Z4-M-M-M",
     "nombre_punto": "FERRETERÍA HIERRO SAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "SANCAN",
+    "subcircuito": "SANCAN 1",
+    "id": "SALON-JUNIOR-Z4-M-J-S",
+    "nombre_punto": "Salon Junior"
   }
 ]
