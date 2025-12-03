@@ -6496,5 +6496,14 @@
     "subcircuito": "2001-05-03T05:00:00.000Z",
     "id": "NOVICOMPU-Z4-M-J-3",
     "nombre_punto": "NOVICOMPU"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "CERVECERÍA-MONTECRISTI-Z4-M-M-M",
+    "nombre_punto": "CERVECERÍA MONTECRISTI"
   }
 ]
