@@ -9223,5 +9223,14 @@
     "subcircuito": "GUAYACAN 1",
     "id": "SU-FARMACIA-Z5-L-Q-G",
     "nombre_punto": "SU FARMACIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUERTO PECHICHE",
+    "subcircuito": "PUERTO PECHICHE 1",
+    "id": "FARMACIA-KEYLA-Z5-L-P-P",
+    "nombre_punto": "Farmacia Keyla"
   }
 ]
