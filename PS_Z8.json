@@ -21373,5 +21373,32 @@
     "subcircuito": "ESTEROS 3",
     "id": "TERMINAL-PORTUARIO-FERTISA-Z8-D-E-E",
     "nombre_punto": "TERMINAL PORTUARIO FERTISA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "ESTEROS",
+    "subcircuito": "ESTEROS 3",
+    "id": "PANADERÍA-J&V-CDLA-LOS-ESTEROS-MZ-58A-Z8-D-E-E",
+    "nombre_punto": "PANADERÍA J&V CDLA LOS ESTEROS MZ 58A"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "ESTEROS",
+    "subcircuito": "ESTEROS 3",
+    "id": "CAMI-CENTRO-DE-ATENCIÓN-MUNICIPAL-INTEGRAL-Z8-D-E-E",
+    "nombre_punto": "CAMI CENTRO DE ATENCIÓN MUNICIPAL INTEGRAL"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "ESTEROS",
+    "subcircuito": "ESTEROS 3",
+    "id": "ESCUELA-DE-EDUCACIÓN-BÁSICA-AURELIO-ESPINOZA-POLIT-(ALADO-DEL-PARQUE-LOS-BICHOS)-Z8-D-E-E",
+    "nombre_punto": "ESCUELA DE EDUCACIÓN BÁSICA AURELIO ESPINOZA POLIT (alado del parque los Bichos)"
   }
 ]
