@@ -21652,5 +21652,41 @@
     "subcircuito": "7 LAGOS 4",
     "id": "TIA-GO-COOP-7-LAGOS-Z8-D-S-7",
     "nombre_punto": "Tia Go Coop 7 Lagos"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 2",
+    "id": "FARMACIA-BOLIVAR-Z8-D-S-7",
+    "nombre_punto": "Farmacia Bolivar"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "ORQUIDEAS",
+    "subcircuito": "ORQUIDEAS 7",
+    "id": "ELITE-CARWASH-Z8-D-P-O",
+    "nombre_punto": "ELITE CARWASH"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 2",
+    "id": "MI-DOCTORCITO-FARMACIA-Z8-D-S-7",
+    "nombre_punto": "Mi Doctorcito Farmacia"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 2",
+    "id": "VETERINARIA-KANINOS-Z8-D-S-7",
+    "nombre_punto": "Veterinaria kaninos"
   }
 ]
