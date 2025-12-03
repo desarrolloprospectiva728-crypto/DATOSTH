@@ -9199,15 +9199,6 @@
   },
   {
     "zona": "ZONA 5",
-    "subzona": "BOLIVAR",
-    "distrito": "GUARANDA",
-    "circuito": "QUINCE DE MAYO",
-    "subcircuito": "QUINCE DE MAYO 1",
-    "id": "LOCAL-DE-BICICLETAS-MOSTER-BIKE-Z5-B-G-Q",
-    "nombre_punto": "Local de bicicletas Moster bike"
-  },
-  {
-    "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "QUEVEDO",
     "circuito": "GUAYACAN",
