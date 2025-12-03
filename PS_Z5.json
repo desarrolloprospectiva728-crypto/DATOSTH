@@ -9250,5 +9250,14 @@
     "subcircuito": "VIRGEN DEL CARMEN 1",
     "id": "FARMACIAS-SANTA-MARTHA-Z5-S-L-V",
     "nombre_punto": "FARMACIAS SANTA MARTHA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 1",
+    "id": "BAMBOO-GRILL-Z5-L-B-B",
+    "nombre_punto": "Bamboo Grill"
   }
 ]
