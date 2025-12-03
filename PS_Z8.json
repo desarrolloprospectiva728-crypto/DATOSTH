@@ -21463,5 +21463,41 @@
     "subcircuito": "MALVINAS SUR 2",
     "id": "BAZAR-J&A-ESQUINERO-COOP-DIGNIDAD-POPULAR-MZ-4263-SL-21-Z8-D-E-M",
     "nombre_punto": "BAZAR J&A ESQUINERO COOP DIGNIDAD POPULAR MZ 4263 sl 21"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS SUR",
+    "subcircuito": "MALVINAS SUR 1",
+    "id": "ESCUELA-DE-EDUCACIÓN-BÁSICA-FISCAL-RANULFO-RODRÍGUEZ-MARIN-Z8-D-E-M",
+    "nombre_punto": "ESCUELA DE EDUCACIÓN BÁSICA FISCAL RANULFO RODRÍGUEZ MARIN"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS SUR",
+    "subcircuito": "MALVINAS SUR 1",
+    "id": "VETERINARIA-ME.-VET-AV.-ERNESTO-ALBAN-Z8-D-E-M",
+    "nombre_punto": "VETERINARIA ME. VET AV. ERNESTO ALBAN"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS SUR",
+    "subcircuito": "MALVINAS SUR 2",
+    "id": "TIENDA-SIN-NOMBRE-ESQUINERA-COOP-DIGNIDAD-POPULAR-MZ-4446-SL-10-Z8-D-E-M",
+    "nombre_punto": "TIENDA SIN NOMBRE ESQUINERA COOP Dignidad popular MZ 4446 Sl 10"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS SUR",
+    "subcircuito": "MALVINAS SUR 3",
+    "id": "DESPENSA-PAGUAY-DE-COLOR-VERDE-COOP-DIGNIDAD-POPULAR-Z8-D-E-M",
+    "nombre_punto": "DESPENSA PAGUAY DE COLOR VERDE COOP DIGNIDAD POPULAR"
   }
 ]
