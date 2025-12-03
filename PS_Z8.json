@@ -21751,5 +21751,68 @@
     "subcircuito": "MALVINAS NORTE 1",
     "id": "UNIDAD-EDUCATIVA-MIXTA-FISCAL-AURORA-ESTRADA-DE-RAMIREZ-Z8-D-E-M",
     "nombre_punto": "UNIDAD EDUCATIVA FISCAL AURORA ESTRADA DE RAMIREZ"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS NORTE",
+    "subcircuito": "MALVINAS NORTE 2",
+    "id": "IGLESIA-SAN-ESTEBAN-AV.-ESMERALDA-Z8-D-E-M",
+    "nombre_punto": "IGLESIA SAN ESTEBAN AV. ESMERALDA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS NORTE",
+    "subcircuito": "MALVINAS NORTE 1",
+    "id": "ÓPTICA-A&B-AV-ERNESTO-ALBAN-Z8-D-E-M",
+    "nombre_punto": "ÓPTICA A&B AV ERNESTO ALBAN"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS NORTE",
+    "subcircuito": "MALVINAS NORTE 1",
+    "id": "CYBER-PANCHITO-2-AV-ERNESTO-ALBAN-Z8-D-E-M",
+    "nombre_punto": "CYBER PANCHITO 2 AV ERNESTO ALBAN"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "ORQUIDEAS",
+    "subcircuito": "ORQUIDEAS 7",
+    "id": "TAPICERÍA-SOSA-Z8-D-P-O",
+    "nombre_punto": "Tapicería Sosa"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS NORTE",
+    "subcircuito": "MALVINAS NORTE 1",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-CAMILO-GALLEGOS-DOMINGUEZ-Z8-D-E-M",
+    "nombre_punto": "UNIDAD EDUCATIVA FISCAL CAMILO GALLEGOS DOMINGUEZ"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS NORTE",
+    "subcircuito": "MALVINAS NORTE 2",
+    "id": "FARMACIA-360-ESQUINERA-AV.-ERNESTO-ALBAN-Z8-D-E-M",
+    "nombre_punto": "FARMACIA 360 ESQUINERA AV. ERNESTO ALBAN"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "ORQUIDEAS",
+    "subcircuito": "ORQUIDEAS 7",
+    "id": "ROY-ZAI-MUCHO-LOTE-CIA.-LTDA.-Z8-D-P-O",
+    "nombre_punto": "ROY ZAI MUCHO LOTE CIA. LTDA."
   }
 ]
