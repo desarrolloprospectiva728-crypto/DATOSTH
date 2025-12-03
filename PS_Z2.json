@@ -3922,5 +3922,14 @@
     "subcircuito": "RUMIÑAHUI 1",
     "id": "TÉCNOLOGICO-UNIVERSITARIO-RUMIÑAHUI-Z2-P-R-R",
     "nombre_punto": "Técnologico Universitario Rumiñahui"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "PASOCHOA",
+    "subcircuito": "PASOCHOA 1",
+    "id": "CHEFSITO-Z2-P-R-P",
+    "nombre_punto": "CHEFSITO"
   }
 ]
