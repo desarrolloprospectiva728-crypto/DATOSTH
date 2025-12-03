@@ -9169,5 +9169,32 @@
     "subcircuito": "PUERTO PECHICHE 1",
     "id": "AGROINSUMOS-KARLITA-Z5-L-P-P",
     "nombre_punto": "AgroInsumos Karlita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "GUARANDA",
+    "circuito": "QUINCE DE MAYO",
+    "subcircuito": "QUINCE DE MAYO 1",
+    "id": "LOCAL-DE-BICICLETAS-MOSTER-BIKE-Z5-B-G-Q",
+    "nombre_punto": "Local de bicicletas Moster bike"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUERTO PECHICHE",
+    "subcircuito": "PUERTO PECHICHE 1",
+    "id": "AGRIPAC-Z5-L-P-P",
+    "nombre_punto": "Agripac"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "COMISARIATO-LA-ECONOMIA-Z5-L-Q-S",
+    "nombre_punto": "COMISARIATO LA ECONOMIA"
   }
 ]
