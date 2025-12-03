@@ -9196,5 +9196,32 @@
     "subcircuito": "SAN CARLOS 1",
     "id": "COMISARIATO-LA-ECONOMIA-Z5-L-Q-S",
     "nombre_punto": "COMISARIATO LA ECONOMIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "GUARANDA",
+    "circuito": "QUINCE DE MAYO",
+    "subcircuito": "QUINCE DE MAYO 1",
+    "id": "LOCAL-DE-BICICLETAS-MOSTER-BIKE-Z5-B-G-Q",
+    "nombre_punto": "Local de bicicletas Moster bike"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GUAYACAN",
+    "subcircuito": "GUAYACAN 1",
+    "id": "FERRIMATHI-Z5-L-Q-G",
+    "nombre_punto": "FERRIMATHI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GUAYACAN",
+    "subcircuito": "GUAYACAN 1",
+    "id": "SU-FARMACIA-Z5-L-Q-G",
+    "nombre_punto": "SU FARMACIA"
   }
 ]
