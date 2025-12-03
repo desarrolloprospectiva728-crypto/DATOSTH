@@ -3607,5 +3607,14 @@
     "subcircuito": "SARAGURO 1",
     "id": "JUAN-ANTONIO-MONTESINOS-Y-MONFILIO-MUÑOZ-Z7-L-S-S",
     "nombre_punto": "Juan Antonio Montesinos y Monfilio Muñoz"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "JAMBELI CENTRO",
+    "subcircuito": "JAMBELI CENTRO 1",
+    "id": "TIENDA-ALEJANDRA-Z7-E-M-J",
+    "nombre_punto": "Tienda Alejandra"
   }
 ]
