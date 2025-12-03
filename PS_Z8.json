@@ -21499,5 +21499,23 @@
     "subcircuito": "MALVINAS SUR 3",
     "id": "DESPENSA-PAGUAY-DE-COLOR-VERDE-COOP-DIGNIDAD-POPULAR-Z8-D-E-M",
     "nombre_punto": "DESPENSA PAGUAY DE COLOR VERDE COOP DIGNIDAD POPULAR"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS SUR",
+    "subcircuito": "MALVINAS SUR 3",
+    "id": "FARMACIA-SÚPER-ECONÓMICA-ESQUINERA-CALLE-CLUB-DEPORTIVO-Y-JOSE-ELOY-RAMÍREZ-Z8-D-E-M",
+    "nombre_punto": "FARMACIA SÚPER ECONÓMICA ESQUINERA CALLE CLUB DEPORTIVO Y JOSE ELOY RAMÍREZ"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS SUR",
+    "subcircuito": "MALVINAS SUR 1",
+    "id": "FARMACIA-FARMOILES-AV-PÍO-JARAMILLO-PERIMETRAL-A-LA-ALTURA-DEL-SEMAFORO-Z8-D-E-M",
+    "nombre_punto": "FARMACIA FARMOILES AV PÍO JARAMILLO PERIMETRAL A LA ALTURA DEL SEMAFORO"
   }
 ]
