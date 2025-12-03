@@ -21400,5 +21400,23 @@
     "subcircuito": "ESTEROS 3",
     "id": "ESCUELA-DE-EDUCACIÓN-BÁSICA-AURELIO-ESPINOZA-POLIT-(ALADO-DEL-PARQUE-LOS-BICHOS)-Z8-D-E-E",
     "nombre_punto": "ESCUELA DE EDUCACIÓN BÁSICA AURELIO ESPINOZA POLIT (alado del parque los Bichos)"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "ESTEROS",
+    "subcircuito": "ESTEROS 4",
+    "id": "TUTI-AV-LOS-ESTEROS-CDLA-LA-FRAGATA-MZ-2205-EL-18-Z8-D-E-E",
+    "nombre_punto": "TUTI AV LOS ESTEROS CDLA LA FRAGATA MZ 2205 EL 18"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "ESTEROS",
+    "subcircuito": "ESTEROS 4",
+    "id": "TÍA-GO-AV-JUAN-MONTALVAN-FRENTE-A-LA-FARMACIA-LA-PRIMICIA-Z8-D-E-E",
+    "nombre_punto": "TÍA Go FRENTE A LA FARMACIA LA PRIMICIA"
   }
 ]
