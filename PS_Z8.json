@@ -21346,5 +21346,14 @@
     "subcircuito": "CENTENARIO 3",
     "id": "FARMACIA-FYBECA-Z8-D-S-C",
     "nombre_punto": "FARMACIA FYBECA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "ESTEROS",
+    "subcircuito": "ESTEROS 3",
+    "id": "RESTAURANTE-EL-MORO-DIAGONAL-AL-REGISTRO-AV.-LOS-ESTEROSCIVIL-Z8-D-E-E",
+    "nombre_punto": "RESTAURANTE EL MORO DIAGONAL AL REGISTRO AV. LOS ESTEROSCIVIL"
   }
 ]
