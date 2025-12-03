@@ -21814,5 +21814,23 @@
     "subcircuito": "ORQUIDEAS 7",
     "id": "ROY-ZAI-MUCHO-LOTE-CIA.-LTDA.-Z8-D-P-O",
     "nombre_punto": "ROY ZAI MUCHO LOTE CIA. LTDA."
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS NORTE",
+    "subcircuito": "MALVINAS NORTE 2",
+    "id": "CENTRO-DE-SALUD-TIPO-A-GUANGALA-Z8-D-E-M",
+    "nombre_punto": "CENTRO DE SALUD TIPO A GUANGALA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "MALVINAS NORTE",
+    "subcircuito": "MALVINAS NORTE 2",
+    "id": "FERRETERÍA-DEL-PUEBLO-FRENTE-EL-TALLER-TOTAL-CAR-Z8-D-E-M",
+    "nombre_punto": "FERRETERÍA DEL PUEBLO FRENTE EL TALLER TOTAL CAR Av. José de la cuadra"
   }
 ]
