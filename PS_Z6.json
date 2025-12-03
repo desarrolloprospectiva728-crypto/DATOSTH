@@ -2545,5 +2545,14 @@
     "subcircuito": "SIGSIG 1",
     "id": "MARKET-BAZAR-PANCHITO-Z6-A-S-S",
     "nombre_punto": "MARKET BAZAR PANCHITO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "EL VECINO",
+    "subcircuito": "EL VECINO 1",
+    "id": "HOSTAL-VILLA-MIRAFLORES-Z6-A-C-E",
+    "nombre_punto": "HOSTAL VILLA MIRAFLORES"
   }
 ]
