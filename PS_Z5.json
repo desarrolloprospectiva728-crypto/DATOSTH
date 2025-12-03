@@ -9232,5 +9232,14 @@
     "subcircuito": "PUERTO PECHICHE 1",
     "id": "FARMACIA-KEYLA-Z5-L-P-P",
     "nombre_punto": "Farmacia Keyla"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "MEGA-SHOPPING-Z5-L-Q-S",
+    "nombre_punto": "MEGA SHOPPING"
   }
 ]
