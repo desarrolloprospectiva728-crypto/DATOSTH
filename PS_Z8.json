@@ -21355,5 +21355,23 @@
     "subcircuito": "ESTEROS 3",
     "id": "RESTAURANTE-EL-MORO-DIAGONAL-AL-REGISTRO-AV.-LOS-ESTEROSCIVIL-Z8-D-E-E",
     "nombre_punto": "RESTAURANTE EL MORO DIAGONAL AL REGISTRO AV. LOS ESTEROSCIVIL"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "ESTEROS",
+    "subcircuito": "ESTEROS 1",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-JAIME-ROLDOS-AGUILERA-Z8-D-E-E",
+    "nombre_punto": "UNIDAD EDUCATIVA FISCAL JAIME ROLDOS AGUILERA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "ESTEROS",
+    "circuito": "ESTEROS",
+    "subcircuito": "ESTEROS 3",
+    "id": "TERMINAL-PORTUARIO-FERTISA-Z8-D-E-E",
+    "nombre_punto": "TERMINAL PORTUARIO FERTISA"
   }
 ]
