@@ -22039,5 +22039,23 @@
     "subcircuito": "7 LAGOS 4",
     "id": "ALMACENES-JAHER-Z8-D-S-7",
     "nombre_punto": "ALMACENES JAHER"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 4",
+    "id": "CHIFA-EPOCA-PLAZA-GRAN-AKI-Z8-D-S-7",
+    "nombre_punto": "Chifa Epoca Plaza Gran Aki"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 4",
+    "id": "SERVIENTREGA-Z8-D-S-7",
+    "nombre_punto": "Servientrega"
   }
 ]
