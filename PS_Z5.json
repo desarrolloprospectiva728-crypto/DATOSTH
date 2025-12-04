@@ -9250,5 +9250,14 @@
     "subcircuito": "BUENA FE OESTE 1",
     "id": "BAMBOO-GRILL-Z5-L-B-B",
     "nombre_punto": "Bamboo Grill"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "LA GUAYAQUIL",
+    "subcircuito": "LA GUAYAQUIL 1",
+    "id": "INGRESO-RCTO.-SAN-RAMON-Z5-G-B-L",
+    "nombre_punto": "Ingreso Rcto. San Ramon"
   }
 ]
