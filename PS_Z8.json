@@ -21922,5 +21922,14 @@
     "subcircuito": "CENTENARIO 2",
     "id": "MI-COMISARIATO-DOMINGO-COMIN-ALADO-DE-MC-DONAL-Z8-D-S-C",
     "nombre_punto": "Mi Comisariato domingo comin alado de MC Donal"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 2",
+    "id": "FARMACIA-ALIVIO-AV-DOMINGO-COMIN-BARRIO-CUBA-Z8-D-S-C",
+    "nombre_punto": "Farmacia Alivio av domingo comin barrio cuba"
   }
 ]
