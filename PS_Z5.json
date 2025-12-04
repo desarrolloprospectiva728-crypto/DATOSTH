@@ -9592,5 +9592,14 @@
     "subcircuito": "RICAURTE 1",
     "id": "AGROVENTANENSE-Z5-L-P-R",
     "nombre_punto": "AGROVENTANENSE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "MERCADO-MUNICIPAL-ELIECER-VILLAMAR-Z5-L-P-R",
+    "nombre_punto": "MERCADO MUNICIPAL ELIECER VILLAMAR"
   }
 ]
