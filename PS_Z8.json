@@ -22012,5 +22012,23 @@
     "subcircuito": "CENTENARIO 4",
     "id": "TIAGO-CENTENARIO-4-Z8-D-S-C",
     "nombre_punto": "TiaGo centenario 4"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 4",
+    "id": "CHIFA-ZHENG-GONG-FU-Z8-D-S-7",
+    "nombre_punto": "Chifa Zheng Gong Fu"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 4",
+    "id": "LA-CUCHARA-DE-WILLI-Z8-D-S-7",
+    "nombre_punto": "La cuchara de Willi"
   }
 ]
