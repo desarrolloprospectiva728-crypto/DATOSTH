@@ -9493,5 +9493,23 @@
     "subcircuito": "RICAURTE 1",
     "id": "PELUQUERÍA-MARIA-Z5-L-P-R",
     "nombre_punto": "PELUQUERÍA MARIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z5-L-P-R",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "WESTERN-UNIÓN-Z5-L-P-R",
+    "nombre_punto": "WESTERN UNIÓN"
   }
 ]
