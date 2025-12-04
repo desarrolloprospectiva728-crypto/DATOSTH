@@ -9277,5 +9277,14 @@
     "subcircuito": "BALZAR OESTE 1",
     "id": "OFICINAS-DE-RUTAS-BALZAREÑAS-Z5-G-B-B",
     "nombre_punto": "OFICINAS DE RUTAS BALZAREÑAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "DISTRIBUIDORA-HERMANOS-BECILLA-Z5-L-P-S",
+    "nombre_punto": "DISTRIBUIDORA HERMANOS BECILLA"
   }
 ]
