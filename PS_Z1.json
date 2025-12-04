@@ -3256,5 +3256,23 @@
     "subcircuito": "SAN GABRIEL NORTE 1",
     "id": "ALMACENES-LA-GANGA-Z1-C-M-S",
     "nombre_punto": "Almacenes la Ganga"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 2",
+    "id": "UNIDAD-EDUCATIVA-DEL-MILENIO-PIQUIUCHO-Z1-C-M-B",
+    "nombre_punto": "UNIDAD EDUCATIVA DEL MILENIO PIQUIUCHO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "ROSA ZARATE",
+    "subcircuito": "ROSA ZARATE 1",
+    "id": "COFFE-SHOP-DELICIAS-MANABITAS-Z1-E-Q-R",
+    "nombre_punto": "COFFE SHOP DELICIAS MANABITAS"
   }
 ]
