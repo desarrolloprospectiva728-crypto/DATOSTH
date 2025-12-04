@@ -3625,5 +3625,14 @@
     "subcircuito": "CHAGUARPAMBA 1",
     "id": "GASOLINERA-Z7-L-C-C",
     "nombre_punto": "Gasolinera"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "ZARUMA",
+    "subcircuito": "ZARUMA 1",
+    "id": "UTPL-Z7-E-Z-Z",
+    "nombre_punto": "UTPL"
   }
 ]
