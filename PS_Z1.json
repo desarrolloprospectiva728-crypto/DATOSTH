@@ -3283,5 +3283,14 @@
     "subcircuito": "FRONTERA 3",
     "id": "LATINVOIP-Z1-E-S-F",
     "nombre_punto": "LATINVOIP"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LAS TOTORAS",
+    "subcircuito": "LAS TOTORAS 1",
+    "id": "FINCA-CAFE-SOMMERWIND-Z1-I-C-L",
+    "nombre_punto": "FINCA CAFE SOMMERWIND"
   }
 ]
