@@ -3247,5 +3247,14 @@
     "subcircuito": "TONSUPA 1",
     "id": "EDIFICIO-MACANA-Z1-E-A-T",
     "nombre_punto": "EDIFICIO MACANA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL NORTE",
+    "subcircuito": "SAN GABRIEL NORTE 1",
+    "id": "ALMACENES-LA-GANGA-Z1-C-M-S",
+    "nombre_punto": "Almacenes la Ganga"
   }
 ]
