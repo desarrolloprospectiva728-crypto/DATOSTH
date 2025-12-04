@@ -21931,5 +21931,32 @@
     "subcircuito": "CENTENARIO 2",
     "id": "FARMACIA-ALIVIO-AV-DOMINGO-COMIN-BARRIO-CUBA-Z8-D-S-C",
     "nombre_punto": "Farmacia Alivio av domingo comin barrio cuba"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 2",
+    "id": "BROSTER-MICKEY-Z8-D-S-C",
+    "nombre_punto": "Broster Mickey Centenario2"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 2",
+    "id": "POLLOS-A-LA-BRASA-MI-SUB-CENTENARIO2-Z8-D-S-C",
+    "nombre_punto": "POLLOS A LA BRASA MI SUB CENTENARIO2"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 5",
+    "id": "CONFECCIONES-MEZA-Z8-D-S-C",
+    "nombre_punto": "CONFECCIONES MEZA"
   }
 ]
