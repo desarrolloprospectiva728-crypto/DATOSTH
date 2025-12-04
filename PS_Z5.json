@@ -9547,5 +9547,23 @@
     "subcircuito": "RICAURTE 1",
     "id": "COOPERATIVA-DE-TRANSPORTES-CALUMA-Z5-L-P-R",
     "nombre_punto": "COOPERATIVA DE TRANSPORTES CALUMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "GASOLINERA-RICAURTE-Z5-L-P-R",
+    "nombre_punto": "GASOLINERA RICAURTE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "ALMACÉN-TIA-Z5-L-P-R",
+    "nombre_punto": "ALMACÉN TIA"
   }
 ]
