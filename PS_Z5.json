@@ -9340,5 +9340,14 @@
     "subcircuito": "SAN JUAN 2",
     "id": "ESCUELA-NUEVO-SAN-JUAN-Z5-L-P-S",
     "nombre_punto": "ESCUELA NUEVO SAN JUAN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 2",
+    "id": "COMERCIAL-ANITA-Z5-L-P-S",
+    "nombre_punto": "COMERCIAL ANITA"
   }
 ]
