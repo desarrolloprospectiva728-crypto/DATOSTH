@@ -2457,22 +2457,22 @@
     "nombre_punto": "MINI MARKET CORAYMA"
   },
   {
-    "zona": -39001141,
-    "subzona": 1943,
-    "distrito": "-78.8176205",
-    "circuito": "ZAMORA CHINCHIPE",
-    "subcircuito": "-3.9001141, -78.8176205",
-    "id": "TIENDA-SAN-JOSE-Z7-Z-P-Z\tZONA 7\tPAQUISHA\tZUMBI\tTIENDA SAN JOSE",
-    "nombre_punto": "ZUMBI 1"
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "PAQUISHA",
+    "circuito": "ZUMBI",
+    "subcircuito": "ZUMBI 1",
+    "id": "TIENDA-SAN-JOSE-Z7-Z-P-Z",
+    "nombre_punto": "TIENDA SAN JOSE"
   },
   {
-    "zona": -38795194,
-    "subzona": 1944,
-    "distrito": "-78.7771084",
-    "circuito": "ZAMORA CHINCHIPE",
-    "subcircuito": "-3.8795194, -78.7771084",
-    "id": "MAMA-JUL-Z7-Z-P-Z\tZONA 7\tPAQUISHA\tZUMBI\tMAMA JUL",
-    "nombre_punto": "ZUMBI 1"
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "PAQUISHA",
+    "circuito": "ZUMBI",
+    "subcircuito": "ZUMBI 1",
+    "id": "MAMA-JUL-Z7-Z-P-Z",
+    "nombre_punto": "MAMA JUL"
   },
   {
     "zona": "ZONA 7",
