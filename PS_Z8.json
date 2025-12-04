@@ -22102,5 +22102,14 @@
     "subcircuito": "7 LAGOS 3",
     "id": "FARMACIA-MI-DOCTORCITO-LOS-TULIPANES-Z8-D-S-7",
     "nombre_punto": "Farmacia Mi Doctorcito los Tulipanes"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 3",
+    "id": "FARMACIA-CRUZ-AZUL-LOS-TULIPANES-Z8-D-S-7",
+    "nombre_punto": "Farmacia Cruz Azul Los Tulipanes"
   }
 ]
