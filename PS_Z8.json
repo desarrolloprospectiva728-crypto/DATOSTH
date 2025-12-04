@@ -21832,5 +21832,32 @@
     "subcircuito": "MUCHO LOTE 1",
     "id": "DISTRIBUIDORA-DE-PLÁSTICOS-CHOEZ-Z8-D-P-M",
     "nombre_punto": "Distribuidora de Plásticos Choez"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "CISNE",
+    "subcircuito": "CISNE 2",
+    "id": "LUBRICADORA-\"AUTO-SEGURO\"-Z8-D-P-C",
+    "nombre_punto": "LUBRICADORA \"AUTO SEGURO\""
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 3",
+    "id": "TIA-GO-SUBCIRCUITO-CENT3-Z8-D-S-C",
+    "nombre_punto": "TIA GO SUBCIRCUITO CENT3"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "2025-10-09T05:00:00.000Z",
+    "circuito": "VICTORIA",
+    "subcircuito": "VICTORIA 3",
+    "id": "NOTARIA-29-Z8-D-9-V",
+    "nombre_punto": "NOTARIA 29"
   }
 ]
