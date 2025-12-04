@@ -9457,5 +9457,14 @@
     "subcircuito": "BALZAR SUR 1",
     "id": "IESS-BALZAR-Z5-G-B-B",
     "nombre_punto": "IESS BALZAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "ARTEFACTA-ELECTRODOMÉSTICOS-Z5-L-P-R",
+    "nombre_punto": "ARTEFACTA ELECTRODOMÉSTICOS"
   }
 ]
