@@ -3274,5 +3274,14 @@
     "subcircuito": "ROSA ZARATE 1",
     "id": "COFFE-SHOP-DELICIAS-MANABITAS-Z1-E-Q-R",
     "nombre_punto": "COFFE SHOP DELICIAS MANABITAS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "LATINVOIP-Z1-E-S-F",
+    "nombre_punto": "LATINVOIP"
   }
 ]
