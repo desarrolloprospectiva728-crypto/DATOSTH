@@ -9421,5 +9421,41 @@
     "subcircuito": "RICAURTE 1",
     "id": "MEGA-CINCUENTAZO-Z5-L-P-R",
     "nombre_punto": "MEGA CINCUENTAZO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "GREENFROS-HELADERIA-Z5-L-V-V",
+    "nombre_punto": "GREENFROS HELADERIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "COMERCIAL-KATITA-Z5-L-P-R",
+    "nombre_punto": "COMERCIAL KATITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR SUR",
+    "subcircuito": "BALZAR SUR 1",
+    "id": "FISCALIA-DE-BALZAR-Z5-G-B-B",
+    "nombre_punto": "FISCALIA DE BALZAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR SUR",
+    "subcircuito": "BALZAR SUR 1",
+    "id": "IESS-BALZAR-Z5-G-B-B",
+    "nombre_punto": "IESS BALZAR"
   }
 ]
