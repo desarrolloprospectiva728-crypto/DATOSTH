@@ -21868,5 +21868,14 @@
     "subcircuito": "CISNE 1",
     "id": "PAPELERIA-JESHUA-2-Z8-D-P-C",
     "nombre_punto": "PAPELERIA JESHUA 2"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "CISNE",
+    "subcircuito": "CISNE 1",
+    "id": "CENTRO-DE-SALUD-LA-COLMENA-Z8-D-P-C",
+    "nombre_punto": "Centro de salud LA COLMENA"
   }
 ]
