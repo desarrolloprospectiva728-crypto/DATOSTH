@@ -9565,5 +9565,32 @@
     "subcircuito": "RICAURTE 1",
     "id": "ALMACÉN-TIA-Z5-L-P-R",
     "nombre_punto": "ALMACÉN TIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "CAJEROS-AUTOMÁTICOS-BANCO-PICHINCHA-Z5-L-P-R",
+    "nombre_punto": "CAJEROS AUTOMÁTICOS BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "AGRO-INTEGRAL-Z5-L-P-R",
+    "nombre_punto": "AGRO INTEGRAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "AGROVENTANENSE-Z5-L-P-R",
+    "nombre_punto": "AGROVENTANENSE"
   }
 ]
