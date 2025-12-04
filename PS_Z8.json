@@ -21967,5 +21967,23 @@
     "subcircuito": "CENTENARIO 5",
     "id": "PANADERÍA-CASACHESEKE-Z8-D-S-C",
     "nombre_punto": "Panadería Casacheseke"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 4",
+    "id": "SERVICARNICOS-PLAZA-BARRIO-CENTENARIO-Z8-D-S-C",
+    "nombre_punto": "Servicarnicos plaza barrio centenario"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 4",
+    "id": "JAPI-FISH-PLAZA-BARRIO-CENTENARIO-Z8-D-S-C",
+    "nombre_punto": "Japi Fish Plaza barrio Centenario"
   }
 ]
