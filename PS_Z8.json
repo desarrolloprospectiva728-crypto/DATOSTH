@@ -22075,5 +22075,32 @@
     "subcircuito": "7 LAGOS 4",
     "id": "SMILE-DENTAL-Z8-D-S-7",
     "nombre_punto": "SMILE DENTAL"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 4",
+    "id": "KFC-Z8-D-S-7",
+    "nombre_punto": "KFC"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 4",
+    "id": "FARMACIA-OLANDA-Z8-D-S-7",
+    "nombre_punto": "Farmacia Olanda"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 3",
+    "id": "FARMACIA-MI-DOCTORCITO-LOS-TULIPANES-Z8-D-S-7",
+    "nombre_punto": "Farmacia Mi Doctorcito los Tulipanes"
   }
 ]
