@@ -2554,5 +2554,14 @@
     "subcircuito": "EL VECINO 1",
     "id": "HOSTAL-VILLA-MIRAFLORES-Z6-A-C-E",
     "nombre_punto": "HOSTAL VILLA MIRAFLORES"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "OÑA",
+    "subcircuito": "OÑA 1",
+    "id": "TIENDA-BAZAR-Y-PAPELERÍA-LUCHITO-Z6-A-N-O",
+    "nombre_punto": "Tienda Bazar y Papelería Luchito"
   }
 ]
