@@ -3616,5 +3616,14 @@
     "subcircuito": "JAMBELI CENTRO 1",
     "id": "TIENDA-ALEJANDRA-Z7-E-M-J",
     "nombre_punto": "Tienda Alejandra"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "CHAGUARPAMBA",
+    "subcircuito": "CHAGUARPAMBA 1",
+    "id": "GASOLINERA-Z7-L-C-C",
+    "nombre_punto": "Gasolinera"
   }
 ]
