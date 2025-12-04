@@ -3292,5 +3292,14 @@
     "subcircuito": "LAS TOTORAS 1",
     "id": "FINCA-CAFE-SOMMERWIND-Z1-I-C-L",
     "nombre_punto": "FINCA CAFE SOMMERWIND"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "JUGUERIA-FORO-10-Z1-E-S-F",
+    "nombre_punto": "JUGUERIA FORO 10"
   }
 ]
