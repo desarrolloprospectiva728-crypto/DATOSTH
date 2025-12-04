@@ -22057,5 +22057,23 @@
     "subcircuito": "7 LAGOS 4",
     "id": "SERVIENTREGA-Z8-D-S-7",
     "nombre_punto": "Servientrega"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 4",
+    "id": "FARMACIA-FYBECA-PLAZA-GRAN-AKI-Z8-D-S-7",
+    "nombre_punto": "Farmacia Fybeca Plaza Gran Aki"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 4",
+    "id": "SMILE-DENTAL-Z8-D-S-7",
+    "nombre_punto": "SMILE DENTAL"
   }
 ]
