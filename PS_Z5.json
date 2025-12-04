@@ -9286,5 +9286,14 @@
     "subcircuito": "SAN JUAN 1",
     "id": "DISTRIBUIDORA-HERMANOS-BECILLA-Z5-L-P-S",
     "nombre_punto": "DISTRIBUIDORA HERMANOS BECILLA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 2",
+    "id": "CAPILLA-COLOMBIA-CHIQUITO-Z5-L-P-S",
+    "nombre_punto": "CAPILLA COLOMBIA CHIQUITO"
   }
 ]
