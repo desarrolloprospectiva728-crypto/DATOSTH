@@ -21958,5 +21958,14 @@
     "subcircuito": "CENTENARIO 5",
     "id": "CONFECCIONES-MEZA-Z8-D-S-C",
     "nombre_punto": "CONFECCIONES MEZA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 5",
+    "id": "PANADERÍA-CASACHESEKE-Z8-D-S-C",
+    "nombre_punto": "Panadería Casacheseke"
   }
 ]
