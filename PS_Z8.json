@@ -21904,5 +21904,14 @@
     "subcircuito": "BELLAVISTA 4",
     "id": "DURAGAS-Z8-D-F-B",
     "nombre_punto": "DURAGAS"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "2025-10-09T05:00:00.000Z",
+    "circuito": "VICTORIA",
+    "subcircuito": "VICTORIA 3",
+    "id": "GIMNASIO-SMART-FIT-Z8-D-9-V",
+    "nombre_punto": "GIMNASIO SMART FIT"
   }
 ]
