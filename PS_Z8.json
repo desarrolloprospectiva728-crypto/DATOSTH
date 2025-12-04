@@ -21895,5 +21895,14 @@
     "subcircuito": "CISNE 1",
     "id": "PANADERÍA-LA-25-Z8-D-P-C",
     "nombre_punto": "Panadería LA 25"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "FLORIDA",
+    "circuito": "BELLLAVISTA",
+    "subcircuito": "BELLAVISTA 4",
+    "id": "DURAGAS-Z8-D-F-B",
+    "nombre_punto": "DURAGAS"
   }
 ]
