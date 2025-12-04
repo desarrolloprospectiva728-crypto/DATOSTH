@@ -6532,5 +6532,14 @@
     "subcircuito": "EL GUABITO 1",
     "id": "QUINTA-RAKEL-Z4-M-P-E",
     "nombre_punto": "QUINTA RAKEL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL GUABITO",
+    "subcircuito": "EL GUABITO 1",
+    "id": "QUINTA-RAKEL-Z4-M-P-E",
+    "nombre_punto": "QUINTA RAKEL"
   }
 ]
