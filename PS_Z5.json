@@ -9295,5 +9295,23 @@
     "subcircuito": "SAN JUAN 2",
     "id": "CAPILLA-COLOMBIA-CHIQUITO-Z5-L-P-S",
     "nombre_punto": "CAPILLA COLOMBIA CHIQUITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 2",
+    "id": "TIENDA-DOÑA-MARY-Z5-L-P-S",
+    "nombre_punto": "TIENDA DOÑA MARY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 1",
+    "id": "GASOLINERA-BOLIVAR-Z5-L-B-B",
+    "nombre_punto": "GASOLINERA BOLIVAR"
   }
 ]
