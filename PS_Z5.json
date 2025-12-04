@@ -9385,5 +9385,23 @@
     "subcircuito": "RICAURTE 1",
     "id": "FARMACIA-KEYLA-Z5-L-P-R",
     "nombre_punto": "Farmacia Keyla"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "AUTOPERNOS-Y-LUBRICANTES-ARROBA-Z5-L-P-R",
+    "nombre_punto": "AUTOPERNOS Y LUBRICANTES ARROBA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "ARTEFACTA-MOTOS-Z5-L-P-R",
+    "nombre_punto": "ARTEFACTA MOTOS"
   }
 ]
