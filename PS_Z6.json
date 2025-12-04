@@ -2563,5 +2563,14 @@
     "subcircuito": "OÑA 1",
     "id": "TIENDA-BAZAR-Y-PAPELERÍA-LUCHITO-Z6-A-N-O",
     "nombre_punto": "Tienda Bazar y Papelería Luchito"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "LAS NIEVES",
+    "subcircuito": "LAS NIEVES 1",
+    "id": "COMERCIAL-LOS-ANDES-Z6-A-N-L",
+    "nombre_punto": "COMERCIAL LOS ANDES"
   }
 ]
