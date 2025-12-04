@@ -6514,5 +6514,14 @@
     "subcircuito": "CALCETA SUR 1",
     "id": "HIPERMARKET-SUPER-2-Z4-M-B-C",
     "nombre_punto": "Hipermarket super 2"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MONTECRISTI",
+    "subcircuito": "MONTECRISTI 2",
+    "id": "GASOLINERA-MÁS-GAS-VÍA-PORTOVIEJO-Z4-M-M-M",
+    "nombre_punto": "Gasolinera Más Gas vía Portoviejo"
   }
 ]
