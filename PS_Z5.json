@@ -9529,5 +9529,23 @@
     "subcircuito": "RICAURTE 1",
     "id": "FERTISA-SOLUCIONES-AGROPECUARIAS-Z5-L-P-R",
     "nombre_punto": "FERTISA SOLUCIONES AGROPECUARIAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "FARMACIAS-ECONÓMICAS-Z5-L-P-R",
+    "nombre_punto": "FARMACIAS ECONÓMICAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "COOPERATIVA-DE-TRANSPORTES-CALUMA-Z5-L-P-R",
+    "nombre_punto": "COOPERATIVA DE TRANSPORTES CALUMA"
   }
 ]
