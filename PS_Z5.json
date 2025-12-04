@@ -9403,5 +9403,23 @@
     "subcircuito": "RICAURTE 1",
     "id": "ARTEFACTA-MOTOS-Z5-L-P-R",
     "nombre_punto": "ARTEFACTA MOTOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "IMPORTADORA-ALONZO-Z5-L-P-R",
+    "nombre_punto": "IMPORTADORA ALONZO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "MEGA-CINCUENTAZO-Z5-L-P-R",
+    "nombre_punto": "MEGA CINCUENTAZO"
   }
 ]
