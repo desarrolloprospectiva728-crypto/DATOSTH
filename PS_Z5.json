@@ -9313,5 +9313,23 @@
     "subcircuito": "BUENA FE ESTE 1",
     "id": "GASOLINERA-BOLIVAR-Z5-L-B-B",
     "nombre_punto": "GASOLINERA BOLIVAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 2",
+    "id": "TOMA-DE-AGUA-Z5-L-P-S",
+    "nombre_punto": "TOMA DE AGUA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 2",
+    "id": "TIENDA-NIÑO-JOSUE-Z5-L-P-S",
+    "nombre_punto": "TIENDA NIÑO JOSUE"
   }
 ]
