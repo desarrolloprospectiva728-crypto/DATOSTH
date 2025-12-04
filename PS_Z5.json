@@ -9259,5 +9259,14 @@
     "subcircuito": "LA GUAYAQUIL 1",
     "id": "INGRESO-RCTO.-SAN-RAMON-Z5-G-B-L",
     "nombre_punto": "Ingreso Rcto. San Ramon"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "LA GUAYAQUIL",
+    "subcircuito": "LA GUAYAQUIL 1",
+    "id": "ESTACIÓN-DE-PEAJE-LA-GUAYAQUIL-Z5-G-B-L",
+    "nombre_punto": "Estación de Peaje La Guayaquil"
   }
 ]
