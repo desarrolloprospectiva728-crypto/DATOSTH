@@ -21985,5 +21985,23 @@
     "subcircuito": "CENTENARIO 4",
     "id": "JAPI-FISH-PLAZA-BARRIO-CENTENARIO-Z8-D-S-C",
     "nombre_punto": "Japi Fish Plaza barrio Centenario"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 5",
+    "id": "PELUQUERÍA-AISA-ESTILO-Z8-D-S-C",
+    "nombre_punto": "Peluquería Aisa Estilo"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 4",
+    "id": "SANA-SANA-EL-ORO-Z8-D-S-C",
+    "nombre_punto": "Sana sana  el oro"
   }
 ]
