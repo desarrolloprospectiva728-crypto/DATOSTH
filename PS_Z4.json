@@ -6550,5 +6550,14 @@
     "subcircuito": "EL GUABITO 1",
     "id": "COMEDOR-MARISOL-Z4-M-P-E",
     "nombre_punto": "COMEDOR MARISOL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "CANOA",
+    "subcircuito": "CANOA 1",
+    "id": "GASOLINERA-CANOA-Z4-M-S-C",
+    "nombre_punto": "GASOLINERA CANOA"
   }
 ]
