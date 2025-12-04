@@ -9466,5 +9466,23 @@
     "subcircuito": "RICAURTE 1",
     "id": "ARTEFACTA-ELECTRODOMÉSTICOS-Z5-L-P-R",
     "nombre_punto": "ARTEFACTA ELECTRODOMÉSTICOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "ALMACEN-ECUADOR-Z5-L-P-R",
+    "nombre_punto": "ALMACEN ECUADOR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "FARMACIA-PRIMICIA-Z5-L-P-R",
+    "nombre_punto": "FARMACIA PRIMICIA"
   }
 ]
