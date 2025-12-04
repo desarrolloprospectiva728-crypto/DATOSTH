@@ -9268,5 +9268,14 @@
     "subcircuito": "LA GUAYAQUIL 1",
     "id": "ESTACIÓN-DE-PEAJE-LA-GUAYAQUIL-Z5-G-B-L",
     "nombre_punto": "Estación de Peaje La Guayaquil"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR OESTE",
+    "subcircuito": "BALZAR OESTE 1",
+    "id": "OFICINAS-DE-RUTAS-BALZAREÑAS-Z5-G-B-B",
+    "nombre_punto": "OFICINAS DE RUTAS BALZAREÑAS"
   }
 ]
