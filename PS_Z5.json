@@ -9376,5 +9376,14 @@
     "subcircuito": "RICAURTE 1",
     "id": "AUTO-TAPICERÍA-RODRÍGUEZ-Z5-L-P-R",
     "nombre_punto": "Auto Tapicería Rodríguez"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "FARMACIA-KEYLA-Z5-L-P-R",
+    "nombre_punto": "Farmacia Keyla"
   }
 ]
