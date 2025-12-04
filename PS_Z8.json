@@ -22003,5 +22003,14 @@
     "subcircuito": "CENTENARIO 4",
     "id": "SANA-SANA-EL-ORO-Z8-D-S-C",
     "nombre_punto": "Sana sana  el oro"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 4",
+    "id": "TIAGO-CENTENARIO-4-Z8-D-S-C",
+    "nombre_punto": "TiaGo centenario 4"
   }
 ]
