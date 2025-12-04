@@ -21859,5 +21859,14 @@
     "subcircuito": "VICTORIA 3",
     "id": "NOTARIA-29-Z8-D-9-V",
     "nombre_punto": "NOTARIA 29"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "CISNE",
+    "subcircuito": "CISNE 1",
+    "id": "PAPELERIA-JESHUA-2-Z8-D-P-C",
+    "nombre_punto": "PAPELERIA JESHUA 2"
   }
 ]
