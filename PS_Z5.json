@@ -9610,5 +9610,23 @@
     "subcircuito": "CATARAMA 1",
     "id": "FRUTERIA-TRES-HERMANOS-Z5-L-P-C",
     "nombre_punto": "FRUTERIA TRES HERMANOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "FARMACIA-SAN-GREGORIO-Z5-L-P-C",
+    "nombre_punto": "FARMACIA SAN GREGORIO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "MEGA-SHOPPING-Z5-L-P-C",
+    "nombre_punto": "MEGA SHOPPING"
   }
 ]
