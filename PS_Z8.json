@@ -22156,5 +22156,23 @@
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "VETERINARIA-CANINOS-FELICES-Z8-D-S-U",
     "nombre_punto": "Veterinaria caninos felices parada de 12"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "2025-10-09T05:00:00.000Z",
+    "circuito": "VICTORIA",
+    "subcircuito": "VICTORIA 2",
+    "id": "HOTEL-SOL-DE-ORIENTE-Z8-D-9-V",
+    "nombre_punto": "HOTEL SOL DE ORIENTE"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 1",
+    "id": "FARMACIA-360-Z8-D-S-U",
+    "nombre_punto": "Farmacia 360"
   }
 ]
