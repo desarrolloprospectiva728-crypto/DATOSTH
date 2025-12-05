@@ -9673,5 +9673,41 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "COMERCIAL-MARTINEZ-Z5-L-V-A",
     "nombre_punto": "COMERCIAL MARTINEZ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "PARQUE-URDANETA-Z5-L-P-C",
+    "nombre_punto": "PARQUE URDANETA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "MALECON-RIO-CATARAMA-Z5-L-P-C",
+    "nombre_punto": "MALECON RIO CATARAMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "ESCUELA-MUNICIPAL-DE-MUSICA-Z5-L-P-C",
+    "nombre_punto": "ESCUELA MUNICIPAL DE MUSICA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "PILADORA-DE-MAIZ-Z5-L-P-C",
+    "nombre_punto": "PILADORA DE MAIZ"
   }
 ]
