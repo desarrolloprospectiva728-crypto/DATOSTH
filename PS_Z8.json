@@ -22426,5 +22426,23 @@
     "subcircuito": "CENTENARIO 2",
     "id": "ASADERO-MANABA-CENT2-CARAGUAY-Z8-D-S-C",
     "nombre_punto": "ASADERO MANABA CENT2 Caraguay"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 2",
+    "id": "FARMACIA-BOLIVAR-DISTRIBUIDORA-MERCADO-CARAGUAY-Z8-D-S-C",
+    "nombre_punto": "Farmacia Bolivar Distribuidora mercado caraguay"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 2",
+    "id": "FARMACIA-COMUNITARIA-Z8-D-S-C",
+    "nombre_punto": "Farmacia comunitaria  caraguay"
   }
 ]
