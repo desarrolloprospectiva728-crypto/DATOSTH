@@ -6550,5 +6550,14 @@
     "subcircuito": "CANOA 1",
     "id": "GASOLINERA-CANOA-Z4-M-S-C",
     "nombre_punto": "GASOLINERA CANOA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "BAHIA",
+    "subcircuito": "BAHIA 1",
+    "id": "DIAGONAL-EL-RESTAURANTE-EL-CHONERO-Z4-M-S-B",
+    "nombre_punto": "Diagonal el restaurante el chonero"
   }
 ]
