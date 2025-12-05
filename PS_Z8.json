@@ -22138,5 +22138,23 @@
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "LOCAL-TIA-GO-BANANEROS-1-Z8-D-S-U",
     "nombre_punto": "Local Tia Go Bananeros 1"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "GUASMO",
+    "subcircuito": "GUASMO 3",
+    "id": "FARMACIA-FARMAHOLANDA-PARADA-DE-LA-12-Z8-D-S-G",
+    "nombre_punto": "Farmacia Farmaholanda parada de la 12"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 1",
+    "id": "VETERINARIA-CANINOS-FELICES-Z8-D-S-U",
+    "nombre_punto": "Veterinaria caninos felices parada de 12"
   }
 ]
