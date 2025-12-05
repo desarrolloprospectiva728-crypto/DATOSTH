@@ -22408,5 +22408,23 @@
     "subcircuito": "FLORESTA 2",
     "id": "TALLER-DE-ZAPATERÍA-Z8-D-S-F",
     "nombre_punto": "Taller de zapatería"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 2",
+    "id": "FERRETERÍA-CARAGUAY-Z8-D-S-C",
+    "nombre_punto": "Ferretería  Caraguay"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 2",
+    "id": "ASADERO-MANABA-CENT2-CARAGUAY-Z8-D-S-C",
+    "nombre_punto": "ASADERO MANABA CENT2 Caraguay"
   }
 ]
