@@ -3994,5 +3994,23 @@
     "subcircuito": "MOLINUCO 2",
     "id": "TUTI-Z2-P-R-M",
     "nombre_punto": "Tuti"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "TANDAPI",
+    "subcircuito": "TANDAPI 1",
+    "id": "LA-CORDILLERA-DECOR-TRUCK-Z2-P-R-T",
+    "nombre_punto": "LA CORDILLERA DECOR TRUCK"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "TANDAPI",
+    "subcircuito": "TANDAPI 1",
+    "id": "HOTEL-ESPAÑA-Z2-P-R-T",
+    "nombre_punto": "HOTEL ESPAÑA"
   }
 ]
