@@ -22318,5 +22318,14 @@
     "subcircuito": "2002-10-09T05:00:00.000Z",
     "id": "FARMA-SERVICIO-BOYACA-Z8-D-9-9",
     "nombre_punto": "FARMA SERVICIO BOYACA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "LOCAL-DE-COMIDA-EBENEZER-AV-AGDON-CALDERON-BANANEROS-3-Z8-D-S-U",
+    "nombre_punto": "LOCAL DE COMIDA EBENEZER AV AGDON CALDERON  BANANEROS 3"
   }
 ]
