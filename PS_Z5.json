@@ -9709,5 +9709,14 @@
     "subcircuito": "CATARAMA 1",
     "id": "PILADORA-DE-MAIZ-Z5-L-P-C",
     "nombre_punto": "PILADORA DE MAIZ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "IGLESIA-MARANATHA-Z5-L-P-C",
+    "nombre_punto": "IGLESIA MARANATHA"
   }
 ]
