@@ -22444,5 +22444,23 @@
     "subcircuito": "CENTENARIO 2",
     "id": "FARMACIA-COMUNITARIA-Z8-D-S-C",
     "nombre_punto": "Farmacia comunitaria  caraguay"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 2",
+    "id": "CÁRNICOS-LOS-TOPOS-Z8-D-S-C",
+    "nombre_punto": "Cárnicos Los Topos"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 2",
+    "id": "LOCAL-POCHO-Z8-D-S-C",
+    "nombre_punto": "Local Pocho"
   }
 ]
