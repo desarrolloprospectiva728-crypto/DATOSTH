@@ -9637,5 +9637,32 @@
     "subcircuito": "CATARAMA 1",
     "id": "MULTI-SERVICIOS-Z5-L-P-C",
     "nombre_punto": "MULTI SERVICIOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "BAN-ECUADOR-Z5-L-P-C",
+    "nombre_punto": "BAN ECUADOR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "FISCALÍA-DE-LOS-RIOS-Z5-L-P-C",
+    "nombre_punto": "FISCALÍA DE LOS RIOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "HOSPITAL-DEL-DÍA-SAN-JOSE-Z5-L-V-A",
+    "nombre_punto": "HOSPITAL DEL DÍA SAN JOSE"
   }
 ]
