@@ -9727,5 +9727,32 @@
     "subcircuito": "CATARAMA 1",
     "id": "PSICOMED-PHARMACY-Z5-L-P-C",
     "nombre_punto": "PSICOMED PHARMACY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "EMPANADAS-DE-MAMITA-TECHI-Z5-L-P-C",
+    "nombre_punto": "EMPANADAS DE MAMITA TECHI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "UNIDAD-EDUCATIVA-11-DE-OCTUBRE-Z5-L-P-C",
+    "nombre_punto": "UNIDAD EDUCATIVA 11 DE OCTUBRE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "TIENDA-ABARROTE-DUANES-Z5-L-P-C",
+    "nombre_punto": "TIENDA ABARROTE DUANES"
   }
 ]
