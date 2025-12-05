@@ -9664,5 +9664,14 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "HOSPITAL-DEL-DÍA-SAN-JOSE-Z5-L-V-A",
     "nombre_punto": "HOSPITAL DEL DÍA SAN JOSE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "COMERCIAL-MARTINEZ-Z5-L-V-A",
+    "nombre_punto": "COMERCIAL MARTINEZ"
   }
 ]
