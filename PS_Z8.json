@@ -22327,5 +22327,86 @@
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "LOCAL-DE-COMIDA-EBENEZER-AV-AGDON-CALDERON-BANANEROS-3-Z8-D-S-U",
     "nombre_punto": "LOCAL DE COMIDA EBENEZER AV AGDON CALDERON  BANANEROS 3"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "2025-10-09T05:00:00.000Z",
+    "circuito": "2025-10-09T05:00:00.000Z",
+    "subcircuito": "2001-10-09T05:00:00.000Z",
+    "id": "PAPELERIA-JRS-Z8-D-9-9",
+    "nombre_punto": "PAPELERIA JRS"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 1",
+    "id": "FARMACIA-CRUZ-AZUL-FLORESTA-1-Z8-D-S-F",
+    "nombre_punto": "Farmacia Cruz Azul Floresta 1"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "2025-10-09T05:00:00.000Z",
+    "circuito": "2025-10-09T05:00:00.000Z",
+    "subcircuito": "2001-10-09T05:00:00.000Z",
+    "id": "NAPOLEON-Z8-D-9-9",
+    "nombre_punto": "NAPOLEON"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 1",
+    "id": "ÓPTICA-JIREH-VISIÓN-ALADO-DE-TRAJES-ALTAMIRANO-Z8-D-S-F",
+    "nombre_punto": "Óptica Jireh Visión alado de trajes altamirano"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "PORTETE",
+    "subcircuito": "PORTETE 4",
+    "id": "BANCO-DE-GUAYAQUIL-Z8-D-P-P",
+    "nombre_punto": "banco de Guayaquil"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 1",
+    "id": "TRAJES-ALTAMIRANO-FLORESTA-1-Z8-D-S-F",
+    "nombre_punto": "Trajes Altamirano Floresta 1"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "LOCAL-SÚPER-BOLON-Z8-D-S-F",
+    "nombre_punto": "Local Súper bolon"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "MULTI-CYBER-Z8-D-S-F",
+    "nombre_punto": "Multi cyber"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "TALLER-DE-ZAPATERÍA-Z8-D-S-F",
+    "nombre_punto": "Taller de zapatería"
   }
 ]
