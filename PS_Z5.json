@@ -9808,5 +9808,14 @@
     "subcircuito": "CATARAMA 1",
     "id": "CENTRO-DE-SALUD-CATARAMA-Z5-L-P-C",
     "nombre_punto": "CENTRO DE SALUD CATARAMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "LAVANDERÍA-CATARAMA-Z5-L-P-C",
+    "nombre_punto": "LAVANDERÍA CATARAMA"
   }
 ]
