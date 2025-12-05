@@ -22462,5 +22462,23 @@
     "subcircuito": "CENTENARIO 2",
     "id": "LOCAL-POCHO-Z8-D-S-C",
     "nombre_punto": "Local Pocho"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "GUASMO",
+    "subcircuito": "GUASMO 3",
+    "id": "0929746337-Z8-D-S-G",
+    "nombre_punto": 929746337
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "GUASMO",
+    "subcircuito": "GUASMO 3",
+    "id": "POLLO-A-LA-BRASA-GUASMO-3-DIAGONAL-AL-HOSPITAL-Z8-D-S-G",
+    "nombre_punto": "Pollo a la Brasa guasmo 3 diagonal al hospital"
   }
 ]
