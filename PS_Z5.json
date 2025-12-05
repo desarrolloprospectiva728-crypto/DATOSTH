@@ -9835,5 +9835,14 @@
     "subcircuito": "CATARAMA 1",
     "id": "CLUB-DE-LEONES-Z5-L-P-C",
     "nombre_punto": "CLUB DE LEONES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EL TRIUNFO BUCAY",
+    "circuito": "EL TRIUNFO ESTE",
+    "subcircuito": "EL TRIUNFO ESTE 1",
+    "id": "COMERCIAL-MINI-Z5-G-E-E",
+    "nombre_punto": "Comercial mini"
   }
 ]
