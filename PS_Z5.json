@@ -9772,5 +9772,14 @@
     "subcircuito": "CATARAMA 1",
     "id": "PARQUE-DEL-ÑINO-Z5-L-P-C",
     "nombre_punto": "PARQUE DEL ÑINO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "COMERCIAL-TIÑE-Z5-L-P-C",
+    "nombre_punto": "COMERCIAL TIÑE"
   }
 ]
