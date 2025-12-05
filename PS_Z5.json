@@ -9781,5 +9781,23 @@
     "subcircuito": "CATARAMA 1",
     "id": "COMERCIAL-TIÑE-Z5-L-P-C",
     "nombre_punto": "COMERCIAL TIÑE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "CARNICOS-TAMY-Z5-L-P-C",
+    "nombre_punto": "CARNICOS TAMY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "COMERCIAL-HARO-Z5-L-P-C",
+    "nombre_punto": "COMERCIAL HARO"
   }
 ]
