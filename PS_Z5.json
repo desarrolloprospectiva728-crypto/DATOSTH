@@ -9817,5 +9817,23 @@
     "subcircuito": "CATARAMA 1",
     "id": "LAVANDERÍA-CATARAMA-Z5-L-P-C",
     "nombre_punto": "LAVANDERÍA CATARAMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "DESPENSA-4-HERMANOS-Z5-L-P-C",
+    "nombre_punto": "DESPENSA 4 HERMANOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "CLUB-DE-LEONES-Z5-L-P-C",
+    "nombre_punto": "CLUB DE LEONES"
   }
 ]
