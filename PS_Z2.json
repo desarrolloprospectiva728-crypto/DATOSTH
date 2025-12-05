@@ -3985,5 +3985,14 @@
     "subcircuito": "FAJARDO 2",
     "id": "CENTRO-DE-BELLA-MARY-Z2-P-R-F",
     "nombre_punto": "CENTRO DE BELLA MARY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "MOLINUCO",
+    "subcircuito": "MOLINUCO 2",
+    "id": "TUTI-Z2-P-R-M",
+    "nombre_punto": "Tuti"
   }
 ]
