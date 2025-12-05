@@ -3301,5 +3301,14 @@
     "subcircuito": "FRONTERA 3",
     "id": "JUGUERIA-FORO-10-Z1-E-S-F",
     "nombre_punto": "JUGUERIA FORO 10"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 1",
+    "id": "FERRIHOGAR-Z1-I-T-C",
+    "nombre_punto": "FerriHogar"
   }
 ]
