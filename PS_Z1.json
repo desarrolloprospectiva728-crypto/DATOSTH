@@ -3319,5 +3319,14 @@
     "subcircuito": "LIMONES 3",
     "id": "5-DE-JUNIO-Y-JUAN-PÍO-MONTUFAR-Z1-E-E-L",
     "nombre_punto": "BanEcuador"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 1",
+    "id": "GASOLINA-DE-ROCAFUERTE-Z1-E-R-M",
+    "nombre_punto": "GASOLINA DE ROCAFUERTE"
   }
 ]
