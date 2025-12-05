@@ -3310,5 +3310,14 @@
     "subcircuito": "COTACACHI 1",
     "id": "FERRIHOGAR-Z1-I-T-C",
     "nombre_punto": "FerriHogar"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 3",
+    "id": "5-DE-JUNIO-Y-JUAN-PÍO-MONTUFAR-Z1-E-E-L",
+    "nombre_punto": "BanEcuador"
   }
 ]
