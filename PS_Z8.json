@@ -22246,5 +22246,41 @@
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "LOCAL-BROSTER-PIZZA-DE-COLOMBIA-AV-AGDON-CALDERON-BANANEROS-3-Z8-D-S-U",
     "nombre_punto": "LOCAL BROSTER PIZZA DE COLOMBIA AV AGDON CALDERON  BANANEROS  3"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "FARMACIA-EL-DESCUENTON-U.-BANANERO3-Z8-D-S-U",
+    "nombre_punto": "FARMACIA EL DESCUENTON U. BANANERO3"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "SALINAS",
+    "subcircuito": "SALINAS 2",
+    "id": "TALLER-ARCALLE-Z8-D-P-S",
+    "nombre_punto": "TALLER ARCALLE"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "LOCAL-PASTELERIA-WINNY-JOKY-AV-AGDON-CALDERON-BANANEROS-3-Z8-D-S-U",
+    "nombre_punto": "LOCAL PASTELERIA WINNY JOKY AV AGDON CALDERON BANANEROS 3"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "VETERINARIA-DELFICAR-U.BANANERO3-Z8-D-S-U",
+    "nombre_punto": "VETERINARIA DELFICAR U.BANANERO3"
   }
 ]
