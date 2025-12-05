@@ -9754,5 +9754,23 @@
     "subcircuito": "CATARAMA 1",
     "id": "TIENDA-ABARROTE-DUANES-Z5-L-P-C",
     "nombre_punto": "TIENDA ABARROTE DUANES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "SANTO-PECADO-Z5-L-P-C",
+    "nombre_punto": "COMEDOR SANTO PECADO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "PARQUE-DEL-ÑINO-Z5-L-P-C",
+    "nombre_punto": "PARQUE DEL ÑINO"
   }
 ]
