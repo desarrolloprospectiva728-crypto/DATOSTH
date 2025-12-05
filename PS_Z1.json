@@ -3328,5 +3328,14 @@
     "subcircuito": "MONTALVO 1",
     "id": "GASOLINA-DE-ROCAFUERTE-Z1-E-R-M",
     "nombre_punto": "GASOLINA DE ROCAFUERTE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "LAS PALMERAS",
+    "subcircuito": "LAS PALMERAS 1",
+    "id": "FRIGORÍFICO-NICOL-Z1-S-L-L",
+    "nombre_punto": "Frigorífico Nicol"
   }
 ]
