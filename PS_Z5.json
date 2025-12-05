@@ -9601,5 +9601,14 @@
     "subcircuito": "RICAURTE 1",
     "id": "MERCADO-MUNICIPAL-ELIECER-VILLAMAR-Z5-L-P-R",
     "nombre_punto": "MERCADO MUNICIPAL ELIECER VILLAMAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "FRUTERIA-TRES-HERMANOS-Z5-L-P-C",
+    "nombre_punto": "FRUTERIA TRES HERMANOS"
   }
 ]
