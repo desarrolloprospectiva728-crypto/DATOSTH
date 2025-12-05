@@ -22174,5 +22174,41 @@
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "FARMACIA-360-Z8-D-S-U",
     "nombre_punto": "Farmacia 360"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "2025-10-09T05:00:00.000Z",
+    "circuito": "VICTORIA",
+    "subcircuito": "VICTORIA 4",
+    "id": "MEGA-SHOPPING-Z8-D-9-V",
+    "nombre_punto": "MEGA SHOPPING"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 1",
+    "id": "FARMACIA-BOLÍVAR-U.BANANERO1-Z8-D-S-U",
+    "nombre_punto": "FARMACIA BOLÍVAR U.BANANERO1"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "LOCAL-AVIFIP-AV-ABDON-CALDERON-Z8-D-S-U",
+    "nombre_punto": "Local Avifip Av Abdon Calderon"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 1",
+    "id": "ASADERO-EL-MANABA-JOSTIN-Z8-D-S-U",
+    "nombre_punto": "ASADERO EL MANABA JOSTIN"
   }
 ]
