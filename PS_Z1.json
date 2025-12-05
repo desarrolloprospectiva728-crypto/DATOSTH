@@ -3346,5 +3346,14 @@
     "subcircuito": "PARQUE ECOLOGICO 1",
     "id": "MINI-MARKET-CHIQUI-Z1-S-L-P",
     "nombre_punto": "Mini market Chiqui"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "PUERTO DEL CARMEN",
+    "subcircuito": "PUERTO DEL CARMEN 1",
+    "id": "BAN-ECUADOR-Z1-S-P-P",
+    "nombre_punto": "BAN ECUADOR"
   }
 ]
