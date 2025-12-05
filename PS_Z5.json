@@ -9628,5 +9628,14 @@
     "subcircuito": "CATARAMA 1",
     "id": "MEGA-SHOPPING-Z5-L-P-C",
     "nombre_punto": "MEGA SHOPPING"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "CATARAMA",
+    "subcircuito": "CATARAMA 1",
+    "id": "MULTI-SERVICIOS-Z5-L-P-C",
+    "nombre_punto": "MULTI SERVICIOS"
   }
 ]
