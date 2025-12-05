@@ -3634,5 +3634,14 @@
     "subcircuito": "ZARUMA 1",
     "id": "UTPL-Z7-E-Z-Z",
     "nombre_punto": "UTPL"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "OCHOA LEON",
+    "subcircuito": "OCHOA LEON 1",
+    "id": "PANADERÍA-NOVA-PAM-Z7-E-P-O",
+    "nombre_punto": "Panadería Nova Pam"
   }
 ]
