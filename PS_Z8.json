@@ -22111,5 +22111,32 @@
     "subcircuito": "7 LAGOS 3",
     "id": "FARMACIA-CRUZ-AZUL-LOS-TULIPANES-Z8-D-S-7",
     "nombre_punto": "Farmacia Cruz Azul Los Tulipanes"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "GUASMO",
+    "subcircuito": "GUASMO 3",
+    "id": "FARMACIA-JAZDE-PARADA-12-Z8-D-S-G",
+    "nombre_punto": "Farmacia Jazde parada 12"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "GUASMO",
+    "subcircuito": "GUASMO 3",
+    "id": "RESTAURANTE-NIÑO-ALEJANDRO-PARADA-12-Z8-D-S-G",
+    "nombre_punto": "Restaurante Niño Alejandro parada 12"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 1",
+    "id": "LOCAL-TIA-GO-BANANEROS-1-Z8-D-S-U",
+    "nombre_punto": "Local Tia Go Bananeros 1"
   }
 ]
