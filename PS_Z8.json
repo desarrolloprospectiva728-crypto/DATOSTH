@@ -22300,5 +22300,23 @@
     "subcircuito": "2004-10-09T05:00:00.000Z",
     "id": "MINIMARKET-SAN-VICENTE-Z8-D-9-9",
     "nombre_punto": "MINIMARKET SAN VICENTE"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 1",
+    "id": "LOCAL-DE-PRODUCTOS-VARIOS-LIMPIEZA-U.BANANERO-Z8-D-S-U",
+    "nombre_punto": "LOCAL DE PRODUCTOS VARIOS LIMPIEZA U.BANANERO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "2025-10-09T05:00:00.000Z",
+    "circuito": "2025-10-09T05:00:00.000Z",
+    "subcircuito": "2002-10-09T05:00:00.000Z",
+    "id": "FARMA-SERVICIO-BOYACA-Z8-D-9-9",
+    "nombre_punto": "FARMA SERVICIO BOYACA"
   }
 ]
