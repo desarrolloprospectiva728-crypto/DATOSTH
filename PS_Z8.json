@@ -22210,5 +22210,41 @@
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "ASADERO-EL-MANABA-JOSTIN-Z8-D-S-U",
     "nombre_punto": "ASADERO EL MANABA JOSTIN"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "SALINAS",
+    "subcircuito": "SALINAS 4",
+    "id": "BAZAR-Y-PAPELERIA-Z8-D-P-S",
+    "nombre_punto": "BAZAR Y PAPELERIA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "TUTI-DE-LA-AV-ABDON-CALDERÓN-Z8-D-S-U",
+    "nombre_punto": "Tuti de la Av Abdon Calderón"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "LOCAL-PLÁSTIC-ARCE-AV-ABDON-CALDERON-Z8-D-S-U",
+    "nombre_punto": "Local Plástic Arce Av Abdon Calderon"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "UNION DE BANANEROS",
+    "subcircuito": "UNION DE BANANEROS 3",
+    "id": "LOCAL-BROSTER-PIZZA-DE-COLOMBIA-AV-AGDON-CALDERON-BANANEROS-3-Z8-D-S-U",
+    "nombre_punto": "LOCAL BROSTER PIZZA DE COLOMBIA AV AGDON CALDERON  BANANEROS  3"
   }
 ]
