@@ -9862,5 +9862,23 @@
     "subcircuito": "PIJULLO 1",
     "id": "TIENDA-DON-FREDDY-Z5-L-P-P",
     "nombre_punto": "TIENDA DON FREDDY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "COMERDOR-GABY-Z5-L-V-V",
+    "nombre_punto": "COMERDOR GABY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "PATATAS-FRIT-Z5-L-V-V",
+    "nombre_punto": "PATATAS FRIT"
   }
 ]
