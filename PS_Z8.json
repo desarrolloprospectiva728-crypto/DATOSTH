@@ -22525,5 +22525,14 @@
     "subcircuito": "FLORESTA 2",
     "id": "ASADERO-HERMANO-GARCISA-AV-RAUL-CLEMENTE-HUERTA-Z8-D-S-F",
     "nombre_punto": "Asadero Hermano Garcisa Av Raul CLEMENTE Huerta"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "GUASMO",
+    "subcircuito": "GUASMO 2",
+    "id": "MI-PEYUCO-GUASMO2-Z8-D-S-G",
+    "nombre_punto": "MI PEYUCO GUASMO2"
   }
 ]
