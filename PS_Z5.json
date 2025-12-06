@@ -9898,5 +9898,23 @@
     "subcircuito": "VINCES SUR 1",
     "id": "TIO-GUILLO-Z5-L-V-V",
     "nombre_punto": "TIO GUILLO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "HAVOLINE-Z5-L-V-V",
+    "nombre_punto": "HAVOLINE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PIJULLO",
+    "subcircuito": "PIJULLO 1",
+    "id": "SEGURO-CAMPESINO-Z5-L-P-P",
+    "nombre_punto": "Seguro campesino"
   }
 ]
