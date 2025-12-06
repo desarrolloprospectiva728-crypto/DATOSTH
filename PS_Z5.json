@@ -9916,5 +9916,23 @@
     "subcircuito": "PIJULLO 1",
     "id": "SEGURO-CAMPESINO-Z5-L-P-P",
     "nombre_punto": "Seguro campesino"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "MANAN'-SPORT-Z5-L-V-V",
+    "nombre_punto": "Manan' Sport"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "SUPERMERCADO-ESCOBAR-Z5-L-V-A",
+    "nombre_punto": "SUPERMERCADO ESCOBAR"
   }
 ]
