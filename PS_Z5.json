@@ -9952,5 +9952,23 @@
     "subcircuito": "PIJULLO 1",
     "id": "BOTICA-ECOSALUD-Z5-L-P-P",
     "nombre_punto": "BOTICA ECOSALUD"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "COMERCIAL-YORENTTI-Z5-L-V-V",
+    "nombre_punto": "Comercial Yorentti"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PIJULLO",
+    "subcircuito": "PIJULLO 1",
+    "id": "TIENDA-ANTHONY-Z5-L-P-P",
+    "nombre_punto": "TIENDA ANTHONY"
   }
 ]
