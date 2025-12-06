@@ -9970,5 +9970,14 @@
     "subcircuito": "PIJULLO 1",
     "id": "TIENDA-ANTHONY-Z5-L-P-P",
     "nombre_punto": "TIENDA ANTHONY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PIJULLO",
+    "subcircuito": "PIJULLO 1",
+    "id": "ESCUELA-ALFONSO-BUSTAMANTE-CASTRO-Z5-L-P-P",
+    "nombre_punto": "ESCUELA ALFONSO BUSTAMANTE CASTRO"
   }
 ]
