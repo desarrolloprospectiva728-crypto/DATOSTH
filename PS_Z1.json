@@ -3355,5 +3355,14 @@
     "subcircuito": "PUERTO DEL CARMEN 1",
     "id": "BAN-ECUADOR-Z1-S-P-P",
     "nombre_punto": "BAN ECUADOR"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LA PRIMAVERA",
+    "subcircuito": "LA PRIMAVERA 1",
+    "id": "HOTEL-SEVILLA-DE-ORO-Z1-S-S-L",
+    "nombre_punto": "HOTEL SEVILLA DE ORO"
   }
 ]
