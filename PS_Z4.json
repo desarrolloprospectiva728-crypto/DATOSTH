@@ -6559,5 +6559,14 @@
     "subcircuito": "BAHIA 1",
     "id": "DIAGONAL-EL-RESTAURANTE-EL-CHONERO-Z4-M-S-B",
     "nombre_punto": "Diagonal el restaurante el chonero"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL GUABITO",
+    "subcircuito": "EL GUABITO 1",
+    "id": "TIENDA-DON-TAPIA-Z4-M-P-E",
+    "nombre_punto": "TIENDA DON TAPIA"
   }
 ]
