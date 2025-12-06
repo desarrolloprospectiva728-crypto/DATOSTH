@@ -9934,5 +9934,23 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "SUPERMERCADO-ESCOBAR-Z5-L-V-A",
     "nombre_punto": "SUPERMERCADO ESCOBAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PIJULLO",
+    "subcircuito": "PIJULLO 1",
+    "id": "CENTRO-DE-SALUD-PIJULLO-Z5-L-P-P",
+    "nombre_punto": "CENTRO DE SALUD PIJULLO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PIJULLO",
+    "subcircuito": "PIJULLO 1",
+    "id": "BOTICA-ECOSALUD-Z5-L-P-P",
+    "nombre_punto": "BOTICA ECOSALUD"
   }
 ]
