@@ -3355,5 +3355,14 @@
     "subcircuito": "LA PRIMAVERA 1",
     "id": "HOTEL-SEVILLA-DE-ORO-Z1-S-S-L",
     "nombre_punto": "HOTEL SEVILLA DE ORO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 1",
+    "id": "PUBLICIDAD-ENCALADA-Z1-S-S-S",
+    "nombre_punto": "PUBLICIDAD ENCALADA"
   }
 ]
