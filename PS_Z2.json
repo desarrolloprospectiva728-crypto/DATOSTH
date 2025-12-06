@@ -4021,5 +4021,14 @@
     "subcircuito": "TANDAPI 1",
     "id": "MINIMARKET-MAYRA-Z2-P-R-T",
     "nombre_punto": "MINIMARKET MAYRA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "FAJARDO",
+    "subcircuito": "FAJARDO 1",
+    "id": "FARMACIAS-ECONOMICAS-Z2-P-R-F",
+    "nombre_punto": "FARMACIAS ECONOMICAS"
   }
 ]
