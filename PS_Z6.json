@@ -2572,5 +2572,14 @@
     "subcircuito": "LAS NIEVES 1",
     "id": "COMERCIAL-LOS-ANDES-Z6-A-N-L",
     "nombre_punto": "COMERCIAL LOS ANDES"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "CASA-MALENA-Z6-A-G-G",
+    "nombre_punto": "CASA MALENA"
   }
 ]
