@@ -22516,5 +22516,14 @@
     "subcircuito": "7 LAGOS 3",
     "id": "PELUQUERÍA-RUTH-GOROZABEL-7-LAGOS-3-DOMINGO-COMIN-Z8-D-S-7",
     "nombre_punto": "Peluquería Ruth Gorozabel 7 Lagos 3 Domingo comin"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "FLORESTA",
+    "subcircuito": "FLORESTA 2",
+    "id": "ASADERO-HERMANO-GARCISA-AV-RAUL-CLEMENTE-HUERTA-Z8-D-S-F",
+    "nombre_punto": "Asadero Hermano Garcisa Av Raul CLEMENTE Huerta"
   }
 ]
