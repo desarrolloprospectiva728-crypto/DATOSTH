@@ -22498,5 +22498,23 @@
     "subcircuito": "SUBURBIO 2",
     "id": "ABARROTE-SU-ECONOMÍA-Z8-D-P-S",
     "nombre_punto": "ABARROTE SU ECONOMÍA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 3",
+    "id": "SHAWARMA-UPITO-Z8-D-S-C",
+    "nombre_punto": "SHAWARMA UPITO CENT 3"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "7 LAGOS",
+    "subcircuito": "7 LAGOS 3",
+    "id": "PELUQUERÍA-RUTH-GOROZABEL-7-LAGOS-3-DOMINGO-COMIN-Z8-D-S-7",
+    "nombre_punto": "Peluquería Ruth Gorozabel 7 Lagos 3 Domingo comin"
   }
 ]
