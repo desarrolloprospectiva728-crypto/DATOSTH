@@ -9979,5 +9979,14 @@
     "subcircuito": "PIJULLO 1",
     "id": "ESCUELA-ALFONSO-BUSTAMANTE-CASTRO-Z5-L-P-P",
     "nombre_punto": "ESCUELA ALFONSO BUSTAMANTE CASTRO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PIJULLO",
+    "subcircuito": "PIJULLO 1",
+    "id": "AGRO-FARCROP-Z5-L-P-P",
+    "nombre_punto": "AGRO FARCROP"
   }
 ]
