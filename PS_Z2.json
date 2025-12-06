@@ -4012,5 +4012,14 @@
     "subcircuito": "TANDAPI 1",
     "id": "HOTEL-ESPAÑA-Z2-P-R-T",
     "nombre_punto": "HOTEL ESPAÑA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "TANDAPI",
+    "subcircuito": "TANDAPI 1",
+    "id": "MINIMARKET-MAYRA-Z2-P-R-T",
+    "nombre_punto": "MINIMARKET MAYRA"
   }
 ]
