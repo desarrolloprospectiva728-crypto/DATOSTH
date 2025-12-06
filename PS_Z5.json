@@ -9853,5 +9853,14 @@
     "subcircuito": "PIJULLO 1",
     "id": "CENTRO-DE-ACOPIO-POTOSI-Z5-L-P-P",
     "nombre_punto": "CENTRO DE ACOPIO POTOSI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PIJULLO",
+    "subcircuito": "PIJULLO 1",
+    "id": "TIENDA-DON-FREDDY-Z5-L-P-P",
+    "nombre_punto": "TIENDA DON FREDDY"
   }
 ]
