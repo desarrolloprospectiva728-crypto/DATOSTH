@@ -9880,5 +9880,23 @@
     "subcircuito": "VINCES SUR 1",
     "id": "PATATAS-FRIT-Z5-L-V-V",
     "nombre_punto": "PATATAS FRIT"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PIJULLO",
+    "subcircuito": "PIJULLO 1",
+    "id": "COLISEO-POTOSÍ-Z5-L-P-P",
+    "nombre_punto": "COLISEO POTOSÍ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "TIO-GUILLO-Z5-L-V-V",
+    "nombre_punto": "TIO GUILLO"
   }
 ]
