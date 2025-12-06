@@ -22480,5 +22480,23 @@
     "subcircuito": "GUASMO 3",
     "id": "POLLO-A-LA-BRASA-GUASMO-3-DIAGONAL-AL-HOSPITAL-Z8-D-S-G",
     "nombre_punto": "Pollo a la Brasa guasmo 3 diagonal al hospital"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "SUBURBIO",
+    "subcircuito": "SUBURBIO 2",
+    "id": "ENCEBOLLADO-ALFONSO-Z8-D-P-S",
+    "nombre_punto": "ENCEBOLLADO ALFONSO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "SUBURBIO",
+    "subcircuito": "SUBURBIO 2",
+    "id": "ABARROTE-SU-ECONOMÍA-Z8-D-P-S",
+    "nombre_punto": "ABARROTE SU ECONOMÍA"
   }
 ]
