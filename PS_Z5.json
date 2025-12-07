@@ -9997,5 +9997,14 @@
     "subcircuito": "VIRGEN DE FATIMA 1",
     "id": "FABRICA-ASKELGADO-Z5-G-Y-V",
     "nombre_punto": "Fabrica Askelgado"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "ECHEANDIA",
+    "subcircuito": "ECHEANDIA 1",
+    "id": "URBANIZACIÓN-HUERTOS-DEL-EDEN-Z5-B-S-E",
+    "nombre_punto": "Urbanización Huertos del Eden"
   }
 ]
