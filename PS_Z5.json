@@ -9988,5 +9988,14 @@
     "subcircuito": "PIJULLO 1",
     "id": "AGRO-FARCROP-Z5-L-P-P",
     "nombre_punto": "AGRO FARCROP"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "VIRGEN DE FATIMA",
+    "subcircuito": "VIRGEN DE FATIMA 1",
+    "id": "FABRICA-ASKELGADO-Z5-G-Y-V",
+    "nombre_punto": "Fabrica Askelgado"
   }
 ]
