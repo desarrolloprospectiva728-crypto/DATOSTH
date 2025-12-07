@@ -3643,5 +3643,14 @@
     "subcircuito": "OCHOA LEON 1",
     "id": "PANADERÍA-NOVA-PAM-Z7-E-P-O",
     "nombre_punto": "Panadería Nova Pam"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ZAPOTILLO",
+    "circuito": "PALETILLAS",
+    "subcircuito": "PALETILLAS 1",
+    "id": "TIENDA-ANTHONY-Z7-L-Z-P",
+    "nombre_punto": "TIENDA ANTHONY"
   }
 ]
