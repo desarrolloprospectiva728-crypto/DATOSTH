@@ -22570,5 +22570,14 @@
     "subcircuito": "9 DE octubre",
     "id": "SU-ECONOMIA-DESPENSA-Z8-D-9-9",
     "nombre_punto": "SU ECONOMIA DESPENSA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "PORTETE",
+    "subcircuito": "PORTETE 1",
+    "id": "RK-DENTAL-Z8-D-P-P",
+    "nombre_punto": "Rk Dental"
   }
 ]
