@@ -3670,5 +3670,14 @@
     "subcircuito": "ZUMBI 1",
     "id": "TIENDA-LUISITO-Z7-Z-P-Z",
     "nombre_punto": "Tienda Luisito"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "PAQUISHA",
+    "circuito": "GUAYZIMI",
+    "subcircuito": "GUAYZIMI 1",
+    "id": "ESCUELA-MONSEÑOR-JORGE-MOSQUERA-Z7-Z-P-G",
+    "nombre_punto": "Escuela Monseñor Jorge Mosquera"
   }
 ]
