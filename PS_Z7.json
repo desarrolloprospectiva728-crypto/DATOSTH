@@ -3661,5 +3661,14 @@
     "subcircuito": "ZUMBI 1",
     "id": "TIENDA-LUISITO-Z7-Z-P-Z",
     "nombre_punto": "Tienda Luisito"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "PAQUISHA",
+    "circuito": "ZUMBI",
+    "subcircuito": "ZUMBI 1",
+    "id": "TIENDA-LUISITO-Z7-Z-P-Z",
+    "nombre_punto": "Tienda Luisito"
   }
 ]
