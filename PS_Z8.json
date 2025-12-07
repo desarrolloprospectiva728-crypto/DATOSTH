@@ -22579,5 +22579,14 @@
     "subcircuito": "PORTETE 1",
     "id": "RK-DENTAL-Z8-D-P-P",
     "nombre_punto": "Rk Dental"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "SALINAS",
+    "subcircuito": "SALINAS 4",
+    "id": "DAN-URBAN-CLOTHING-Z8-D-P-S",
+    "nombre_punto": "DAN URBAN CLOTHING"
   }
 ]
