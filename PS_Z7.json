@@ -3652,5 +3652,14 @@
     "subcircuito": "PALETILLAS 1",
     "id": "TIENDA-ANTHONY-Z7-L-Z-P",
     "nombre_punto": "TIENDA ANTHONY"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "PAQUISHA",
+    "circuito": "ZUMBI",
+    "subcircuito": "ZUMBI 1",
+    "id": "TIENDA-LUISITO-Z7-Z-P-Z",
+    "nombre_punto": "Tienda Luisito"
   }
 ]
