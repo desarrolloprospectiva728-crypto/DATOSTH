@@ -22615,5 +22615,14 @@
     "subcircuito": "2005-10-09T05:00:00.000Z",
     "id": "TALLER-DE-ESCAPE-BLAZER-Z8-D-9-9",
     "nombre_punto": "TALLER DE ESCAPE BLAZER"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "2025-10-09T05:00:00.000Z",
+    "circuito": "2025-10-09T05:00:00.000Z",
+    "subcircuito": "2003-10-09T05:00:00.000Z",
+    "id": "CREDIKASA-Z8-D-9-9",
+    "nombre_punto": "CREDIKASA"
   }
 ]
