@@ -10006,5 +10006,14 @@
     "subcircuito": "ECHEANDIA 1",
     "id": "URBANIZACIÓN-HUERTOS-DEL-EDEN-Z5-B-S-E",
     "nombre_punto": "Urbanización Huertos del Eden"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "VULCANIZADORA-Z5-L-P-R",
+    "nombre_punto": "Vulcanizadora"
   }
 ]
