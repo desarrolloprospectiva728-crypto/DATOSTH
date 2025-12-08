@@ -4030,5 +4030,14 @@
     "subcircuito": "FAJARDO 1",
     "id": "FARMACIAS-ECONOMICAS-Z2-P-R-F",
     "nombre_punto": "FARMACIAS ECONOMICAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "MISAHUALLI",
+    "subcircuito": "MISAHUALLI 1",
+    "id": "RESTAURANTE-BIJAO-Z2-N-T-M",
+    "nombre_punto": "Restaurante Bijao"
   }
 ]
