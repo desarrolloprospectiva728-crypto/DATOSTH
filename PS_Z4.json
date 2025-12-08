@@ -6577,5 +6577,14 @@
     "subcircuito": "LOS ESTEROS 3",
     "id": "CONSERVAS-ISABEL-Z4-M-M-L",
     "nombre_punto": "Conservas Isabel"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 3",
+    "id": "FABRICA-SEAFMAN-Z4-M-M-L",
+    "nombre_punto": "FABRICA SEAFMAN"
   }
 ]
