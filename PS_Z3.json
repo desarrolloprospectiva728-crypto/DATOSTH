@@ -3778,5 +3778,14 @@
     "subcircuito": "SHELL MERA 1",
     "id": "COLISEO-PARROQUIAL-SHELL-Z3-P-P-S",
     "nombre_punto": "Coliseo Parroquial Shell"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "SAN BARTOLOME DE PINLLO",
+    "subcircuito": "SAN BARTOLOME DE PINLLO 2",
+    "id": "POLLOS'D-CAMPO-Z3-T-A-S",
+    "nombre_punto": "POLLOS'D CAMPO"
   }
 ]
