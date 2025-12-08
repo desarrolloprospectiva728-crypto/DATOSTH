@@ -6568,5 +6568,14 @@
     "subcircuito": "EL GUABITO 1",
     "id": "TIENDA-DON-TAPIA-Z4-M-P-E",
     "nombre_punto": "TIENDA DON TAPIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LOS ESTEROS",
+    "subcircuito": "LOS ESTEROS 3",
+    "id": "CONSERVAS-ISABEL-Z4-M-M-L",
+    "nombre_punto": "Conservas Isabel"
   }
 ]
