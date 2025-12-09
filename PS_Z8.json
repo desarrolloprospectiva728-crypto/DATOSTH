@@ -22642,5 +22642,14 @@
     "subcircuito": "CISNE 4",
     "id": "FERRETERIA-ISABEL-Z8-D-P-C",
     "nombre_punto": "Ferreteria ISABEL"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "CISNE",
+    "subcircuito": "CISNE 2",
+    "id": "BAZAR-SEBASTIAN-JR.-Z8-D-P-C",
+    "nombre_punto": "Bazar SEBASTIAN JR."
   }
 ]
