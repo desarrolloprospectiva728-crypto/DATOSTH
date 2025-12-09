@@ -22633,5 +22633,14 @@
     "subcircuito": "PORTETE 2",
     "id": "COMERCIAL-UNIDAS-Z8-D-P-P",
     "nombre_punto": "COMERCIAL UNIDAS"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "CISNE",
+    "subcircuito": "CISNE 4",
+    "id": "FERRETERIA-ISABEL-Z8-D-P-C",
+    "nombre_punto": "Ferreteria ISABEL"
   }
 ]
