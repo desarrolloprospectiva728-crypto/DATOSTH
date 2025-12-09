@@ -10042,5 +10042,14 @@
     "subcircuito": "SALINAS CENTRO 1",
     "id": "FERRETERÍA-ITALIANA-Z5-S-L-S",
     "nombre_punto": "Ferretería Italiana"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "JUJAN SIMON BOLIVAR",
+    "circuito": "JUJAN ESTE",
+    "subcircuito": "JUJAN ESTE 1",
+    "id": "TUTI-Z5-G-J-J",
+    "nombre_punto": "TUTI"
   }
 ]
