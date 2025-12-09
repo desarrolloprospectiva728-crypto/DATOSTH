@@ -3778,5 +3778,14 @@
     "subcircuito": "SAN BARTOLOME DE PINLLO 2",
     "id": "POLLOS'D-CAMPO-Z3-T-A-S",
     "nombre_punto": "POLLOS'D CAMPO"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "COLISEO-SANTA-ROSA-Z3-T-A-S",
+    "nombre_punto": "Coliseo Santa Rosa"
   }
 ]
