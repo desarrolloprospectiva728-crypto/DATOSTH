@@ -22624,5 +22624,14 @@
     "subcircuito": "2003-10-09T05:00:00.000Z",
     "id": "CREDIKASA-Z8-D-9-9",
     "nombre_punto": "CREDIKASA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "PORTETE",
+    "subcircuito": "PORTETE 2",
+    "id": "COMERCIAL-UNIDAS-Z8-D-P-P",
+    "nombre_punto": "COMERCIAL UNIDAS"
   }
 ]
