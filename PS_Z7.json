@@ -3688,5 +3688,14 @@
     "subcircuito": "ZUMBA 1",
     "id": "TIENDA-DE-BARROTES-EITAN-Z7-Z-C-Z",
     "nombre_punto": "TIENDA DE BARROTES EITAN"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "PRIVILEGIO",
+    "subcircuito": "PRIVILEGIO 1",
+    "id": "UNIDAD-EDUCATIVA-DR.-JOSÉ-MARÍA-VELASCO-IBARRA-Z7-E-P-P",
+    "nombre_punto": "Unidad Educativa Dr. José María Velasco Ibarra"
   }
 ]
