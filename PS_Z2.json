@@ -4057,5 +4057,14 @@
     "subcircuito": "MOLINUCO 2",
     "id": "VERNAZA-GRAFIC-Z2-P-R-M",
     "nombre_punto": "Vernaza Grafic"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "BAZAR-Y-PAPELERÍA-BEZA-Z2-N-E-S",
+    "nombre_punto": "BAZAR Y PAPELERÍA BEZA"
   }
 ]
