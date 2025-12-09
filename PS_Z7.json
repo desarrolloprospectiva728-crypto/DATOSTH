@@ -3670,5 +3670,14 @@
     "subcircuito": "GUAYZIMI 1",
     "id": "ESCUELA-MONSEÑOR-JORGE-MOSQUERA-Z7-Z-P-G",
     "nombre_punto": "Escuela Monseñor Jorge Mosquera"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "CHINCHIPE",
+    "circuito": "ZUMBA",
+    "subcircuito": "ZUMBA 1",
+    "id": "CREDILOJA-Z7-Z-C-Z",
+    "nombre_punto": "CREDILOJA"
   }
 ]
