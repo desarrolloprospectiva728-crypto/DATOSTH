@@ -3679,5 +3679,14 @@
     "subcircuito": "ZUMBA 1",
     "id": "CREDILOJA-Z7-Z-C-Z",
     "nombre_punto": "CREDILOJA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "CHINCHIPE",
+    "circuito": "ZUMBA",
+    "subcircuito": "ZUMBA 1",
+    "id": "TIENDA-DE-BARROTES-EITAN-Z7-Z-C-Z",
+    "nombre_punto": "TIENDA DE BARROTES EITAN"
   }
 ]
