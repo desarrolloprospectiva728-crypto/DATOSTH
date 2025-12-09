@@ -10069,5 +10069,14 @@
     "subcircuito": "LA MERCED 2",
     "id": "COMEDOR-GAROFALO-Z5-L-Q-L",
     "nombre_punto": "Comedor Garofalo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "VIRGEN DEL CARMEN",
+    "subcircuito": "VIRGEN DEL CARMEN 1",
+    "id": "FARMACIA-SANTHA-MARTHA-Z5-S-L-V",
+    "nombre_punto": "Farmacia Santha Martha"
   }
 ]
