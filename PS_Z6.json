@@ -2671,5 +2671,23 @@
     "subcircuito": "GUALAQUIZA 1",
     "id": "PAPI-CHICKEN-Z6-M-S-G",
     "nombre_punto": "PAPI CHICKEN"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR - MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "COMERCIAL-VIMAR-Z6-M-S-G",
+    "nombre_punto": "COMERCIAL VIMAR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR - MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "POLLOS-HOT-Z6-M-S-G",
+    "nombre_punto": "POLLOS HOT"
   }
 ]
