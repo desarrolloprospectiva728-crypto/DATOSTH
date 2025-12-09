@@ -2590,5 +2590,23 @@
     "subcircuito": "BIBLIAN 1",
     "id": "LA-BODEGA-BIBLIAN-Z6-C-A-B",
     "nombre_punto": "LA BODEGA BIBLIAN"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "CAÑARIBAMBA",
+    "subcircuito": "CAÑARIBAMBA 1",
+    "id": "PAPITAS-CON-CUERO-LA-HUECA-Z6-A-C-C",
+    "nombre_punto": "Papitas con cuero La Hueca"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TOTORACOCHA",
+    "subcircuito": "TOTORACOCHA 1",
+    "id": "PAPITAS-CON-CUERO-LA-HUECA-Z6-A-C-T",
+    "nombre_punto": "Papitas con cuero La Hueca"
   }
 ]
