@@ -2608,5 +2608,14 @@
     "subcircuito": "TOTORACOCHA 1",
     "id": "PAPITAS-CON-CUERO-LA-HUECA-Z6-A-C-T",
     "nombre_punto": "Papitas con cuero La Hueca"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MENDEZ",
+    "circuito": "PATUCA",
+    "subcircuito": "PATUCA 1",
+    "id": "MERCADO-TAYUZA-Z6-M-M-P",
+    "nombre_punto": "MERCADO TAYUZA"
   }
 ]
