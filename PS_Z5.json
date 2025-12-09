@@ -10051,5 +10051,23 @@
     "subcircuito": "JUJAN ESTE 1",
     "id": "TUTI-Z5-G-J-J",
     "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "CENTRO-DE-REHABILITACIÓN-Z5-L-P-S",
+    "nombre_punto": "CENTRO DE REHABILITACIÓN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 2",
+    "id": "COMEDOR-GAROFALO-Z5-L-Q-L",
+    "nombre_punto": "Comedor Garofalo"
   }
 ]
