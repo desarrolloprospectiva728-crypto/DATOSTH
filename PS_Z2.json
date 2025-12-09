@@ -4048,5 +4048,14 @@
     "subcircuito": "MISAHUALLI 1",
     "id": "BOTICA-SU-SALUD-Z2-N-T-M",
     "nombre_punto": "Botica Su salud"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "MOLINUCO",
+    "subcircuito": "MOLINUCO 2",
+    "id": "VERNAZA-GRAFIC-Z2-P-R-M",
+    "nombre_punto": "Vernaza Grafic"
   }
 ]
