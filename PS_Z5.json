@@ -10033,5 +10033,14 @@
     "subcircuito": "2001-06-05T05:00:00.000Z",
     "id": "BAZAR-Y-LIBRERÍA-LUPITA-Z5-S-L-5",
     "nombre_punto": "Bazar y Librería Lupita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SALINAS CENTRO",
+    "subcircuito": "SALINAS CENTRO 1",
+    "id": "FERRETERÍA-ITALIANA-Z5-S-L-S",
+    "nombre_punto": "Ferretería Italiana"
   }
 ]
