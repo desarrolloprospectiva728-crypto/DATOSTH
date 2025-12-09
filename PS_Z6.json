@@ -2617,5 +2617,14 @@
     "subcircuito": "PATUCA 1",
     "id": "MERCADO-TAYUZA-Z6-M-M-P",
     "nombre_punto": "MERCADO TAYUZA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "SUCUA",
+    "subcircuito": "SUCUA 1",
+    "id": "GASOLINERA-TORRES-L-Z6-M-C-S",
+    "nombre_punto": "GASOLINERA TORRES L"
   }
 ]
