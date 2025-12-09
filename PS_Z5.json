@@ -10078,5 +10078,14 @@
     "subcircuito": "VIRGEN DEL CARMEN 1",
     "id": "FARMACIA-SANTHA-MARTHA-Z5-S-L-V",
     "nombre_punto": "Farmacia Santha Martha"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "MONTAÑITA",
+    "subcircuito": "MONTAÑITA 1",
+    "id": "HOSPITAL-BÁSICO-MANGLARALTO-Z5-S-S-M",
+    "nombre_punto": "Hospital Básico Manglaralto"
   }
 ]
