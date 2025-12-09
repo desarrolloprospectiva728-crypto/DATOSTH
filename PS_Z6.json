@@ -2635,5 +2635,14 @@
     "subcircuito": "SUCUA 1",
     "id": "MERCADO-MUNICIPAL-DE-SUCUA-Z6-M-C-S",
     "nombre_punto": "MERCADO MUNICIPAL DE SUCUA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "SUCUA",
+    "subcircuito": "SUCUA 1",
+    "id": "PARQUE-CENTRAL-DE-SUCUA-Z6-M-C-S",
+    "nombre_punto": "PARQUE CENTRAL DE SUCUA"
   }
 ]
