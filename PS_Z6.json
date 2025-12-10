@@ -2734,5 +2734,14 @@
     "subcircuito": "DELEG 1",
     "id": "JEFATURA-POLÍTICA-Z6-C-A-D",
     "nombre_punto": "JEFATURA POLÍTICA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "TIENDA-DE-ABARROTES-Z6-A-S-S",
+    "nombre_punto": "Tienda de Abarrotes"
   }
 ]
