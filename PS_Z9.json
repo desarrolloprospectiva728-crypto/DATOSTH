@@ -7360,5 +7360,131 @@
     "subcircuito": "",
     "id": "POLLOS_STAV_LD_CT",
     "nombre_punto": "POLLOS STAV - COTOCOLLAO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LA DELICIA",
+    "circuito": "CARCELÉN",
+    "subcircuito": "",
+    "id": "POLLOS_DELIHOT_LD_CC",
+    "nombre_punto": "POLLOS BROASTER DELIHOT"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGALITO",
+    "subcircuito": "",
+    "id": "COOP_DE AHORRO_Y_CREDITO_COOPROGRESO_NA_NA",
+    "nombre_punto": "COOP DE AHORRO Y CREDITO COOPROGRESO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGAL",
+    "subcircuito": "",
+    "id": "LA_CASA_DEL_GANADERO_NA_NL",
+    "nombre_punto": "LA CASA DEL GANADERO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "NANEGAL",
+    "subcircuito": "",
+    "id": "BAZAR_PRECIO_JUSTO_NA_NL",
+    "nombre_punto": "BAZAR PRECIO JUSTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "PACTO",
+    "subcircuito": "",
+    "id": "SUPERMERCADO_SUPER_PACTO_NA_PC",
+    "nombre_punto": "SUPERMERCADO SUPER PACTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "NANEGAL",
+    "circuito": "PACTO",
+    "subcircuito": "",
+    "id": "TRANSPORTE_COOP_MINAS_NA_PC",
+    "nombre_punto": "TRANSPORTE COOP MINAS"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "SANTA ISABEL",
+    "subcircuito": "",
+    "id": "VIVERES_DON_PANCHO_LC_SI",
+    "nombre_punto": "VIVERES DON PANCHO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "SANTA ISABEL",
+    "subcircuito": "",
+    "id": "SUPERMERCADOS_REGALON_LC_SI",
+    "nombre_punto": "SUPERMERCADOS REGALON"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO SUR",
+    "subcircuito": "",
+    "id": "TIA_CONOCOTO_LC_CS",
+    "nombre_punto": "TIA CONOCOTO"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "CONOCOTO SUR",
+    "subcircuito": "",
+    "id": "FARMACIA_CRUZ_AZUL_LC_CS",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "AMAGUAÑA CENTRO",
+    "subcircuito": "",
+    "id": "PAPELERIA_AMAGUANA_LC_AC",
+    "nombre_punto": "PAPELERIA AMAGUAÑA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "AMAGUAÑA CENTRO",
+    "subcircuito": "",
+    "id": "SEDE_COOPERATIVA_AMAGUANA_LC_AC",
+    "nombre_punto": "SEDE COOPERATIVA AMAGUAÑA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "AMAGUAÑA CENTRO",
+    "subcircuito": "",
+    "id": "VIVERES_LORENA_LC_AC",
+    "nombre_punto": "VIVERES LORENA"
+  },
+  {
+    "zona": "ZONA 9",
+    "subzona": "DMQ",
+    "distrito": "LOS CHILLOS",
+    "circuito": "ALANGASÍ",
+    "subcircuito": "",
+    "id": "PANADERIA_HOT_BREAD_LC_AL",
+    "nombre_punto": "PANADERIA HOT BREAD"
   }
 ]
