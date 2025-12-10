@@ -2725,5 +2725,14 @@
     "subcircuito": "DELEG 1",
     "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-COOPERCO-Z6-C-A-D",
     "nombre_punto": "COOPERATIVA DE AHORRO Y CRÉDITO COOPERCO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "DELEG",
+    "subcircuito": "DELEG 1",
+    "id": "JEFATURA-POLÍTICA-Z6-C-A-D",
+    "nombre_punto": "JEFATURA POLÍTICA"
   }
 ]
