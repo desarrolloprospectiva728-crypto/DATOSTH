@@ -4075,5 +4075,14 @@
     "subcircuito": "COCA OCCIDENTE 5",
     "id": "MUNDI-AHORRO-SUPERMERCADO-Z2-O-O-C",
     "nombre_punto": "Mundi Ahorro Supermercado"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "RUMIÑAHUI - MEJIA",
+    "circuito": "MOLINUCO",
+    "subcircuito": "MOLINUCO 1",
+    "id": "CASA-DEL-CUY-Z2-P-R-M",
+    "nombre_punto": "Casa del Cuy"
   }
 ]
