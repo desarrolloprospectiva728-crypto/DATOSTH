@@ -2698,5 +2698,14 @@
     "subcircuito": "GUALAQUIZA 1",
     "id": "UNIDAD-JUDICIAL-MULTICOMPETENTE-Z6-M-S-G",
     "nombre_punto": "Unidad Judicial Multicompetente"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR - MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "SERVIENTREGA-Z6-M-S-G",
+    "nombre_punto": "SERVIENTREGA"
   }
 ]
