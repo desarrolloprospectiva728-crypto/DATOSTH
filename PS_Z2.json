@@ -4066,5 +4066,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 2",
     "id": "BAZAR-Y-PAPELERÍA-BEZA-Z2-N-E-S",
     "nombre_punto": "BAZAR Y PAPELERÍA BEZA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 5",
+    "id": "MUNDI-AHORRO-SUPERMERCADO-Z2-O-O-C",
+    "nombre_punto": "Mundi Ahorro Supermercado"
   }
 ]
