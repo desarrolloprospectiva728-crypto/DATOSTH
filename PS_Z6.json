@@ -2707,5 +2707,14 @@
     "subcircuito": "GUALAQUIZA 1",
     "id": "SERVIENTREGA-Z6-M-S-G",
     "nombre_punto": "SERVIENTREGA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "SUR - MORONA",
+    "circuito": "GUALAQUIZA",
+    "subcircuito": "GUALAQUIZA 1",
+    "id": "MUNDO-CEL-Z6-M-S-G",
+    "nombre_punto": "MUNDO CEL"
   }
 ]
