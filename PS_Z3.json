@@ -150,7 +150,7 @@
     "circuito": "GUANO",
     "subcircuito": "GUANO 1",
     "id": "SUPERMARKET-MONTALVO-Z3-C-G-G",
-    "nombre_punto": "SUPERMARKET MONTALVO"
+    "nombre_punto": "PARQUE EL BATAN"
   },
   {
     "zona": "ZONA 3",
@@ -159,7 +159,7 @@
     "circuito": "GUANO",
     "subcircuito": "GUANO 1",
     "id": "RICAS-CHOLAS-Z3-C-G-G",
-    "nombre_punto": "RICAS CHOLAS"
+    "nombre_punto": "PLAZA ROJA"
   },
   {
     "zona": "ZONA 3",
@@ -276,7 +276,7 @@
     "circuito": "SANTA FE DE GALAN",
     "subcircuito": "SANTA FE DE GALAN 1",
     "id": "VIVERES-DOÑA-PATY-Z3-C-G-S",
-    "nombre_punto": "VIVERES DOÑA PATY"
+    "nombre_punto": "CONJUNTO HABITACIONAL IRAZU"
   },
   {
     "zona": "ZONA 3",
@@ -285,7 +285,7 @@
     "circuito": "GUANO",
     "subcircuito": "GUANO 2",
     "id": "NEYMATEX-Z3-C-G-G",
-    "nombre_punto": "NEYMATEX"
+    "nombre_punto": "PARQUE CENTRAL (PARADA DE TAXIS)"
   },
   {
     "zona": "ZONA 3",
@@ -303,7 +303,7 @@
     "circuito": "GUANO",
     "subcircuito": "GUANO 2",
     "id": "FERRETERÍA-SANTA-ANITA-Z3-C-G-G",
-    "nombre_punto": "FERRETERÍA SANTA ANITA"
+    "nombre_punto": "PARQUE DE LOS ELENES"
   },
   {
     "zona": "ZONA 3",
@@ -321,7 +321,7 @@
     "circuito": "SANTA FE DE GALAN",
     "subcircuito": "SANTA FE DE GALAN 1",
     "id": "VIVERES-AREVALO-Z3-C-G-S",
-    "nombre_punto": "VIVERES AREVALO"
+    "nombre_punto": "ESTACION DE COMBUSTIBLE COLSA"
   },
   {
     "zona": "ZONA 3",
@@ -330,7 +330,7 @@
     "circuito": "SANTA FE DE GALAN",
     "subcircuito": "SANTA FE DE GALAN 1",
     "id": "VÍVERES-MACARA-Z3-C-G-S",
-    "nombre_punto": "VÍVERES MACARA"
+    "nombre_punto": "PARADA DE TAXIS SANTA TERESITA"
   },
   {
     "zona": "ZONA 3",
@@ -339,7 +339,7 @@
     "circuito": "SANTA FE DE GALAN",
     "subcircuito": "SANTA FE DE GALAN 1",
     "id": "VÍVERES-JHONATAN-Z3-C-G-S",
-    "nombre_punto": "VÍVERES JHONATAN"
+    "nombre_punto": "ESCUELA DE EDUCACION BASICA JOSE ANTONIO LIZARZABURU"
   },
   {
     "zona": "ZONA 3",
@@ -402,7 +402,7 @@
     "circuito": "SAN ANDRES",
     "subcircuito": "SAN ANDRES 2",
     "id": "TIENDA-DE-ABARROTES-MARIA-Z3-C-G-S",
-    "nombre_punto": "TIENDA DE ABARROTES MARIA"
+    "nombre_punto": "FABRICA DE CORTINAS DEL BARRIO PREMATUROS"
   },
   {
     "zona": "ZONA 3",
@@ -411,7 +411,7 @@
     "circuito": "SAN ANDRES",
     "subcircuito": "SAN ANDRES 2",
     "id": "FARMACIA-ECONÓMICA-Z3-C-G-S",
-    "nombre_punto": "FARMACIA ECONÓMICA"
+    "nombre_punto": "SUBCENTRO DE BALZAYAN"
   },
   {
     "zona": "ZONA 3",
@@ -429,7 +429,7 @@
     "circuito": "SAN ANDRES",
     "subcircuito": "SAN ANDRES 2",
     "id": "FRIGO-MARKET-Z3-C-G-S",
-    "nombre_punto": "FRIGO MARKET"
+    "nombre_punto": "PARQUE DE BATZACON"
   },
   {
     "zona": "ZONA 3",
@@ -447,7 +447,7 @@
     "circuito": "SAN ANDRES",
     "subcircuito": "SAN ANDRES 2",
     "id": "MOLINOS-DE-AGUA-SAN-ANDRÉS-Z3-C-G-S",
-    "nombre_punto": "MOLINOS DE AGUA SAN ANDRÉS"
+    "nombre_punto": "PARQUE SAN ISIDRO"
   },
   {
     "zona": "ZONA 3",
@@ -618,7 +618,7 @@
     "circuito": "PENIPE",
     "subcircuito": "",
     "id": "LIBRERÍA-Y-BASAR-PATY-Z3-C-G-P",
-    "nombre_punto": "LIBRERÍA Y BASAR PATY"
+    "nombre_punto": "PARQUE CENTRAL DE PENIPE"
   },
   {
     "zona": "ZONA 3",
@@ -663,7 +663,7 @@
     "circuito": "PENIPE",
     "subcircuito": "PENIPE 1",
     "id": "FARMACIAVID-Z3-C-G-P",
-    "nombre_punto": "FARMACIAVID"
+    "nombre_punto": "PARQUE CENTRAL BAYUSHIG"
   },
   {
     "zona": "ZONA 3",
