@@ -6604,5 +6604,14 @@
     "subcircuito": "PEDERNALES NORTE 1",
     "id": "ROSSY-HAUSE-Z4-M-P-P",
     "nombre_punto": "Rossy Hause"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "JARAMIJO",
+    "subcircuito": "JARAMIJO 2",
+    "id": "MANABITA-DE-COMERCIO-Z4-M-M-J",
+    "nombre_punto": "MANABITA DE COMERCIO"
   }
 ]
