@@ -10096,5 +10096,14 @@
     "subcircuito": "VINCES SUR 1",
     "id": "UE-CARLOS-COELLO-ICAZA-Z5-L-V-V",
     "nombre_punto": "UE CARLOS COELLO ICAZA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "PALMAR",
+    "subcircuito": "PALMAR 1",
+    "id": "PANADERIA-ARTESA-Z5-S-S-P",
+    "nombre_punto": "PANADERIA ARTESA"
   }
 ]
