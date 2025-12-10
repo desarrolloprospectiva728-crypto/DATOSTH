@@ -2716,5 +2716,14 @@
     "subcircuito": "GUALAQUIZA 1",
     "id": "MUNDO-CEL-Z6-M-S-G",
     "nombre_punto": "MUNDO CEL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "DELEG",
+    "subcircuito": "DELEG 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-COOPERCO-Z6-C-A-D",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CRÉDITO COOPERCO"
   }
 ]
