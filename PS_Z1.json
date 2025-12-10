@@ -3364,5 +3364,14 @@
     "subcircuito": "SHUSHUFINDI CENTRO 1",
     "id": "PUBLICIDAD-ENCALADA-Z1-S-S-S",
     "nombre_punto": "PUBLICIDAD ENCALADA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL NORTE",
+    "subcircuito": "SAN GABRIEL NORTE 1",
+    "id": "GASOLINERA-PETROECUADOR-\"EL-ÁNGEL\"-Z1-C-M-S",
+    "nombre_punto": "GASOLINERA PETROECUADOR \"EL ÁNGEL\""
   }
 ]
