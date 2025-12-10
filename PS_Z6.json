@@ -2743,5 +2743,14 @@
     "subcircuito": "SIGSIG 2",
     "id": "TIENDA-DE-ABARROTES-Z6-A-S-S",
     "nombre_punto": "Tienda de Abarrotes"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "PUCARA",
+    "subcircuito": "PUCARA 1",
+    "id": "FERRETERÍA-DISENSA-Z6-A-G-P",
+    "nombre_punto": "Ferretería DISENSA"
   }
 ]
