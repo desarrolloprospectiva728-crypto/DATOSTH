@@ -10087,5 +10087,14 @@
     "subcircuito": "MONTAÑITA 1",
     "id": "HOSPITAL-BÁSICO-MANGLARALTO-Z5-S-S-M",
     "nombre_punto": "Hospital Básico Manglaralto"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "UE-CARLOS-COELLO-ICAZA-Z5-L-V-V",
+    "nombre_punto": "UE CARLOS COELLO ICAZA"
   }
 ]
