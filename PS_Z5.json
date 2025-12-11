@@ -10105,5 +10105,14 @@
     "subcircuito": "PALMAR 1",
     "id": "PANADERIA-ARTESA-Z5-S-S-P",
     "nombre_punto": "PANADERIA ARTESA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "VICTORIA",
+    "subcircuito": "VICTORIA 1",
+    "id": "PILADORA-TRES-HERMANOS-Z5-G-S-V",
+    "nombre_punto": "PILADORA TRES HERMANOS"
   }
 ]
