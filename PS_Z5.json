@@ -10141,5 +10141,14 @@
     "subcircuito": "ROBERTO ASTUDILLO 1",
     "id": "MINI-BAZAR-FM-Z5-G-M-R",
     "nombre_punto": "MINI BAZAR FM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "MEGAMARKET-LA-40-Z5-L-V-V",
+    "nombre_punto": "MEGAMARKET LA 40"
   }
 ]
