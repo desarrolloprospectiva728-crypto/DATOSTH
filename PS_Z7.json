@@ -3724,5 +3724,14 @@
     "subcircuito": "SARACAY 1",
     "id": "BURGUER-RESTAURANT-Z7-E-P-S",
     "nombre_punto": "BURGUER RESTAURANT"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "HUALTACO",
+    "subcircuito": "HUALTACO 3",
+    "id": "ZONA-BANCARIA-Z7-E-H-H",
+    "nombre_punto": "Zona Bancaria"
   }
 ]
