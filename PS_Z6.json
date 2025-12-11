@@ -2770,5 +2770,14 @@
     "subcircuito": "PAUTE 1",
     "id": "BANCO-DEL-AUSTRO-Z6-A-P-P",
     "nombre_punto": "BANCO DEL AUSTRO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES NORTE",
+    "subcircuito": "AZOGUES NORTE 1",
+    "id": "LA-BODEGA-PLAZA-DE-LA-JUVENTUD-Z6-C-A-A",
+    "nombre_punto": "LA BODEGA PLAZA DE LA JUVENTUD"
   }
 ]
