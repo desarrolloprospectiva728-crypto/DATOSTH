@@ -2779,5 +2779,14 @@
     "subcircuito": "AZOGUES NORTE 1",
     "id": "LA-BODEGA-PLAZA-DE-LA-JUVENTUD-Z6-C-A-A",
     "nombre_punto": "LA BODEGA PLAZA DE LA JUVENTUD"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES NORTE",
+    "subcircuito": "AZOGUES NORTE 1",
+    "id": "LA-BODEGA-COMERCIAL-BARTOLOMÉ-SERRANO-Z6-C-A-A",
+    "nombre_punto": "LA BODEGA COMERCIAL BARTOLOMÉ SERRANO"
   }
 ]
