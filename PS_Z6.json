@@ -2761,5 +2761,14 @@
     "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
     "id": "MUNICIPIO-Z6-A-P-C",
     "nombre_punto": "Municipio"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "BANCO-DEL-AUSTRO-Z6-A-P-P",
+    "nombre_punto": "BANCO DEL AUSTRO"
   }
 ]
