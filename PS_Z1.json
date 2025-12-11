@@ -3382,5 +3382,14 @@
     "subcircuito": "SAN GABRIEL NORTE 1",
     "id": "UNIDAD-EDUCATIVA-ABDON-CALDERÓN-Z1-C-M-S",
     "nombre_punto": "UNIDAD EDUCATIVA ABDON CALDERÓN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "ARCANGEL",
+    "subcircuito": "ARCANGEL 2",
+    "id": "GASOLINERA-PRIMAX-LOS-OLIVOS-Z1-I-C-A",
+    "nombre_punto": "GASOLINERA PRIMAX LOS OLIVOS"
   }
 ]
