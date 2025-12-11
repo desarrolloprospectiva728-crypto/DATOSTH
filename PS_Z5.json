@@ -10150,5 +10150,32 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "MEGAMARKET-LA-40-Z5-L-V-V",
     "nombre_punto": "MEGAMARKET LA 40"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SAN MIGUEL",
+    "circuito": "SAN PABLO",
+    "subcircuito": "SAN PABLO 1",
+    "id": "FERRIDIMAC-Z5-B-S-S",
+    "nombre_punto": "FERRIDIMAC"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "MILAGRO",
+    "circuito": "CHOBO",
+    "subcircuito": "CHOBO 1",
+    "id": "SUPRALIVE-Z5-G-M-C",
+    "nombre_punto": "Supralive"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "COSTACOMTV-Z5-L-B-L",
+    "nombre_punto": "Costacomtv"
   }
 ]
