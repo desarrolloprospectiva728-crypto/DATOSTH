@@ -2797,5 +2797,14 @@
     "subcircuito": "AZOGUES NORTE 1",
     "id": "DISTRIBUIDORA-DE-ROPA-SKYLA-Z6-C-A-A",
     "nombre_punto": "DISTRIBUIDORA DE ROPA SKYLA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES OESTE",
+    "subcircuito": "AZOGUES OESTE 2",
+    "id": "LA-BODEGA-JAVIER-LOYOLA-Z6-C-A-A",
+    "nombre_punto": "LA BODEGA JAVIER LOYOLA"
   }
 ]
