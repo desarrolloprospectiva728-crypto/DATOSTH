@@ -2752,5 +2752,14 @@
     "subcircuito": "PUCARA 1",
     "id": "FERRETERÍA-DISENSA-Z6-A-G-P",
     "nombre_punto": "Ferretería DISENSA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "MUNICIPIO-Z6-A-P-C",
+    "nombre_punto": "Municipio"
   }
 ]
