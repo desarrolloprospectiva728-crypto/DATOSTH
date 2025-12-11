@@ -10177,5 +10177,14 @@
     "subcircuito": "LA UNION 1",
     "id": "COSTACOMTV-Z5-L-B-L",
     "nombre_punto": "Costacomtv"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "U.E-BEST-Z5-L-V-A",
+    "nombre_punto": "U.E BEST"
   }
 ]
