@@ -10123,5 +10123,23 @@
     "subcircuito": "VICTORIA 1",
     "id": "PILADORA-TRES-HERMANOS-Z5-G-S-V",
     "nombre_punto": "PILADORA TRES HERMANOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "MILAGRO",
+    "circuito": "ROBERTO ASTUDILLO",
+    "subcircuito": "ROBERTO ASTUDILLO 1",
+    "id": "MINI-BAZAR-FM-Z5-G-M-R",
+    "nombre_punto": "MINI BAZAR FM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "MILAGRO",
+    "circuito": "ROBERTO ASTUDILLO",
+    "subcircuito": "ROBERTO ASTUDILLO 1",
+    "id": "MINI-BAZAR-FM-Z5-G-M-R",
+    "nombre_punto": "MINI BAZAR FM"
   }
 ]
