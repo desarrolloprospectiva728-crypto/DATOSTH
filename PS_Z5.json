@@ -10114,5 +10114,14 @@
     "subcircuito": "VICTORIA 1",
     "id": "PILADORA-TRES-HERMANOS-Z5-G-S-V",
     "nombre_punto": "PILADORA TRES HERMANOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "VICTORIA",
+    "subcircuito": "VICTORIA 1",
+    "id": "PILADORA-TRES-HERMANOS-Z5-G-S-V",
+    "nombre_punto": "PILADORA TRES HERMANOS"
   }
 ]
