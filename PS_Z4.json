@@ -6613,5 +6613,14 @@
     "subcircuito": "JARAMIJO 2",
     "id": "MANABITA-DE-COMERCIO-Z4-M-M-J",
     "nombre_punto": "MANABITA DE COMERCIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "CHARAPOTO",
+    "subcircuito": "CHARAPOTO 1",
+    "id": "SECTOR-LAS-CORONAS-Z4-M-S-C",
+    "nombre_punto": "SECTOR LAS CORONAS"
   }
 ]
