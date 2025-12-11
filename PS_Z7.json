@@ -3706,5 +3706,14 @@
     "subcircuito": "ZUMBA 1",
     "id": "FRUTERÍA-MERINO-Z7-Z-C-Z",
     "nombre_punto": "Frutería merino"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "SIMON BOLIVAR",
+    "subcircuito": "SIMON BOLIVAR 1",
+    "id": "COMERCIALIZADORA-ESCAVI-Z7-E-M-S",
+    "nombre_punto": "COMERCIALIZADORA ESCAVI"
   }
 ]
