@@ -4084,5 +4084,14 @@
     "subcircuito": "MOLINUCO 1",
     "id": "CASA-DEL-CUY-Z2-P-R-M",
     "nombre_punto": "Casa del Cuy"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "DISTRITO-15D02-CHACO-QUIJOS-SALUD-Z2-N-E-S",
+    "nombre_punto": "DISTRITO 15D02 CHACO-QUIJOS SALUD"
   }
 ]
