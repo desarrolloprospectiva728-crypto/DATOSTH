@@ -3715,5 +3715,14 @@
     "subcircuito": "SIMON BOLIVAR 1",
     "id": "COMERCIALIZADORA-ESCAVI-Z7-E-M-S",
     "nombre_punto": "COMERCIALIZADORA ESCAVI"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PIÑAS",
+    "circuito": "SARACAY",
+    "subcircuito": "SARACAY 1",
+    "id": "BURGUER-RESTAURANT-Z7-E-P-S",
+    "nombre_punto": "BURGUER RESTAURANT"
   }
 ]
