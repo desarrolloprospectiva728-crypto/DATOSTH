@@ -3733,14 +3733,5 @@
     "subcircuito": "HUALTACO 3",
     "id": "ZONA-BANCARIA-Z7-E-H-H",
     "nombre_punto": "Zona Bancaria"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "HUAQUILLAS",
-    "circuito": "HUALTACO",
-    "subcircuito": "HUALTACO 3",
-    "id": "ZONA-BANCARIA-Z7-E-H-H",
-    "nombre_punto": "Zona Bancaria"
   }
 ]
