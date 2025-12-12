@@ -22651,5 +22651,14 @@
     "subcircuito": "CISNE 2",
     "id": "BAZAR-SEBASTIAN-JR.-Z8-D-P-C",
     "nombre_punto": "Bazar SEBASTIAN JR."
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PROGRESO",
+    "circuito": "PROGRESO",
+    "subcircuito": "PROGRESO 1",
+    "id": "FARMACIA-CRUZ-VERDE-Z8-D-P-P",
+    "nombre_punto": "Farmacia Cruz verde"
   }
 ]
