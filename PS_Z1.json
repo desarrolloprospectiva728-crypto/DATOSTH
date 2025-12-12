@@ -3445,5 +3445,14 @@
     "subcircuito": "PALESTINA 1",
     "id": "LUBRICADORA-AGUIRRE-Z1-E-R-P",
     "nombre_punto": "LUBRICADORA AGUIRRE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 1",
+    "id": "ENERGYGAS-Z1-E-R-M",
+    "nombre_punto": "ENERGYGAS"
   }
 ]
