@@ -3787,5 +3787,14 @@
     "subcircuito": "SANTA ROSA 1",
     "id": "COLISEO-SANTA-ROSA-Z3-T-A-S",
     "nombre_punto": "Coliseo Santa Rosa"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "COTOPAXI",
+    "distrito": "DANSANTE",
+    "circuito": "LA ESPERANZA",
+    "subcircuito": "LA ESPERANZA 1",
+    "id": "PARADERO-FANNY-LU-Z3-C-D-L",
+    "nombre_punto": "PARADERO FANNY LU"
   }
 ]
