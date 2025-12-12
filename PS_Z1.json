@@ -3391,5 +3391,14 @@
     "subcircuito": "ARCANGEL 2",
     "id": "GASOLINERA-PRIMAX-LOS-OLIVOS-Z1-I-C-A",
     "nombre_punto": "GASOLINERA PRIMAX LOS OLIVOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "FARMACIA-ECONÓMICO-Z1-E-E-C",
+    "nombre_punto": "Farmacia económico"
   }
 ]
