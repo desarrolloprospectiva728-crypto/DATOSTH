@@ -3418,5 +3418,14 @@
     "subcircuito": "EL ANGEL 1",
     "id": "PARQUE-SAN-ISIDRO-Z1-C-E-E",
     "nombre_punto": "Parque San Isidro"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "EL ANGEL",
+    "subcircuito": "EL ANGEL 1",
+    "id": "JOSÉ-BENIGNO-GRIJALVA-Y-SALINAS-Z1-C-E-E",
+    "nombre_punto": "José benigno Grijalva y Salinas"
   }
 ]
