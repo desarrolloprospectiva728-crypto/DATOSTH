@@ -3436,5 +3436,14 @@
     "subcircuito": "PARQUE ECOLOGICO 1",
     "id": "FRUTI-TIENDA-ALEXANDER-Z1-S-L-P",
     "nombre_punto": "FRUTI TIENDA ALEXANDER"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "LUBRICADORA-AGUIRRE-Z1-E-R-P",
+    "nombre_punto": "LUBRICADORA AGUIRRE"
   }
 ]
