@@ -10168,5 +10168,14 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "U.E-BEST-Z5-L-V-A",
     "nombre_punto": "U.E BEST"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "LA YOLITA",
+    "subcircuito": "LA YOLITA 1",
+    "id": "IESS-Z5-G-D-L",
+    "nombre_punto": "IESS"
   }
 ]
