@@ -2806,5 +2806,23 @@
     "subcircuito": "AZOGUES OESTE 2",
     "id": "LA-BODEGA-JAVIER-LOYOLA-Z6-C-A-A",
     "nombre_punto": "LA BODEGA JAVIER LOYOLA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "DULCERIA-Z6-C-A-A",
+    "nombre_punto": "DULCERIA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "DULCERIA-Z6-C-A-A",
+    "nombre_punto": "DULCERIA"
   }
 ]
