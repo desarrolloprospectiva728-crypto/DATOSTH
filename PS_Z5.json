@@ -10177,5 +10177,14 @@
     "subcircuito": "LA YOLITA 1",
     "id": "IESS-Z5-G-D-L",
     "nombre_punto": "IESS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "NOBOL",
+    "subcircuito": "NOBOL 1",
+    "id": "GASOLINERA-TERPEL-Z5-G-D-N",
+    "nombre_punto": "Gasolinera terpel"
   }
 ]
