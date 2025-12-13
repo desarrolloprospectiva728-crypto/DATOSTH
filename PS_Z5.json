@@ -10186,5 +10186,14 @@
     "subcircuito": "NOBOL 1",
     "id": "GASOLINERA-TERPEL-Z5-G-D-N",
     "nombre_punto": "Gasolinera terpel"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "LAS NAVES",
+    "subcircuito": "LAS NAVES 1",
+    "id": "CENTRO-DE-SALUD-LAS-NAVES-Z5-B-S-L",
+    "nombre_punto": "CENTRO DE SALUD LAS NAVES"
   }
 ]
