@@ -3454,5 +3454,14 @@
     "subcircuito": "MONTALVO 1",
     "id": "ENERGYGAS-Z1-E-R-M",
     "nombre_punto": "ENERGYGAS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "LUMBAQUI",
+    "subcircuito": "LUMBAQUI 1",
+    "id": "TODO-ÚTILES-Z1-S-S-L",
+    "nombre_punto": "Todo útiles"
   }
 ]
