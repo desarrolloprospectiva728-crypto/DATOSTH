@@ -2824,5 +2824,14 @@
     "subcircuito": "AZOGUES SUR 1",
     "id": "DULCERIA-Z6-C-A-A",
     "nombre_punto": "DULCERIA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "LOGROÑO",
+    "subcircuito": "LOGROÑO 1",
+    "id": "PARQUE-LINEAL-MIRADOR-LOGROÑO-Z6-M-C-L",
+    "nombre_punto": "PARQUE LINEAL MIRADOR LOGROÑO"
   }
 ]
