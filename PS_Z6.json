@@ -2833,5 +2833,23 @@
     "subcircuito": "LOGROÑO 1",
     "id": "CACPE-GUALAQUIZA-CANTON-LOGROÑO-Z6-M-C-L",
     "nombre_punto": "CACPE GUALAQUIZA CANTON LOGROÑO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "EL SAGRARIO",
+    "subcircuito": "EL SAGRARIO 1",
+    "id": "0605332196-Z6-A-C-E",
+    "nombre_punto": 605332196
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "EL SAGRARIO",
+    "subcircuito": "EL SAGRARIO 1",
+    "id": "MINIMARKET-AMORE-Z6-A-C-E",
+    "nombre_punto": "MINIMARKET AMORE"
   }
 ]
