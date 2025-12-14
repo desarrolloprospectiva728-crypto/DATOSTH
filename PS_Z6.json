@@ -2818,15 +2818,6 @@
   },
   {
     "zona": "ZONA 6",
-    "subzona": "CAÑAR",
-    "distrito": "AZOGUES",
-    "circuito": "AZOGUES SUR",
-    "subcircuito": "AZOGUES SUR 1",
-    "id": "DULCERIA-Z6-C-A-A",
-    "nombre_punto": "DULCERIA"
-  },
-  {
-    "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
     "distrito": "CENTRO SUR",
     "circuito": "LOGROÑO",
