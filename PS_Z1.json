@@ -3463,5 +3463,14 @@
     "subcircuito": "LUMBAQUI 1",
     "id": "TODO-ÚTILES-Z1-S-S-L",
     "nombre_punto": "Todo útiles"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA INDEPENDENCIA",
+    "subcircuito": "LA INDEPENDENCIA 1",
+    "id": "ABARROTES-LA-INDEPENDENCIA-Z1-E-Q-L",
+    "nombre_punto": "ABARROTES LA INDEPENDENCIA"
   }
 ]
