@@ -3796,5 +3796,14 @@
     "subcircuito": "LA ESPERANZA 1",
     "id": "PARADERO-FANNY-LU-Z3-C-D-L",
     "nombre_punto": "PARADERO FANNY LU"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 1",
+    "id": "TEATRO-ERNESTO-ALBAN-Z3-T-A-M",
+    "nombre_punto": "Teatro Ernesto Alban"
   }
 ]
