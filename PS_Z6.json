@@ -2851,5 +2851,14 @@
     "subcircuito": "EL SAGRARIO 1",
     "id": "MINIMARKET-AMORE-Z6-A-C-E",
     "nombre_punto": "MINIMARKET AMORE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "TERMINAL-TERRESTRE-Z6-A-P-P",
+    "nombre_punto": "Terminal Terrestre"
   }
 ]
