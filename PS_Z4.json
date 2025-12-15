@@ -1946,15 +1946,6 @@
   {
     "zona": "ZONA 4",
     "subzona": "MANABI",
-    "distrito": "JIPIJAPA",
-    "circuito": "PUERTO LOPEZ",
-    "subcircuito": "PUERTO LOPEZ 1",
-    "id": "PARQUE-CENTRAL-PUERTO-LOPEZ-Z4-M-J-P",
-    "nombre_punto": "PARQUE CENTRAL PUERTO LOPEZ"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "MANABI",
     "distrito": "BOLIVAR JUNIN",
     "circuito": "QUIROGA",
     "subcircuito": "QUIROGA 1",
