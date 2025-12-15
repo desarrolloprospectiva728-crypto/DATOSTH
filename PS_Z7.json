@@ -3733,5 +3733,14 @@
     "subcircuito": "HUALTACO 3",
     "id": "ZONA-BANCARIA-Z7-E-H-H",
     "nombre_punto": "Zona Bancaria"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PIÑAS",
+    "circuito": "SAN ROQUE",
+    "subcircuito": "SAN ROQUE 2",
+    "id": "DOCTORCELL-Z7-E-P-S",
+    "nombre_punto": "doctorcell"
   }
 ]
