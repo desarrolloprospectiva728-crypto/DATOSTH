@@ -6622,5 +6622,14 @@
     "subcircuito": "CHARAPOTO 1",
     "id": "SECTOR-LAS-CORONAS-Z4-M-S-C",
     "nombre_punto": "SECTOR LAS CORONAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PILA",
+    "subcircuito": "LA PILA 1",
+    "id": "ZONA-FRANCA-LA-PILA-Z4-M-M-L",
+    "nombre_punto": "ZONA Franca La Pila"
   }
 ]
