@@ -3805,5 +3805,14 @@
     "subcircuito": "MIRAFLORES 1",
     "id": "TEATRO-ERNESTO-ALBAN-Z3-T-A-M",
     "nombre_punto": "Teatro Ernesto Alban"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO SUR",
+    "circuito": "TECHO PROPIO",
+    "subcircuito": "TECHO PROPIO 1",
+    "id": "ESTADIO-TECHO-PROPIO-Z3-T-A-T",
+    "nombre_punto": "ESTADIO TECHO PROPIO"
   }
 ]
