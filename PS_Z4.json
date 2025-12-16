@@ -6622,5 +6622,14 @@
     "subcircuito": "LA PILA 1",
     "id": "ZONA-FRANCA-LA-PILA-Z4-M-M-L",
     "nombre_punto": "ZONA Franca La Pila"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "ANDREA-ZAMBRANO-AESTHETIC-CENTER-Z4-M-P-P",
+    "nombre_punto": "Andrea Zambrano aesthetic Center"
   }
 ]
