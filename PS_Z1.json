@@ -3481,5 +3481,14 @@
     "subcircuito": "MIRA 1",
     "id": "PARADA-DE-BUSES-LA-PORTADA-Z1-C-E-M",
     "nombre_punto": "Parada de buses La Portada"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "LA CONCEPCION",
+    "subcircuito": "LA CONCEPCION 2",
+    "id": "CENTRO-DE-SALUD-Z1-C-E-L",
+    "nombre_punto": "CENTRO DE SALUD"
   }
 ]
