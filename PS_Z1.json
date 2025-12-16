@@ -3472,5 +3472,14 @@
     "subcircuito": "LA INDEPENDENCIA 1",
     "id": "ABARROTES-LA-INDEPENDENCIA-Z1-E-Q-L",
     "nombre_punto": "ABARROTES LA INDEPENDENCIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "MIRA",
+    "subcircuito": "MIRA 1",
+    "id": "PARADA-DE-BUSES-LA-PORTADA-Z1-C-E-M",
+    "nombre_punto": "Parada de buses La Portada"
   }
 ]
