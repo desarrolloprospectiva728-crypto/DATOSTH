@@ -4093,5 +4093,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 2",
     "id": "DISTRITO-15D02-CHACO-QUIJOS-SALUD-Z2-N-E-S",
     "nombre_punto": "DISTRITO 15D02 CHACO-QUIJOS SALUD"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "MOTOS-Y-MAX-Z2-N-T-P",
+    "nombre_punto": "Motos y Max"
   }
 ]
