@@ -2878,5 +2878,14 @@
     "subcircuito": "PAUTE 2",
     "id": "SUBCENTRO-DE-SALUD-DUG-DUG-Z6-A-P-P",
     "nombre_punto": "SUBCENTRO DE SALUD DUG DUG"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "LOCAL-REPUESTOS-AUTOMOTRIZ-PIDA-LO-MEJOR-Z6-A-N-N",
+    "nombre_punto": "LOCAL REPUESTOS AUTOMOTRIZ PIDA LO MEJOR"
   }
 ]
