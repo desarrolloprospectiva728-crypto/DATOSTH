@@ -10195,5 +10195,14 @@
     "subcircuito": "LAS NAVES 1",
     "id": "CENTRO-DE-SALUD-LAS-NAVES-Z5-B-S-L",
     "nombre_punto": "CENTRO DE SALUD LAS NAVES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "CHILLANES",
+    "circuito": "CHILLANES",
+    "subcircuito": "CHILLANES 1",
+    "id": "CASA-COMUNAL-DEL-RECINTO-SANTA-ROSA-DE-AGUA-CLARA-Z5-B-C-C",
+    "nombre_punto": "CASA COMUNAL DEL RECINTO SANTA ROSA DE AGUA CLARA"
   }
 ]
