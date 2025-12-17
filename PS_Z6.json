@@ -2869,5 +2869,14 @@
     "subcircuito": "GUALACEO 1",
     "id": "BAR-RESTAURANTE-DON-Q-Z6-A-G-G",
     "nombre_punto": "BAR-RESTAURANTE DON Q"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 2",
+    "id": "SUBCENTRO-DE-SALUD-DUG-DUG-Z6-A-P-P",
+    "nombre_punto": "SUBCENTRO DE SALUD DUG DUG"
   }
 ]
