@@ -3490,5 +3490,14 @@
     "subcircuito": "LA CONCEPCION 2",
     "id": "CENTRO-DE-SALUD-Z1-C-E-L",
     "nombre_punto": "CENTRO DE SALUD"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "FARMACIA-SAN-GREGORIO-Z1-E-E-C",
+    "nombre_punto": "Farmacia san gregorio"
   }
 ]
