@@ -2887,5 +2887,14 @@
     "subcircuito": "NABON 1",
     "id": "LOCAL-REPUESTOS-AUTOMOTRIZ-PIDA-LO-MEJOR-Z6-A-N-N",
     "nombre_punto": "LOCAL REPUESTOS AUTOMOTRIZ PIDA LO MEJOR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "GIRON",
+    "subcircuito": "GIRON 1",
+    "id": "RESTAURANTE-EL-PONGO-Z6-A-G-G",
+    "nombre_punto": "Restaurante EL PONGO"
   }
 ]
