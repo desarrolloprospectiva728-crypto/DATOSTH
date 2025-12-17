@@ -2860,5 +2860,14 @@
     "subcircuito": "PAUTE 1",
     "id": "TERMINAL-TERRESTRE-Z6-A-P-P",
     "nombre_punto": "Terminal Terrestre"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "BAR-RESTAURANTE-DON-Q-Z6-A-G-G",
+    "nombre_punto": "BAR-RESTAURANTE DON Q"
   }
 ]
