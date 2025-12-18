@@ -2896,5 +2896,14 @@
     "subcircuito": "GIRON 1",
     "id": "RESTAURANTE-EL-PONGO-Z6-A-G-G",
     "nombre_punto": "Restaurante EL PONGO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "LUDO",
+    "subcircuito": "LUDO 1",
+    "id": "VIA-PRINCIPAL-LUDO-Z6-A-S-L",
+    "nombre_punto": "VIA PRINCIPAL LUDO"
   }
 ]
