@@ -10222,5 +10222,14 @@
     "subcircuito": "ENGABAO 1",
     "id": "PUERTO-ENGABAO-Z5-G-P-E",
     "nombre_punto": "Puerto ENGABAO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "AGROQUÍMICOS-KALIDAD-Z5-L-V-B",
+    "nombre_punto": "AGROQUÍMICOS KALIDAD"
   }
 ]
