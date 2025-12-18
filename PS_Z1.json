@@ -3499,5 +3499,14 @@
     "subcircuito": "CENTRO 1",
     "id": "FARMACIA-SAN-GREGORIO-Z1-E-E-C",
     "nombre_punto": "Farmacia san gregorio"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "TRAS-LAS-PARRILLADAS-EL-CAPULÍ-Z1-C-M-S",
+    "nombre_punto": "Tras las Parrilladas El Capulí"
   }
 ]
