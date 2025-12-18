@@ -10249,5 +10249,14 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "TIENDA-4-HERMANAS-Z5-L-V-B",
     "nombre_punto": "TIENDA 4 HERMANAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "TIO-GUILLO-MARKET-Z5-L-V-B",
+    "nombre_punto": "TIO GUILLO MARKET"
   }
 ]
