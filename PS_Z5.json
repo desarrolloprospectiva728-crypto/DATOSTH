@@ -10258,5 +10258,14 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "TIO-GUILLO-MARKET-Z5-L-V-B",
     "nombre_punto": "TIO GUILLO MARKET"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "PARQUE-LINIAL.-\"LA-CEBOLLA\"-Z5-L-V-V",
+    "nombre_punto": "PARQUE LINIAL.  \"LA CEBOLLA\""
   }
 ]
