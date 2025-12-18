@@ -10213,5 +10213,14 @@
     "subcircuito": "CHILLANES 1",
     "id": "CENTRO-DE-SALUD-SANTA-ROSA-DE-AGUA-CLARA-Z5-B-C-C",
     "nombre_punto": "CENTRO DE SALUD SANTA ROSA DE AGUA CLARA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "ENGABAO",
+    "subcircuito": "ENGABAO 1",
+    "id": "PUERTO-ENGABAO-Z5-G-P-E",
+    "nombre_punto": "Puerto ENGABAO"
   }
 ]
