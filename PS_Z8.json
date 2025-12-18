@@ -22660,5 +22660,14 @@
     "subcircuito": "PROGRESO 1",
     "id": "FARMACIA-CRUZ-VERDE-Z8-D-P-P",
     "nombre_punto": "Farmacia Cruz verde"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PROGRESO",
+    "circuito": "POSORJA",
+    "subcircuito": "POSORJA 1",
+    "id": "MELISMARKET-(VÍA-PRINCIPAL-GUTIÉRREZ-CHAGUAY)-Z8-D-P-P",
+    "nombre_punto": "MELISMARKET (vía principal Gutiérrez chaguay)"
   }
 ]
