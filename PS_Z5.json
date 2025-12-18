@@ -10231,5 +10231,23 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "AGROQUÍMICOS-KALIDAD-Z5-L-V-B",
     "nombre_punto": "AGROQUÍMICOS KALIDAD"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "CONE",
+    "subcircuito": "CONE 1",
+    "id": "TESALIA-Z5-G-Y-C",
+    "nombre_punto": "TESALIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "TIENDA-4-HERMANAS-Z5-L-V-B",
+    "nombre_punto": "TIENDA 4 HERMANAS"
   }
 ]
