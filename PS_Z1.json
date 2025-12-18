@@ -3508,5 +3508,14 @@
     "subcircuito": "SAN GABRIEL SUR 1",
     "id": "TRAS-LAS-PARRILLADAS-EL-CAPULÍ-Z1-C-M-S",
     "nombre_punto": "Tras las Parrilladas El Capulí"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "LOS-ANDES,-TRAS-EL-TEATRO-ROMA-Z1-C-M-B",
+    "nombre_punto": "Los Andes, Tras el Teatro Roma"
   }
 ]
