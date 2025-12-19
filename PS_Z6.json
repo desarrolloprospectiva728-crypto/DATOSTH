@@ -2905,5 +2905,23 @@
     "subcircuito": "LUDO 1",
     "id": "VIA-PRINCIPAL-LUDO-Z6-A-S-L",
     "nombre_punto": "VIA PRINCIPAL LUDO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "BELLAVISTA",
+    "subcircuito": "BELLAVISTA 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-CREDIAMIGO-Z6-A-C-B",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CRÉDITO CREDIAMIGO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "BELLAVISTA",
+    "subcircuito": "BELLAVISTA 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-CREDIAMIGO-Z6-A-C-B",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CRÉDITO CREDIAMIGO"
   }
 ]
