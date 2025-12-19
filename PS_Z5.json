@@ -10276,5 +10276,14 @@
     "subcircuito": "SAN JOSE DE JUJAN 1",
     "id": "PILADORA-DON-EDUARDO-Z5-L-B-S",
     "nombre_punto": "PILADORA DON EDUARDO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SAN JOSE DE JUJAN",
+    "subcircuito": "SAN JOSE DE JUJAN 1",
+    "id": "AGRONATURE-Z5-L-B-S",
+    "nombre_punto": "AGRONATURE"
   }
 ]
