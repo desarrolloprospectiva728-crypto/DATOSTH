@@ -10267,5 +10267,14 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "PARQUE-LINIAL.-\"LA-CEBOLLA\"-Z5-L-V-V",
     "nombre_punto": "PARQUE LINIAL.  \"LA CEBOLLA\""
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SAN JOSE DE JUJAN",
+    "subcircuito": "SAN JOSE DE JUJAN 1",
+    "id": "PILADORA-DON-EDUARDO-Z5-L-B-S",
+    "nombre_punto": "PILADORA DON EDUARDO"
   }
 ]
