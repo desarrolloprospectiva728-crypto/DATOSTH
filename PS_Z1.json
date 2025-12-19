@@ -3517,5 +3517,14 @@
     "subcircuito": "BOLIVAR 1",
     "id": "LOS-ANDES,-TRAS-EL-TEATRO-ROMA-Z1-C-M-B",
     "nombre_punto": "Los Andes, Tras el Teatro Roma"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "QUIROGA",
+    "subcircuito": "QUIROGA 1",
+    "id": "U.E.-LUIS-PLUTARCO-CEVALLOS-Z1-I-T-Q",
+    "nombre_punto": "U.E. LUIS PLUTARCO CEVALLOS"
   }
 ]
