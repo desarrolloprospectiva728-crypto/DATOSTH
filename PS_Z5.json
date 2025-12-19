@@ -10303,5 +10303,14 @@
     "subcircuito": "PUERTO AGUAJE 1",
     "id": "ÍDOLO-1-Z5-S-L-P",
     "nombre_punto": "Ídolo 1"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "PUERTO AGUAJE",
+    "subcircuito": "PUERTO AGUAJE 1",
+    "id": "MINIMAKERT-PEPE-Z5-S-L-P",
+    "nombre_punto": "Minimakert Pepe"
   }
 ]
