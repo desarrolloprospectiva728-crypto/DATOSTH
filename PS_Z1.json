@@ -3544,5 +3544,14 @@
     "subcircuito": "COTACACHI 1",
     "id": "GASOLINERA-P&S-Z1-I-T-C",
     "nombre_punto": "GASOLINERA P&S"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "SELVA ALEGRE",
+    "subcircuito": "SELVA ALEGRE 1",
+    "id": "GOLOSINAS-AZINEY-Z1-E-E-S",
+    "nombre_punto": "Golosinas Aziney"
   }
 ]
