@@ -3526,5 +3526,14 @@
     "subcircuito": "QUIROGA 1",
     "id": "U.E.-LUIS-PLUTARCO-CEVALLOS-Z1-I-T-Q",
     "nombre_punto": "U.E. LUIS PLUTARCO CEVALLOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 2",
+    "id": "COMERCIAL-COTACACHI-Z1-I-T-C",
+    "nombre_punto": "COMERCIAL COTACACHI"
   }
 ]
