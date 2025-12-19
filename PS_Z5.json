@@ -10321,5 +10321,14 @@
     "subcircuito": "SAN MIGUEL 1",
     "id": "FERRICONSTRUCTOR-ECONÓMICA-Z5-G-M-S",
     "nombre_punto": "Ferriconstructor Económica"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EL TRIUNFO BUCAY",
+    "circuito": "EL TRIUNFO CENTRO",
+    "subcircuito": "EL TRIUNFO CENTRO 1",
+    "id": "COMERCIAL-TÍA-Z5-G-E-E",
+    "nombre_punto": "Comercial Tía"
   }
 ]
