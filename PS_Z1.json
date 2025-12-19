@@ -3535,5 +3535,14 @@
     "subcircuito": "COTACACHI 2",
     "id": "COMERCIAL-COTACACHI-Z1-I-T-C",
     "nombre_punto": "COMERCIAL COTACACHI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 1",
+    "id": "GASOLINERA-P&S-Z1-I-T-C",
+    "nombre_punto": "GASOLINERA P&S"
   }
 ]
