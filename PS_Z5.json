@@ -10312,5 +10312,14 @@
     "subcircuito": "PUERTO AGUAJE 1",
     "id": "MINIMAKERT-PEPE-Z5-S-L-P",
     "nombre_punto": "Minimakert Pepe"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "MILAGRO",
+    "circuito": "SAN MIGUEL",
+    "subcircuito": "SAN MIGUEL 1",
+    "id": "FERRICONSTRUCTOR-ECONÓMICA-Z5-G-M-S",
+    "nombre_punto": "Ferriconstructor Económica"
   }
 ]
