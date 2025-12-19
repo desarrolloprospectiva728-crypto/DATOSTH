@@ -10285,5 +10285,23 @@
     "subcircuito": "SAN JOSE DE JUJAN 1",
     "id": "AGRONATURE-Z5-L-B-S",
     "nombre_punto": "AGRONATURE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "LA-SAZON-DE-DOÑA-MARI-Z5-L-V-V",
+    "nombre_punto": "La sazon de doña mari"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "PUERTO AGUAJE",
+    "subcircuito": "PUERTO AGUAJE 1",
+    "id": "ÍDOLO-1-Z5-S-L-P",
+    "nombre_punto": "Ídolo 1"
   }
 ]
