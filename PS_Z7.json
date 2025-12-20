@@ -3742,5 +3742,14 @@
     "subcircuito": "SAN ROQUE 2",
     "id": "DOCTORCELL-Z7-E-P-S",
     "nombre_punto": "doctorcell"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "HUALTACO",
+    "subcircuito": "HUALTACO 2",
+    "id": "SUQUITA-DEL-VERDE-Z7-E-H-H",
+    "nombre_punto": "Suquita del Verde"
   }
 ]
