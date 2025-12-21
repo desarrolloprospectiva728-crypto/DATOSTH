@@ -10348,5 +10348,14 @@
     "subcircuito": "SAN JOSE DE JUJAN 1",
     "id": "KIOSCO-DOB-CESAR-Z5-L-B-S",
     "nombre_punto": "KIOSCO DOB CESAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "FERRETERÍA-BELTRÁN-SÁNCHEZ-Z5-S-S-A",
+    "nombre_punto": "FERRETERÍA BELTRÁN SÁNCHEZ"
   }
 ]
