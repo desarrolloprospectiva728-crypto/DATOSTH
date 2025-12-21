@@ -10330,5 +10330,14 @@
     "subcircuito": "EL TRIUNFO CENTRO 1",
     "id": "COMERCIAL-TÍA-Z5-G-E-E",
     "nombre_punto": "Comercial Tía"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SAN JOSE DE JUJAN",
+    "subcircuito": "SAN JOSE DE JUJAN 1",
+    "id": "DISTRIBUIDORA-DE-POLLO-JACOME-Z5-L-B-S",
+    "nombre_punto": "DISTRIBUIDORA DE POLLO JACOME"
   }
 ]
