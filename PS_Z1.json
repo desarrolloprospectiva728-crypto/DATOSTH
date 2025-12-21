@@ -3560,15 +3560,6 @@
     "distrito": "QUININDE",
     "circuito": "LA SEXTA",
     "subcircuito": "LA SEXTA 1",
-    "id": "FAMILIA-CAMACHO-Z1-E-Q-L",
-    "nombre_punto": "Familia Camacho"
-  },
-  {
-    "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "QUININDE",
-    "circuito": "LA SEXTA",
-    "subcircuito": "LA SEXTA 1",
     "id": "FAMILIA-CAMACHO-LA-QUINTA-Z1-E-Q-L",
     "nombre_punto": "Familia Camacho la Quinta"
   }
