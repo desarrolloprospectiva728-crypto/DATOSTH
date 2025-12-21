@@ -10339,5 +10339,14 @@
     "subcircuito": "SAN JOSE DE JUJAN 1",
     "id": "DISTRIBUIDORA-DE-POLLO-JACOME-Z5-L-B-S",
     "nombre_punto": "DISTRIBUIDORA DE POLLO JACOME"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SAN JOSE DE JUJAN",
+    "subcircuito": "SAN JOSE DE JUJAN 1",
+    "id": "KIOSCO-DOB-CESAR-Z5-L-B-S",
+    "nombre_punto": "KIOSCO DOB CESAR"
   }
 ]
