@@ -10357,5 +10357,14 @@
     "subcircuito": "ATAHUALPA 1",
     "id": "FERRETERÍA-BELTRÁN-SÁNCHEZ-Z5-S-S-A",
     "nombre_punto": "FERRETERÍA BELTRÁN SÁNCHEZ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "ECHEANDIA",
+    "subcircuito": "ECHEANDIA 1",
+    "id": "COOPERATIVA-LAS-NAVES-Z5-B-S-E",
+    "nombre_punto": "COOPERATIVA LAS NAVES"
   }
 ]
