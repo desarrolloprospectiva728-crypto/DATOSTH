@@ -4102,5 +4102,14 @@
     "subcircuito": "PALANDACOCHA 2",
     "id": "MOTOS-Y-MAX-Z2-N-T-P",
     "nombre_punto": "Motos y Max"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 1",
+    "id": "TIA-NUEVO-Z2-O-O-C",
+    "nombre_punto": "Tia nuevo"
   }
 ]
