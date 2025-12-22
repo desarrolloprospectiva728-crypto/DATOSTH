@@ -3580,5 +3580,14 @@
     "subcircuito": "GARCIA MORENO 2",
     "id": "CANCHAS-GARCIA-MORENO-Z1-C-M-G",
     "nombre_punto": "CANCHAS GARCIA MORENO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "CUYABENO",
+    "subcircuito": "CUYABENO 1",
+    "id": "UNIDAD-JUDICIAL-MULTICOMPETENTE-Z1-S-P-C",
+    "nombre_punto": "Unidad Judicial Multicompetente"
   }
 ]
