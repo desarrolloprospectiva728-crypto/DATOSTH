@@ -3571,5 +3571,14 @@
     "subcircuito": "LUMBAQUI 1",
     "id": "PIQUEROS-G-Z1-S-S-L",
     "nombre_punto": "PIQUEROS G"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "GARCIA MORENO",
+    "subcircuito": "GARCIA MORENO 2",
+    "id": "CANCHAS-GARCIA-MORENO-Z1-C-M-G",
+    "nombre_punto": "CANCHAS GARCIA MORENO"
   }
 ]
