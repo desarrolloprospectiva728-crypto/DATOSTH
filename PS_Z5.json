@@ -10366,5 +10366,14 @@
     "subcircuito": "ECHEANDIA 1",
     "id": "COOPERATIVA-LAS-NAVES-Z5-B-S-E",
     "nombre_punto": "COOPERATIVA LAS NAVES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "INTERNET-DHT-FIBER-Z5-L-V-V",
+    "nombre_punto": "INTERNET DHT FIBER"
   }
 ]
