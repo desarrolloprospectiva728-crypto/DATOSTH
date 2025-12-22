@@ -2932,5 +2932,14 @@
     "subcircuito": "CHORDELEG 1",
     "id": "HOSTERÍA-CHORRO-DE-ORO-Z6-A-G-C",
     "nombre_punto": "HOSTERÍA CHORRO DE ORO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 1",
+    "id": "TIENDA-ABARROTES-NATHALY-Z6-A-S-S",
+    "nombre_punto": "TIENDA ABARROTES NATHALY"
   }
 ]
