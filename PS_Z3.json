@@ -3823,5 +3823,14 @@
     "subcircuito": "PUYO NORTE 2",
     "id": "MERCADO-EL-DORADO-Z3-P-P-P",
     "nombre_punto": "Mercado el Dorado"
+  },
+  {
+    "zona": "ZONA 3",
+    "subzona": "TUNGURAHUA",
+    "distrito": "AMBATO NORTE",
+    "circuito": "IZAMBA",
+    "subcircuito": "IZAMBA 1",
+    "id": "EDIFICIO-SEAL-PLAZA-Z3-T-A-I",
+    "nombre_punto": "EDIFICIO SEAL PLAZA"
   }
 ]
