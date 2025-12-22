@@ -3607,5 +3607,14 @@
     "subcircuito": "TARAPOA 1",
     "id": "UNIDAD-JUDICIAL-MULTICOMPETENTE-Z1-S-P-T",
     "nombre_punto": "Unidad Judicial Multicompetente"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "EL DORADO",
+    "subcircuito": "EL DORADO 1",
+    "id": "PAPELERÍA-ALVERCA-Z1-S-L-E",
+    "nombre_punto": "Papelería Alverca"
   }
 ]
