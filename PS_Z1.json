@@ -3562,5 +3562,14 @@
     "subcircuito": "LA SEXTA 1",
     "id": "FAMILIA-CAMACHO-LA-QUINTA-Z1-E-Q-L",
     "nombre_punto": "Familia Camacho la Quinta"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "LUMBAQUI",
+    "subcircuito": "LUMBAQUI 1",
+    "id": "PIQUEROS-G-Z1-S-S-L",
+    "nombre_punto": "PIQUEROS G"
   }
 ]
