@@ -10384,5 +10384,14 @@
     "subcircuito": "SALINAS CENTRO 2",
     "id": "PANADERIA-GASPAN-Z5-S-L-S",
     "nombre_punto": "Panaderia GasPan"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SALINAS CENTRO",
+    "subcircuito": "SALINAS CENTRO 2",
+    "id": "FARMACIA-MEDICITY-Z5-S-L-S",
+    "nombre_punto": "Farmacia Medicity"
   }
 ]
