@@ -3751,5 +3751,14 @@
     "subcircuito": "HUALTACO 2",
     "id": "SUQUITA-DEL-VERDE-Z7-E-H-H",
     "nombre_punto": "Suquita del Verde"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "BAJO ALTO",
+    "subcircuito": "BAJO ALTO 1",
+    "id": "COLISEO-GUILLERMO-SERRANO-Z7-E-P-B",
+    "nombre_punto": "Coliseo Guillermo Serrano"
   }
 ]
