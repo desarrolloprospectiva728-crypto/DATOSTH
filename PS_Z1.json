@@ -3616,5 +3616,14 @@
     "subcircuito": "EL DORADO 1",
     "id": "PAPELERÍA-ALVERCA-Z1-S-L-E",
     "nombre_punto": "Papelería Alverca"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "PRODUAGRO-Z1-C-M-B",
+    "nombre_punto": "PRODUAGRO"
   }
 ]
