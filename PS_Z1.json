@@ -3625,5 +3625,14 @@
     "subcircuito": "BOLIVAR 1",
     "id": "PRODUAGRO-Z1-C-M-B",
     "nombre_punto": "PRODUAGRO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "AMAZONAS",
+    "subcircuito": "AMAZONAS 2",
+    "id": "PASTEL-Y-ARTES-Z1-I-C-A",
+    "nombre_punto": "PASTEL Y ARTES"
   }
 ]
