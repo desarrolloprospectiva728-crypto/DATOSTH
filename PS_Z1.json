@@ -3634,5 +3634,14 @@
     "subcircuito": "AMAZONAS 2",
     "id": "PASTEL-Y-ARTES-Z1-I-C-A",
     "nombre_punto": "PASTEL Y ARTES"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SIETE DE JULIO",
+    "subcircuito": "SIETE DE JULIO 1",
+    "id": "PANADERIA-Y-PASTELERIA-AMBATEÑITA-Z1-S-S-S",
+    "nombre_punto": "PANADERIA Y PASTELERIA AMBATEÑITA"
   }
 ]
