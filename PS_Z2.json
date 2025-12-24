@@ -4120,5 +4120,14 @@
     "subcircuito": "EL CHACO 1",
     "id": "HEALTHY-SKIN-Z2-N-E-E",
     "nombre_punto": "Healthy Skin"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "VENTURA-MARKET-Z2-N-E-E",
+    "nombre_punto": "Ventura Market"
   }
 ]
