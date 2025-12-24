@@ -10402,5 +10402,14 @@
     "subcircuito": "CALUMA 2",
     "id": "CANCHA-DEL-BARRIO-SAN-VICENTE-Z5-B-S-C",
     "nombre_punto": "CANCHA DEL BARRIO SAN VICENTE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "BODEGA-MARY-LA-CADENA-Z5-L-B-C",
+    "nombre_punto": "BODEGA MARY LA CADENA"
   }
 ]
