@@ -2950,5 +2950,14 @@
     "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
     "id": "PERFUMERÍA-DO.KA.RA-Z6-A-P-C",
     "nombre_punto": "PERFUMERÍA DO.KA.RA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "OÑA",
+    "subcircuito": "OÑA 1",
+    "id": "EL-PARADERO-RESTAURANTE-Z6-A-N-O",
+    "nombre_punto": "EL PARADERO RESTAURANTE"
   }
 ]
