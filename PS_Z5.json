@@ -10393,5 +10393,14 @@
     "subcircuito": "SALINAS CENTRO 2",
     "id": "FARMACIA-MEDICITY-Z5-S-L-S",
     "nombre_punto": "Farmacia Medicity"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "CALUMA",
+    "subcircuito": "CALUMA 2",
+    "id": "CANCHA-DEL-BARRIO-SAN-VICENTE-Z5-B-S-C",
+    "nombre_punto": "CANCHA DEL BARRIO SAN VICENTE"
   }
 ]
