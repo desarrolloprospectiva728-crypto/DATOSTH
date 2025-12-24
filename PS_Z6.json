@@ -2941,5 +2941,14 @@
     "subcircuito": "SIGSIG 1",
     "id": "TIENDA-ABARROTES-NATHALY-Z6-A-S-S",
     "nombre_punto": "TIENDA ABARROTES NATHALY"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PONCE ENRIQUEZ",
+    "circuito": "CAMILO PONCE ENRIQUEZ",
+    "subcircuito": "CAMILO PONCE ENRIQUEZ 1",
+    "id": "PERFUMERÍA-DO.KA.RA-Z6-A-P-C",
+    "nombre_punto": "PERFUMERÍA DO.KA.RA"
   }
 ]
