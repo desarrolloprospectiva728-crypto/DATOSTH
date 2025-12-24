@@ -4111,5 +4111,14 @@
     "subcircuito": "COCA OCCIDENTE 1",
     "id": "TIA-NUEVO-Z2-O-O-C",
     "nombre_punto": "Tia nuevo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "HEALTHY-SKIN-Z2-N-E-E",
+    "nombre_punto": "Healthy Skin"
   }
 ]
