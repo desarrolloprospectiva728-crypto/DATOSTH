@@ -4129,5 +4129,14 @@
     "subcircuito": "EL CHACO 1",
     "id": "VENTURA-MARKET-Z2-N-E-E",
     "nombre_punto": "Ventura Market"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 1",
+    "id": "UNIDAD-EDUCATIVA-ARTURO-BORJA-Z2-O-O-C",
+    "nombre_punto": "Unidad Educativa Arturo Borja"
   }
 ]
