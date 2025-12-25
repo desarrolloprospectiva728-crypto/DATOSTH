@@ -3643,5 +3643,14 @@
     "subcircuito": "SIETE DE JULIO 1",
     "id": "PANADERIA-Y-PASTELERIA-AMBATEÑITA-Z1-S-S-S",
     "nombre_punto": "PANADERIA Y PASTELERIA AMBATEÑITA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "BARBER-SHOP-TEXAS-VIP-Z1-E-E-C",
+    "nombre_punto": "Barber shop Texas vip"
   }
 ]
