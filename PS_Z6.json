@@ -2959,5 +2959,14 @@
     "subcircuito": "OÑA 1",
     "id": "EL-PARADERO-RESTAURANTE-Z6-A-N-O",
     "nombre_punto": "EL PARADERO RESTAURANTE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "SAN RAFAEL SHARUG",
+    "subcircuito": "SAN RAFAEL SHARUG 1",
+    "id": "COMEDOR-LAS-TILAPIAS-SAN-SEBASTIAN-Z6-A-G-S",
+    "nombre_punto": "comedor las tilapias san Sebastian"
   }
 ]
