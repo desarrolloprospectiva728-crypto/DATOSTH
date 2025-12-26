@@ -6631,5 +6631,23 @@
     "subcircuito": "PORTOVIEJO 1",
     "id": "ANDREA-ZAMBRANO-AESTHETIC-CENTER-Z4-M-P-P",
     "nombre_punto": "Andrea Zambrano aesthetic Center"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "JULCUY",
+    "subcircuito": "JULCUY 1",
+    "id": "TIENDA-PAOLITA-Z4-M-J-J",
+    "nombre_punto": "TIENDA PAOLITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "JULCUY",
+    "subcircuito": "JULCUY 1",
+    "id": "TIENDA-PAOLITA-Z4-M-J-J",
+    "nombre_punto": "TIENDA PAOLITA"
   }
 ]
