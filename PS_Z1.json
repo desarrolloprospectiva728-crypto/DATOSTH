@@ -3670,5 +3670,14 @@
     "subcircuito": "LIMONES 3",
     "id": "COMERCIAL-LUCY-Z1-E-E-L",
     "nombre_punto": "Comercial Lucy"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "ANCHAYACU",
+    "subcircuito": "ANCHAYACU 1",
+    "id": "DOÑA-LUCRECIA-Z1-E-E-A",
+    "nombre_punto": "Doña Lucrecia"
   }
 ]
