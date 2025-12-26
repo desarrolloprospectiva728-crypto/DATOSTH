@@ -3661,5 +3661,14 @@
     "subcircuito": "FRONTERA 1",
     "id": "0802831594-Z1-E-S-F",
     "nombre_punto": 802831594
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 3",
+    "id": "COMERCIAL-LUCY-Z1-E-E-L",
+    "nombre_punto": "Comercial Lucy"
   }
 ]
