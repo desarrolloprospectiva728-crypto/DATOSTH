@@ -3652,5 +3652,14 @@
     "subcircuito": "CENTRO 2",
     "id": "BARBER-SHOP-TEXAS-VIP-Z1-E-E-C",
     "nombre_punto": "Barber shop Texas vip"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 1",
+    "id": "0802831594-Z1-E-S-F",
+    "nombre_punto": 802831594
   }
 ]
