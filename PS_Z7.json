@@ -3778,5 +3778,14 @@
     "subcircuito": "SANTA ROSA ESTE 1",
     "id": "SUGEYMAR_MARISCOS-Z7-E-S-S",
     "nombre_punto": "SUGEYMAR_MARISCOS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "PORTOVELO",
+    "subcircuito": "PORTOVELO 1",
+    "id": "CENTRO-DE-SALUD-PORTOVELO-TIPO-B-Z7-E-Z-P",
+    "nombre_punto": "Centro de salud Portovelo Tipo B"
   }
 ]
