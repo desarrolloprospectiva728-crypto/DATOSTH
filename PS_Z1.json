@@ -3679,5 +3679,23 @@
     "subcircuito": "ANCHAYACU 1",
     "id": "DOÑA-LUCRECIA-Z1-E-E-A",
     "nombre_punto": "Doña Lucrecia"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LOS CEIBOS",
+    "subcircuito": "LOS CEIBOS 1",
+    "id": "POLIDEPORTIVO-LOS-CEIBOS-Z1-I-C-L",
+    "nombre_punto": "POLIDEPORTIVO LOS CEIBOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 1",
+    "id": "FARMACIA-ECONÓMICA-Z1-I-T-C",
+    "nombre_punto": "Farmacia Económica"
   }
 ]
