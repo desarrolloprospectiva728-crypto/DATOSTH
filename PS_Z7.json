@@ -3769,5 +3769,14 @@
     "subcircuito": "UNION LOJANA 1",
     "id": "AGRO-JIMENEZ-Z7-E-H-U",
     "nombre_punto": "AGRO JIMENEZ"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA ESTE",
+    "subcircuito": "SANTA ROSA ESTE 1",
+    "id": "SUGEYMAR_MARISCOS-Z7-E-S-S",
+    "nombre_punto": "SUGEYMAR_MARISCOS"
   }
 ]
