@@ -6640,5 +6640,14 @@
     "subcircuito": "JULCUY 1",
     "id": "TIENDA-PAOLITA-Z4-M-J-J",
     "nombre_punto": "TIENDA PAOLITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 4",
+    "id": "LA-ESQUINA-DE-ERICK-PICANTERIA.-Z4-M-P-E",
+    "nombre_punto": "LA ESQUINA DE ERICK PICANTERIA."
   }
 ]
