@@ -3760,5 +3760,14 @@
     "subcircuito": "BAJO ALTO 1",
     "id": "COLISEO-GUILLERMO-SERRANO-Z7-E-P-B",
     "nombre_punto": "Coliseo Guillermo Serrano"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "UNION LOJANA",
+    "subcircuito": "UNION LOJANA 1",
+    "id": "AGRO-JIMENEZ-Z7-E-H-U",
+    "nombre_punto": "AGRO JIMENEZ"
   }
 ]
