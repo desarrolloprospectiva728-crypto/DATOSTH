@@ -3697,5 +3697,14 @@
     "subcircuito": "COTACACHI 1",
     "id": "FARMACIA-ECONÓMICA-Z1-I-T-C",
     "nombre_punto": "Farmacia Económica"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 2",
+    "id": "VÍVERES-GÉNESIS-Z1-S-S-S",
+    "nombre_punto": "Víveres Génesis"
   }
 ]
