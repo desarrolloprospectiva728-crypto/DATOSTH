@@ -2959,5 +2959,14 @@
     "subcircuito": "CHORDELEG 1",
     "id": "MARDOQUEO-PLAYA-BONITA-Z6-A-G-C",
     "nombre_punto": "MARDOQUEO PLAYA BONITA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "LAS NIEVES",
+    "subcircuito": "LAS NIEVES 1",
+    "id": "PINCHOS-ROGELITO-Z6-A-N-L",
+    "nombre_punto": "PINCHOS ROGELITO"
   }
 ]
