@@ -10420,5 +10420,14 @@
     "subcircuito": "SIMON BOLIVAR 1",
     "id": "COMERCIAL-FERRECIO-Z5-G-J-S",
     "nombre_punto": "COMERCIAL FERRECIO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EL ROSARIO",
+    "subcircuito": "EL ROSARIO 1",
+    "id": "VIA-MANABI-EXBRIOVER-LOCAL-Z5-G-E-E",
+    "nombre_punto": "Via manabi-ExBriover local"
   }
 ]
