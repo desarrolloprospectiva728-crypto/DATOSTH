@@ -6649,5 +6649,14 @@
     "subcircuito": "EL FLORON 4",
     "id": "LA-ESQUINA-DE-ERICK-PICANTERIA.-Z4-M-P-E",
     "nombre_punto": "LA ESQUINA DE ERICK PICANTERIA."
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "GASOLINERA-SAN-CRISTÓBAL-Z4-M-B-C",
+    "nombre_punto": "Gasolinera San Cristóbal"
   }
 ]
