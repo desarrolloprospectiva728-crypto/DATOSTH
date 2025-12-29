@@ -10447,5 +10447,14 @@
     "subcircuito": "GENERAL VILLAMIL 2",
     "id": "ARENAL-MARKET-Z5-G-P-G",
     "nombre_punto": "ARENAL MARKET"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EL TRIUNFO BUCAY",
+    "circuito": "EL TRIUNFO OESTE",
+    "subcircuito": "EL TRIUNFO OESTE 2",
+    "id": "FERRICENTRO-Z5-G-E-E",
+    "nombre_punto": "FERRICENTRO"
   }
 ]
