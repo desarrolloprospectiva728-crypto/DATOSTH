@@ -2968,5 +2968,14 @@
     "subcircuito": "LAS NIEVES 1",
     "id": "PINCHOS-ROGELITO-Z6-A-N-L",
     "nombre_punto": "PINCHOS ROGELITO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "CENTRO-DE-SALUD-PAUTE-Z6-A-P-P",
+    "nombre_punto": "CENTRO DE SALUD PAUTE"
   }
 ]
