@@ -3787,5 +3787,14 @@
     "subcircuito": "PORTOVELO 1",
     "id": "CENTRO-DE-SALUD-PORTOVELO-TIPO-B-Z7-E-Z-P",
     "nombre_punto": "Centro de salud Portovelo Tipo B"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "ARENILLAS",
+    "subcircuito": "ARENILLAS 1",
+    "id": "TOMÁS-ADVENTURE-Z7-E-H-A",
+    "nombre_punto": "Tomás Adventure"
   }
 ]
