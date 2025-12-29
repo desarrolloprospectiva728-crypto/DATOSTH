@@ -10438,5 +10438,14 @@
     "subcircuito": "VINCES NORTE 1",
     "id": "LOCAL-DON-NAVARRO-Z5-L-V-V",
     "nombre_punto": "LOCAL DON NAVARRO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 2",
+    "id": "ARENAL-MARKET-Z5-G-P-G",
+    "nombre_punto": "ARENAL MARKET"
   }
 ]
