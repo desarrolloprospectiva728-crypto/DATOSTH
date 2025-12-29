@@ -10429,5 +10429,14 @@
     "subcircuito": "EL ROSARIO 1",
     "id": "VIA-MANABI-EXBRIOVER-LOCAL-Z5-G-E-E",
     "nombre_punto": "Via manabi-ExBriover local"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES NORTE",
+    "subcircuito": "VINCES NORTE 1",
+    "id": "LOCAL-DON-NAVARRO-Z5-L-V-V",
+    "nombre_punto": "LOCAL DON NAVARRO"
   }
 ]
