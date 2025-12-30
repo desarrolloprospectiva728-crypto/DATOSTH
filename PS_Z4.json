@@ -6676,5 +6676,14 @@
     "subcircuito": "BACHILLERO 1",
     "id": "BANANERA-NUEVA-ESPERANZA-Z4-M-R-B",
     "nombre_punto": "Bananera Nueva Esperanza"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "JUNIN NORTE",
+    "subcircuito": "JUNIN NORTE 1",
+    "id": "SERVIENTREGA-JUNIN-Z4-M-B-J",
+    "nombre_punto": "SERVIENTREGA JUNIN"
   }
 ]
