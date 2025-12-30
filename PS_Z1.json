@@ -3715,5 +3715,14 @@
     "subcircuito": "QUININDE 1",
     "id": "TUTI-682-NUEVO-QUININDÉ-Z1-E-Q-Q",
     "nombre_punto": "TUTI 682 NUEVO QUININDÉ"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LAS LOMAS",
+    "subcircuito": "LAS LOMAS 1",
+    "id": "SUBCENTRO-DE-SALUD-ALPACHACA-Z1-I-C-L",
+    "nombre_punto": "Subcentro de Salud alpachaca"
   }
 ]
