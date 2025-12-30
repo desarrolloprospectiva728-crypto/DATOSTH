@@ -6667,5 +6667,14 @@
     "subcircuito": "CALCETA CENTRO 1",
     "id": "FIBECA-Z4-M-B-C",
     "nombre_punto": "Fibeca"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "BACHILLERO",
+    "subcircuito": "BACHILLERO 1",
+    "id": "BANANERA-NUEVA-ESPERANZA-Z4-M-R-B",
+    "nombre_punto": "Bananera Nueva Esperanza"
   }
 ]
