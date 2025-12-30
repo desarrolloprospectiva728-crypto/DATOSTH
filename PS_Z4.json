@@ -6694,5 +6694,14 @@
     "subcircuito": "JUNIN NORTE 1",
     "id": "FARMACIA-CRUZ-AZUL-Z4-M-B-J",
     "nombre_punto": "Farmacia Cruz Azul"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "JUNIN SUR",
+    "subcircuito": "JUNIN SUR 1",
+    "id": "DIRECCION-DE-DESARROLLO-SOCIAL-ECONÓMICO-Y-TURISTICO-Z4-M-B-J",
+    "nombre_punto": "Direccion de desarrollo social económico y turistico"
   }
 ]
