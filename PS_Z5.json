@@ -10456,5 +10456,23 @@
     "subcircuito": "EL TRIUNFO OESTE 2",
     "id": "FERRICENTRO-Z5-G-E-E",
     "nombre_punto": "FERRICENTRO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "SANTA MARTHA 1",
+    "id": "PARADAS-DE-BUSES-SANTA-MARTHA-Z5-L-V-S",
+    "nombre_punto": "Paradas de Buses Santa Martha"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "SANTA MARTHA 1",
+    "id": "DURAGAS-Z5-L-V-S",
+    "nombre_punto": "Duragas"
   }
 ]
