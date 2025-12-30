@@ -4138,5 +4138,14 @@
     "subcircuito": "COCA OCCIDENTE 1",
     "id": "UNIDAD-EDUCATIVA-ARTURO-BORJA-Z2-O-O-C",
     "nombre_punto": "Unidad Educativa Arturo Borja"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 2",
+    "id": "LOCAL-CAMILA-Z2-P-N-M",
+    "nombre_punto": "Local Camila"
   }
 ]
