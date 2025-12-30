@@ -3706,5 +3706,14 @@
     "subcircuito": "SHUSHUFINDI CENTRO 2",
     "id": "VÍVERES-GÉNESIS-Z1-S-S-S",
     "nombre_punto": "Víveres Génesis"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "QUININDE",
+    "subcircuito": "QUININDE 1",
+    "id": "TUTI-682-NUEVO-QUININDÉ-Z1-E-Q-Q",
+    "nombre_punto": "TUTI 682 NUEVO QUININDÉ"
   }
 ]
