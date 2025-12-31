@@ -6703,5 +6703,14 @@
     "subcircuito": "JUNIN SUR 1",
     "id": "DIRECCION-DE-DESARROLLO-SOCIAL-ECONÓMICO-Y-TURISTICO-Z4-M-B-J",
     "nombre_punto": "Direccion de desarrollo social económico y turistico"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "MEGA-COVELSA-Z4-M-P-P",
+    "nombre_punto": "Mega Covelsa"
   }
 ]
