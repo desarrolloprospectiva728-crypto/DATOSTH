@@ -3724,5 +3724,14 @@
     "subcircuito": "LAS LOMAS 1",
     "id": "SUBCENTRO-DE-SALUD-ALPACHACA-Z1-I-C-L",
     "nombre_punto": "Subcentro de Salud alpachaca"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "SANTA MARTHA",
+    "subcircuito": "SANTA MARTHA 1",
+    "id": "SUPERMERCADO-AKI,-DE-LA-AV.-PEDRO-VICENTE-MALDONADO-Y-JUAN-MONTALVO-Z1-E-E-S",
+    "nombre_punto": "SUPERMERCADO  AKI, DE LA AV. PEDRO VICENTE MALDONADO Y JUAN MONTALVO"
   }
 ]
