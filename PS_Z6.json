@@ -2995,5 +2995,14 @@
     "subcircuito": "PAUTE 1",
     "id": "MERCADO-SAN-JOSÉ-DE-PAUTE-Z6-A-P-P",
     "nombre_punto": "MERCADO SAN JOSÉ DE PAUTE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "TUTI-Z6-A-S-S",
+    "nombre_punto": "TUTI"
   }
 ]
