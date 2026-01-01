@@ -2986,5 +2986,14 @@
     "subcircuito": "GIRON 1",
     "id": "COMERCIAL-MURILLO-CRIOLLO-Z6-A-G-G",
     "nombre_punto": "Comercial Murillo Criollo"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "MERCADO-SAN-JOSÉ-DE-PAUTE-Z6-A-P-P",
+    "nombre_punto": "MERCADO SAN JOSÉ DE PAUTE"
   }
 ]
