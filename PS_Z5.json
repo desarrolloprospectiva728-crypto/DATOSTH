@@ -10474,5 +10474,14 @@
     "subcircuito": "SANTA MARTHA 1",
     "id": "DURAGAS-Z5-L-V-S",
     "nombre_punto": "Duragas"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES CENTRO",
+    "subcircuito": "VINCES CENTRO 1",
+    "id": "TALLER-MECÁNICO-HARTA-DEMENCIA-Z5-L-V-V",
+    "nombre_punto": "Taller mecánico harta demencia"
   }
 ]
