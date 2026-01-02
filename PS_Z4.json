@@ -6712,5 +6712,14 @@
     "subcircuito": "PEDERNALES NORTE 1",
     "id": "MEGA-COVELSA-Z4-M-P-P",
     "nombre_punto": "Mega Covelsa"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "HOTEL-GÉNOVA-Z4-S-S-C",
+    "nombre_punto": "HOTEL GÉNOVA"
   }
 ]
