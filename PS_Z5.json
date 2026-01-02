@@ -10483,5 +10483,14 @@
     "subcircuito": "VINCES CENTRO 1",
     "id": "TALLER-MECÁNICO-HARTA-DEMENCIA-Z5-L-V-V",
     "nombre_punto": "Taller mecánico harta demencia"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "QUICORNAC-Z5-L-V-B",
+    "nombre_punto": "QUICORNAC"
   }
 ]
