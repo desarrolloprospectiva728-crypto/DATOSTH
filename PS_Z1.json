@@ -3751,5 +3751,14 @@
     "subcircuito": "LIMONCOCHA 1",
     "id": "CENTRO-DE-SALUD-LA-VICTORIA-TIPO-A-Z1-S-S-L",
     "nombre_punto": "CENTRO DE SALUD LA VICTORIA TIPO A"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 2",
+    "id": "PARQUE-DE-MONTALVO-Z1-E-R-M",
+    "nombre_punto": "PARQUE DE MONTALVO"
   }
 ]
