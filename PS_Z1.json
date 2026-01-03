@@ -3769,5 +3769,14 @@
     "subcircuito": "EL DORADO 1",
     "id": "PARRILLADAS-Y-PİCADİTAS-D`-LAGO-Z1-S-L-E",
     "nombre_punto": "PARRILLADAS Y PİCADİTAS D` LAGO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "EL DORADO",
+    "subcircuito": "EL DORADO 1",
+    "id": "HELASOFT-Z1-S-L-E",
+    "nombre_punto": "HELASOFT"
   }
 ]
