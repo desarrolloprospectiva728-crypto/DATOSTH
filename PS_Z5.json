@@ -10517,15 +10517,6 @@
     "distrito": "JUJAN SIMON BOLIVAR",
     "circuito": "LORENZO DE GARAICOA",
     "subcircuito": "LORENZO DE GARAICOA 1",
-    "id": "FERRETERIA-KARLITA-Z5-G-J-L",
-    "nombre_punto": "FERRETERIA KARLITA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "GUAYAS",
-    "distrito": "JUJAN SIMON BOLIVAR",
-    "circuito": "LORENZO DE GARAICOA",
-    "subcircuito": "LORENZO DE GARAICOA 1",
     "id": "FERRETERIA-CREDY-PARRA-Z5-G-J-L",
     "nombre_punto": "FERRETERIA CREDY PARRA"
   }
