@@ -10501,5 +10501,14 @@
     "subcircuito": "QUINSALOMA 1",
     "id": "COOP.-DE-AHORRO-Y-CREDITO-METRÓPOLIS-Z5-L-V-Q",
     "nombre_punto": "COOP. DE AHORRO Y CREDITO METRÓPOLIS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "JUJAN SIMON BOLIVAR",
+    "circuito": "LORENZO DE GARAICOA",
+    "subcircuito": "LORENZO DE GARAICOA 1",
+    "id": "FERRETERIA-KARLITA-Z5-G-J-L",
+    "nombre_punto": "FERRETERIA KARLITA"
   }
 ]
