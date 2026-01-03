@@ -3733,5 +3733,14 @@
     "subcircuito": "SANTA MARTHA 1",
     "id": "SUPERMERCADO-AKI,-DE-LA-AV.-PEDRO-VICENTE-MALDONADO-Y-JUAN-MONTALVO-Z1-E-E-S",
     "nombre_punto": "SUPERMERCADO  AKI, DE LA AV. PEDRO VICENTE MALDONADO Y JUAN MONTALVO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LAS LOMAS",
+    "subcircuito": "LAS LOMAS 1",
+    "id": "INSTITUTO-TECNOLÓGICO-ITCA-Z1-I-C-L",
+    "nombre_punto": "INSTITUTO TECNOLÓGICO ITCA"
   }
 ]
