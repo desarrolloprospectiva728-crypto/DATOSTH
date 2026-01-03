@@ -10492,5 +10492,14 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "QUICORNAC-Z5-L-V-B",
     "nombre_punto": "QUICORNAC"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "COOP.-DE-AHORRO-Y-CREDITO-METRÓPOLIS-Z5-L-V-Q",
+    "nombre_punto": "COOP. DE AHORRO Y CREDITO METRÓPOLIS"
   }
 ]
