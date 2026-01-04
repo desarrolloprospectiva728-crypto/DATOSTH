@@ -10519,5 +10519,14 @@
     "subcircuito": "LA MERCED 1",
     "id": "TIENDA-LOLITA-Z5-L-Q-L",
     "nombre_punto": "Tienda Lolita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "JUNQUILLAL",
+    "subcircuito": "JUNQUILLAL 1",
+    "id": "LOCAL-WENDY'S-CELL-Z5-G-S-J",
+    "nombre_punto": "LOCAL WENDY'S CELL"
   }
 ]
