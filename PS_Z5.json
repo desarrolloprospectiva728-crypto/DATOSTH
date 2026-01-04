@@ -10510,5 +10510,14 @@
     "subcircuito": "LORENZO DE GARAICOA 1",
     "id": "FERRETERIA-KARLITA-Z5-G-J-L",
     "nombre_punto": "FERRETERIA KARLITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "TIENDA-LOLITA-Z5-L-Q-L",
+    "nombre_punto": "Tienda Lolita"
   }
 ]
