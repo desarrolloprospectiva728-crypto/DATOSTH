@@ -3787,5 +3787,14 @@
     "subcircuito": "TARAPOA 1",
     "id": "SUB-CENTRO-DE-SALUD-TARAPOA-Z1-S-P-T",
     "nombre_punto": "Sub centro de salud Tarapoa"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "SHUSHUFINDI CENTRO",
+    "subcircuito": "SHUSHUFINDI CENTRO 2",
+    "id": "VÍVERES-EL-CISNE-Z1-S-S-S",
+    "nombre_punto": "Víveres El Cisne"
   }
 ]
