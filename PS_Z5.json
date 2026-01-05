@@ -10528,5 +10528,14 @@
     "subcircuito": "JUNQUILLAL 1",
     "id": "LOCAL-WENDY'S-CELL-Z5-G-S-J",
     "nombre_punto": "LOCAL WENDY'S CELL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA ESPERANZA",
+    "subcircuito": "LA ESPERANZA 1",
+    "id": "AGENCIA-TESALIA-LA-ESPERANZA-Z5-L-Q-L",
+    "nombre_punto": "AGENCIA TESALIA LA ESPERANZA"
   }
 ]
