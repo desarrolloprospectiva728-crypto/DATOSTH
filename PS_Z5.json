@@ -10582,5 +10582,14 @@
     "subcircuito": "ESTACADA 1",
     "id": "UE.-DR.-CARLOS-MONTEVERDE-ROMERO-Z5-G-P-E",
     "nombre_punto": "UE. Dr. Carlos Monteverde Romero"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA ESPERANZA",
+    "subcircuito": "LA ESPERANZA 1",
+    "id": "AGROAEREO-LA-ESPERANZA-Z5-L-Q-L",
+    "nombre_punto": "AGROAEREO LA ESPERANZA"
   }
 ]
