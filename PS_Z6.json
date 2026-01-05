@@ -3013,5 +3013,14 @@
     "subcircuito": "AZOGUES OESTE 2",
     "id": "GASOLINERA-PDV-AYANCAY-Z6-C-A-A",
     "nombre_punto": "GASOLINERA PDV AYANCAY"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "LUDO",
+    "subcircuito": "LUDO 1",
+    "id": "CENTRO-DE-SALUD-LUDO-Z6-A-S-L",
+    "nombre_punto": "Centro de salud ludo"
   }
 ]
