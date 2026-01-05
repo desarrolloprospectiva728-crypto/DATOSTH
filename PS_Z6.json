@@ -3004,5 +3004,14 @@
     "subcircuito": "SIGSIG 2",
     "id": "TUTI-Z6-A-S-S",
     "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES OESTE",
+    "subcircuito": "AZOGUES OESTE 2",
+    "id": "GASOLINERA-PDV-AYANCAY-Z6-C-A-A",
+    "nombre_punto": "GASOLINERA PDV AYANCAY"
   }
 ]
