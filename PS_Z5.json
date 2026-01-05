@@ -10555,5 +10555,14 @@
     "subcircuito": "SAN LORENZO 1",
     "id": "DOMICILIO-VALLADOLIT-Z5-B-G-S",
     "nombre_punto": "Domicilio Valladolit"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "YAGUACHI SUR",
+    "subcircuito": "YAGUACHI SUR 1",
+    "id": "FARMACIAS-MEGASALUD-Z5-G-Y-Y",
+    "nombre_punto": "Farmacias MegaSalud"
   }
 ]
