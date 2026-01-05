@@ -10564,5 +10564,14 @@
     "subcircuito": "YAGUACHI SUR 1",
     "id": "FARMACIAS-MEGASALUD-Z5-G-Y-Y",
     "nombre_punto": "Farmacias MegaSalud"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "PEDRO CARBO",
+    "subcircuito": "PEDRO CARBO 1",
+    "id": "U.E.DR.-EDUARDO-GRANJA-GARCES-Z5-G-P-P",
+    "nombre_punto": "U.E.Dr. Eduardo Granja Garces"
   }
 ]
