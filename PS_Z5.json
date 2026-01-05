@@ -10546,5 +10546,14 @@
     "subcircuito": "SIETE DE OCTUBRE 2",
     "id": "COSTACOMTV-INTERNET-Y-TV.-Z5-L-Q-S",
     "nombre_punto": "COSTACOMTV INTERNET Y TV."
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "GUARANDA",
+    "circuito": "SAN LORENZO",
+    "subcircuito": "SAN LORENZO 1",
+    "id": "DOMICILIO-VALLADOLIT-Z5-B-G-S",
+    "nombre_punto": "Domicilio Valladolit"
   }
 ]
