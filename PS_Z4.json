@@ -6730,5 +6730,14 @@
     "subcircuito": "CENTRO 3",
     "id": "ELECTRODOMÉSTICOS-Y-COLCHONES-GÉNOVA-Z4-S-S-C",
     "nombre_punto": "ELECTRODOMÉSTICOS Y COLCHONES GÉNOVA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 1",
+    "id": "FERRETERÍA-JV-SAN-GABRIEL-Z4-M-P-P",
+    "nombre_punto": "Ferretería Jv San Gabriel"
   }
 ]
