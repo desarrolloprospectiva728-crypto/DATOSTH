@@ -10573,5 +10573,14 @@
     "subcircuito": "PEDRO CARBO 1",
     "id": "U.E.DR.-EDUARDO-GRANJA-GARCES-Z5-G-P-P",
     "nombre_punto": "U.E.Dr. Eduardo Granja Garces"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "ESTACADA",
+    "subcircuito": "ESTACADA 1",
+    "id": "UE.-DR.-CARLOS-MONTEVERDE-ROMERO-Z5-G-P-E",
+    "nombre_punto": "UE. Dr. Carlos Monteverde Romero"
   }
 ]
