@@ -10537,5 +10537,14 @@
     "subcircuito": "LA ESPERANZA 1",
     "id": "AGENCIA-TESALIA-LA-ESPERANZA-Z5-L-Q-L",
     "nombre_punto": "AGENCIA TESALIA LA ESPERANZA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 2",
+    "id": "COSTACOMTV-INTERNET-Y-TV.-Z5-L-Q-S",
+    "nombre_punto": "COSTACOMTV INTERNET Y TV."
   }
 ]
