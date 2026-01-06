@@ -6838,5 +6838,14 @@
     "subcircuito": "SAN PEDRO DE SUMA 1",
     "id": "AGRO-FERRI-DON-VELEZ-Z4-M-E-S",
     "nombre_punto": "Agro ferri don Velez"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 1",
+    "id": "GASOLINERA-PUERTO-NUEVO-Z4-M-E-S",
+    "nombre_punto": "Gasolinera puerto nuevo"
   }
 ]
