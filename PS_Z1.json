@@ -3796,5 +3796,23 @@
     "subcircuito": "SHUSHUFINDI CENTRO 2",
     "id": "VÍVERES-EL-CISNE-Z1-S-S-S",
     "nombre_punto": "Víveres El Cisne"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "ESTADIO",
+    "subcircuito": "ESTADIO 2",
+    "id": "GRAN-AKI-Z1-I-C-E",
+    "nombre_punto": "GRAN AKI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "ESTADIO",
+    "subcircuito": "ESTADIO 1",
+    "id": "GRAN-AKI-Z1-I-C-E",
+    "nombre_punto": "GRAN AKI"
   }
 ]
