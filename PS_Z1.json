@@ -3832,5 +3832,14 @@
     "subcircuito": "LOS GUABOS 1",
     "id": "GAD-PARROQUIAL-IMBAYA-Z1-I-V-L",
     "nombre_punto": "GAD PARROQUIAL IMBAYA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "ANDRADE MARIN",
+    "subcircuito": "ANDRADE MARIN 1",
+    "id": "BARRIO-EL-ROSARIO-Z1-I-V-A",
+    "nombre_punto": "Barrio El Rosario"
   }
 ]
