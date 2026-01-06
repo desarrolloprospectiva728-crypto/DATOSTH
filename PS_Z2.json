@@ -4147,5 +4147,14 @@
     "subcircuito": "MALDONADO 2",
     "id": "LOCAL-CAMILA-Z2-P-N-M",
     "nombre_punto": "Local Camila"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "CAFETERÍA-Y-RESTAURANTE-ROXY-Z2-N-T-A",
+    "nombre_punto": "Cafetería y restaurante Roxy"
   }
 ]
