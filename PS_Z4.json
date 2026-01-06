@@ -6775,5 +6775,23 @@
     "subcircuito": "SAN PEDRO DE SUMA 2",
     "id": "COMERCIAL-PARRAGA-Z4-M-E-S",
     "nombre_punto": "Comercial Parraga"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 2",
+    "id": "TIENDA-4-HERMANOS-Z4-M-E-S",
+    "nombre_punto": "Tienda 4 hermanos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 2",
+    "id": "FARMACIA-SAMI-CAR-Z4-M-E-S",
+    "nombre_punto": "Farmacia Sami Car"
   }
 ]
