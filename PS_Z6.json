@@ -3067,5 +3067,14 @@
     "subcircuito": "SUSCAL 1",
     "id": "GAD-MUNICIPAL-DEL-CANTÓN-SUSCAL-Z6-C-C-S",
     "nombre_punto": "Gad Municipal del Cantón Suscal"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "SUSCAL",
+    "subcircuito": "SUSCAL 1",
+    "id": "GASOLINERA-REINA-DE-LA-NUBE-Z6-C-C-S",
+    "nombre_punto": "Gasolinera Reina de la Nube"
   }
 ]
