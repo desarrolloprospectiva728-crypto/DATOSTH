@@ -3022,5 +3022,14 @@
     "subcircuito": "LUDO 1",
     "id": "CENTRO-DE-SALUD-LUDO-Z6-A-S-L",
     "nombre_punto": "Centro de salud ludo"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "TUTI-Z6-A-G-L",
+    "nombre_punto": "TUTI"
   }
 ]
