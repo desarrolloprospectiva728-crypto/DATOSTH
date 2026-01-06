@@ -3031,5 +3031,14 @@
     "subcircuito": "LA UNION 1",
     "id": "TUTI-Z6-A-G-L",
     "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR",
+    "subcircuito": "CAÑAR 1",
+    "id": "GASOLINERA-CUMBRE-ANDINA-Z6-C-C-C",
+    "nombre_punto": "Gasolinera Cumbre Andina"
   }
 ]
