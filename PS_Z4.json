@@ -6811,5 +6811,32 @@
     "subcircuito": "SANTA ANA 1",
     "id": "CONSULTORIO-DRA-MELISSA-Z4-M-V-S",
     "nombre_punto": "Consultorio Dra Melissa"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 1",
+    "id": "AGRO-VETERINARIA-SU-AGRO-Z4-M-E-S",
+    "nombre_punto": "Agro veterinaria su agro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 1",
+    "id": "FARM-AGRO-Z4-M-E-S",
+    "nombre_punto": "Farm agro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 1",
+    "id": "AGRO-FERRI-DON-VELEZ-Z4-M-E-S",
+    "nombre_punto": "Agro ferri don Velez"
   }
 ]
