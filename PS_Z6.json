@@ -3076,5 +3076,14 @@
     "subcircuito": "SUSCAL 1",
     "id": "GASOLINERA-REINA-DE-LA-NUBE-Z6-C-C-S",
     "nombre_punto": "Gasolinera Reina de la Nube"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "EL TAMBO",
+    "subcircuito": "EL TAMBO 1",
+    "id": "GASOLINERA-SANCHEZ-Z6-C-C-E",
+    "nombre_punto": "Gasolinera Sanchez"
   }
 ]
