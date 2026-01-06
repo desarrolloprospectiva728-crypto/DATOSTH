@@ -3040,5 +3040,14 @@
     "subcircuito": "CAÑAR 1",
     "id": "GASOLINERA-CUMBRE-ANDINA-Z6-C-C-C",
     "nombre_punto": "Gasolinera Cumbre Andina"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "EL TAMBO",
+    "subcircuito": "EL TAMBO 1",
+    "id": "GASOLINERA-PRIMAX-VALLE-SAGRADO-Z6-C-C-E",
+    "nombre_punto": "Gasolinera Primax Valle Sagrado"
   }
 ]
