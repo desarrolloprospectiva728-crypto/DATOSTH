@@ -6748,5 +6748,14 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "HOTEL-WYNDHAM-Z4-M-M-U",
     "nombre_punto": "HOTEL WYNDHAM"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 2",
+    "id": "FARMACIA-SU-SALUD-Z4-M-E-S",
+    "nombre_punto": "Farmacia su salud"
   }
 ]
