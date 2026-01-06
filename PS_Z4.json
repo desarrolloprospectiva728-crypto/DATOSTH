@@ -6802,5 +6802,14 @@
     "subcircuito": "SAN PEDRO DE SUMA 2",
     "id": "FRIGO-COMERCIO-Z4-M-E-S",
     "nombre_punto": "Frigo Comercio"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "CONSULTORIO-DRA-MELISSA-Z4-M-V-S",
+    "nombre_punto": "Consultorio Dra Melissa"
   }
 ]
