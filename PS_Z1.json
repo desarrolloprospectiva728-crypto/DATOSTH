@@ -3814,5 +3814,23 @@
     "subcircuito": "LA FLORIDA 2",
     "id": "LA-PLAZA-SHOPING-Z1-I-C-L",
     "nombre_punto": "LA PLAZA SHOPING"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "ANDRADE MARIN",
+    "subcircuito": "ANDRADE MARIN 1",
+    "id": "HOGARS-Z1-I-V-A",
+    "nombre_punto": "HOGARS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS GUABOS",
+    "subcircuito": "LOS GUABOS 1",
+    "id": "GAD-PARROQUIAL-IMBAYA-Z1-I-V-L",
+    "nombre_punto": "GAD PARROQUIAL IMBAYA"
   }
 ]
