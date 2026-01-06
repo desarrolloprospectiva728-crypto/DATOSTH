@@ -6739,5 +6739,14 @@
     "subcircuito": "PUEBLO NUEVO 1",
     "id": "FERRETERÍA-JV-SAN-GABRIEL-Z4-M-P-P",
     "nombre_punto": "Ferretería Jv San Gabriel"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "HOTEL-WYNDHAM-Z4-M-M-U",
+    "nombre_punto": "HOTEL WYNDHAM"
   }
 ]
