@@ -10591,5 +10591,14 @@
     "subcircuito": "LA ESPERANZA 1",
     "id": "AGROAEREO-LA-ESPERANZA-Z5-L-Q-L",
     "nombre_punto": "AGROAEREO LA ESPERANZA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "FARMACIAS-CRUZ-AZUL-Z5-S-S-S",
+    "nombre_punto": "FARMACIAS CRUZ AZUL"
   }
 ]
