@@ -3058,5 +3058,14 @@
     "subcircuito": "ZHUD 1",
     "id": "GASOLINERA-MILU-ZHUD-Z6-C-C-Z",
     "nombre_punto": "Gasolinera Milu Zhud"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "SUSCAL",
+    "subcircuito": "SUSCAL 1",
+    "id": "GAD-MUNICIPAL-DEL-CANTÓN-SUSCAL-Z6-C-C-S",
+    "nombre_punto": "Gad Municipal del Cantón Suscal"
   }
 ]
