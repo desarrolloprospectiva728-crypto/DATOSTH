@@ -3805,5 +3805,14 @@
     "subcircuito": "ESTADIO 2",
     "id": "GRAN-AKI-Z1-I-C-E",
     "nombre_punto": "GRAN AKI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 2",
+    "id": "LA-PLAZA-SHOPING-Z1-I-C-L",
+    "nombre_punto": "LA PLAZA SHOPING"
   }
 ]
