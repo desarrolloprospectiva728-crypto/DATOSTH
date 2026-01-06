@@ -6793,5 +6793,14 @@
     "subcircuito": "SAN PEDRO DE SUMA 2",
     "id": "FARMACIA-SAMI-CAR-Z4-M-E-S",
     "nombre_punto": "Farmacia Sami Car"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 2",
+    "id": "FRIGO-COMERCIO-Z4-M-E-S",
+    "nombre_punto": "Frigo Comercio"
   }
 ]
