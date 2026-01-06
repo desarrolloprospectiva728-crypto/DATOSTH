@@ -3049,5 +3049,14 @@
     "subcircuito": "EL TAMBO 1",
     "id": "GASOLINERA-PRIMAX-VALLE-SAGRADO-Z6-C-C-E",
     "nombre_punto": "Gasolinera Primax Valle Sagrado"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "ZHUD",
+    "subcircuito": "ZHUD 1",
+    "id": "GASOLINERA-MILU-ZHUD-Z6-C-C-Z",
+    "nombre_punto": "Gasolinera Milu Zhud"
   }
 ]
