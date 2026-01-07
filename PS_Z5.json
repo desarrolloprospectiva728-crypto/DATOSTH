@@ -10753,5 +10753,32 @@
     "subcircuito": "LA VALDRAMINA 1",
     "id": "CASA-KIA-Z5-L-Q-L",
     "nombre_punto": "CASA KIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 3",
+    "id": "HOTEL-COSTA-DEL-SOL-7-DE-OCTUBRE-3-Z5-L-Q-S",
+    "nombre_punto": "HOTEL COSTA DEL SOL 7 DE OCTUBRE 3"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "FYBECA-Z5-L-Q-L",
+    "nombre_punto": "FYBECA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "GASOLINERA-CLYAN-Z5-L-Q-L",
+    "nombre_punto": "GASOLINERA CLYAN"
   }
 ]
