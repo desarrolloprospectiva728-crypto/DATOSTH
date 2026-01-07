@@ -3832,5 +3832,14 @@
     "subcircuito": "SARACAY 1",
     "id": "TIENDA-FERNANDITO-Z7-E-P-S",
     "nombre_punto": "TIENDA FERNANDITO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "PRIVILEGIO",
+    "subcircuito": "PRIVILEGIO 1",
+    "id": "COOPERATIVA-ONCE-DE-JUNIO-Z7-E-P-P",
+    "nombre_punto": "Cooperativa Once de Junio"
   }
 ]
