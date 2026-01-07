@@ -10654,5 +10654,41 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "MEGA-MADERA-Z5-L-Q-D",
     "nombre_punto": "MEGA MADERA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 2",
+    "id": "LUBRICADORA-FONG-FAY-FRENTE-AL-HOSPITAL-Z5-L-Q-S",
+    "nombre_punto": "LUBRICADORA FONG FAY FRENTE AL HOSPITAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "LUBRICADORA-MARCOS-JR-Z5-L-Q-D",
+    "nombre_punto": "LUBRICADORA MARCOS JR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 2",
+    "id": "TIA-PARROQUIA-7-DE-OCTUBRE-Z5-L-Q-S",
+    "nombre_punto": "TIA PARROQUIA 7 DE OCTUBRE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "CONTROL",
+    "subcircuito": "CONTROL 1",
+    "id": "COMERCIAL-BONCAO-Z5-L-Q-C",
+    "nombre_punto": "COMERCIAL BONCAO"
   }
 ]
