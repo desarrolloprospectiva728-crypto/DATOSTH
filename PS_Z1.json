@@ -3850,5 +3850,14 @@
     "subcircuito": "CARANQUIS 2",
     "id": "PARQUE-CARANQUI-(HELADOS)-Z1-I-C-C",
     "nombre_punto": "PARQUE CARANQUI  (HELADOS)"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LOS CEIBOS",
+    "subcircuito": "LOS CEIBOS 1",
+    "id": "SUPERMERCADO-EL-RETORNO-Z1-I-C-L",
+    "nombre_punto": "SUPERMERCADO EL RETORNO"
   }
 ]
