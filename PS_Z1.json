@@ -3877,5 +3877,14 @@
     "subcircuito": "LOS GUABOS 2",
     "id": "GELATERIA-LUA-Z1-I-V-L",
     "nombre_punto": "GELATERIA LUA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "AMAZONAS",
+    "subcircuito": "AMAZONAS 2",
+    "id": "TIA-AMAZONAS-Z1-I-C-A",
+    "nombre_punto": "TIA AMAZONAS"
   }
 ]
