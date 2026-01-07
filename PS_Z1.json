@@ -3904,5 +3904,14 @@
     "subcircuito": "GONZALEZ 1",
     "id": "TIENDA-NEYRA-PATRICIA-Z1-I-V-G",
     "nombre_punto": "TIENDA NEYRA PATRICIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "SAN ROQUE",
+    "subcircuito": "SAN ROQUE 1",
+    "id": "MINI-MARKET-JIME-Z1-I-V-S",
+    "nombre_punto": "MINI MARKET JIME"
   }
 ]
