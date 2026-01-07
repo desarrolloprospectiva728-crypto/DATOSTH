@@ -3853,15 +3853,6 @@
   },
   {
     "zona": "ZONA 1",
-    "subzona": "IMBABURA",
-    "distrito": "CIUDAD BLANCA",
-    "circuito": "LOS CEIBOS",
-    "subcircuito": "LOS CEIBOS 1",
-    "id": "SUPERMERCADO-EL-RETORNO-Z1-I-C-L",
-    "nombre_punto": "SUPERMERCADO EL RETORNO"
-  },
-  {
-    "zona": "ZONA 1",
     "subzona": "ESMERALDAS",
     "distrito": "ESMERALDAS",
     "circuito": "CENTRO",
