@@ -3886,5 +3886,14 @@
     "subcircuito": "SAN PABLO 1",
     "id": "FARMACIA-ECONOMICA-Z1-I-V-S",
     "nombre_punto": "FARMACIA ECONOMICA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "SAN ROQUE",
+    "subcircuito": "SAN ROQUE 1",
+    "id": "PANADERÍA-Y-PASTELERÍA-PAN-ZON-Z1-I-V-S",
+    "nombre_punto": "PANADERÍA Y PASTELERÍA PAN-ZON"
   }
 ]
