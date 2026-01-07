@@ -3805,5 +3805,14 @@
     "subcircuito": "VELASCO IBARRA 1",
     "id": "CAPILLA-LAS-NIEVES-Z7-E-P-V",
     "nombre_punto": "CAPILLA LAS NIEVES"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "PORTOVELO",
+    "subcircuito": "PORTOVELO 1",
+    "id": "UNIDAD-JUDICIAL-MULTICOMPETENTE-CON-SEDE-EN-PORTOVELO-Z7-E-Z-P",
+    "nombre_punto": "UNIDAD JUDICIAL MULTICOMPETENTE CON SEDE EN PORTOVELO"
   }
 ]
