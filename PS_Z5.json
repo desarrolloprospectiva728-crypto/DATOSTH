@@ -10825,5 +10825,14 @@
     "subcircuito": "LA MERCED 2",
     "id": "QUEVEXPORT-S.-A-Z5-L-Q-L",
     "nombre_punto": "QUEVEXPORT S. A"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 2",
+    "id": "EXPORTADORA-DE-CACAO-MARTINETTICOCOA-Z5-L-Q-L",
+    "nombre_punto": "EXPORTADORA DE CACAO MARTINETTICOCOA"
   }
 ]
