@@ -10609,5 +10609,14 @@
     "subcircuito": "YAGUACHI SUR 1",
     "id": "FARMACIAS-ECONÓMICAS-Z5-G-Y-Y",
     "nombre_punto": "Farmacias Económicas"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "YAGUACHI SUR",
+    "subcircuito": "YAGUACHI SUR 1",
+    "id": "FARMACIA-LA-PRIMICIA-Z5-G-Y-Y",
+    "nombre_punto": "Farmacia La Primicia"
   }
 ]
