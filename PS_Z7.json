@@ -3814,5 +3814,14 @@
     "subcircuito": "PORTOVELO 1",
     "id": "UNIDAD-JUDICIAL-MULTICOMPETENTE-CON-SEDE-EN-PORTOVELO-Z7-E-Z-P",
     "nombre_punto": "UNIDAD JUDICIAL MULTICOMPETENTE CON SEDE EN PORTOVELO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "ZARUMA",
+    "subcircuito": "ZARUMA 1",
+    "id": "FISCALIA-GENERAL-DEL-ESTADO-Z7-E-Z-Z",
+    "nombre_punto": "Fiscalia General del Estado"
   }
 ]
