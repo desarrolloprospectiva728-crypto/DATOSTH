@@ -10600,5 +10600,14 @@
     "subcircuito": "SANTA ELENA CENTRO 3",
     "id": "FARMACIAS-CRUZ-AZUL-Z5-S-S-S",
     "nombre_punto": "FARMACIAS CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "YAGUACHI SUR",
+    "subcircuito": "YAGUACHI SUR 1",
+    "id": "FARMACIAS-ECONÓMICAS-Z5-G-Y-Y",
+    "nombre_punto": "Farmacias Económicas"
   }
 ]
