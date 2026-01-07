@@ -10690,5 +10690,41 @@
     "subcircuito": "CONTROL 1",
     "id": "COMERCIAL-BONCAO-Z5-L-Q-C",
     "nombre_punto": "COMERCIAL BONCAO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 2",
+    "id": "GASOLINERA-TERPEL-CALLE-4TA-Z5-L-Q-S",
+    "nombre_punto": "GASOLINERA TERPEL CALLE 4TA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "MULTIMETALES-Z5-L-Q-D",
+    "nombre_punto": "Multimetales"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "CONTROL",
+    "subcircuito": "CONTROL 1",
+    "id": "EXTRACTORA-QUEVEPALMA-Z5-L-Q-C",
+    "nombre_punto": "EXTRACTORA QUEVEPALMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "GASPETROLIO-Z5-L-Q-D",
+    "nombre_punto": "GASPETROLIO"
   }
 ]
