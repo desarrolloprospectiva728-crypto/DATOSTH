@@ -4156,5 +4156,14 @@
     "subcircuito": "AEROPUERTO 1",
     "id": "CAFETERÍA-Y-RESTAURANTE-ROXY-Z2-N-T-A",
     "nombre_punto": "Cafetería y restaurante Roxy"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
+    "id": "BAR-RESTAURANTE-YANUNA-Z2-N-T-A",
+    "nombre_punto": "BAR RESTAURANTE YANUNA"
   }
 ]
