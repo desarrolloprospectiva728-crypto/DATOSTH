@@ -10816,5 +10816,14 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "SERVIENTREGA-Z5-L-Q-D",
     "nombre_punto": "SERVIENTREGA  VÍA SAN A CARLOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 2",
+    "id": "QUEVEXPORT-S.-A-Z5-L-Q-L",
+    "nombre_punto": "QUEVEXPORT S. A"
   }
 ]
