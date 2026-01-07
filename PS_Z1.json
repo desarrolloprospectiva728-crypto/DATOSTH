@@ -3841,5 +3841,14 @@
     "subcircuito": "ANDRADE MARIN 1",
     "id": "BARRIO-EL-ROSARIO-Z1-I-V-A",
     "nombre_punto": "Barrio El Rosario"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "CARANQUIS",
+    "subcircuito": "CARANQUIS 2",
+    "id": "PARQUE-CARANQUI-(HELADOS)-Z1-I-C-C",
+    "nombre_punto": "PARQUE CARANQUI  (HELADOS)"
   }
 ]
