@@ -10780,5 +10780,23 @@
     "subcircuito": "LA VALDRAMINA 1",
     "id": "GASOLINERA-CLYAN-Z5-L-Q-L",
     "nombre_punto": "GASOLINERA CLYAN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "MANOBANDA-Z5-L-Q-L",
+    "nombre_punto": "Manobanda"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 3",
+    "id": "ORIENTAL-VIA-AL-EMPALME-7-DE-OCTUBRE-3-Z5-L-Q-S",
+    "nombre_punto": "ORIENTAL VIA AL EMPALME 7 DE OCTUBRE 3"
   }
 ]
