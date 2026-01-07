@@ -10627,5 +10627,32 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "MUUFROST-Z5-L-V-V",
     "nombre_punto": "Muufrost"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 2",
+    "id": "NOTARIA-N6-Z5-L-Q-G",
+    "nombre_punto": "NOTARIA N6"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 2",
+    "id": "GASOLINERA-LA-CHIQUITA-Z5-L-Q-G",
+    "nombre_punto": "GASOLINERA LA CHIQUITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "MEGA-MADERA-Z5-L-Q-D",
+    "nombre_punto": "MEGA MADERA"
   }
 ]
