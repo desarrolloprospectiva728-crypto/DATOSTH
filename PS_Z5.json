@@ -10726,5 +10726,32 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "GASPETROLIO-Z5-L-Q-D",
     "nombre_punto": "GASPETROLIO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "CONTROL",
+    "subcircuito": "CONTROL 1",
+    "id": "GASOLINERA-P&S-Z5-L-Q-C",
+    "nombre_punto": "GASOLINERA P&S"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 2",
+    "id": "PAPAJONS-LA-CUADRA-PIZZA-Z5-L-Q-S",
+    "nombre_punto": "PAPAJONS LA CUADRA PIZZA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "CASA-KIA-Z5-L-Q-L",
+    "nombre_punto": "CASA KIA"
   }
 ]
