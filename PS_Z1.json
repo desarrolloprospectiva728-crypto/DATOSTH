@@ -3877,5 +3877,14 @@
     "subcircuito": "AMAZONAS 2",
     "id": "TIA-AMAZONAS-Z1-I-C-A",
     "nombre_punto": "TIA AMAZONAS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "SAN PABLO",
+    "subcircuito": "SAN PABLO 1",
+    "id": "FARMACIA-ECONOMICA-Z1-I-V-S",
+    "nombre_punto": "FARMACIA ECONOMICA"
   }
 ]
