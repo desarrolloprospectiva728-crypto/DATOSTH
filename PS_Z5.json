@@ -10798,5 +10798,23 @@
     "subcircuito": "SIETE DE OCTUBRE 3",
     "id": "ORIENTAL-VIA-AL-EMPALME-7-DE-OCTUBRE-3-Z5-L-Q-S",
     "nombre_punto": "ORIENTAL VIA AL EMPALME 7 DE OCTUBRE 3"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 3",
+    "id": "EMPROSERVIS-VIA-AL-EMPALME-FRENTE-AL-BUEN-AMIGO-Z5-L-Q-S",
+    "nombre_punto": "EMPROSERVIS VIA AL EMPALME FRENTE AL BUEN AMIGO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "SERVIENTREGA-Z5-L-Q-D",
+    "nombre_punto": "SERVIENTREGA  VÍA SAN A CARLOS"
   }
 ]
