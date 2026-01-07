@@ -3823,5 +3823,14 @@
     "subcircuito": "ZARUMA 1",
     "id": "FISCALIA-GENERAL-DEL-ESTADO-Z7-E-Z-Z",
     "nombre_punto": "Fiscalia General del Estado"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PIÑAS",
+    "circuito": "SARACAY",
+    "subcircuito": "SARACAY 1",
+    "id": "TIENDA-FERNANDITO-Z7-E-P-S",
+    "nombre_punto": "TIENDA FERNANDITO"
   }
 ]
