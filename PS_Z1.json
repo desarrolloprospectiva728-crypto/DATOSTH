@@ -3868,5 +3868,14 @@
     "subcircuito": "CENTRO 1",
     "id": "PASTEL-COFFE-Z1-E-E-C",
     "nombre_punto": "Pastel Coffe"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS GUABOS",
+    "subcircuito": "LOS GUABOS 2",
+    "id": "GELATERIA-LUA-Z1-I-V-L",
+    "nombre_punto": "GELATERIA LUA"
   }
 ]
