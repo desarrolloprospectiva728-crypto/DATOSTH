@@ -6847,5 +6847,14 @@
     "subcircuito": "SAN PEDRO DE SUMA 1",
     "id": "GASOLINERA-PUERTO-NUEVO-Z4-M-E-S",
     "nombre_punto": "Gasolinera puerto nuevo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "LEÑA-Y-BIRRA-Z4-M-P-P",
+    "nombre_punto": "Leña y Birra"
   }
 ]
