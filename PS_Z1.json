@@ -3985,5 +3985,23 @@
     "subcircuito": "LA MONTAÑA 1",
     "id": "CONJUNTO-LOS-PINOS-Z1-I-V-L",
     "nombre_punto": "Conjunto Los Pinos"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "SAN LUIS",
+    "subcircuito": "SAN LUIS 1",
+    "id": "INTYS-MARKET-Z1-I-V-S",
+    "nombre_punto": "INTYS MARKET"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "QUICHINCHE",
+    "subcircuito": "QUICHINCHE 1",
+    "id": "VIVERES-MARYU-Z1-I-V-Q",
+    "nombre_punto": "Viveres Maryu"
   }
 ]
