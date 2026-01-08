@@ -3085,5 +3085,14 @@
     "subcircuito": "EL TAMBO 1",
     "id": "GASOLINERA-SANCHEZ-Z6-C-C-E",
     "nombre_punto": "Gasolinera Sanchez"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "NABON",
+    "subcircuito": "NABON 1",
+    "id": "ECOMOTORS-Z6-A-N-N",
+    "nombre_punto": "ECOMOTORS"
   }
 ]
