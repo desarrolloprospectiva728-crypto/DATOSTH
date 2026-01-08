@@ -3954,15 +3954,6 @@
     "zona": "ZONA 1",
     "subzona": "IMBABURA",
     "distrito": "VALLE DEL AMANECER",
-    "circuito": "TEXTILERO",
-    "subcircuito": "TEXTILERO 1",
-    "id": "VIVERES-DOÑA-LAURITA-Z1-I-V-T",
-    "nombre_punto": "VIVERES DOÑA LAURITA"
-  },
-  {
-    "zona": "ZONA 1",
-    "subzona": "IMBABURA",
-    "distrito": "VALLE DEL AMANECER",
     "circuito": "LOS LAGOS",
     "subcircuito": "LOS LAGOS 1",
     "id": "NOVA-DISTRIBUCIONES-Z1-I-V-L",
@@ -3976,5 +3967,14 @@
     "subcircuito": "LA CASCADA 1",
     "id": "ESTACIÓN-DE-SERVICIOS-CARABUELA-Z1-I-V-L",
     "nombre_punto": "Estación de Servicios Carabuela"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS LAGOS",
+    "subcircuito": "LOS LAGOS 1",
+    "id": "UNIKPAPELERIA-Z1-I-V-L",
+    "nombre_punto": "Unikpapeleria"
   }
 ]
