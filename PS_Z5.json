@@ -10852,5 +10852,14 @@
     "subcircuito": "VINCES SUR 1",
     "id": "FARMACIAS-SANA-SANA-Z5-L-V-V",
     "nombre_punto": "FARMACIAS SANA SANA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "VIRGEN DEL CARMEN",
+    "subcircuito": "VIRGEN DEL CARMEN 2",
+    "id": "TIENDA-NIÑA-MELISSA-Z5-S-L-V",
+    "nombre_punto": "TIENDA NIÑA MELISSA"
   }
 ]
