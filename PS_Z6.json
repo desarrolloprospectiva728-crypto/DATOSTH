@@ -3103,5 +3103,23 @@
     "subcircuito": "GUALACEO 1",
     "id": "GOLOSINAS-DON-PEPE-Z6-A-G-G",
     "nombre_punto": "GOLOSINAS DON PEPE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "COOPERATIVA-CB-Z6-A-P-P",
+    "nombre_punto": "COOPERATIVA CB"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 1",
+    "id": "COOPERATIVA-CB-Z6-A-P-P",
+    "nombre_punto": "COOPERATIVA CB"
   }
 ]
