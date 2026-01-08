@@ -3922,5 +3922,23 @@
     "subcircuito": "TEXTILERO 1",
     "id": "VIVERES-MARIA-Z1-I-V-T",
     "nombre_punto": "VIVERES MARIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS LAGOS",
+    "subcircuito": "LOS LAGOS 1",
+    "id": "LA-TIENDITA-DE-LA-ESQUINA-Z1-I-V-L",
+    "nombre_punto": "LA TIENDITA DE LA ESQUINA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LA CASCADA",
+    "subcircuito": "LA CASCADA 1",
+    "id": "VÍVERES-ENCALADA-Z1-I-V-L",
+    "nombre_punto": "Víveres Encalada"
   }
 ]
