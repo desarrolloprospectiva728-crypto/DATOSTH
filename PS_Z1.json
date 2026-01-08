@@ -3913,5 +3913,14 @@
     "subcircuito": "SAN ROQUE 1",
     "id": "MINI-MARKET-JIME-Z1-I-V-S",
     "nombre_punto": "MINI MARKET JIME"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "TEXTILERO",
+    "subcircuito": "TEXTILERO 1",
+    "id": "VIVERES-MARIA-Z1-I-V-T",
+    "nombre_punto": "VIVERES MARIA"
   }
 ]
