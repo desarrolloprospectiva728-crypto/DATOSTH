@@ -10843,5 +10843,14 @@
     "subcircuito": "SAN PABLO 1",
     "id": "RESTAURANTE-PUNTA-GRILL-Z5-S-S-S",
     "nombre_punto": "RESTAURANTE PUNTA GRILL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "FARMACIAS-SANA-SANA-Z5-L-V-V",
+    "nombre_punto": "FARMACIAS SANA SANA"
   }
 ]
