@@ -10834,5 +10834,14 @@
     "subcircuito": "LA MERCED 2",
     "id": "EXPORTADORA-DE-CACAO-MARTINETTICOCOA-Z5-L-Q-L",
     "nombre_punto": "EXPORTADORA DE CACAO MARTINETTICOCOA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SAN PABLO",
+    "subcircuito": "SAN PABLO 1",
+    "id": "RESTAURANTE-PUNTA-GRILL-Z5-S-S-S",
+    "nombre_punto": "RESTAURANTE PUNTA GRILL"
   }
 ]
