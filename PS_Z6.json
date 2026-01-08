@@ -3094,5 +3094,14 @@
     "subcircuito": "NABON 1",
     "id": "ECOMOTORS-Z6-A-N-N",
     "nombre_punto": "ECOMOTORS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "GOLOSINAS-DON-PEPE-Z6-A-G-G",
+    "nombre_punto": "GOLOSINAS DON PEPE"
   }
 ]
