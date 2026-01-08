@@ -3976,5 +3976,14 @@
     "subcircuito": "LOS LAGOS 1",
     "id": "UNIKPAPELERIA-Z1-I-V-L",
     "nombre_punto": "Unikpapeleria"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LA MONTAÑA",
+    "subcircuito": "LA MONTAÑA 1",
+    "id": "CONJUNTO-LOS-PINOS-Z1-I-V-L",
+    "nombre_punto": "Conjunto Los Pinos"
   }
 ]
