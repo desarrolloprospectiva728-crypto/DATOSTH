@@ -4003,5 +4003,14 @@
     "subcircuito": "QUICHINCHE 1",
     "id": "VIVERES-MARYU-Z1-I-V-Q",
     "nombre_punto": "Viveres Maryu"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "PUERTO LAGO",
+    "subcircuito": "PUERTO LAGO 1",
+    "id": "ALIANZA-IMBABURA-Z1-I-V-P",
+    "nombre_punto": "Alianza Imbabura"
   }
 ]
