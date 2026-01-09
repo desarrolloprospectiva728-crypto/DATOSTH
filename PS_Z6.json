@@ -3112,5 +3112,14 @@
     "subcircuito": "PAUTE 1",
     "id": "COOPERATIVA-CB-Z6-A-P-P",
     "nombre_punto": "COOPERATIVA CB"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "GUALLETURO",
+    "subcircuito": "GUALLETURO 1",
+    "id": "PARQUE-CENTRAL-DE-GUALLETURO-Z6-C-C-G",
+    "nombre_punto": "Parque Central de Gualleturo"
   }
 ]
