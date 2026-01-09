@@ -6865,14 +6865,5 @@
     "subcircuito": "EL COLORADO 1",
     "id": "DISTRIBUIDORA-MENDOA-Z4-S-S-E",
     "nombre_punto": "Distribuidora MendoA"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
-    "distrito": "SANTO DOMINGO OESTE",
-    "circuito": "EL COLORADO",
-    "subcircuito": "EL COLORADO 1",
-    "id": "DISTRIBUIDORA-MENDOA-Z4-S-S-E",
-    "nombre_punto": "Distribuidora MendoA"
   }
 ]
