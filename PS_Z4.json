@@ -6856,5 +6856,23 @@
     "subcircuito": "PEDERNALES NORTE 1",
     "id": "LEÑA-Y-BIRRA-Z4-M-P-P",
     "nombre_punto": "Leña y Birra"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 1",
+    "id": "DISTRIBUIDORA-MENDOA-Z4-S-S-E",
+    "nombre_punto": "Distribuidora MendoA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 1",
+    "id": "DISTRIBUIDORA-MENDOA-Z4-S-S-E",
+    "nombre_punto": "Distribuidora MendoA"
   }
 ]
