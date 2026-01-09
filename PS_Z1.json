@@ -4012,5 +4012,14 @@
     "subcircuito": "PUERTO LAGO 1",
     "id": "ALIANZA-IMBABURA-Z1-I-V-P",
     "nombre_punto": "Alianza Imbabura"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "COMPLEJO DEPORTIVO",
+    "subcircuito": "COMPLEJO DEPORTIVO 1",
+    "id": "SUPERMERCADO-SAN-JOSÉ-Z1-I-C-C",
+    "nombre_punto": "SUPERMERCADO SAN JOSÉ"
   }
 ]
