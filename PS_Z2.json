@@ -4165,5 +4165,23 @@
     "subcircuito": "AEROPUERTO 1",
     "id": "BAR-RESTAURANTE-YANUNA-Z2-N-T-A",
     "nombre_punto": "BAR RESTAURANTE YANUNA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 5",
+    "id": "RENTA-DE-CARROS-STAR-Z2-O-O-C",
+    "nombre_punto": "RENTA DE CARROS STAR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 5",
+    "id": "RENTA-DE-CARROS-STAR-Z2-O-O-C",
+    "nombre_punto": "RENTA DE CARROS STAR"
   }
 ]
