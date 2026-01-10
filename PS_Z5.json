@@ -10879,5 +10879,14 @@
     "subcircuito": "SIMON BOLIVAR 1",
     "id": "JONA-ELECTONICS-Z5-G-J-S",
     "nombre_punto": "JONA ELECTONICS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "SALITRE NORTE",
+    "subcircuito": "SALITRE NORTE 1",
+    "id": "MOTO-DENG-Z5-G-S-S",
+    "nombre_punto": "Moto Deng"
   }
 ]
