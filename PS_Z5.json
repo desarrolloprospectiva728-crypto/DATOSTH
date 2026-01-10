@@ -10888,5 +10888,14 @@
     "subcircuito": "SALITRE NORTE 1",
     "id": "MOTO-DENG-Z5-G-S-S",
     "nombre_punto": "Moto Deng"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 1",
+    "id": "COMERCIAL-DE-CACAO-FRANCISCO-CEREZO-Z5-L-B-B",
+    "nombre_punto": "COMERCIAL DE CACAO FRANCISCO CEREZO"
   }
 ]
