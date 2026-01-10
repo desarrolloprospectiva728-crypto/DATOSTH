@@ -4033,15 +4033,6 @@
   },
   {
     "zona": "ZONA 1",
-    "subzona": "IMBABURA",
-    "distrito": "VALLE DEL AMANECER",
-    "circuito": "PUERTO LAGO",
-    "subcircuito": "PUERTO LAGO 1",
-    "id": "GASOLINERA-EUGENIO-ESPEJO-Z1-I-V-P",
-    "nombre_punto": "Gasolinera Eugenio Espejo"
-  },
-  {
-    "zona": "ZONA 1",
     "subzona": "ESMERALDAS",
     "distrito": "SAN LORENZO",
     "circuito": "FRONTERA",
