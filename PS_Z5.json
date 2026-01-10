@@ -10870,5 +10870,14 @@
     "subcircuito": "2002-06-05T05:00:00.000Z",
     "id": "TIENDA-SOLANGE-Z5-S-L-5",
     "nombre_punto": "TIENDA SOLANGE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "JUJAN SIMON BOLIVAR",
+    "circuito": "SIMON BOLIVAR",
+    "subcircuito": "SIMON BOLIVAR 1",
+    "id": "JONA-ELECTONICS-Z5-G-J-S",
+    "nombre_punto": "JONA ELECTONICS"
   }
 ]
