@@ -6865,5 +6865,14 @@
     "subcircuito": "EL COLORADO 1",
     "id": "DISTRIBUIDORA-MENDOA-Z4-S-S-E",
     "nombre_punto": "Distribuidora MendoA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "CHARAPOTO",
+    "subcircuito": "CHARAPOTO 2",
+    "id": "CENTRO-CAÑITAS-Z4-M-S-C",
+    "nombre_punto": "CENTRO CAÑITAS"
   }
 ]
