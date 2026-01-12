@@ -931,9 +931,9 @@
     "subzona": "ORELLANA",
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
-    "subcircuito": "SACHAS 1",
+    "subcircuito": "SACHAS 2",
     "id": "LOCAL-FASHION-KIDS-Z2-O-L-S",
-    "nombre_punto": "LOCAL FASHION KIDS"
+    "nombre_punto": "UNIDAD MÉDICA ASISTENCIAL"
   },
   {
     "zona": "ZONA 2",
@@ -1055,7 +1055,7 @@
   {
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
-    "distrito": "JOYA DE LOS SACHAS",
+    "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 2",
     "id": "LOCAL-AUTOPARTES3B-Z2-O-L-S",
