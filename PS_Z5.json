@@ -10897,5 +10897,14 @@
     "subcircuito": "BUENA FE OESTE 1",
     "id": "COMERCIAL-DE-CACAO-FRANCISCO-CEREZO-Z5-L-B-B",
     "nombre_punto": "COMERCIAL DE CACAO FRANCISCO CEREZO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "ISIDRO AYORA",
+    "subcircuito": "ISIDRO AYORA 1",
+    "id": "KFC-Z5-G-P-I",
+    "nombre_punto": "KFC"
   }
 ]
