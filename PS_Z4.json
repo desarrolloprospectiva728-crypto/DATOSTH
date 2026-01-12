@@ -6883,5 +6883,14 @@
     "subcircuito": "LA FLORIDA 1",
     "id": "FUNERARIA-E-B-O-Z4-M-R-L",
     "nombre_punto": "Funeraria E B O"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA PRADERA",
+    "subcircuito": "LA PRADERA 2",
+    "id": "ISAVEL-SPA-Z4-M-M-L",
+    "nombre_punto": "ISAVEL SPA"
   }
 ]
