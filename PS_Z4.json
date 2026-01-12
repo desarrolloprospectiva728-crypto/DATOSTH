@@ -6892,5 +6892,14 @@
     "subcircuito": "LA PRADERA 2",
     "id": "ISAVEL-SPA-Z4-M-M-L",
     "nombre_punto": "ISAVEL SPA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 2",
+    "id": "PANADERÍA-\"RICURAS-DE-COLOMBIA\"-Z4-S-S-T",
+    "nombre_punto": "PANADERÍA \"RICURAS DE COLOMBIA\""
   }
 ]
