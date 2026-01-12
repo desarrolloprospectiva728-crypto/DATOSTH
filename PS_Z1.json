@@ -3583,15 +3583,6 @@
   },
   {
     "zona": "ZONA 1",
-    "subzona": "SUCUMBIOS",
-    "distrito": "PUTUMAYO",
-    "circuito": "CUYABENO",
-    "subcircuito": "CUYABENO 1",
-    "id": "UNIDAD-JUDICIAL-MULTICOMPETENTE-Z1-S-P-C",
-    "nombre_punto": "Unidad Judicial Multicompetente"
-  },
-  {
-    "zona": "ZONA 1",
     "subzona": "ESMERALDAS",
     "distrito": "RIO VERDE",
     "circuito": "PALESTINA",
