@@ -276,16 +276,16 @@
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 1",
     "id": "TIA-Z2-O-L-S",
-    "nombre_punto": "TIA"
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CRÉDITO COCA LTD"
   },
   {
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
-    "subcircuito": "SACHAS 1",
+    "subcircuito": "SACHAS 2",
     "id": "SATÉLITE.EC-Z2-O-L-S",
-    "nombre_punto": "SATÉLITE.EC"
+    "nombre_punto": "NOTARIA LA JOYA DE LOS SACHAS."
   },
   {
     "zona": "ZONA 2",
