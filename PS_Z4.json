@@ -6919,5 +6919,14 @@
     "subcircuito": "SANTA ANA 1",
     "id": "CENTRO-DE-ESPECIALIDADES-MEDICAS-Z4-M-V-S",
     "nombre_punto": "CENTRO DE ESPECIALIDADES MEDICAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "COJIMIES",
+    "subcircuito": "COJIMIES 1",
+    "id": "GAB-PARROQUIAL-DE-COJIMIES-Z4-M-P-C",
+    "nombre_punto": "GAB PARROQUIAL DE COJIMIES"
   }
 ]
