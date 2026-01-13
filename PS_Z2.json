@@ -1335,10 +1335,10 @@
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
     "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SAN PEDRO",
-    "subcircuito": "SAN PEDRO 1",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
     "id": "MARKET-EL-PUEBLO-Z2-O-L-S",
-    "nombre_punto": "MARKET EL PUEBLO"
+    "nombre_punto": "LAS ALITAS DEL SHERIFF"
   },
   {
     "zona": "ZONA 2",
@@ -1371,19 +1371,19 @@
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
     "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SAN PEDRO",
-    "subcircuito": "SAN PEDRO 1",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
     "id": "MINIMARKET-MARTITA-Z2-O-L-S",
-    "nombre_punto": "MINIMARKET MARTITA"
+    "nombre_punto": "METÁLICAS UNIVERSAL EC"
   },
   {
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
     "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SAN PEDRO",
-    "subcircuito": "SAN PEDRO 1",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
     "id": "MINI-TIENDA-JHAMILET-Z2-O-L-S",
-    "nombre_punto": "MINI TIENDA JHAMILET"
+    "nombre_punto": "UNIDAD JUDICIAL MULTICOMPETENTE DE LA JOYA DE LOS SACHAS"
   },
   {
     "zona": "ZONA 2",
