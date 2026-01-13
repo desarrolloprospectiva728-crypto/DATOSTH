@@ -6910,5 +6910,14 @@
     "subcircuito": "SANTA ANA 1",
     "id": "AVICOLA-MACIAS-Z4-M-V-S",
     "nombre_punto": "AVICOLA MACIAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "CENTRO-DE-ESPECIALIDADES-MEDICAS-Z4-M-V-S",
+    "nombre_punto": "CENTRO DE ESPECIALIDADES MEDICAS"
   }
 ]
