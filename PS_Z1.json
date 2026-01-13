@@ -4039,5 +4039,14 @@
     "subcircuito": "EL ANGEL 1",
     "id": "SAN-ISIDRO-Z1-C-E-E",
     "nombre_punto": "San Isidro"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "EL ANGEL",
+    "subcircuito": "EL ANGEL 1",
+    "id": "CHABAYAN-Z1-C-E-E",
+    "nombre_punto": "Chabayan (Parada de buses)"
   }
 ]
