@@ -1272,10 +1272,10 @@
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
     "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SAN PEDRO",
-    "subcircuito": "SAN PEDRO 1",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
     "id": "BALANCEADOS-ENOKANQUI-Z2-O-L-S",
-    "nombre_punto": "BALANCEADOS ENOKANQUI"
+    "nombre_punto": "FERROCENTRO WIL-KAR, VALLADOLID"
   },
   {
     "zona": "ZONA 2",
@@ -1317,10 +1317,10 @@
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
     "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SAN PEDRO",
-    "subcircuito": "SAN PEDRO 1",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
     "id": "BOTICA-ECO-VIDA-Z2-O-L-S",
-    "nombre_punto": "BOTICA ECO VIDA"
+    "nombre_punto": "UNIDAD EDUCATIVA IBEROAMERICANO"
   },
   {
     "zona": "ZONA 2",
@@ -1389,19 +1389,19 @@
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
     "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SAN PEDRO",
-    "subcircuito": "SAN PEDRO 1",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
     "id": "BARBERIA-ESTEBAN-Z2-O-L-S",
-    "nombre_punto": "BARBERIA ESTEBAN"
+    "nombre_punto": "LA CASITA DE MI ABUELA"
   },
   {
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
     "distrito": "LA JOYA DE LOS SACHAS",
-    "circuito": "SAN PEDRO",
-    "subcircuito": "SAN PEDRO 1",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
     "id": "JUGUERIA-PURO-NECTAR-Z2-O-L-S",
-    "nombre_punto": "JUGUERIA PURO NECTAR"
+    "nombre_punto": "UNIDAD EDUCATIVA \"CIUDAD DE IBARRA\""
   },
   {
     "zona": "ZONA 2",
