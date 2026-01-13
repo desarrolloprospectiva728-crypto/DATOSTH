@@ -10915,5 +10915,14 @@
     "subcircuito": "2001-06-05T05:00:00.000Z",
     "id": "DELICIAS-DE-AMBATO-Z5-S-L-5",
     "nombre_punto": "DELICIAS DE AMBATO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "PUERTO AGUAJE",
+    "subcircuito": "PUERTO AGUAJE 1",
+    "id": "MERCADO-ONORIO-DE-CRUZ-Z5-S-L-P",
+    "nombre_punto": "Mercado onorio de cruz"
   }
 ]
