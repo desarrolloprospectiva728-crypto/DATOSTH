@@ -3850,5 +3850,14 @@
     "subcircuito": "ARENILLAS 1",
     "id": "PESCA-DEPORTIVA-Z7-E-H-A",
     "nombre_punto": "Pesca Deportiva"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "LAS PRADERAS",
+    "subcircuito": "LAS PRADERAS 1",
+    "id": "AV.LOS-MIRTOS-Z7-E-P-L",
+    "nombre_punto": "AV.LOS MIRTOS"
   }
 ]
