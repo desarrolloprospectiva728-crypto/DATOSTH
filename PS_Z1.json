@@ -4030,5 +4030,14 @@
     "subcircuito": "FRONTERA 3",
     "id": "SOLUCIONES-TRIBUTARIAS-Z1-E-S-F",
     "nombre_punto": "Soluciones Tributarias"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "EL ANGEL",
+    "subcircuito": "EL ANGEL 1",
+    "id": "SAN-ISIDRO-Z1-C-E-E",
+    "nombre_punto": "San Isidro"
   }
 ]
