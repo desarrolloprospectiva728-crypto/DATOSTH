@@ -3121,5 +3121,14 @@
     "subcircuito": "GUALLETURO 1",
     "id": "PARQUE-CENTRAL-DE-GUALLETURO-Z6-C-C-G",
     "nombre_punto": "Parque Central de Gualleturo"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "BIBLIAN",
+    "subcircuito": "BIBLIAN 1",
+    "id": "MERCADO-MUNICIPAL-DR.BOLIVAR-MONTERO-Z6-C-A-B",
+    "nombre_punto": "MERCADO MUNICIPAL DR.BOLIVAR MONTERO"
   }
 ]
