@@ -10942,5 +10942,14 @@
     "subcircuito": "NARANJAL SUR 1",
     "id": "MERCADO-DEL-PUEBLO-Z5-G-N-N",
     "nombre_punto": "MERCADO DEL PUEBLO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 2",
+    "id": "UE-SAN-JUAN-Z5-L-P-S",
+    "nombre_punto": "UE SAN JUAN"
   }
 ]
