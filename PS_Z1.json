@@ -4057,5 +4057,14 @@
     "subcircuito": "LOS GUABOS 2",
     "id": "HELADERÍA-EL-COCO-Z1-I-V-L",
     "nombre_punto": "Heladería El Coco"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS GUABOS",
+    "subcircuito": "LOS GUABOS 2",
+    "id": "VIVERES-MAFER-Z1-I-V-L",
+    "nombre_punto": "VIVERES Mafer"
   }
 ]
