@@ -10987,5 +10987,14 @@
     "subcircuito": "SAN JUAN 1",
     "id": "PARQUE-FRANKIN-DE-MORA-Z5-L-P-S",
     "nombre_punto": "PARQUE FRANKIN DE MORA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "NARANJAL CENTRO",
+    "subcircuito": "NARANJAL CENTRO 1",
+    "id": "TIENDA-EL-AHORRO-Z5-G-N-N",
+    "nombre_punto": "TIENDA EL AHORRO"
   }
 ]
