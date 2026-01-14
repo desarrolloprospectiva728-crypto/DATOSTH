@@ -10924,5 +10924,14 @@
     "subcircuito": "PUERTO AGUAJE 1",
     "id": "MERCADO-ONORIO-DE-CRUZ-Z5-S-L-P",
     "nombre_punto": "Mercado onorio de cruz"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "UE-JUSTINO-CORNEJO-Z5-L-P-S",
+    "nombre_punto": "UE JUSTINO CORNEJO"
   }
 ]
