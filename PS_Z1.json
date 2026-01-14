@@ -4048,5 +4048,14 @@
     "subcircuito": "EL ANGEL 1",
     "id": "CHABAYAN-Z1-C-E-E",
     "nombre_punto": "Chabayan (Parada de buses)"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS GUABOS",
+    "subcircuito": "LOS GUABOS 2",
+    "id": "HELADERÍA-EL-COCO-Z1-I-V-L",
+    "nombre_punto": "Heladería El Coco"
   }
 ]
