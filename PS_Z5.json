@@ -10996,5 +10996,14 @@
     "subcircuito": "NARANJAL CENTRO 1",
     "id": "TIENDA-EL-AHORRO-Z5-G-N-N",
     "nombre_punto": "TIENDA EL AHORRO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "CHANDUY",
+    "subcircuito": "CHANDUY 1",
+    "id": "COMERCIAL-ISABEL-CRISTINA-NRO-2-Z5-S-S-C",
+    "nombre_punto": "COMERCIAL ISABEL CRISTINA NRO 2"
   }
 ]
