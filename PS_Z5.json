@@ -10951,5 +10951,14 @@
     "subcircuito": "SAN JUAN 2",
     "id": "UE-SAN-JUAN-Z5-L-P-S",
     "nombre_punto": "UE SAN JUAN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "NARANJAL SUR 1",
+    "subcircuito": "NARANJAL SUR 1",
+    "id": "ALMACENES-TIA-Z5-G-N-N",
+    "nombre_punto": "ALMACENES TIA"
   }
 ]
