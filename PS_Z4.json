@@ -6955,5 +6955,14 @@
     "subcircuito": "TRES DE JULIO 2",
     "id": "SUPERMERCADO-DON-LUIS-Z4-S-S-T",
     "nombre_punto": "SUPERMERCADO DON LUIS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PARQUE CENTRAL",
+    "subcircuito": "PARQUE CENTRAL 1",
+    "id": "PARQUE-ELOY-ALFARO-Z4-M-J-P",
+    "nombre_punto": "PARQUE ELOY ALFARO"
   }
 ]
