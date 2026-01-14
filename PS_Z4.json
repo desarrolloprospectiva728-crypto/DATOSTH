@@ -6937,5 +6937,14 @@
     "subcircuito": "PUEBLO NUEVO 2",
     "id": "COMERCIAL-ALDAIR-Z4-M-P-P",
     "nombre_punto": "COMERCIAL ALDAIR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "CESPIA-SPORT-CONFECCIÓN-DE-TODO-TIPO-DE-ROPA-Z4-M-P-P",
+    "nombre_punto": "CESPIA SPORT CONFECCIÓN DE TODO TIPO DE ROPA"
   }
 ]
