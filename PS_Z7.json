@@ -3859,5 +3859,14 @@
     "subcircuito": "LAS PRADERAS 1",
     "id": "AV.LOS-MIRTOS-Z7-E-P-L",
     "nombre_punto": "AV.LOS MIRTOS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "UNION LOJANA",
+    "subcircuito": "UNION LOJANA 2",
+    "id": "FERRETERIA-DISENSA-CARANGUI-Z7-E-H-U",
+    "nombre_punto": "FERRETERIA DISENSA CARANGUI"
   }
 ]
