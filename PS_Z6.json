@@ -3139,5 +3139,14 @@
     "subcircuito": "SIGSIG 1",
     "id": "FARMACIA-SAN-BARTOLOME-Z6-A-S-S",
     "nombre_punto": "FARMACIA SAN BARTOLOME"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "GIRON",
+    "subcircuito": "GIRON 2",
+    "id": "MACOVA-LENTAG-Z6-A-G-G",
+    "nombre_punto": "macova lentag"
   }
 ]
