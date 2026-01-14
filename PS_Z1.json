@@ -4102,5 +4102,23 @@
     "subcircuito": "BOLIVAR 2",
     "id": "ANTIGUA-ESCUELA-SAN-GABRIEL-Z1-C-M-B",
     "nombre_punto": "Antigua Escuela San Gabriel"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 1",
+    "id": "FARMACIA-CRUZ-AZUL-ROCAFUERTE-Z1-E-R-M",
+    "nombre_punto": "FARMACIA CRUZ AZUL ROCAFUERTE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 1",
+    "id": "FARMACIA-CRUZ-AZUL-ROCAFUERTE-Z1-E-R-M",
+    "nombre_punto": "FARMACIA CRUZ AZUL ROCAFUERTE"
   }
 ]
