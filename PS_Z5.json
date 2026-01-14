@@ -10969,5 +10969,23 @@
     "subcircuito": "SAN JUAN 2",
     "id": "SUBCENTRO-DE-SALUD-SAN-JUAN-NUEVO-Z5-L-P-S",
     "nombre_punto": "SUBCENTRO DE SALUD SAN JUAN NUEVO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "NARANJAL CENTRO",
+    "subcircuito": "NARANJAL CENTRO 1",
+    "id": "MARKET-EL-CONDE-Z5-G-N-N",
+    "nombre_punto": "MARKET EL CONDE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "PARQUE-FRANKIN-DE-MORA-Z5-L-P-S",
+    "nombre_punto": "PARQUE FRANKIN DE MORA"
   }
 ]
