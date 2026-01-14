@@ -10960,5 +10960,14 @@
     "subcircuito": "NARANJAL SUR 1",
     "id": "ALMACENES-TIA-Z5-G-N-N",
     "nombre_punto": "ALMACENES TIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 2",
+    "id": "SUBCENTRO-DE-SALUD-SAN-JUAN-NUEVO-Z5-L-P-S",
+    "nombre_punto": "SUBCENTRO DE SALUD SAN JUAN NUEVO"
   }
 ]
