@@ -4084,5 +4084,14 @@
     "subcircuito": "BOLIVAR 1",
     "id": "HELADERÍA-DULCE-Y-VIDA-Z1-C-M-B",
     "nombre_punto": "Heladería Dulce y Vida"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 2",
+    "id": "FINCA-LA-BACHITA-Z1-C-M-B",
+    "nombre_punto": "Finca La Bachita"
   }
 ]
