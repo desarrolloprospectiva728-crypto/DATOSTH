@@ -4075,5 +4075,14 @@
     "subcircuito": "LOS GUABOS 1",
     "id": "HACIENDA-SANTIAGO-DEL-REY-Z1-I-V-L",
     "nombre_punto": "Hacienda Santiago del Rey"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "HELADERÍA-DULCE-Y-VIDA-Z1-C-M-B",
+    "nombre_punto": "Heladería Dulce y Vida"
   }
 ]
