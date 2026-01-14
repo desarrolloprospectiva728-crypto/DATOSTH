@@ -10933,5 +10933,14 @@
     "subcircuito": "SAN JUAN 1",
     "id": "UE-JUSTINO-CORNEJO-Z5-L-P-S",
     "nombre_punto": "UE JUSTINO CORNEJO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "NARANJAL SUR 1",
+    "subcircuito": "NARANJAL SUR 1",
+    "id": "MERCADO-DEL-PUEBLO-Z5-G-N-N",
+    "nombre_punto": "MERCADO DEL PUEBLO"
   }
 ]
