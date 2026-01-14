@@ -4066,5 +4066,14 @@
     "subcircuito": "LOS GUABOS 2",
     "id": "VIVERES-MAFER-Z1-I-V-L",
     "nombre_punto": "VIVERES Mafer"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS GUABOS",
+    "subcircuito": "LOS GUABOS 1",
+    "id": "HACIENDA-SANTIAGO-DEL-REY-Z1-I-V-L",
+    "nombre_punto": "Hacienda Santiago del Rey"
   }
 ]
