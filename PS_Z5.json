@@ -11005,5 +11005,14 @@
     "subcircuito": "CHANDUY 1",
     "id": "COMERCIAL-ISABEL-CRISTINA-NRO-2-Z5-S-S-C",
     "nombre_punto": "COMERCIAL ISABEL CRISTINA NRO 2"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "CHANDUY",
+    "subcircuito": "CHANDUY 1",
+    "id": "COMERCIAL-ROSITA-Z5-S-S-C",
+    "nombre_punto": "COMERCIAL ROSITA"
   }
 ]
