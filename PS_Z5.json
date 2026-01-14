@@ -11014,5 +11014,14 @@
     "subcircuito": "CHANDUY 1",
     "id": "COMERCIAL-ROSITA-Z5-S-S-C",
     "nombre_punto": "COMERCIAL ROSITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "GASOLINERA-CARCHIPULLA-Z5-G-N-S",
+    "nombre_punto": "GASOLINERA CARCHIPULLA"
   }
 ]
