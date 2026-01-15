@@ -11032,5 +11032,14 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "NOVEDADES-BARONA-Z5-L-V-B",
     "nombre_punto": "NOVEDADES BARONA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "SURTYSHOPP-Z5-L-V-V",
+    "nombre_punto": "SurtyShopp"
   }
 ]
