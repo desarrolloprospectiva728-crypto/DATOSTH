@@ -4120,5 +4120,14 @@
     "subcircuito": "MONTALVO 1",
     "id": "FARMACIA-CRUZ-AZUL-ROCAFUERTE-Z1-E-R-M",
     "nombre_punto": "FARMACIA CRUZ AZUL ROCAFUERTE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "ISIDRO AYORA",
+    "subcircuito": "ISIDRO AYORA 1",
+    "id": "PARADA-DE-BUS-CDLA-SAN-CARLOS-Z1-C-T-I",
+    "nombre_punto": "PARADA DE BUS CDLA SAN CARLOS"
   }
 ]
