@@ -11041,5 +11041,14 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "SURTYSHOPP-Z5-L-V-V",
     "nombre_punto": "SurtyShopp"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "SURTYSHOPP-Z5-L-V-V",
+    "nombre_punto": "SurtyShopp"
   }
 ]
