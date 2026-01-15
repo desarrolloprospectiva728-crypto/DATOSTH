@@ -4114,15 +4114,6 @@
   },
   {
     "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "RIO VERDE",
-    "circuito": "MONTALVO",
-    "subcircuito": "MONTALVO 1",
-    "id": "FARMACIA-CRUZ-AZUL-ROCAFUERTE-Z1-E-R-M",
-    "nombre_punto": "FARMACIA CRUZ AZUL ROCAFUERTE"
-  },
-  {
-    "zona": "ZONA 1",
     "subzona": "CARCHI",
     "distrito": "TULCAN",
     "circuito": "ISIDRO AYORA",
