@@ -3148,5 +3148,14 @@
     "subcircuito": "GIRON 2",
     "id": "MACOVA-LENTAG-Z6-A-G-G",
     "nombre_punto": "macova lentag"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "NABON",
+    "circuito": "LAS NIEVES",
+    "subcircuito": "LAS NIEVES 1",
+    "id": "BAZAR-VIRGEN-DE-LAS-NIEVES-Z6-A-N-L",
+    "nombre_punto": "Bazar Virgen de las nieves"
   }
 ]
