@@ -4120,5 +4120,14 @@
     "subcircuito": "ISIDRO AYORA 1",
     "id": "PARADA-DE-BUS-CDLA-SAN-CARLOS-Z1-C-T-I",
     "nombre_punto": "PARADA DE BUS CDLA SAN CARLOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS GUABOS",
+    "subcircuito": "LOS GUABOS 1",
+    "id": "HACIENDA-SANTIAGO-DEL-REY-Z1-I-V-L",
+    "nombre_punto": "Hacienda Santiago del Rey"
   }
 ]
