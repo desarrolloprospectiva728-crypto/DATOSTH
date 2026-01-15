@@ -11023,5 +11023,14 @@
     "subcircuito": "SAN CARLOS 1",
     "id": "GASOLINERA-CARCHIPULLA-Z5-G-N-S",
     "nombre_punto": "GASOLINERA CARCHIPULLA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "NOVEDADES-BARONA-Z5-L-V-B",
+    "nombre_punto": "NOVEDADES BARONA"
   }
 ]
