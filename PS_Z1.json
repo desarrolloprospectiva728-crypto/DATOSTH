@@ -4129,5 +4129,23 @@
     "subcircuito": "LOS GUABOS 1",
     "id": "HACIENDA-SANTIAGO-DEL-REY-Z1-I-V-L",
     "nombre_punto": "Hacienda Santiago del Rey"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL NORTE",
+    "subcircuito": "SAN GABRIEL NORTE 1",
+    "id": "DISTRITO-DE-EDUCACIÓN-MONTÚFAR-BOLÍVAR-Z1-C-M-S",
+    "nombre_punto": "Distrito de Educación Montúfar-Bolívar"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "SUPERMERCADO-SANTA-MARIA-9-DE-OCTUBRE-Z1-E-E-C",
+    "nombre_punto": "Supermercado Santa Maria 9 de octubre"
   }
 ]
