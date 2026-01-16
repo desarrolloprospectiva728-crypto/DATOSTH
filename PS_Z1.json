@@ -4123,15 +4123,6 @@
   },
   {
     "zona": "ZONA 1",
-    "subzona": "IMBABURA",
-    "distrito": "VALLE DEL AMANECER",
-    "circuito": "LOS GUABOS",
-    "subcircuito": "LOS GUABOS 1",
-    "id": "HACIENDA-SANTIAGO-DEL-REY-Z1-I-V-L",
-    "nombre_punto": "Hacienda Santiago del Rey"
-  },
-  {
-    "zona": "ZONA 1",
     "subzona": "CARCHI",
     "distrito": "MONTUFAR",
     "circuito": "SAN GABRIEL NORTE",
