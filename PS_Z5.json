@@ -11044,15 +11044,6 @@
   },
   {
     "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VENTANAS",
-    "circuito": "VENTANAS CENTRO",
-    "subcircuito": "VENTANAS CENTRO 1",
-    "id": "SURTYSHOPP-Z5-L-V-V",
-    "nombre_punto": "SurtyShopp"
-  },
-  {
-    "zona": "ZONA 5",
     "subzona": "SANTA ELENA",
     "distrito": "SANTA ELENA",
     "circuito": "ATAHUALPA",
@@ -11068,5 +11059,14 @@
     "subcircuito": "QUINCE DE MAYO 1",
     "id": "GOOD-DENTAL-Z5-B-G-Q",
     "nombre_punto": "GOOD DENTAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "SUPER-MERCADO-MAYRA-LOAIZA-Z5-L-V-A",
+    "nombre_punto": "Super mercado Mayra Loaiza"
   }
 ]
