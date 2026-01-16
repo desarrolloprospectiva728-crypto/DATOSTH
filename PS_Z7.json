@@ -3868,5 +3868,14 @@
     "subcircuito": "UNION LOJANA 2",
     "id": "FERRETERIA-DISENSA-CARANGUI-Z7-E-H-U",
     "nombre_punto": "FERRETERIA DISENSA CARANGUI"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "BUENA VISTA",
+    "subcircuito": "BUENA VISTA 2",
+    "id": "PARQUE-CENTRAL-BUENAVISTA-Z7-E-P-B",
+    "nombre_punto": "PARQUE CENTRAL BUENAVISTA"
   }
 ]
