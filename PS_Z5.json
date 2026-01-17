@@ -11068,5 +11068,14 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "SUPER-MERCADO-MAYRA-LOAIZA-Z5-L-V-A",
     "nombre_punto": "Super mercado Mayra Loaiza"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "CHIFLERIA-EL-MANABA-Z5-L-B-C",
+    "nombre_punto": "Chifleria el manaba"
   }
 ]
