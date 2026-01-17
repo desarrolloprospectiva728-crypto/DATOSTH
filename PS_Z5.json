@@ -11077,5 +11077,14 @@
     "subcircuito": "CENTRO 2",
     "id": "CHIFLERIA-EL-MANABA-Z5-L-B-C",
     "nombre_punto": "Chifleria el manaba"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MATA DE CACAO",
+    "subcircuito": "MATA DE CACAO 4",
+    "id": "CASA-DEL-CACAO-Z5-L-B-M",
+    "nombre_punto": "Casa del cacao"
   }
 ]
