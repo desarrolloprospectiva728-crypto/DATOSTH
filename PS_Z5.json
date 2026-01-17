@@ -11095,5 +11095,14 @@
     "subcircuito": "EL SALTO 1",
     "id": "MINORKEI-Z5-L-B-E",
     "nombre_punto": "Minorkei"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 1",
+    "id": "COOP.-HORIZONTE-PENINSULAR-Z5-S-S-S",
+    "nombre_punto": "COOP. HORIZONTE PENINSULAR"
   }
 ]
