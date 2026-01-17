@@ -6964,5 +6964,14 @@
     "subcircuito": "PARQUE CENTRAL 1",
     "id": "PARQUE-ELOY-ALFARO-Z4-M-J-P",
     "nombre_punto": "PARQUE ELOY ALFARO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "COMEDOR-LOS-PADRINOS-Z4-M-R-L",
+    "nombre_punto": "COMEDOR LOS PADRINOS"
   }
 ]
