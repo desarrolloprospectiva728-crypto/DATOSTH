@@ -11086,5 +11086,14 @@
     "subcircuito": "MATA DE CACAO 4",
     "id": "CASA-DEL-CACAO-Z5-L-B-M",
     "nombre_punto": "Casa del cacao"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "MINORKEI-Z5-L-B-E",
+    "nombre_punto": "Minorkei"
   }
 ]
