@@ -4138,5 +4138,14 @@
     "subcircuito": "CENTRO 1",
     "id": "SUPERMERCADO-SANTA-MARIA-9-DE-OCTUBRE-Z1-E-E-C",
     "nombre_punto": "Supermercado Santa Maria 9 de octubre"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "SELVA ALEGRE",
+    "subcircuito": "SELVA ALEGRE 2",
+    "id": "PANADERIA-DON-JULIO-DEL-RIO-SANTIAGO-Z1-E-E-S",
+    "nombre_punto": "PANADERIA DON JULIO DEL RIO SANTIAGO"
   }
 ]
