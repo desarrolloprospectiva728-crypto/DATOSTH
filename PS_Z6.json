@@ -3184,5 +3184,14 @@
     "subcircuito": "CAÑAR OCCIDENTE 1",
     "id": "FARMACIA-GIGI-Z6-C-C-C",
     "nombre_punto": "FARMACIA  GIGI"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "SUSCAL",
+    "subcircuito": "SUSCAL 1",
+    "id": "WASI-MARKET-Z6-C-C-S",
+    "nombre_punto": "WASI MARKET"
   }
 ]
