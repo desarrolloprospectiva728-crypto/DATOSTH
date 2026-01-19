@@ -4147,5 +4147,14 @@
     "subcircuito": "SELVA ALEGRE 2",
     "id": "PANADERIA-DON-JULIO-DEL-RIO-SANTIAGO-Z1-E-E-S",
     "nombre_punto": "PANADERIA DON JULIO DEL RIO SANTIAGO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "EL ANGEL",
+    "subcircuito": "EL ANGEL 1",
+    "id": "MERCADO-SAN-ISIDRO-CALLE-10-DE-AGOSTO-Z1-C-E-E",
+    "nombre_punto": "Mercado san Isidro calle  10 de agosto"
   }
 ]
