@@ -11104,5 +11104,14 @@
     "subcircuito": "SANTA ELENA CENTRO 1",
     "id": "COOP.-HORIZONTE-PENINSULAR-Z5-S-S-S",
     "nombre_punto": "COOP. HORIZONTE PENINSULAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "CALUMA",
+    "subcircuito": "CALUMA 2",
+    "id": "CASA-COMUNAL-BARRIO-BELLAVISTA-Z5-B-S-C",
+    "nombre_punto": "CASA COMUNAL BARRIO BELLAVISTA"
   }
 ]
