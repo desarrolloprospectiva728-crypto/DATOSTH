@@ -11140,5 +11140,14 @@
     "subcircuito": "VENTANAS SUR 1",
     "id": "PAISANITO-Z5-L-V-V",
     "nombre_punto": "Paisanito"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 3",
+    "id": "TIENDA-LA-GORDITA-Z5-L-Q-G",
+    "nombre_punto": "TIENDA LA GORDITA"
   }
 ]
