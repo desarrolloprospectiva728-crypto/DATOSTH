@@ -4156,5 +4156,14 @@
     "subcircuito": "EL ANGEL 1",
     "id": "MERCADO-SAN-ISIDRO-CALLE-10-DE-AGOSTO-Z1-C-E-E",
     "nombre_punto": "Mercado san Isidro calle  10 de agosto"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL NORTE",
+    "subcircuito": "SAN GABRIEL NORTE 1",
+    "id": "VIVERES-DIANITA-Z1-C-M-S",
+    "nombre_punto": "VIVERES DIANITA"
   }
 ]
