@@ -11131,5 +11131,14 @@
     "subcircuito": "PUEBLO VIEJO 1",
     "id": "UNIDAD-JUDICIAL-PUEBLOVIEJO-Z5-L-P-P",
     "nombre_punto": "UNIDAD JUDICIAL PUEBLOVIEJO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "ENRIQUEZ GALLO",
+    "subcircuito": "ENRIQUEZ GALLO 1",
+    "id": "OFICINA-HORIZONTE-PENINSULAR-Z5-S-L-E",
+    "nombre_punto": "OFICINA HORIZONTE PENINSULAR"
   }
 ]
