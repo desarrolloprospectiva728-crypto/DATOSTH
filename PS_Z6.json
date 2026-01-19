@@ -3157,5 +3157,14 @@
     "subcircuito": "LAS NIEVES 1",
     "id": "BAZAR-VIRGEN-DE-LAS-NIEVES-Z6-A-N-L",
     "nombre_punto": "Bazar Virgen de las nieves"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR OCCIDENTE",
+    "subcircuito": "CAÑAR OCCIDENTE 1",
+    "id": "COMMERCIAL-SARITA-Z6-C-C-C",
+    "nombre_punto": "COMMERCIAL SARITA"
   }
 ]
