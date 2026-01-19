@@ -3166,5 +3166,14 @@
     "subcircuito": "CAÑAR OCCIDENTE 1",
     "id": "COMMERCIAL-SARITA-Z6-C-C-C",
     "nombre_punto": "COMMERCIAL SARITA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "CAÑAR OCCIDENTE",
+    "subcircuito": "CAÑAR OCCIDENTE 1",
+    "id": "GASOLINERA-SAN-ANTONIO-2-\"-CHILCHIL\"-Z6-C-C-C",
+    "nombre_punto": "GASOLINERA SAN ANTONIO 2 \" CHILCHIL\""
   }
 ]
