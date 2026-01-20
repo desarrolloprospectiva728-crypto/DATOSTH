@@ -11194,5 +11194,14 @@
     "subcircuito": "GALO PLAZA 3",
     "id": "REYES-GYM-Z5-L-Q-G",
     "nombre_punto": "Reyes Gym"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "LA RESERVA",
+    "subcircuito": "LA RESERVA 1",
+    "id": "MINIMARKET-HILDITA-&LUIS-Z5-L-B-L",
+    "nombre_punto": "Minimarket Hildita &Luis"
   }
 ]
