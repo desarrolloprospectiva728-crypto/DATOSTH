@@ -11167,5 +11167,14 @@
     "subcircuito": "ECHEANDIA 1",
     "id": "BARRIO-BELLAVISTA-Z5-B-S-E",
     "nombre_punto": "BARRIO BELLAVISTA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "CONTROL",
+    "subcircuito": "CONTROL 2",
+    "id": "TIENDA-LA-FLORESTA-Z5-L-Q-C",
+    "nombre_punto": "Tienda La Floresta"
   }
 ]
