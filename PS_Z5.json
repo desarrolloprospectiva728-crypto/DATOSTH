@@ -11158,5 +11158,14 @@
     "subcircuito": "CENTRO 1",
     "id": "CASA-DE-LA-CULTURA-MALECÓN-Z5-L-B-C",
     "nombre_punto": "Casa de la Cultura Malecón"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "ECHEANDIA",
+    "subcircuito": "ECHEANDIA 1",
+    "id": "BARRIO-BELLAVISTA-Z5-B-S-E",
+    "nombre_punto": "BARRIO BELLAVISTA"
   }
 ]
