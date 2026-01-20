@@ -11185,5 +11185,14 @@
     "subcircuito": "GALO PLAZA 2",
     "id": "EDU-BOUTIQUE-Z5-L-Q-G",
     "nombre_punto": "Edu Boutique"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 3",
+    "id": "REYES-GYM-Z5-L-Q-G",
+    "nombre_punto": "Reyes Gym"
   }
 ]
