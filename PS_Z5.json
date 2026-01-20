@@ -11149,5 +11149,14 @@
     "subcircuito": "GALO PLAZA 3",
     "id": "TIENDA-LA-GORDITA-Z5-L-Q-G",
     "nombre_punto": "TIENDA LA GORDITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "CASA-DE-LA-CULTURA-MALECÓN-Z5-L-B-C",
+    "nombre_punto": "Casa de la Cultura Malecón"
   }
 ]
