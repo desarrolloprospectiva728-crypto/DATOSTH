@@ -4165,5 +4165,14 @@
     "subcircuito": "SAN GABRIEL NORTE 1",
     "id": "VIVERES-DIANITA-Z1-C-M-S",
     "nombre_punto": "VIVERES DIANITA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "MONTUFAR",
+    "circuito": "SAN GABRIEL SUR",
+    "subcircuito": "SAN GABRIEL SUR 1",
+    "id": "CEVICHOCJOS-DE-LA-13-DE-ABRIL-Z1-C-M-S",
+    "nombre_punto": "Cevichocjos de la 13 de abril"
   }
 ]
