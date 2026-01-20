@@ -3193,5 +3193,14 @@
     "subcircuito": "SUSCAL 1",
     "id": "WASI-MARKET-Z6-C-C-S",
     "nombre_punto": "WASI MARKET"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "JIMA",
+    "subcircuito": "JIMA 1",
+    "id": "ABACERÍA-GIMA-Z6-A-S-J",
+    "nombre_punto": "ABACERÍA GIMA"
   }
 ]
