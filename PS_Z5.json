@@ -11176,5 +11176,14 @@
     "subcircuito": "CONTROL 2",
     "id": "TIENDA-LA-FLORESTA-Z5-L-Q-C",
     "nombre_punto": "Tienda La Floresta"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 2",
+    "id": "EDU-BOUTIQUE-Z5-L-Q-G",
+    "nombre_punto": "Edu Boutique"
   }
 ]
