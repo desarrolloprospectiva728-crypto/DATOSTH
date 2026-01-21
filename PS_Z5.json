@@ -11203,5 +11203,14 @@
     "subcircuito": "LA RESERVA 1",
     "id": "MINIMARKET-HILDITA-&LUIS-Z5-L-B-L",
     "nombre_punto": "Minimarket Hildita &Luis"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "SALITRE SAUCES",
+    "subcircuito": "SALITRE SAUCES 1",
+    "id": "MINI-DESPENSA-3-HERMANOS-FREIRE-Z5-G-S-S",
+    "nombre_punto": "MINI DESPENSA 3 HERMANOS FREIRE"
   }
 ]
