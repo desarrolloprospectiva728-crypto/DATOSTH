@@ -4201,5 +4201,14 @@
     "subcircuito": "MALDONADO 2",
     "id": "NOGAL-Y-CEDRO-Z2-P-N-M",
     "nombre_punto": "NOGAL Y CEDRO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 2",
+    "id": "MINI-PAPELERÍA-DE-SOL-Y-MAR-Z2-P-N-M",
+    "nombre_punto": "MINI PAPELERÍA DE SOL Y MAR"
   }
 ]
