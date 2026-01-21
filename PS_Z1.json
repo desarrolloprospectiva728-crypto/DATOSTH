@@ -4174,5 +4174,14 @@
     "subcircuito": "SAN GABRIEL SUR 1",
     "id": "CEVICHOCJOS-DE-LA-13-DE-ABRIL-Z1-C-M-S",
     "nombre_punto": "Cevichocjos de la 13 de abril"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "FARMACIA-CRUZ-AZUL-Z1-E-E-C",
+    "nombre_punto": "Farmacia Cruz Azul"
   }
 ]
