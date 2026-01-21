@@ -3202,5 +3202,23 @@
     "subcircuito": "JIMA 1",
     "id": "ABACERÍA-GIMA-Z6-A-S-J",
     "nombre_punto": "ABACERÍA GIMA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "CHECA",
+    "subcircuito": "CHECA 1",
+    "id": "PDV-PATAMARCA-Z6-A-C-C",
+    "nombre_punto": "PDV PATAMARCA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "CHECA",
+    "subcircuito": "CHECA 1",
+    "id": "PDV-PATAMARCA-Z6-A-C-C",
+    "nombre_punto": "PDV PATAMARCA"
   }
 ]
