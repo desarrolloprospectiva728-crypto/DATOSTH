@@ -3877,5 +3877,14 @@
     "subcircuito": "BUENA VISTA 2",
     "id": "PARQUE-CENTRAL-BUENAVISTA-Z7-E-P-B",
     "nombre_punto": "PARQUE CENTRAL BUENAVISTA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PIÑAS",
+    "circuito": "SAN ROQUE",
+    "subcircuito": "SAN ROQUE 2",
+    "id": "PUNTO-MOVIL-Z7-E-P-S",
+    "nombre_punto": "Punto Movil"
   }
 ]
