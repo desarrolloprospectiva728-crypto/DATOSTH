@@ -4219,5 +4219,14 @@
     "subcircuito": "MALDONADO 2",
     "id": "COMERCIAL-ANDOAS-FERRETERIA-Z2-P-N-M",
     "nombre_punto": "COMERCIAL ANDOAS FERRETERIA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 1",
+    "id": "MÓVIL-CELL-MR-Z2-P-N-M",
+    "nombre_punto": "MÓVIL CELL MR"
   }
 ]
