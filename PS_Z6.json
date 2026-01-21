@@ -3220,5 +3220,14 @@
     "subcircuito": "CHECA 1",
     "id": "PDV-PATAMARCA-Z6-A-C-C",
     "nombre_punto": "PDV PATAMARCA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES NORTE",
+    "subcircuito": "AZOGUES NORTE 1",
+    "id": "PICANTERIA-LUNA-Z6-C-A-A",
+    "nombre_punto": "PICANTERIA LUNA"
   }
 ]
