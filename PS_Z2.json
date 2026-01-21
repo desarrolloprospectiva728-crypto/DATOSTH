@@ -4174,5 +4174,14 @@
     "subcircuito": "COCA OCCIDENTE 5",
     "id": "RENTA-DE-CARROS-STAR-Z2-O-O-C",
     "nombre_punto": "RENTA DE CARROS STAR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 2",
+    "id": "BARBESHOP-Z2-P-N-M",
+    "nombre_punto": "BARBESHOP"
   }
 ]
