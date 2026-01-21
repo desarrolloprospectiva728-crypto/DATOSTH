@@ -4210,5 +4210,14 @@
     "subcircuito": "MALDONADO 2",
     "id": "MINI-PAPELERÍA-DE-SOL-Y-MAR-Z2-P-N-M",
     "nombre_punto": "MINI PAPELERÍA DE SOL Y MAR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "PICHINCHA",
+    "distrito": "NOROCCIDENTE",
+    "circuito": "MALDONADO",
+    "subcircuito": "MALDONADO 2",
+    "id": "COMERCIAL-ANDOAS-FERRETERIA-Z2-P-N-M",
+    "nombre_punto": "COMERCIAL ANDOAS FERRETERIA"
   }
 ]
