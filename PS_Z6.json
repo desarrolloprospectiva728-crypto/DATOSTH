@@ -3229,5 +3229,14 @@
     "subcircuito": "AZOGUES NORTE 1",
     "id": "PICANTERIA-LUNA-Z6-C-A-A",
     "nombre_punto": "PICANTERIA LUNA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "COMERCIAL-SALINAS-Z6-C-A-A",
+    "nombre_punto": "COMERCIAL SALINAS"
   }
 ]
