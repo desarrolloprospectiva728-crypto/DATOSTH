@@ -4183,5 +4183,14 @@
     "subcircuito": "CENTRO 2",
     "id": "FARMACIA-CRUZ-AZUL-Z1-E-E-C",
     "nombre_punto": "Farmacia Cruz Azul"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "CASCALES",
+    "subcircuito": "CASCALES 1",
+    "id": "DISTRIBUIDORA-DE-PLASTICOS-RYM-Z1-S-S-C",
+    "nombre_punto": "DISTRIBUIDORA DE PLASTICOS RYM"
   }
 ]
