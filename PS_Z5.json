@@ -11212,5 +11212,14 @@
     "subcircuito": "SALITRE SAUCES 1",
     "id": "MINI-DESPENSA-3-HERMANOS-FREIRE-Z5-G-S-S",
     "nombre_punto": "MINI DESPENSA 3 HERMANOS FREIRE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME SUROESTE",
+    "subcircuito": "EMPALME SUROESTE 1",
+    "id": "HOSPITAL-BÁSICO-EL-EMPALME-Z5-G-E-E",
+    "nombre_punto": "Hospital básico el Empalme"
   }
 ]
