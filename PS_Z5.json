@@ -11257,5 +11257,14 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "LAVANDERÍA-EXPRESS-Z5-L-V-A",
     "nombre_punto": "Lavandería Express"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "BALAO",
+    "subcircuito": "BALAO 1",
+    "id": "GASOLINERA-MÁS-GAS-Z5-G-N-B",
+    "nombre_punto": "Gasolinera Más Gas"
   }
 ]
