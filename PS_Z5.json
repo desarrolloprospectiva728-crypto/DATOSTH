@@ -11293,5 +11293,14 @@
     "subcircuito": "BUENA FE OESTE 1",
     "id": "MINI-TIENDA-BRITHANY-FRENTE-AL-PARQUE-DE-LA-SANTA-ROSA-Z5-L-B-B",
     "nombre_punto": "MINI TIENDA BRITHANY FRENTE AL PARQUE DE LA SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "BALAO",
+    "subcircuito": "BALAO 1",
+    "id": "FISCALÍA-Z5-G-N-B",
+    "nombre_punto": "Fiscalía"
   }
 ]
