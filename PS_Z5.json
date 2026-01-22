@@ -11248,5 +11248,14 @@
     "subcircuito": "EMPALME SURESTE 1",
     "id": "FUTURO-LAMANENSE-COOPERATIVA-DE-AHORRO-Y-CRÉDITO-Z5-G-E-E",
     "nombre_punto": "FUTURO LAMANENSE COOPERATIVA DE AHORRO Y CRÉDITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "LAVANDERÍA-EXPRESS-Z5-L-V-A",
+    "nombre_punto": "Lavandería Express"
   }
 ]
