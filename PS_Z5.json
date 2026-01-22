@@ -11266,5 +11266,32 @@
     "subcircuito": "BALAO 1",
     "id": "GASOLINERA-MÁS-GAS-Z5-G-N-B",
     "nombre_punto": "Gasolinera Más Gas"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "BALAO",
+    "subcircuito": "BALAO 1",
+    "id": "PLAZA-JAYA-Z5-G-N-B",
+    "nombre_punto": "PLAZA JAYA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "BALAO",
+    "subcircuito": "BALAO 1",
+    "id": "PLAZA-JAYA-Z5-G-N-B",
+    "nombre_punto": "PLAZA JAYA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 1",
+    "id": "MINI-TIENDA-BRITHANY-FRENTE-AL-PARQUE-DE-LA-SANTA-ROSA-Z5-L-B-B",
+    "nombre_punto": "MINI TIENDA BRITHANY FRENTE AL PARQUE DE LA SANTA ROSA"
   }
 ]
