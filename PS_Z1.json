@@ -4192,5 +4192,23 @@
     "subcircuito": "CASCALES 1",
     "id": "DISTRIBUIDORA-DE-PLASTICOS-RYM-Z1-S-S-C",
     "nombre_punto": "DISTRIBUIDORA DE PLASTICOS RYM"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "CRISMA-SPORT-MERCADO-SAN-MIGUEL-Z1-C-T-K",
+    "nombre_punto": "CRISMA SPORT MERCADO SAN MIGUEL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "LOCAL-COMERCIAL-MOTTO-MERCADO-SAN-MIGUEL-Z1-C-T-K",
+    "nombre_punto": "LOCAL COMERCIAL MOTTO MERCADO SAN MIGUEL"
   }
 ]
