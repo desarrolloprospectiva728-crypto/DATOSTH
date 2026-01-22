@@ -11230,5 +11230,23 @@
     "subcircuito": "EMPALME CENTRO 1",
     "id": "LOCAL-COMERCIAL,-LA-ESQUINA-DEL-SABOR-Z5-G-E-E",
     "nombre_punto": "LOCAL COMERCIAL, LA ESQUINA DEL SABOR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME SUROESTE",
+    "subcircuito": "EMPALME SUROESTE 1",
+    "id": "PARQUE-29-DE-OCTUBRE-Z5-G-E-E",
+    "nombre_punto": "PARQUE 29 DE OCTUBRE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME SURESTE",
+    "subcircuito": "EMPALME SURESTE 1",
+    "id": "FUTURO-LAMANENSE-COOPERATIVA-DE-AHORRO-Y-CRÉDITO-Z5-G-E-E",
+    "nombre_punto": "FUTURO LAMANENSE COOPERATIVA DE AHORRO Y CRÉDITO"
   }
 ]
