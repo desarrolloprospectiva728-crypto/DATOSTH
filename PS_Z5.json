@@ -11278,15 +11278,6 @@
   },
   {
     "zona": "ZONA 5",
-    "subzona": "GUAYAS",
-    "distrito": "NARANJAL BALAO",
-    "circuito": "BALAO",
-    "subcircuito": "BALAO 1",
-    "id": "PLAZA-JAYA-Z5-G-N-B",
-    "nombre_punto": "PLAZA JAYA"
-  },
-  {
-    "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "BUENA FE",
     "circuito": "BUENA FE OESTE",
