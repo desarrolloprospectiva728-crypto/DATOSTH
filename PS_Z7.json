@@ -3886,5 +3886,14 @@
     "subcircuito": "SAN ROQUE 2",
     "id": "PUNTO-MOVIL-Z7-E-P-S",
     "nombre_punto": "Punto Movil"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "PAQUISHA",
+    "circuito": "GUAYZIMI",
+    "subcircuito": "GUAYZIMI 1",
+    "id": "CACPE-ZAMORA-CHINCHIPE-Z7-Z-P-G",
+    "nombre_punto": "CACPE ZAMORA CHINCHIPE"
   }
 ]
