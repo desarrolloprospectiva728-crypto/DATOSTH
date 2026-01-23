@@ -11302,5 +11302,14 @@
     "subcircuito": "BUENA FE OESTE 1",
     "id": "COMERCIAL-RICHARD-Z5-L-B-B",
     "nombre_punto": "COMERCIAL  RICHARD"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 1",
+    "id": "COMPRA-DE-CACAO-Z5-L-B-M",
+    "nombre_punto": "Compra de Cacao"
   }
 ]
