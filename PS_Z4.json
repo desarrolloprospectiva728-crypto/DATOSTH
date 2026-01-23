@@ -6982,5 +6982,14 @@
     "subcircuito": "NUEVO PORTOVIEJO 1",
     "id": "LABORATORIO-SANTA-RITHA-Z4-M-P-N",
     "nombre_punto": "LABORATORIO SANTA RITHA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 1",
+    "id": "FARMAGRO-Z4-M-E-S",
+    "nombre_punto": "FARMAGRO"
   }
 ]
