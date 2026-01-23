@@ -11293,5 +11293,14 @@
     "subcircuito": "BALAO 1",
     "id": "FISCALÍA-Z5-G-N-B",
     "nombre_punto": "Fiscalía"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE OESTE",
+    "subcircuito": "BUENA FE OESTE 1",
+    "id": "COMERCIAL-RICHARD-Z5-L-B-B",
+    "nombre_punto": "COMERCIAL  RICHARD"
   }
 ]
