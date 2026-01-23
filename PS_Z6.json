@@ -3229,5 +3229,14 @@
     "subcircuito": "AZOGUES SUR 1",
     "id": "COMERCIAL-SALINAS-Z6-C-A-A",
     "nombre_punto": "COMERCIAL SALINAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA SUR",
+    "circuito": "SUCRE",
+    "subcircuito": "SUCRE 1",
+    "id": "MOTO-REPUBLIC-Z6-A-C-S",
+    "nombre_punto": "MOTO REPUBLIC"
   }
 ]
