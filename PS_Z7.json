@@ -3895,5 +3895,14 @@
     "subcircuito": "GUAYZIMI 1",
     "id": "CACPE-ZAMORA-CHINCHIPE-Z7-Z-P-G",
     "nombre_punto": "CACPE ZAMORA CHINCHIPE"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CALVAS",
+    "circuito": "CARIAMANGA ESTE",
+    "subcircuito": "CARIAMANGA ESTE 1",
+    "id": "HOSPITAL-BÁSICO-CARIAMANGA-Z7-L-C-C",
+    "nombre_punto": "Hospital Básico Cariamanga"
   }
 ]
