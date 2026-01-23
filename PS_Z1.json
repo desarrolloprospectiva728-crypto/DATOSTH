@@ -4210,5 +4210,14 @@
     "subcircuito": "KENNEDY 1",
     "id": "LOCAL-COMERCIAL-MOTTO-MERCADO-SAN-MIGUEL-Z1-C-T-K",
     "nombre_punto": "LOCAL COMERCIAL MOTTO MERCADO SAN MIGUEL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LAS TERMAS",
+    "subcircuito": "LAS TERMAS 2",
+    "id": "PARQUE-CENTRAL-DE-URCUQUI-Z1-I-C-L",
+    "nombre_punto": "Parque Central de Urcuqui"
   }
 ]
