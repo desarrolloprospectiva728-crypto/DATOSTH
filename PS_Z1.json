@@ -4219,5 +4219,14 @@
     "subcircuito": "LAS TERMAS 2",
     "id": "PARQUE-CENTRAL-DE-URCUQUI-Z1-I-C-L",
     "nombre_punto": "Parque Central de Urcuqui"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LAS TERMAS",
+    "subcircuito": "LAS TERMAS 1",
+    "id": "PISCINAS-ARCOIRIS-Z1-I-C-L",
+    "nombre_punto": "PISCINAS ARCOIRIS"
   }
 ]
