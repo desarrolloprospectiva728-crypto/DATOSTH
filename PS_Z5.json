@@ -11338,5 +11338,14 @@
     "subcircuito": "MONTALVO 1",
     "id": "UPA-MARKET-Z5-L-B-M",
     "nombre_punto": "Upa Market"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 1",
+    "id": "H.D.M-TECHNOLOGY-Z5-L-B-M",
+    "nombre_punto": "H.D.M Technology"
   }
 ]
