@@ -4228,5 +4228,23 @@
     "subcircuito": "LAS TERMAS 1",
     "id": "PISCINAS-ARCOIRIS-Z1-I-C-L",
     "nombre_punto": "PISCINAS ARCOIRIS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 3",
+    "id": "DISTRIBUIDORA-DON-RAFA-Z1-E-E-L",
+    "nombre_punto": "DISTRIBUIDORA DON RAFA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 3",
+    "id": "DISTRIBUIDORA-DON-RAFA-Z1-E-E-L",
+    "nombre_punto": "DISTRIBUIDORA DON RAFA"
   }
 ]
