@@ -3913,5 +3913,14 @@
     "subcircuito": "CELI ROMAN 1",
     "id": "HOSPITAL-ISIDRO-AYORA-REFERENCIA-ÁREA-DE-EMERGENCIA-Z7-L-L-C",
     "nombre_punto": "HOSPITAL ISIDRO AYORA REFERENCIA ÁREA DE EMERGENCIA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "LOJA",
+    "circuito": "SAGRARIO",
+    "subcircuito": "SAGRARIO 1",
+    "id": "DERMATOLOGIKA-Z7-L-L-S",
+    "nombre_punto": "DERMATOLOGIKA"
   }
 ]
