@@ -3904,5 +3904,14 @@
     "subcircuito": "CARIAMANGA ESTE 1",
     "id": "HOSPITAL-BÁSICO-CARIAMANGA-Z7-L-C-C",
     "nombre_punto": "Hospital Básico Cariamanga"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "LOJA",
+    "circuito": "CELI ROMAN",
+    "subcircuito": "CELI ROMAN 1",
+    "id": "HOSPITAL-ISIDRO-AYORA-REFERENCIA-ÁREA-DE-EMERGENCIA-Z7-L-L-C",
+    "nombre_punto": "HOSPITAL ISIDRO AYORA REFERENCIA ÁREA DE EMERGENCIA"
   }
 ]
