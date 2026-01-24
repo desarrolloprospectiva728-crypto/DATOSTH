@@ -3940,5 +3940,14 @@
     "subcircuito": "ZAPOTILLO 1",
     "id": "CENTRO-DE-SALUD-ZAPOTILLO-Z7-L-Z-Z",
     "nombre_punto": "CENTRO DE SALUD ZAPOTILLO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SABANILLA",
+    "circuito": "CELICA",
+    "subcircuito": "CELICA 1",
+    "id": "ISS-CELICA-Z7-L-S-C",
+    "nombre_punto": "ISS CELICA"
   }
 ]
