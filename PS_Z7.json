@@ -3931,5 +3931,14 @@
     "subcircuito": "ALAMOR 1",
     "id": "HOSPITAL-BASICO-ALAMOR-Z7-L-S-A",
     "nombre_punto": "HOSPITAL BASICO ALAMOR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ZAPOTILLO",
+    "circuito": "ZAPOTILLO",
+    "subcircuito": "ZAPOTILLO 1",
+    "id": "CENTRO-DE-SALUD-ZAPOTILLO-Z7-L-Z-Z",
+    "nombre_punto": "CENTRO DE SALUD ZAPOTILLO"
   }
 ]
