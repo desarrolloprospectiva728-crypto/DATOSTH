@@ -4228,5 +4228,14 @@
     "subcircuito": "MALDONADO 1",
     "id": "MÓVIL-CELL-MR-Z2-P-N-M",
     "nombre_punto": "MÓVIL CELL MR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "EL-ARROCERO-DISTRIBUIDORA-DE-ARROZ-Z2-N-T-P",
+    "nombre_punto": "EL ARROCERO DISTRIBUIDORA DE ARROZ"
   }
 ]
