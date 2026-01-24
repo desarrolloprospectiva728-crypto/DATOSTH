@@ -3922,5 +3922,14 @@
     "subcircuito": "SAGRARIO 1",
     "id": "DERMATOLOGIKA-Z7-L-L-S",
     "nombre_punto": "DERMATOLOGIKA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SABANILLA",
+    "circuito": "ALAMOR",
+    "subcircuito": "ALAMOR 1",
+    "id": "HOSPITAL-BASICO-ALAMOR-Z7-L-S-A",
+    "nombre_punto": "HOSPITAL BASICO ALAMOR"
   }
 ]
