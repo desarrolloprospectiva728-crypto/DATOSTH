@@ -3238,5 +3238,23 @@
     "subcircuito": "SUCRE 1",
     "id": "MOTO-REPUBLIC-Z6-A-C-S",
     "nombre_punto": "MOTO REPUBLIC"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "SUCUA",
+    "subcircuito": "SUCUA 1",
+    "id": "COLISEO-MUNICIPAL-DEPORTES-DE-CONTACTO-\"BYRON-DELGADO\"-Z6-M-C-S",
+    "nombre_punto": "COLISEO MUNICIPAL DEPORTES DE CONTACTO \"BYRON DELGADO\""
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "SUCUA",
+    "subcircuito": "SUCUA 1",
+    "id": "COLISEO-MUNICIPAL-DEPORTES-DE-CONTACTO-\"BYRON-DELGADO\"-Z6-M-C-S",
+    "nombre_punto": "COLISEO MUNICIPAL DEPORTES DE CONTACTO \"BYRON DELGADO\""
   }
 ]
