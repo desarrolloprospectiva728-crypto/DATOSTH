@@ -3949,5 +3949,14 @@
     "subcircuito": "CELICA 1",
     "id": "ISS-CELICA-Z7-L-S-C",
     "nombre_punto": "ISS CELICA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "PAQUISHA",
+    "circuito": "ZUMBI",
+    "subcircuito": "ZUMBI 1",
+    "id": "MINIMARKET-CAMACHITO-Z7-Z-P-Z",
+    "nombre_punto": "Minimarket Camachito"
   }
 ]
