@@ -4237,5 +4237,14 @@
     "subcircuito": "LIMONES 3",
     "id": "DISTRIBUIDORA-DON-RAFA-Z1-E-E-L",
     "nombre_punto": "DISTRIBUIDORA DON RAFA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 2",
+    "id": "PUNTO-GALEANOS-Z1-I-C-L",
+    "nombre_punto": "PUNTO GALEANOS"
   }
 ]
