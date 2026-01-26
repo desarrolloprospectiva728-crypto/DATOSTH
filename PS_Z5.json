@@ -11374,5 +11374,14 @@
     "subcircuito": "SANTA ELENA CENTRO 1",
     "id": "RESTAURANT-ECUA-PERU-Z5-S-S-S",
     "nombre_punto": "Restaurant Ecua Peru"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "BANCO-JARDÍN-AZUAYO-Z5-S-S-S",
+    "nombre_punto": "BANCO JARDÍN AZUAYO"
   }
 ]
