@@ -11338,5 +11338,23 @@
     "subcircuito": "MONTALVO 1",
     "id": "CENTRO-DE-SALUD-DE-MONTALVO-Z5-L-B-M",
     "nombre_punto": "Centro de Salud de Montalvo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "JUAN BAUTISTA AGUIRRE",
+    "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
+    "id": "FARMACIA-RENACER-Z5-G-D-J",
+    "nombre_punto": "FARMACIA RENACER"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "JUAN BAUTISTA AGUIRRE",
+    "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
+    "id": "FARMACIA-RENACER-Z5-G-D-J",
+    "nombre_punto": "FARMACIA RENACER"
   }
 ]
