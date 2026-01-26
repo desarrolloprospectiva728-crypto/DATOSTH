@@ -11356,5 +11356,14 @@
     "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
     "id": "FARMACIA-RENACER-Z5-G-D-J",
     "nombre_punto": "FARMACIA RENACER"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 1",
+    "id": "DISPENSARIO-MÉDICO-TIPO-C-Z5-L-B-M",
+    "nombre_punto": "Dispensario Médico Tipo C"
   }
 ]
