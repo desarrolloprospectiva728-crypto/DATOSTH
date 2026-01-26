@@ -11392,5 +11392,14 @@
     "subcircuito": "SANTA ELENA CENTRO 4",
     "id": "MINI-MARKET-LA-TORRE-Z5-S-S-S",
     "nombre_punto": "MINI MARKET LA TORRE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 1",
+    "id": "COMISARIATO-Z5-S-S-S",
+    "nombre_punto": "COMISARIATO"
   }
 ]
