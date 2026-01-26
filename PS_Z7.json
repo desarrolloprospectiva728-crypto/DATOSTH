@@ -3967,5 +3967,14 @@
     "subcircuito": "ZUMBA 1",
     "id": "HOSTAL-EL-CHARAPANO-Z7-Z-C-Z",
     "nombre_punto": "Hostal el charapano"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "CHINCHIPE",
+    "circuito": "ZUMBA",
+    "subcircuito": "ZUMBA 1",
+    "id": "TIENDA-DON-WILLIAM-Z7-Z-C-Z",
+    "nombre_punto": "Tienda Don William"
   }
 ]
