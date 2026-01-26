@@ -3958,5 +3958,14 @@
     "subcircuito": "ZUMBI 1",
     "id": "MINIMARKET-CAMACHITO-Z7-Z-P-Z",
     "nombre_punto": "Minimarket Camachito"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "CHINCHIPE",
+    "circuito": "ZUMBA",
+    "subcircuito": "ZUMBA 1",
+    "id": "HOSTAL-EL-CHARAPANO-Z7-Z-C-Z",
+    "nombre_punto": "Hostal el charapano"
   }
 ]
