@@ -6991,5 +6991,14 @@
     "subcircuito": "SAN PEDRO DE SUMA 1",
     "id": "FARMAGRO-Z4-M-E-S",
     "nombre_punto": "FARMAGRO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "SANTA ANA DE VUELTA LARGA",
+    "subcircuito": "SANTA ANA DE VUELTA LARGA 1",
+    "id": "CENTRO-TURÍSTICO-DON-AMADO-Z4-M-V-S",
+    "nombre_punto": "CENTRO TURÍSTICO DON AMADO"
   }
 ]
