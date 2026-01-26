@@ -11383,5 +11383,14 @@
     "subcircuito": "SANTA ELENA CENTRO 3",
     "id": "BANCO-JARDÍN-AZUAYO-Z5-S-S-S",
     "nombre_punto": "BANCO JARDÍN AZUAYO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 4",
+    "id": "MINI-MARKET-LA-TORRE-Z5-S-S-S",
+    "nombre_punto": "MINI MARKET LA TORRE"
   }
 ]
