@@ -3247,5 +3247,14 @@
     "subcircuito": "SUCUA 1",
     "id": "COLISEO-MUNICIPAL-DEPORTES-DE-CONTACTO-\"BYRON-DELGADO\"-Z6-M-C-S",
     "nombre_punto": "COLISEO MUNICIPAL DEPORTES DE CONTACTO \"BYRON DELGADO\""
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 1",
+    "id": "COMERCIAL-SALINAS-RECINTO-FERIAL-Z6-C-A-A",
+    "nombre_punto": "COMERCIAL SALINAS RECINTO FERIAL"
   }
 ]
