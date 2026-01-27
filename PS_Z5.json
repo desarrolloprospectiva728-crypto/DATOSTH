@@ -11410,5 +11410,14 @@
     "subcircuito": "BABA 1",
     "id": "FARMACIA-CRUZ-AZUL-Z5-L-B-B",
     "nombre_punto": "Farmacia cruz azul"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "HOSPITAL-MARTIN-ICAZA-Z5-L-B-C",
+    "nombre_punto": "Hospital Martin Icaza"
   }
 ]
