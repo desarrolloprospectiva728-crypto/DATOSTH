@@ -3976,5 +3976,14 @@
     "subcircuito": "ZUMBA 1",
     "id": "TIENDA-DON-WILLIAM-Z7-Z-C-Z",
     "nombre_punto": "Tienda Don William"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "AMALUZA",
+    "subcircuito": "AMALUZA 1",
+    "id": "HOSPITAL-BÁSICO-DE-AMALUZA-Z7-L-E-A",
+    "nombre_punto": "HOSPITAL BÁSICO DE AMALUZA"
   }
 ]
