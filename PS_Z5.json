@@ -11419,5 +11419,14 @@
     "subcircuito": "CENTRO 1",
     "id": "HOSPITAL-MARTIN-ICAZA-Z5-L-B-C",
     "nombre_punto": "Hospital Martin Icaza"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BABA",
+    "subcircuito": "BABA 1",
+    "id": "ALMACÉN-ARTEFACTA-Z5-L-B-B",
+    "nombre_punto": "Almacén Artefacta"
   }
 ]
