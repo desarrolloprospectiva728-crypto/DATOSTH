@@ -11455,5 +11455,14 @@
     "subcircuito": "BALZAR CENTRO 1",
     "id": "ROMULO-RENDON-Y-AYACUCHO-Z5-G-B-B",
     "nombre_punto": "Romulo rendon y Ayacucho"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR CENTRO",
+    "subcircuito": "BALZAR CENTRO 1",
+    "id": "DESPENSA-DE-ARROZ-Z5-G-B-B",
+    "nombre_punto": "Despensa de arroz"
   }
 ]
