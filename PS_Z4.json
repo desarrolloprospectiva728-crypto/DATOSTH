@@ -7000,5 +7000,14 @@
     "subcircuito": "SANTA ANA DE VUELTA LARGA 1",
     "id": "CENTRO-TURÍSTICO-DON-AMADO-Z4-M-V-S",
     "nombre_punto": "CENTRO TURÍSTICO DON AMADO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "PARQUE-ELOY-ALFARO-Z4-M-P-P",
+    "nombre_punto": "Parque Eloy Alfaro"
   }
 ]
