@@ -7027,5 +7027,14 @@
     "subcircuito": "SANTA ANA 1",
     "id": "FUENTE-DE-SODA-PIERI-Z4-M-V-S",
     "nombre_punto": "FUENTE DE SODA PIERI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "INSUMOS-DE-FLORISTERIA-Y-DETALLES-DON.-PAUL-Z4-M-P-P",
+    "nombre_punto": "Insumos de Floristeria y Detalles Don. Paul"
   }
 ]
