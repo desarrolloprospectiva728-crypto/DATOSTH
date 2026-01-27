@@ -7009,5 +7009,14 @@
     "subcircuito": "PORTOVIEJO 3",
     "id": "PARQUE-ELOY-ALFARO-Z4-M-P-P",
     "nombre_punto": "Parque Eloy Alfaro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "FLORERIA-Y-DISTRIBUIDORA-DON.-PAUL-Z4-M-P-P",
+    "nombre_punto": "Floreria y Distribuidora Don. Paul"
   }
 ]
