@@ -7018,5 +7018,14 @@
     "subcircuito": "PORTOVIEJO 3",
     "id": "FLORERIA-Y-DISTRIBUIDORA-DON.-PAUL-Z4-M-P-P",
     "nombre_punto": "Floreria y Distribuidora Don. Paul"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "FUENTE-DE-SODA-PIERI-Z4-M-V-S",
+    "nombre_punto": "FUENTE DE SODA PIERI"
   }
 ]
