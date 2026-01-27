@@ -3994,5 +3994,14 @@
     "subcircuito": "MACARA 2",
     "id": "MINISTERIO-DE-SALUD-EMERGENCIA-Z7-L-M-M",
     "nombre_punto": "Ministerio de salud Emergencia"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "JIMBURA",
+    "subcircuito": "JIMBURA 1",
+    "id": "CENTRO-DE-SALUD-TIPO-A-JIMBURA-Z7-L-E-J",
+    "nombre_punto": "CENTRO DE SALUD TIPO A JIMBURA"
   }
 ]
