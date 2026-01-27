@@ -11392,5 +11392,23 @@
     "subcircuito": "SANTA ELENA CENTRO 1",
     "id": "COMISARIATO-Z5-S-S-S",
     "nombre_punto": "COMISARIATO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BABA",
+    "subcircuito": "BABA 1",
+    "id": "LA-GANGA-Z5-L-B-B",
+    "nombre_punto": "La Ganga"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BABA",
+    "subcircuito": "BABA 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z5-L-B-B",
+    "nombre_punto": "Farmacia cruz azul"
   }
 ]
