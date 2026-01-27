@@ -11446,5 +11446,14 @@
     "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
     "id": "FARMACIA-CRUZ-AZUL-AV-LEON-FEBRES-CORDERO-Y-SATURNINO-ZUÑIGA-Z5-G-D-J",
     "nombre_punto": "FARMACIA CRUZ AZUL  AV LEON  FEBRES CORDERO Y SATURNINO ZUÑIGA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR CENTRO",
+    "subcircuito": "BALZAR CENTRO 1",
+    "id": "ROMULO-RENDON-Y-AYACUCHO-Z5-G-B-B",
+    "nombre_punto": "Romulo rendon y Ayacucho"
   }
 ]
