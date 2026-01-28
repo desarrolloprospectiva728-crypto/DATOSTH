@@ -4246,5 +4246,14 @@
     "subcircuito": "LA FLORIDA 2",
     "id": "PUNTO-GALEANOS-Z1-I-C-L",
     "nombre_punto": "PUNTO GALEANOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 1",
+    "id": "COMERCIAL-CASA-BLANCA-Z1-E-S-F",
+    "nombre_punto": "Comercial Casa blanca"
   }
 ]
