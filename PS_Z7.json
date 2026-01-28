@@ -4039,5 +4039,14 @@
     "subcircuito": "YANTZAZA 1",
     "id": "GASOLINERA-AMAZONAS-Z7-Z-Y-Y",
     "nombre_punto": "GASOLINERA AMAZONAS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "YANTZAZA",
+    "subcircuito": "YANTZAZA 1",
+    "id": "CENTRO-COMERCIAL-Z7-Z-Y-Y",
+    "nombre_punto": "CENTRO COMERCIAL"
   }
 ]
