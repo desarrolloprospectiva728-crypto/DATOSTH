@@ -11482,5 +11482,14 @@
     "subcircuito": "BUENA FE ESTE 1",
     "id": "FAENADORA-DON-OCTAVIO-Z5-L-B-B",
     "nombre_punto": "FAENADORA DON OCTAVIO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 4",
+    "id": "TRANSFEIJO-Z5-S-L-L",
+    "nombre_punto": "TRANSFEIJO"
   }
 ]
