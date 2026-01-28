@@ -11464,5 +11464,14 @@
     "subcircuito": "BALZAR CENTRO 1",
     "id": "DESPENSA-DE-ARROZ-Z5-G-B-B",
     "nombre_punto": "Despensa de arroz"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 2",
+    "id": "CEMENTERIO-COLOMBIA-CHIQUITO-Z5-L-P-S",
+    "nombre_punto": "CEMENTERIO COLOMBIA CHIQUITO"
   }
 ]
