@@ -11473,5 +11473,14 @@
     "subcircuito": "SAN JUAN 2",
     "id": "CEMENTERIO-COLOMBIA-CHIQUITO-Z5-L-P-S",
     "nombre_punto": "CEMENTERIO COLOMBIA CHIQUITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "BUENA FE ESTE",
+    "subcircuito": "BUENA FE ESTE 1",
+    "id": "FAENADORA-DON-OCTAVIO-Z5-L-B-B",
+    "nombre_punto": "FAENADORA DON OCTAVIO"
   }
 ]
