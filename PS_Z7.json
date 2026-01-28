@@ -4003,5 +4003,14 @@
     "subcircuito": "JIMBURA 1",
     "id": "CENTRO-DE-SALUD-TIPO-A-JIMBURA-Z7-L-E-J",
     "nombre_punto": "CENTRO DE SALUD TIPO A JIMBURA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "YANTZAZA",
+    "subcircuito": "YANTZAZA 1",
+    "id": "COLEGIO-PRIMERO-DE-MAYO-Z7-Z-Y-Y",
+    "nombre_punto": "Colegio Primero de Mayo"
   }
 ]
