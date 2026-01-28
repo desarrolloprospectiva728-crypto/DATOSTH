@@ -3256,5 +3256,23 @@
     "subcircuito": "AZOGUES SUR 1",
     "id": "COMERCIAL-SALINAS-RECINTO-FERIAL-Z6-C-A-A",
     "nombre_punto": "COMERCIAL SALINAS RECINTO FERIAL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "GUACHAPALA",
+    "subcircuito": "GUACHAPALA 1",
+    "id": "COOPERATIVA-MUSHUC-RUNA-Z6-A-P-G",
+    "nombre_punto": "Cooperativa Mushuc Runa"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "GUACHAPALA",
+    "subcircuito": "GUACHAPALA 1",
+    "id": "COOPERATIVA-MUSHUC-RUNA-Z6-A-P-G",
+    "nombre_punto": "Cooperativa Mushuc Runa"
   }
 ]
