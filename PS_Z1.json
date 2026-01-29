@@ -4300,5 +4300,14 @@
     "subcircuito": "KENNEDY 1",
     "id": "VÍVERES-EL-BÚFALO-Z1-C-T-K",
     "nombre_punto": "Víveres El Búfalo"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "COMUNEROS",
+    "subcircuito": "COMUNEROS 1",
+    "id": "VARIEDADES-STEFY-Z1-C-T-C",
+    "nombre_punto": "Variedades stefy"
   }
 ]
