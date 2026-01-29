@@ -11563,5 +11563,23 @@
     "subcircuito": "AUGUSTO VALENCIA 1",
     "id": "HOTEL-IBIZA-Z5-L-V-A",
     "nombre_punto": "Hotel Ibiza"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "MARCELINO MARIDUEÑA",
+    "subcircuito": "MARCELINO MARIDUEÑA 1",
+    "id": "COMERCIAL-GLADYS-MONTALVO-Z5-G-N-M",
+    "nombre_punto": "Comercial Gladys Montalvo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "MARCELINO MARIDUEÑA",
+    "subcircuito": "MARCELINO MARIDUEÑA 1",
+    "id": "COMERCIAL-GLADYS-MONTALVO-Z5-G-N-M",
+    "nombre_punto": "Comercial Gladys Montalvo"
   }
 ]
