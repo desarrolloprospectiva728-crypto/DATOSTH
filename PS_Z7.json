@@ -4147,5 +4147,14 @@
     "subcircuito": "PALANDA 1",
     "id": "GAD-MUNICIPAL-PALANDA-Z7-Z-C-P",
     "nombre_punto": "GAD MUNICIPAL PALANDA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "ZAMORA",
+    "circuito": "NAMBIJA",
+    "subcircuito": "NAMBIJA 1",
+    "id": "GASOLINERA-MEJECHE-Z7-Z-Z-N",
+    "nombre_punto": "Gasolinera Mejeche"
   }
 ]
