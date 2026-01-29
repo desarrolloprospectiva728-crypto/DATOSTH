@@ -11545,5 +11545,14 @@
     "subcircuito": "SALITRE SAUCES 1",
     "id": "TIENDA-4-HERMANOS-Z5-G-S-S",
     "nombre_punto": "TIENDA 4 HERMANOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CARACOL",
+    "subcircuito": "CARACOL 1",
+    "id": "SUB-CENTRO-DE-CARACOL-Z5-L-B-C",
+    "nombre_punto": "Sub Centro De Caracol"
   }
 ]
