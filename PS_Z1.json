@@ -4309,5 +4309,14 @@
     "subcircuito": "COMUNEROS 1",
     "id": "VARIEDADES-STEFY-Z1-C-T-C",
     "nombre_punto": "Variedades stefy"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "ISIDRO AYORA",
+    "subcircuito": "ISIDRO AYORA 1",
+    "id": "VÍVERES-DANIELITA-Z1-C-T-I",
+    "nombre_punto": "Víveres Danielita"
   }
 ]
