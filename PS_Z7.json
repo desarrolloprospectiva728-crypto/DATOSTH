@@ -4165,5 +4165,14 @@
     "subcircuito": "NAMBIJA 1",
     "id": "GASOLINERA-PRIMAX-LA-PISTA-Z7-Z-Z-N",
     "nombre_punto": "Gasolinera primax La pista"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "ZAMORA",
+    "circuito": "NAMBIJA",
+    "subcircuito": "NAMBIJA 1",
+    "id": "INGRESO-A-TIMBARA-LOCALES-DE-COMIDA-Z7-Z-Z-N",
+    "nombre_punto": "Ingreso a Timbara locales de comida"
   }
 ]
