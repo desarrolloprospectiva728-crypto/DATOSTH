@@ -4111,5 +4111,14 @@
     "subcircuito": "PALANDA 1",
     "id": "PARQUE-CENTRAL-DE-PALANDA-Z7-Z-C-P",
     "nombre_punto": "PARQUE CENTRAL DE PALANDA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "ZAMORA",
+    "circuito": "GUADALUPE",
+    "subcircuito": "GUADALUPE 1",
+    "id": "LA-SAQUEA-SFC-Z7-Z-Z-G",
+    "nombre_punto": "LA SAQUEA SFC"
   }
 ]
