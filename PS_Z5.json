@@ -11518,5 +11518,14 @@
     "subcircuito": "SALITRE SAUCES 1",
     "id": "MY-SPAZZIO-Z5-G-S-S",
     "nombre_punto": "MY SPAZZIO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 2",
+    "id": "SIXTO-CHAN-Y-AV.-BALCON-DEL-PACÍFICO-Z5-G-P-P",
+    "nombre_punto": "Sixto chan y Av. Balcon del Pacífico"
   }
 ]
