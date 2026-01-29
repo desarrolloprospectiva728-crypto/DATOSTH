@@ -11509,5 +11509,14 @@
     "subcircuito": "ZAPOTAL NUEVO 1",
     "id": "TIENDA-LUIYI-Z5-L-V-Z",
     "nombre_punto": "Tienda Luiyi"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "SALITRE SAUCES",
+    "subcircuito": "SALITRE SAUCES 1",
+    "id": "MY-SPAZZIO-Z5-G-S-S",
+    "nombre_punto": "MY SPAZZIO"
   }
 ]
