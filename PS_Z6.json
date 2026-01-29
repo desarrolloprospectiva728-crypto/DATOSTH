@@ -3301,5 +3301,14 @@
     "subcircuito": "PAUTE 2",
     "id": "RESTAURANTE-PANCHO-ALEGRE-Z6-A-P-P",
     "nombre_punto": "Restaurante Pancho Alegre"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 2",
+    "id": "MUNICIPALIDAD-DEL-CABO-Z6-A-P-P",
+    "nombre_punto": "Municipalidad del Cabo"
   }
 ]
