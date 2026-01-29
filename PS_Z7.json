@@ -4019,15 +4019,6 @@
     "distrito": "YANTZAZA",
     "circuito": "YANTZAZA",
     "subcircuito": "YANTZAZA 1",
-    "id": "COLEGIO-PRIMERO-DE-MAYO-Z7-Z-Y-Y",
-    "nombre_punto": "Colegio Primero de Mayo"
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "ZAMORA CHINCHIPE",
-    "distrito": "YANTZAZA",
-    "circuito": "YANTZAZA",
-    "subcircuito": "YANTZAZA 1",
     "id": "CANCHAS-DE-LA-UNIDAD-TECNICA-DE-MOVILIDAD-Z7-Z-Y-Y",
     "nombre_punto": "CANCHAS DE LA UNIDAD TECNICA DE MOVILIDAD"
   },
