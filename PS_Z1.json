@@ -4291,5 +4291,14 @@
     "subcircuito": "EL PORTAL 1",
     "id": "VÍVERES-ESTEFY-Z1-C-T-E",
     "nombre_punto": "VÍVERES ESTEFY"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "VÍVERES-EL-BÚFALO-Z1-C-T-K",
+    "nombre_punto": "Víveres El Búfalo"
   }
 ]
