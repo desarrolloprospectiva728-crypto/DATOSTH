@@ -11491,5 +11491,14 @@
     "subcircuito": "LIBERTAD CENTRO 4",
     "id": "TRANSFEIJO-Z5-S-L-L",
     "nombre_punto": "TRANSFEIJO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "YAGUACHI NORTE",
+    "subcircuito": "YAGUACHI NORTE 1",
+    "id": "MI-COMISARIATO-Z5-G-Y-Y",
+    "nombre_punto": "MI COMISARIATO"
   }
 ]
