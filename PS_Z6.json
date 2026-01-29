@@ -3292,5 +3292,14 @@
     "subcircuito": "PAUTE 1",
     "id": "COMERCIAL-BIGDADDY-Z6-A-P-P",
     "nombre_punto": "Comercial bigDaddy"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "PAUTE",
+    "circuito": "PAUTE",
+    "subcircuito": "PAUTE 2",
+    "id": "RESTAURANTE-PANCHO-ALEGRE-Z6-A-P-P",
+    "nombre_punto": "Restaurante Pancho Alegre"
   }
 ]
