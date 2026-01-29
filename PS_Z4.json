@@ -7045,5 +7045,14 @@
     "subcircuito": "PORTOVIEJO 2",
     "id": "PLAZA-ALIANZA-Z4-M-P-P",
     "nombre_punto": "Plaza Alianza"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 2",
+    "id": "BOLON-CAMPO-VERDE-Z4-M-P-P",
+    "nombre_punto": "Bolon Campo Verde"
   }
 ]
