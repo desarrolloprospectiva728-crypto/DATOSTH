@@ -4093,5 +4093,23 @@
     "subcircuito": "PAQUISHA 1",
     "id": "MINIMARKET-REINA-DEL-CISNE-Z7-Z-P-P",
     "nombre_punto": "MINIMARKET REINA DEL CISNE"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "ZAMORA",
+    "circuito": "GUADALUPE",
+    "subcircuito": "GUADALUPE 1",
+    "id": "GAD-PARROQUIAL-DE-GUADALUPE-Z7-Z-Z-G",
+    "nombre_punto": "GAD PARROQUIAL DE GUADALUPE"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "CHINCHIPE",
+    "circuito": "PALANDA",
+    "subcircuito": "PALANDA 1",
+    "id": "PARQUE-CENTRAL-DE-PALANDA-Z7-Z-C-P",
+    "nombre_punto": "PARQUE CENTRAL DE PALANDA"
   }
 ]
