@@ -4129,5 +4129,23 @@
     "subcircuito": "BUENA VISTA 2",
     "id": "COLEGI-DE-BACHILLERATO-JORGE-ICAZA-Z7-E-P-B",
     "nombre_punto": "Colegi de bachillerato Jorge Icaza"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "CHINCHIPE",
+    "circuito": "PALANDA",
+    "subcircuito": "PALANDA 1",
+    "id": "COOPERATIVA-CREDIAMIGO-Z7-Z-C-P",
+    "nombre_punto": "COOPERATIVA CREDIAMIGO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "CHINCHIPE",
+    "circuito": "PALANDA",
+    "subcircuito": "PALANDA 1",
+    "id": "GAD-MUNICIPAL-PALANDA-Z7-Z-C-P",
+    "nombre_punto": "GAD MUNICIPAL PALANDA"
   }
 ]
