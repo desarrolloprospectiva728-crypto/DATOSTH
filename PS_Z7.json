@@ -4084,5 +4084,14 @@
     "subcircuito": "CRISTO DEL CONSUELO 2",
     "id": "SAN-FELIPE-Z7-E-M-C",
     "nombre_punto": "San Felipe"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "PAQUISHA",
+    "circuito": "PAQUISHA",
+    "subcircuito": "PAQUISHA 1",
+    "id": "MINIMARKET-REINA-DEL-CISNE-Z7-Z-P-P",
+    "nombre_punto": "MINIMARKET REINA DEL CISNE"
   }
 ]
