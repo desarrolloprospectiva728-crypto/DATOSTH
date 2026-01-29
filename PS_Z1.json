@@ -4273,5 +4273,23 @@
     "subcircuito": "EL PORTAL 1",
     "id": "MINI-MARTEK-SUR-Z1-C-T-E",
     "nombre_punto": "MINI MARTEK SUR"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL MAESTRO",
+    "subcircuito": "EL MAESTRO 1",
+    "id": "BARRIO-EL-AEROPUERTO-Z1-C-T-E",
+    "nombre_punto": "BARRIO EL AEROPUERTO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL PORTAL",
+    "subcircuito": "EL PORTAL 1",
+    "id": "VÍVERES-ESTEFY-Z1-C-T-E",
+    "nombre_punto": "VÍVERES ESTEFY"
   }
 ]
