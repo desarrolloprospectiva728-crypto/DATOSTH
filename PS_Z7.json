@@ -4120,5 +4120,14 @@
     "subcircuito": "GUADALUPE 1",
     "id": "LA-SAQUEA-SFC-Z7-Z-Z-G",
     "nombre_punto": "LA SAQUEA SFC"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "ZAMORA",
+    "circuito": "GUADALUPE",
+    "subcircuito": "GUADALUPE 1",
+    "id": "MERCADO-DE-PIUNTZA-Z7-Z-Z-G",
+    "nombre_punto": "MERCADO DE PIUNTZA"
   }
 ]
