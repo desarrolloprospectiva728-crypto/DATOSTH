@@ -3270,26 +3270,8 @@
     "zona": "ZONA 6",
     "subzona": "AZUAY",
     "distrito": "PAUTE",
-    "circuito": "GUACHAPALA",
-    "subcircuito": "GUACHAPALA 1",
-    "id": "COOPERATIVA-MUSHUC-RUNA-Z6-A-P-G",
-    "nombre_punto": "Cooperativa Mushuc Runa"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "PAUTE",
     "circuito": "PAUTE",
     "subcircuito": "PAUTE 2",
-    "id": "COMERCIAL-BIGDADDY-Z6-A-P-P",
-    "nombre_punto": "Comercial bigDaddy"
-  },
-  {
-    "zona": "ZONA 6",
-    "subzona": "AZUAY",
-    "distrito": "PAUTE",
-    "circuito": "PAUTE",
-    "subcircuito": "PAUTE 1",
     "id": "COMERCIAL-BIGDADDY-Z6-A-P-P",
     "nombre_punto": "Comercial bigDaddy"
   },
