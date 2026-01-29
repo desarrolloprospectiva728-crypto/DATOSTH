@@ -4255,5 +4255,14 @@
     "subcircuito": "FRONTERA 1",
     "id": "COMERCIAL-CASA-BLANCA-Z1-E-S-F",
     "nombre_punto": "Comercial Casa blanca"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL PORTAL",
+    "subcircuito": "EL PORTAL 1",
+    "id": "SUTI-TIENDA-Z1-C-T-E",
+    "nombre_punto": "Suti Tienda"
   }
 ]
