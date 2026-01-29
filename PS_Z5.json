@@ -11500,5 +11500,14 @@
     "subcircuito": "YAGUACHI NORTE 1",
     "id": "MI-COMISARIATO-Z5-G-Y-Y",
     "nombre_punto": "MI COMISARIATO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "ZAPOTAL NUEVO",
+    "subcircuito": "ZAPOTAL NUEVO 1",
+    "id": "TIENDA-LUIYI-Z5-L-V-Z",
+    "nombre_punto": "Tienda Luiyi"
   }
 ]
