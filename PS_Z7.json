@@ -4129,5 +4129,14 @@
     "subcircuito": "GUADALUPE 1",
     "id": "MERCADO-DE-PIUNTZA-Z7-Z-Z-G",
     "nombre_punto": "MERCADO DE PIUNTZA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "BUENA VISTA",
+    "subcircuito": "BUENA VISTA 2",
+    "id": "COLEGI-DE-BACHILLERATO-JORGE-ICAZA-Z7-E-P-B",
+    "nombre_punto": "Colegi de bachillerato Jorge Icaza"
   }
 ]
