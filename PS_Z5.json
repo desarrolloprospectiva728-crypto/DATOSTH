@@ -11527,5 +11527,23 @@
     "subcircuito": "PLAYAS 2",
     "id": "SIXTO-CHAN-Y-AV.-BALCON-DEL-PACÍFICO-Z5-G-P-P",
     "nombre_punto": "Sixto chan y Av. Balcon del Pacífico"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "SIXTO-CHAN-Y-AV.-PAQUISHA-Z5-G-P-P",
+    "nombre_punto": "Sixto chan y Av. Paquisha"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "SALITRE SAUCES",
+    "subcircuito": "SALITRE SAUCES 1",
+    "id": "TIENDA-4-HERMANOS-Z5-G-S-S",
+    "nombre_punto": "TIENDA 4 HERMANOS"
   }
 ]
