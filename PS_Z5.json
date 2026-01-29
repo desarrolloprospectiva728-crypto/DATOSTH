@@ -11554,5 +11554,14 @@
     "subcircuito": "CARACOL 1",
     "id": "SUB-CENTRO-DE-CARACOL-Z5-L-B-C",
     "nombre_punto": "Sub Centro De Caracol"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "HOTEL-IBIZA-Z5-L-V-A",
+    "nombre_punto": "Hotel Ibiza"
   }
 ]
