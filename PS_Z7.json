@@ -4075,5 +4075,14 @@
     "subcircuito": "CRISTO DEL CONSUELO 2",
     "id": "IEGSA-Z7-E-M-C",
     "nombre_punto": "Iegsa"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "CRISTO DEL CONSUELO",
+    "subcircuito": "CRISTO DEL CONSUELO 2",
+    "id": "SAN-FELIPE-Z7-E-M-C",
+    "nombre_punto": "San Felipe"
   }
 ]
