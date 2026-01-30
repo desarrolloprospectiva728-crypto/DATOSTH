@@ -11599,5 +11599,14 @@
     "subcircuito": "LOMAS DE SARGENTILLO 1",
     "id": "COLEGIO-DE-BACHILLERATO-AGROPECUARIO-Z5-G-P-L",
     "nombre_punto": "COLEGIO DE BACHILLERATO AGROPECUARIO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "LOMAS DE SARGENTILLO",
+    "subcircuito": "LOMAS DE SARGENTILLO 1",
+    "id": "GYM-TIME-MACHINE-Z5-G-P-L",
+    "nombre_punto": "GYM TIME MACHINE"
   }
 ]
