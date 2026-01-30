@@ -4318,5 +4318,14 @@
     "subcircuito": "ISIDRO AYORA 1",
     "id": "VÍVERES-DANIELITA-Z1-C-T-I",
     "nombre_punto": "Víveres Danielita"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "OLIMPICO",
+    "subcircuito": "OLIMPICO 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z1-C-T-O",
+    "nombre_punto": "Farmacia Cruz Azul"
   }
 ]
