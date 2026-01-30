@@ -11572,5 +11572,23 @@
     "subcircuito": "MARCELINO MARIDUEÑA 1",
     "id": "COMERCIAL-GLADYS-MONTALVO-Z5-G-N-M",
     "nombre_punto": "Comercial Gladys Montalvo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "NARANJITO ESTE",
+    "subcircuito": "NARANJITO ESTE 1",
+    "id": "EL-TUTI-Z5-G-N-N",
+    "nombre_punto": "El tuti"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "YAGUACHI NORTE",
+    "subcircuito": "YAGUACHI NORTE 1",
+    "id": "DISENSA-Z5-G-Y-Y",
+    "nombre_punto": "DISENSA"
   }
 ]
