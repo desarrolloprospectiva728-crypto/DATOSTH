@@ -4174,5 +4174,14 @@
     "subcircuito": "NAMBIJA 1",
     "id": "INGRESO-A-TIMBARA-LOCALES-DE-COMIDA-Z7-Z-Z-N",
     "nombre_punto": "Ingreso a Timbara locales de comida"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "ZAMORA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "JUNTA-CANTONAL-DE-PROTECCIÓN-INTEGRAL-DE-DERECHOS-ZAMORA-Z7-Z-Z-C",
+    "nombre_punto": "Junta Cantonal de protección integral de derechos Zamora"
   }
 ]
