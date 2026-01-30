@@ -4327,5 +4327,14 @@
     "subcircuito": "OLIMPICO 1",
     "id": "FARMACIA-CRUZ-AZUL-Z1-C-T-O",
     "nombre_punto": "Farmacia Cruz Azul"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CORDERO CRESPO",
+    "subcircuito": "CORDERO CRESPO 1",
+    "id": "IMAGEN-Y-UBLICIDAD,-ALADO-DE-LA-GASOLINERA-EL-POTOSI-Z1-E-E-C",
+    "nombre_punto": "IMAGEN Y UBLICIDAD, ALADO DE LA GASOLINERA EL POTOSI"
   }
 ]
