@@ -11617,5 +11617,14 @@
     "subcircuito": "NARANJAL CENTRO 1",
     "id": "VETERINARIA-MUNDO-ANIMAL-Z5-G-N-N",
     "nombre_punto": "VETERINARIA MUNDO ANIMAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "PUTUMAYO-Z5-L-V-V",
+    "nombre_punto": "Putumayo"
   }
 ]
