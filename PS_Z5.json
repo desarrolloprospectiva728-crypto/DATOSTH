@@ -11608,5 +11608,14 @@
     "subcircuito": "LOMAS DE SARGENTILLO 1",
     "id": "GYM-TIME-MACHINE-Z5-G-P-L",
     "nombre_punto": "GYM TIME MACHINE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "NARANJAL CENTRO",
+    "subcircuito": "NARANJAL CENTRO 1",
+    "id": "VETERINARIA-MUNDO-ANIMAL-Z5-G-N-N",
+    "nombre_punto": "VETERINARIA MUNDO ANIMAL"
   }
 ]
