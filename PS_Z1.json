@@ -4345,5 +4345,14 @@
     "subcircuito": "TUFIÑO 1",
     "id": "MERCADO-MUNICIPAL-TUFIÑO-Z1-C-T-T",
     "nombre_punto": "MERCADO MUNICIPAL TUFIÑO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "TUFIÑO",
+    "subcircuito": "TUFIÑO 1",
+    "id": "CASA-DEL-CICLISTA-Z1-C-T-T",
+    "nombre_punto": "CASA DEL CICLISTA"
   }
 ]
