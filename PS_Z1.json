@@ -4336,5 +4336,14 @@
     "subcircuito": "CORDERO CRESPO 1",
     "id": "IMAGEN-Y-UBLICIDAD,-ALADO-DE-LA-GASOLINERA-EL-POTOSI-Z1-E-E-C",
     "nombre_punto": "IMAGEN Y UBLICIDAD, ALADO DE LA GASOLINERA EL POTOSI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "TUFIÑO",
+    "subcircuito": "TUFIÑO 1",
+    "id": "MERCADO-MUNICIPAL-TUFIÑO-Z1-C-T-T",
+    "nombre_punto": "MERCADO MUNICIPAL TUFIÑO"
   }
 ]
