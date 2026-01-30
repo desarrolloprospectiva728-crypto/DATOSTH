@@ -4183,5 +4183,14 @@
     "subcircuito": "CENTRO 1",
     "id": "JUNTA-CANTONAL-DE-PROTECCIÓN-INTEGRAL-DE-DERECHOS-ZAMORA-Z7-Z-Z-C",
     "nombre_punto": "Junta Cantonal de protección integral de derechos Zamora"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "ZAMORA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "LOCAL-DE-LENCERIA-INTIMO-Z7-Z-Z-C",
+    "nombre_punto": "LOCAL DE LENCERIA INTIMO"
   }
 ]
