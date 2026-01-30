@@ -4354,5 +4354,14 @@
     "subcircuito": "TUFIÑO 1",
     "id": "CASA-DEL-CICLISTA-Z1-C-T-T",
     "nombre_punto": "CASA DEL CICLISTA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 1",
+    "id": "ANDROID-COMUNICACIONES-Z1-E-S-F",
+    "nombre_punto": "Android comunicaciones"
   }
 ]
