@@ -4417,5 +4417,23 @@
     "subcircuito": "CODESA 1",
     "id": "CARNES-DE-MORENITA-Z1-E-E-C",
     "nombre_punto": "Carnes de morenita"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "ZONA-MEGA-AV-OLMEDO-Y-MUELA-CAÑIZARS-Z1-E-E-C",
+    "nombre_punto": "Zona mega Av olmedo y muela cañizars"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CODESA",
+    "subcircuito": "CODESA 1",
+    "id": "AGROPECUARIAO-VACA-Z1-E-E-C",
+    "nombre_punto": "Agropecuariao Vaca"
   }
 ]
