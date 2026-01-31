@@ -4363,5 +4363,14 @@
     "subcircuito": "FRONTERA 1",
     "id": "ANDROID-COMUNICACIONES-Z1-E-S-F",
     "nombre_punto": "Android comunicaciones"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "POLIDEPORTIVO-DEL-CANTÓN-RIOVERDE-Z1-E-R-P",
+    "nombre_punto": "POLIDEPORTIVO DEL CANTÓN RIOVERDE"
   }
 ]
