@@ -4390,5 +4390,23 @@
     "subcircuito": "PALESTINA 1",
     "id": "CEVICANGRE-Z1-E-R-P",
     "nombre_punto": "CEVICANGRE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "SELVA ALEGRE",
+    "subcircuito": "SELVA ALEGRE 1",
+    "id": "TIENDA-RUFINO-Z1-E-E-S",
+    "nombre_punto": "TIENDA RUFINO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "SELVA ALEGRE",
+    "subcircuito": "SELVA ALEGRE 1",
+    "id": "VARIEDADES-NYN-Z1-E-E-S",
+    "nombre_punto": "VARIEDADES NYN"
   }
 ]
