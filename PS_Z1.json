@@ -4408,5 +4408,14 @@
     "subcircuito": "SELVA ALEGRE 1",
     "id": "VARIEDADES-NYN-Z1-E-E-S",
     "nombre_punto": "VARIEDADES NYN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 3",
+    "id": "FARMACIAS-COMUNITARIAS-Z1-E-R-M",
+    "nombre_punto": "FARMACIAS COMUNITARIAS"
   }
 ]
