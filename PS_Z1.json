@@ -4435,5 +4435,23 @@
     "subcircuito": "CODESA 1",
     "id": "AGROPECUARIAO-VACA-Z1-E-E-C",
     "nombre_punto": "Agropecuariao Vaca"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 1",
+    "id": "PRINCIPAL-LAS-PEÑAS-Z1-E-E-L",
+    "nombre_punto": "Principal las peñas"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 1",
+    "id": "PANADERÍA-LAS-PEÑAS-Z1-E-E-L",
+    "nombre_punto": "Panadería las peñas"
   }
 ]
