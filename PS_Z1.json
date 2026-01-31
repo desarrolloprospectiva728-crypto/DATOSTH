@@ -4372,5 +4372,14 @@
     "subcircuito": "PALESTINA 1",
     "id": "POLIDEPORTIVO-DEL-CANTÓN-RIOVERDE-Z1-E-R-P",
     "nombre_punto": "POLIDEPORTIVO DEL CANTÓN RIOVERDE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "PARADA-DE-BUSES-CHONTADURO-Z1-E-R-P",
+    "nombre_punto": "PARADA DE BUSES CHONTADURO"
   }
 ]
