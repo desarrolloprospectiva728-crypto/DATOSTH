@@ -4381,5 +4381,14 @@
     "subcircuito": "PALESTINA 1",
     "id": "PARADA-DE-BUSES-CHONTADURO-Z1-E-R-P",
     "nombre_punto": "PARADA DE BUSES CHONTADURO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "CEVICANGRE-Z1-E-R-P",
+    "nombre_punto": "CEVICANGRE"
   }
 ]
