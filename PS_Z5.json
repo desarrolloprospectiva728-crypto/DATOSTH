@@ -11626,5 +11626,14 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "PUTUMAYO-Z5-L-V-V",
     "nombre_punto": "Putumayo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "SUBCENTRO-DE-SALUD-LA-UNIÓN-Z5-L-B-L",
+    "nombre_punto": "Subcentro de Salud La Unión"
   }
 ]
