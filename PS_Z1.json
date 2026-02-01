@@ -4453,5 +4453,14 @@
     "subcircuito": "LIMONES 1",
     "id": "PANADERÍA-LAS-PEÑAS-Z1-E-E-L",
     "nombre_punto": "Panadería las peñas"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "EL MAESTRO",
+    "subcircuito": "EL MAESTRO 1",
+    "id": "CONSULADO-REPÚBLICA-DE-COLOMBIA-Z1-C-T-E",
+    "nombre_punto": "CONSULADO REPÚBLICA DE COLOMBIA"
   }
 ]
