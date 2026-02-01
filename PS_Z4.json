@@ -7135,5 +7135,50 @@
     "subcircuito": "UNIFICADOS 1",
     "id": "RESTOBAR-INDIAROSA-Z4-S-S-U",
     "nombre_punto": "Restobar indiarosa"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "UNIFICADOS",
+    "subcircuito": "UNIFICADOS 1",
+    "id": "PARRILLADAS-DE-MARISCOS-D\"LUIS-Z4-S-S-U",
+    "nombre_punto": "Parrilladas de mariscos D\"luis"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LA LORENA",
+    "subcircuito": "LA LORENA 1",
+    "id": "DESPENSA-NAIDELYN-Z4-S-S-L",
+    "nombre_punto": "DESPENSA NAIDELYN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LA LORENA",
+    "subcircuito": "LA LORENA 1",
+    "id": "DESPENSA-NAIDELYN-Z4-S-S-L",
+    "nombre_punto": "DESPENSA NAIDELYN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LA LORENA",
+    "subcircuito": "LA LORENA 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z4-S-S-L",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "UNIFICADOS",
+    "subcircuito": "UNIFICADOS 1",
+    "id": "PANADERÍA-REY-PAN-Z4-S-S-U",
+    "nombre_punto": "Panadería Rey pan"
   }
 ]
