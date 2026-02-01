@@ -7189,5 +7189,14 @@
     "subcircuito": "LA LORENA 1",
     "id": "UNIVERSIDAD-UNIANDES-Z4-S-S-L",
     "nombre_punto": "UNIVERSIDAD UNIANDES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "BEROFARMACY-Z4-S-S-B",
+    "nombre_punto": "BEROFARMACY"
   }
 ]
