@@ -4480,5 +4480,14 @@
     "subcircuito": "EL ENO 1",
     "id": "PANADERÍA-Y-PASTELERÍA-LA-ESPIGA-Z1-S-L-E",
     "nombre_punto": "Panadería y Pastelería La ESPIGA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LAS PALMAS",
+    "subcircuito": "LAS PALMAS 1",
+    "id": "CONSULADO-DE-COLOMBIA-Z1-E-E-L",
+    "nombre_punto": "Consulado de colombia Av Barbisoti entre Nelson estupiñan"
   }
 ]
