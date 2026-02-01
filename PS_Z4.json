@@ -7081,5 +7081,14 @@
     "subcircuito": "PORTOVIEJO 3",
     "id": "PARQUE-LAS-VEGAS-Z4-M-P-P",
     "nombre_punto": "Parque Las Vegas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "LA-SAZÓN-DE-MUTRE-Z4-M-R-L",
+    "nombre_punto": "LA SAZÓN DE MUTRE"
   }
 ]
