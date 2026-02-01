@@ -11905,5 +11905,14 @@
     "subcircuito": "PEDRO CARBO 1",
     "id": "BOGATI-HELADOS-CON-QUESO.-Z5-G-P-P",
     "nombre_punto": "BOGATI helados con queso."
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MATA DE CACAO",
+    "subcircuito": "MATA DE CACAO 4",
+    "id": "DISTRIBUFARM-Z5-L-B-M",
+    "nombre_punto": "DISTRIBUFARM"
   }
 ]
