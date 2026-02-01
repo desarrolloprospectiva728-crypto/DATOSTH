@@ -12067,5 +12067,14 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "BODEGA-DE-ARROZ-A-LADO-DE-LA-PARADA-BUSES-Z5-L-V-V",
     "nombre_punto": "Bodega de Arroz a lado de la parada buses"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "CHILLANES",
+    "circuito": "SAN JOSE DEL TAMBO",
+    "subcircuito": "SAN JOSE DEL TAMBO 1",
+    "id": "BARRIO-NORTE-Z5-B-C-S",
+    "nombre_punto": "BARRIO NORTE"
   }
 ]
