@@ -11860,5 +11860,23 @@
     "subcircuito": "VINCES SUR 1",
     "id": "MI-RICO-BOLLO-Z5-L-V-V",
     "nombre_punto": "Mi rico bollo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "GASOLINERA-PIBE-1-Z5-L-V-B",
+    "nombre_punto": "Gasolinera Pibe 1"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "FARMACIA-SAN-GREGORIO-Z5-L-V-V",
+    "nombre_punto": "Farmacia San Gregorio"
   }
 ]
