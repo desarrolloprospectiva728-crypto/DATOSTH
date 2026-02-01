@@ -7117,5 +7117,14 @@
     "subcircuito": "TRES DE JULIO 1",
     "id": "IMPORCELL-Z4-S-S-T",
     "nombre_punto": "Imporcell"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "ALLURIQUIN",
+    "subcircuito": "ALLURIQUIN 1",
+    "id": "ASADERO-MANABA-Z4-S-S-A",
+    "nombre_punto": "ASADERO MANABA"
   }
 ]
