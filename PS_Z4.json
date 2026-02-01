@@ -7180,5 +7180,14 @@
     "subcircuito": "UNIFICADOS 1",
     "id": "PANADERÍA-REY-PAN-Z4-S-S-U",
     "nombre_punto": "Panadería Rey pan"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LA LORENA",
+    "subcircuito": "LA LORENA 1",
+    "id": "UNIVERSIDAD-UNIANDES-Z4-S-S-L",
+    "nombre_punto": "UNIVERSIDAD UNIANDES"
   }
 ]
