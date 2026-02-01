@@ -12040,5 +12040,32 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "TIEBDA-Y-PANADERIA-ALEXIS-Z5-L-V-V",
     "nombre_punto": "Tiebda y Panaderia Alexis"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "CHILLANES",
+    "circuito": "CHILLANES",
+    "subcircuito": "CHILLANES 1",
+    "id": "GAD-MUNICIPAL-CHILLANES-Z5-B-C-C",
+    "nombre_punto": "GAD MUNICIPAL CHILLANES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "TAURA",
+    "subcircuito": "TAURA 2",
+    "id": "NOVEDADES-5-HERMANOS-Z5-G-N-T",
+    "nombre_punto": "NOVEDADES 5 HERMANOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "BODEGA-DE-ARROZ-A-LADO-DE-LA-PARADA-BUSES-Z5-L-V-V",
+    "nombre_punto": "Bodega de Arroz a lado de la parada buses"
   }
 ]
