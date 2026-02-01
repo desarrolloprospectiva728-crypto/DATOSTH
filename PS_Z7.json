@@ -4282,5 +4282,41 @@
     "subcircuito": "PANGUI 1",
     "id": "MAYOR-RENE-ULLOA-Z7-Z-Y-P",
     "nombre_punto": "Mayor Rene Ulloa"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "PANGUI",
+    "subcircuito": "PANGUI 1",
+    "id": "CALLE-JORGE-MOSQUERA-Y-CALLE-QUITO-Z7-Z-Y-P",
+    "nombre_punto": "Calle Jorge Mosquera y calle Quito"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SABANILLA",
+    "circuito": "PINDAL",
+    "subcircuito": "PINDAL 1",
+    "id": "BANECUADOR-Z7-L-S-P",
+    "nombre_punto": "BANECUADOR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "PANGUI",
+    "subcircuito": "PANGUI 1",
+    "id": "CALLE-JORGE-MOSQUERA-Y-EDUARDO-MARIÑO-Z7-Z-Y-P",
+    "nombre_punto": "Calle Jorge Mosquera y Eduardo Mariño"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SABANILLA",
+    "circuito": "PINDAL",
+    "subcircuito": "PINDAL 1",
+    "id": "CENTRO-DE-SALUD-PINDAL-Z7-L-S-P",
+    "nombre_punto": "CENTRO DE SALUD PINDAL"
   }
 ]
