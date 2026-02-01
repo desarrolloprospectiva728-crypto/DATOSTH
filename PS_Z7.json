@@ -4255,5 +4255,14 @@
     "subcircuito": "SAN ROQUE 2",
     "id": "DISTRIDANI-Z7-E-P-S",
     "nombre_punto": "Distridani"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "PANGUI",
+    "subcircuito": "PANGUI 2",
+    "id": "PARTE-CENTRICA-DEL-GUISMI-Z7-Z-Y-P",
+    "nombre_punto": "Parte centrica del Guismi"
   }
 ]
