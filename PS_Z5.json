@@ -12094,5 +12094,23 @@
     "subcircuito": "PALMAR 1",
     "id": "COMERCIAL-JC-M-Z5-S-S-P",
     "nombre_punto": "COMERCIAL JC M"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "BALAO",
+    "subcircuito": "BALAO 1",
+    "id": "ASADERO-MANABA-1-Z5-G-N-B",
+    "nombre_punto": "Asadero Manaba 1"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "BALAO",
+    "subcircuito": "BALAO 1",
+    "id": "FARMACIA-MIA-Z5-G-N-B",
+    "nombre_punto": "Farmacia Mia"
   }
 ]
