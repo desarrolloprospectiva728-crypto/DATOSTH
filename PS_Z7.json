@@ -4264,5 +4264,23 @@
     "subcircuito": "PANGUI 2",
     "id": "PARTE-CENTRICA-DEL-GUISMI-Z7-Z-Y-P",
     "nombre_punto": "Parte centrica del Guismi"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "PANGUI",
+    "subcircuito": "PANGUI 1",
+    "id": "PARQUE-CENTRAL-Z7-Z-Y-P",
+    "nombre_punto": "Parque central"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "PANGUI",
+    "subcircuito": "PANGUI 1",
+    "id": "MAYOR-RENE-ULLOA-Z7-Z-Y-P",
+    "nombre_punto": "Mayor Rene Ulloa"
   }
 ]
