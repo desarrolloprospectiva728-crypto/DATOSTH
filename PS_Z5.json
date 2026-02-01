@@ -11649,15 +11649,6 @@
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "VENTANAS",
-    "circuito": "VENTANAS NORTE",
-    "subcircuito": "VENTANAS NORTE 1",
-    "id": "CLÍNICA-EMODIALISIS-Z5-L-V-V",
-    "nombre_punto": "Clínica Emodialisis"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VENTANAS",
     "circuito": "VENTANAS SUR",
     "subcircuito": "VENTANAS SUR 1",
     "id": "TIENDA-EL-GATO-Z5-L-V-V",
@@ -11743,15 +11734,6 @@
     "subcircuito": "QUINSALOMA 1",
     "id": "FARMACIA-KEYLA-Z5-L-V-Q",
     "nombre_punto": "FARMACIA KEYLA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "VENTANAS",
-    "circuito": "VENTANAS SUR",
-    "subcircuito": "VENTANAS SUR 1",
-    "id": "CALLE-6-DE-OCTUBRE-Y-VELASCO-IBARRA-Z5-L-V-V",
-    "nombre_punto": "Calle 6 de octubre y Velasco Ibarra"
   },
   {
     "zona": "ZONA 5",
@@ -11860,5 +11842,23 @@
     "subcircuito": "VINCES SUR 1",
     "id": "HACIENDA-``PARA-TI``-SRA.-SARA-VERA-Z5-L-V-V",
     "nombre_punto": "Hacienda ``Para ti`` Sra. Sara vera"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "TIENDA-REDONDEL-Z5-L-B-E",
+    "nombre_punto": "TIENDA REDONDEL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "VINCES SUR",
+    "subcircuito": "VINCES SUR 1",
+    "id": "MI-RICO-BOLLO-Z5-L-V-V",
+    "nombre_punto": "Mi rico bollo"
   }
 ]
