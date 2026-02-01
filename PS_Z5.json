@@ -11932,5 +11932,14 @@
     "subcircuito": "MATA DE CACAO 4",
     "id": "1208057396-Z5-L-B-M",
     "nombre_punto": 1208057396
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MATA DE CACAO",
+    "subcircuito": "MATA DE CACAO 4",
+    "id": "TIENDA-DON-VICTOR-Z5-L-B-M",
+    "nombre_punto": "Tienda don Victor"
   }
 ]
