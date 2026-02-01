@@ -4318,5 +4318,14 @@
     "subcircuito": "PINDAL 1",
     "id": "CENTRO-DE-SALUD-PINDAL-Z7-L-S-P",
     "nombre_punto": "CENTRO DE SALUD PINDAL"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "PANGUI",
+    "subcircuito": "PANGUI 1",
+    "id": "TERMINAL-TERRESTRE-Z7-Z-Y-P",
+    "nombre_punto": "Terminal terrestre"
   }
 ]
