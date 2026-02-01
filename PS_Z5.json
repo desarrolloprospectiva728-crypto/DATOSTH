@@ -11716,5 +11716,68 @@
     "subcircuito": "QUINSALOMA 1",
     "id": "ARTEFACTA-Z5-L-V-Q",
     "nombre_punto": "ARTEFACTA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "ALMACENES-LA-GANGA-Z5-L-V-Q",
+    "nombre_punto": "ALMACENES LA GANGA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "CALLE-6-DE-OCTUBRE-Y-VELASCO-IBARRA-FRENTE-A-LA-LICORERÍA-PUENTE-NUEVO-Z5-L-V-V",
+    "nombre_punto": "Calle 6 de octubre y Velasco Ibarra"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "FARMACIA-KEYLA-Z5-L-V-Q",
+    "nombre_punto": "FARMACIA KEYLA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "CALLE-6-DE-OCTUBRE-Y-VELASCO-IBARRA-Z5-L-V-V",
+    "nombre_punto": "Calle 6 de octubre y Velasco Ibarra"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "NIGTH-CLUB-LAS-FLORES-Z5-L-V-V",
+    "nombre_punto": "Nigth club las flores"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "TIENDA-24/7-Z5-L-B-E",
+    "nombre_punto": "TIENDA 24/7"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "TIENDA-MIS-PRINCESAS-Z5-L-V-Q",
+    "nombre_punto": "TIENDA MIS PRINCESAS"
   }
 ]
