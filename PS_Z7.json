@@ -4201,5 +4201,14 @@
     "subcircuito": "OCHOA LEON 1",
     "id": "NOVA-PAN-Z7-E-P-O",
     "nombre_punto": "NOVA PAN"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "LA CUATRO MIL",
+    "subcircuito": "LA CUATRO MIL 1",
+    "id": "STAR-FIT-Z7-E-M-L",
+    "nombre_punto": "STAR FIT"
   }
 ]
