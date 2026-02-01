@@ -12148,5 +12148,14 @@
     "subcircuito": "SAN PABLO 1",
     "id": "FARMACIA-CRUZ-AZUL-Z5-S-S-S",
     "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "CHANDUY",
+    "subcircuito": "CHANDUY 1",
+    "id": "MINIMARKET-3-HERMANOS-Z5-S-S-C",
+    "nombre_punto": "MINIMARKET 3 HERMANOS"
   }
 ]
