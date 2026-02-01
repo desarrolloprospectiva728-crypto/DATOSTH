@@ -4235,15 +4235,6 @@
     "distrito": "PIÑAS",
     "circuito": "SAN ROQUE",
     "subcircuito": "SAN ROQUE 2",
-    "id": "0750811697-Z7-E-P-S",
-    "nombre_punto": 750811697
-  },
-  {
-    "zona": "ZONA 7",
-    "subzona": "EL ORO",
-    "distrito": "PIÑAS",
-    "circuito": "SAN ROQUE",
-    "subcircuito": "SAN ROQUE 2",
     "id": "HOTEL-LAS-ORQUIDEAS-Z7-E-P-S",
     "nombre_punto": "Hotel las orquideas"
   },
