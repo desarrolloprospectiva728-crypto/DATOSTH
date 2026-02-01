@@ -12157,5 +12157,14 @@
     "subcircuito": "CHANDUY 1",
     "id": "MINIMARKET-3-HERMANOS-Z5-S-S-C",
     "nombre_punto": "MINIMARKET 3 HERMANOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "CHANDUY",
+    "subcircuito": "CHANDUY 1",
+    "id": "CARNISARIATO-Z5-S-S-C",
+    "nombre_punto": "CARNISARIATO"
   }
 ]
