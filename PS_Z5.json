@@ -11680,5 +11680,14 @@
     "subcircuito": "EL SALTO 1",
     "id": "DESPACHO-Y-DESTAPE-Z5-L-B-E",
     "nombre_punto": "DESPACHO Y DESTAPE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "UNIDAD-EDUCATIVA-HUMBERTO-MOREIRA-Z5-L-V-V",
+    "nombre_punto": "Unidad educativa Humberto Moreira"
   }
 ]
