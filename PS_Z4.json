@@ -7198,5 +7198,14 @@
     "subcircuito": "BOLIVAR 1",
     "id": "BEROFARMACY-Z4-S-S-B",
     "nombre_punto": "BEROFARMACY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "FERIA-GANADERA-ASOGAN-Z4-S-S-B",
+    "nombre_punto": "FERIA GANADERA ASOGAN"
   }
 ]
