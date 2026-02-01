@@ -7054,5 +7054,14 @@
     "subcircuito": "PORTOVIEJO 2",
     "id": "BOLON-CAMPO-VERDE-Z4-M-P-P",
     "nombre_punto": "Bolon Campo Verde"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "PARQUE-LA-ROTONDA-Z4-M-P-P",
+    "nombre_punto": "Parque la Rotonda"
   }
 ]
