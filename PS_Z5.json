@@ -11635,5 +11635,14 @@
     "subcircuito": "LA UNION 1",
     "id": "SUBCENTRO-DE-SALUD-LA-UNIÓN-Z5-L-B-L",
     "nombre_punto": "Subcentro de Salud La Unión"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "CLÍNICA-EMODIALISIS-Z5-L-V-V",
+    "nombre_punto": "Clínica Emodialisis"
   }
 ]
