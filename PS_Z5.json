@@ -11914,5 +11914,14 @@
     "subcircuito": "MATA DE CACAO 4",
     "id": "DISTRIBUFARM-Z5-L-B-M",
     "nombre_punto": "DISTRIBUFARM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MATA DE CACAO",
+    "subcircuito": "MATA DE CACAO 4",
+    "id": "FARMACIA-CRUZ-AZUL-Z5-L-B-M",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
   }
 ]
