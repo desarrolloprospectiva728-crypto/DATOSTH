@@ -11878,5 +11878,14 @@
     "subcircuito": "VINCES SUR 1",
     "id": "FARMACIA-SAN-GREGORIO-Z5-L-V-V",
     "nombre_punto": "Farmacia San Gregorio"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "BALZAR DE VINCES",
+    "subcircuito": "BALZAR DE VINCES 1",
+    "id": "LAVANDERÍA-ESPUMITA-Z5-L-V-B",
+    "nombre_punto": "Lavandería Espumita"
   }
 ]
