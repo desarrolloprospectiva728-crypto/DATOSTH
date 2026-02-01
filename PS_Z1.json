@@ -4462,5 +4462,14 @@
     "subcircuito": "EL MAESTRO 1",
     "id": "CONSULADO-REPÚBLICA-DE-COLOMBIA-Z1-C-T-E",
     "nombre_punto": "CONSULADO REPÚBLICA DE COLOMBIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "GENERAL FARFAN",
+    "subcircuito": "GENERAL FARFAN 1",
+    "id": "TIENDA-SHARIFER-Z1-S-L-G",
+    "nombre_punto": "TIENDA SHARIFER"
   }
 ]
