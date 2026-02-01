@@ -7126,5 +7126,14 @@
     "subcircuito": "ALLURIQUIN 1",
     "id": "ASADERO-MANABA-Z4-S-S-A",
     "nombre_punto": "ASADERO MANABA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "UNIFICADOS",
+    "subcircuito": "UNIFICADOS 1",
+    "id": "RESTOBAR-INDIAROSA-Z4-S-S-U",
+    "nombre_punto": "Restobar indiarosa"
   }
 ]
