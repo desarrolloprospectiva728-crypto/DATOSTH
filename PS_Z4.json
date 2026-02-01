@@ -7099,5 +7099,23 @@
     "subcircuito": "CENTRO 3",
     "id": "MURALLA-CHINA-Z4-S-S-C",
     "nombre_punto": "MURALLA CHINA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 1",
+    "id": "DISTRIBUIDORA-MARTÍNEZ-TIENDA-DE-ROPA-Z4-S-S-T",
+    "nombre_punto": "DISTRIBUIDORA MARTÍNEZ TIENDA DE ROPA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 1",
+    "id": "IMPORCELL-Z4-S-S-T",
+    "nombre_punto": "Imporcell"
   }
 ]
