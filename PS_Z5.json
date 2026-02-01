@@ -11959,5 +11959,32 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "UNIDAD-EDUCATIVA-JAIME-ROLDÓS-Z5-L-V-V",
     "nombre_punto": "Unidad educativa Jaime Roldós"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "TAURA",
+    "subcircuito": "TAURA 2",
+    "id": "TERCENA-RUDIN-Z5-G-N-T",
+    "nombre_punto": "TERCENA RUDIN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "MONTAÑITA",
+    "subcircuito": "MONTAÑITA 1",
+    "id": "PANADERIA-PAN-Y-CANELA-Z5-S-S-M",
+    "nombre_punto": "PANADERIA PAN Y CANELA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "GOOD-AROMA-Z5-L-V-V",
+    "nombre_punto": "Good Aroma"
   }
 ]
