@@ -11815,5 +11815,23 @@
     "subcircuito": "QUINSALOMA 1",
     "id": "MUNDO-DE-GELATINAS-Z5-L-V-Q",
     "nombre_punto": "MUNDO DE GELATINAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "CRUZ-AZUL-Z5-L-B-E",
+    "nombre_punto": "CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "SERVIENTREGA-Z5-L-V-Q",
+    "nombre_punto": "SERVIENTREGA"
   }
 ]
