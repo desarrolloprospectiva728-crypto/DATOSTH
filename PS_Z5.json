@@ -11941,5 +11941,14 @@
     "subcircuito": "MATA DE CACAO 4",
     "id": "TIENDA-DON-VICTOR-Z5-L-B-M",
     "nombre_punto": "Tienda don Victor"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "MONTAÑITA",
+    "subcircuito": "MONTAÑITA 1",
+    "id": "LA-ESQUINA-DE-MARITO-Z5-S-S-M",
+    "nombre_punto": "LA ESQUINA DE MARITO"
   }
 ]
