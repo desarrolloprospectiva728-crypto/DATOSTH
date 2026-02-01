@@ -11689,5 +11689,32 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "UNIDAD-EDUCATIVA-HUMBERTO-MOREIRA-Z5-L-V-V",
     "nombre_punto": "Unidad educativa Humberto Moreira"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "MARCIMEX-EXPRESS-Z5-L-V-Q",
+    "nombre_punto": "MARCIMEX EXPRESS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "UNIDAD-EDUCATIVA-SEIS-DE-OCTUBRE-Z5-L-V-V",
+    "nombre_punto": "Unidad educativa seis de octubre"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "ARTEFACTA-Z5-L-V-Q",
+    "nombre_punto": "ARTEFACTA"
   }
 ]
