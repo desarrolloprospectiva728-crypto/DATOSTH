@@ -4219,5 +4219,14 @@
     "subcircuito": "SAN ROQUE 2",
     "id": "GLOSS-PELUQUERÍA-UNISEX-Z7-E-P-S",
     "nombre_punto": "GLOSS peluquería Unisex"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PIÑAS",
+    "circuito": "SAN ROQUE",
+    "subcircuito": "SAN ROQUE 2",
+    "id": "0750811697-Z7-E-P-S",
+    "nombre_punto": 750811697
   }
 ]
