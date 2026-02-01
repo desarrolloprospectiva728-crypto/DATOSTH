@@ -4471,5 +4471,14 @@
     "subcircuito": "GENERAL FARFAN 1",
     "id": "TIENDA-SHARIFER-Z1-S-L-G",
     "nombre_punto": "TIENDA SHARIFER"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "EL ENO",
+    "subcircuito": "EL ENO 1",
+    "id": "PANADERÍA-Y-PASTELERÍA-LA-ESPIGA-Z1-S-L-E",
+    "nombre_punto": "Panadería y Pastelería La ESPIGA"
   }
 ]
