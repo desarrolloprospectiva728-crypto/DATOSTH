@@ -12112,5 +12112,23 @@
     "subcircuito": "BALAO 1",
     "id": "FARMACIA-MIA-Z5-G-N-B",
     "nombre_punto": "Farmacia Mia"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "BALAO",
+    "subcircuito": "BALAO 1",
+    "id": "TUTI-Z5-G-N-B",
+    "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "BALAO",
+    "subcircuito": "BALAO 1",
+    "id": "EL-ARBOLITO-Z5-G-N-B",
+    "nombre_punto": "El Arbolito"
   }
 ]
