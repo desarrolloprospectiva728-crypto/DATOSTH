@@ -11986,5 +11986,50 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "GOOD-AROMA-Z5-L-V-V",
     "nombre_punto": "Good Aroma"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "D-RUMBA-Z5-L-V-V",
+    "nombre_punto": "D Rumba"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "CLINICA-DENTAL-10-DE-NOVIEMBRE-Z5-L-V-V",
+    "nombre_punto": "Clinica Dental 10 de Noviembre"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "TAURA",
+    "subcircuito": "TAURA 2",
+    "id": "FARMACIAS-ASHLEY-Z5-G-N-T",
+    "nombre_punto": "FARMACIAS ASHLEY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "TIENDA-ODANELA-Z5-L-V-V",
+    "nombre_punto": "Tienda Odanela"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "MONTAÑITA",
+    "subcircuito": "MONTAÑITA 1",
+    "id": "RESTAURANTE-HIERBA-BUENA-Z5-S-S-M",
+    "nombre_punto": "RESTAURANTE HIERBA BUENA"
   }
 ]
