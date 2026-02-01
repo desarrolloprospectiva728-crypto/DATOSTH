@@ -11887,5 +11887,23 @@
     "subcircuito": "BALZAR DE VINCES 1",
     "id": "LAVANDERÍA-ESPUMITA-Z5-L-V-B",
     "nombre_punto": "Lavandería Espumita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VINCES",
+    "circuito": "AUGUSTO VALENCIA",
+    "subcircuito": "AUGUSTO VALENCIA 1",
+    "id": "EL-SÓTANO-D`-JINSOP-Z5-L-V-A",
+    "nombre_punto": "El sótano D` Jinsop"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "PEDRO CARBO",
+    "subcircuito": "PEDRO CARBO 1",
+    "id": "BOGATI-HELADOS-CON-QUESO.-Z5-G-P-P",
+    "nombre_punto": "BOGATI helados con queso."
   }
 ]
