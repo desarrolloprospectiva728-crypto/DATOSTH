@@ -7207,5 +7207,14 @@
     "subcircuito": "BOLIVAR 1",
     "id": "FERIA-GANADERA-ASOGAN-Z4-S-S-B",
     "nombre_punto": "FERIA GANADERA ASOGAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "EL TOACHI",
+    "subcircuito": "EL TOACHI 2",
+    "id": "GASOLINERA-PRIMAX-SANTO-DOMINGO-VÍA-QUITO-KM-6-Z4-S-S-E",
+    "nombre_punto": "GASOLINERA PRIMAX SANTO DOMINGO VÍA QUITO KM 6"
   }
 ]
