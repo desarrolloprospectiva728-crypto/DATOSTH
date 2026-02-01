@@ -7072,5 +7072,14 @@
     "subcircuito": "LA FLORIDA 1",
     "id": "CLUB-10-DE-MAYO-Z4-M-R-L",
     "nombre_punto": "CLUB 10 DE MAYO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "PARQUE-LAS-VEGAS-Z4-M-P-P",
+    "nombre_punto": "Parque Las Vegas"
   }
 ]
