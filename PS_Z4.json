@@ -7090,5 +7090,14 @@
     "subcircuito": "LA FLORIDA 1",
     "id": "LA-SAZÓN-DE-MUTRE-Z4-M-R-L",
     "nombre_punto": "LA SAZÓN DE MUTRE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 3",
+    "id": "MURALLA-CHINA-Z4-S-S-C",
+    "nombre_punto": "MURALLA CHINA"
   }
 ]
