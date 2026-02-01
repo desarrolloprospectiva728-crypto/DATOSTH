@@ -11662,5 +11662,23 @@
     "subcircuito": "VENTANAS SUR 1",
     "id": "TIENDA-EL-GATO-Z5-L-V-V",
     "nombre_punto": "TIENDA EL GATO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "AGRIPAP-Z5-L-V-V",
+    "nombre_punto": "Agripap"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "DESPACHO-Y-DESTAPE-Z5-L-B-E",
+    "nombre_punto": "DESPACHO Y DESTAPE"
   }
 ]
