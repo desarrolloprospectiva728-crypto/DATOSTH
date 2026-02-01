@@ -12130,5 +12130,23 @@
     "subcircuito": "BALAO 1",
     "id": "EL-ARBOLITO-Z5-G-N-B",
     "nombre_punto": "El Arbolito"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "CHILLANES",
+    "circuito": "SAN JOSE DEL TAMBO",
+    "subcircuito": "SAN JOSE DEL TAMBO 1",
+    "id": "AUTOLAVADO-EXPRESS-VIA-LA-Y-Z5-B-C-S",
+    "nombre_punto": "AUTOLAVADO EXPRESS VIA LA Y"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SAN PABLO",
+    "subcircuito": "SAN PABLO 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z5-S-S-S",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
   }
 ]
