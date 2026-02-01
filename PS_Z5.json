@@ -12076,5 +12076,23 @@
     "subcircuito": "SAN JOSE DEL TAMBO 1",
     "id": "BARRIO-NORTE-Z5-B-C-S",
     "nombre_punto": "BARRIO NORTE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "BALAO",
+    "subcircuito": "BALAO 1",
+    "id": "ASADERO-PEPILLA-Z5-G-N-B",
+    "nombre_punto": "Asadero Pepilla"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "PALMAR",
+    "subcircuito": "PALMAR 1",
+    "id": "COMERCIAL-JC-M-Z5-S-S-P",
+    "nombre_punto": "COMERCIAL JC M"
   }
 ]
