@@ -11644,5 +11644,23 @@
     "subcircuito": "VENTANAS NORTE 1",
     "id": "CLÍNICA-EMODIALISIS-Z5-L-V-V",
     "nombre_punto": "Clínica Emodialisis"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "CLÍNICA-EMODIALISIS-Z5-L-V-V",
+    "nombre_punto": "Clínica Emodialisis"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "TIENDA-EL-GATO-Z5-L-V-V",
+    "nombre_punto": "TIENDA EL GATO"
   }
 ]
