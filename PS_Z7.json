@@ -4192,5 +4192,14 @@
     "subcircuito": "CENTRO 1",
     "id": "LOCAL-DE-LENCERIA-INTIMO-Z7-Z-Z-C",
     "nombre_punto": "LOCAL DE LENCERIA INTIMO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "OCHOA LEON",
+    "subcircuito": "OCHOA LEON 1",
+    "id": "NOVA-PAN-Z7-E-P-O",
+    "nombre_punto": "NOVA PAN"
   }
 ]
