@@ -4327,5 +4327,14 @@
     "subcircuito": "PANGUI 1",
     "id": "TERMINAL-TERRESTRE-Z7-Z-Y-P",
     "nombre_punto": "Terminal terrestre"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SABANILLA",
+    "circuito": "ALAMOR",
+    "subcircuito": "ALAMOR 1",
+    "id": "CYBER-CENTRAL-ALAMOR-Z7-L-S-A",
+    "nombre_punto": "CYBER CENTRAL ALAMOR"
   }
 ]
