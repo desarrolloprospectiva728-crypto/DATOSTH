@@ -11833,5 +11833,23 @@
     "subcircuito": "QUINSALOMA 1",
     "id": "SERVIENTREGA-Z5-L-V-Q",
     "nombre_punto": "SERVIENTREGA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "COMERCIAL-TIXE-Z5-L-V-Q",
+    "nombre_punto": "COMERCIAL TIXE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "LA-TERRAZA-Z5-L-V-Q",
+    "nombre_punto": "LA TERRAZA"
   }
 ]
