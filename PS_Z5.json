@@ -13039,5 +13039,32 @@
     "subcircuito": "SALINAS CENTRO 2",
     "id": "UNIDAD-EDUCATIVA-LICEO-NAVAL-SALINAS-Z5-S-L-S",
     "nombre_punto": "UNIDAD EDUCATIVA LICEO NAVAL SALINAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GALAPAGOS",
+    "distrito": "GALAPAGOS",
+    "circuito": "SAN CRISTOBAL",
+    "subcircuito": "SAN CRISTOBAL 1",
+    "id": "ESTADIO-PUERTO-BAQUERIZO-Z5-G-G-S",
+    "nombre_punto": "Estadio Puerto Baquerizo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "TUTI-Z5-G-N-S",
+    "nombre_punto": "Tuti"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CARACOL",
+    "subcircuito": "CARACOL 1",
+    "id": "ESTILO-Y-MODA-LS-Z5-L-B-C",
+    "nombre_punto": "ESTILO Y MODA LS"
   }
 ]
