@@ -7432,5 +7432,14 @@
     "subcircuito": "SANTA MARTHA SUR 2",
     "id": "UNIDAD-EDUCATIVA-REPÚBLICA-DE-FRANCIA-Z4-S-S-S",
     "nombre_punto": "UNIDAD EDUCATIVA REPÚBLICA DE FRANCIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA SUR",
+    "subcircuito": "SANTA MARTHA SUR 2",
+    "id": "SUBCENTRO-DE-SALUD-SANTA-MARTHA-Z4-S-S-S",
+    "nombre_punto": "SUBCENTRO DE SALUD SANTA MARTHA"
   }
 ]
