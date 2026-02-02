@@ -4498,5 +4498,32 @@
     "subcircuito": "CATAMAYO NORTE 1",
     "id": "PARQUE-LAS-CANOAS-Z7-L-C-C",
     "nombre_punto": "PARQUE LAS CANOAS"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CALVAS",
+    "circuito": "COLAISACA",
+    "subcircuito": "COLAISACA 1",
+    "id": "PARQUE-CENTRAL-CIRCUITO-COLAISACA-Z7-L-C-C",
+    "nombre_punto": "Parque Central Circuito Colaisaca"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "SAN PEDRO DE LA BENDITA",
+    "subcircuito": "SAN PEDRO DE LA BENDITA 1",
+    "id": "IGLESIA-SAN-PEDRO-DE-LA-BENDITA-Z7-L-C-S",
+    "nombre_punto": "IGLESIA SAN PEDRO DE LA BENDITA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "SAN PEDRO DE LA BENDITA",
+    "subcircuito": "SAN PEDRO DE LA BENDITA 1",
+    "id": "TIENDA-SUPER-MARKET-Z7-L-C-S",
+    "nombre_punto": "TIENDA SUPER MARKET"
   }
 ]
