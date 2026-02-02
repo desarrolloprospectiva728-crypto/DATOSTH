@@ -4561,5 +4561,23 @@
     "subcircuito": "FRONTERA 3",
     "id": "ÑATO-Z1-E-S-F",
     "nombre_punto": "Ñato"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LA TOLITA",
+    "subcircuito": "LA TOLITA 1",
+    "id": "LICORERÍA-PACOMILLER-Z1-E-E-L",
+    "nombre_punto": "Licorería Pacomiller"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LA TOLITA",
+    "subcircuito": "LA TOLITA 1",
+    "id": "LICORERÍA-PACOMILLER-Z1-E-E-L",
+    "nombre_punto": "Licorería Pacomiller"
   }
 ]
