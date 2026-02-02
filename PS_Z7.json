@@ -4363,5 +4363,14 @@
     "subcircuito": "BUENA VISTA 2",
     "id": "ESCUELA-MANUEL-ISAAC-ENCALADA-Z7-E-P-B",
     "nombre_punto": "ESCUELA MANUEL ISAAC ENCALADA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "BUENA VISTA",
+    "subcircuito": "BUENA VISTA 2",
+    "id": "GASOLINERA-BUENAVISTA-Z7-E-P-B",
+    "nombre_punto": "GASOLINERA BUENAVISTA"
   }
 ]
