@@ -7459,5 +7459,14 @@
     "subcircuito": "PUEBLO NUEVO 1",
     "id": "COMERCIAL-BASURTO-Z4-M-P-P",
     "nombre_punto": "COMERCIAL BASURTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 1",
+    "id": "AGRO-ASISTENCIA-LA-CHACARAS-Z4-M-P-P",
+    "nombre_punto": "AGRO ASISTENCIA LA CHACARAS"
   }
 ]
