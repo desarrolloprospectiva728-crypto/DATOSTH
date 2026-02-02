@@ -4642,5 +4642,14 @@
     "subcircuito": "SIMON BOLIVAR 1",
     "id": "CENTRO-AUTOMOTRIZ-\"AUTO-LISTO\"-Z7-E-M-S",
     "nombre_punto": "Centro Automotriz \"AUTO LISTO\""
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "YANTZAZA",
+    "subcircuito": "YANTZAZA 2",
+    "id": "PARQUE-CHICAÑA-Z7-Z-Y-Y",
+    "nombre_punto": "PARQUE CHICAÑA"
   }
 ]
