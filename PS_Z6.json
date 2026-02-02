@@ -3391,5 +3391,14 @@
     "subcircuito": "TRONCAL NORTE 1",
     "id": "HORNADOS-LA-NUBECITA-Z6-C-L-T",
     "nombre_punto": "HORNADOS LA NUBECITA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "COMERCIAL-TELLO-Z6-A-C-R",
+    "nombre_punto": "COMERCIAL TELLO"
   }
 ]
