@@ -3301,5 +3301,14 @@
     "subcircuito": "TOTORACOCHA 1",
     "id": "FARMAMAS-Z6-A-C-T",
     "nombre_punto": "FARMAMAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TOTORACOCHA",
+    "subcircuito": "TOTORACOCHA 1",
+    "id": "FARMAMÁS-Z6-A-C-T",
+    "nombre_punto": "FARMAMÁS"
   }
 ]
