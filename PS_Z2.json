@@ -4336,5 +4336,23 @@
     "subcircuito": "COCA ORIENTE 1",
     "id": "MATAHAMBRE-Z2-O-O-C",
     "nombre_punto": "Matahambre"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "UNIDAD-EDUCATIVA-PADRE-MIGUEL-GAMBOA-Z2-O-O-C",
+    "nombre_punto": "Unidad educativa Padre Miguel Gamboa"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "CENTRO-DE-SALUD-JAMBIHUASI-Z2-O-O-C",
+    "nombre_punto": "Centro de salud Jambihuasi"
   }
 ]
