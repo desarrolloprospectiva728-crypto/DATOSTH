@@ -12994,5 +12994,14 @@
     "subcircuito": "VILLA NUEVA 1",
     "id": "GASOLINERA-P&S-Z5-G-N-V",
     "nombre_punto": "Gasolinera P&S"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GALAPAGOS",
+    "distrito": "GALAPAGOS",
+    "circuito": "SAN CRISTOBAL",
+    "subcircuito": "SAN CRISTOBAL 1",
+    "id": "HOSPITAL-OSKAR-JANDL-Z5-G-G-S",
+    "nombre_punto": "Hospital Oskar Jandl"
   }
 ]
