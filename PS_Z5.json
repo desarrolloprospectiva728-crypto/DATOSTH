@@ -13201,5 +13201,32 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "SUPERMARKER-MAPOLITANO-Z5-L-V-V",
     "nombre_punto": "supermarker Mapolitano"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "CLÍNICA-VÍRGEN-DEL-CISNE-Z5-L-V-V",
+    "nombre_punto": "Clínica vírgen del cisne"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SALINAS CENTRO",
+    "subcircuito": "SALINAS CENTRO 2",
+    "id": "TIENDA-DE-MARY-Z5-S-L-S",
+    "nombre_punto": "TIENDA DE MARY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "CONFECCIONES-GONZALO-Z5-L-V-V",
+    "nombre_punto": "Confecciones Gonzalo"
   }
 ]
