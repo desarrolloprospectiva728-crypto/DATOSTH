@@ -13426,5 +13426,14 @@
     "subcircuito": "SANTA ELENA CENTRO 4",
     "id": "TIENDA-MARÍA-Z5-S-S-S",
     "nombre_punto": "TIENDA MARÍA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 3",
+    "id": "TIENDA-LA-FLORESTA-Z5-S-L-S",
+    "nombre_punto": "TIENDA LA FLORESTA"
   }
 ]
