@@ -13327,5 +13327,14 @@
     "subcircuito": "PUERTO AYORA 1",
     "id": "PERRO-COMERCIAL-PUERTO-AYORA-Z5-G-G-P",
     "nombre_punto": "PERRO COMERCIAL PUERTO AYORA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GALAPAGOS",
+    "distrito": "GALAPAGOS",
+    "circuito": "ISABELA",
+    "subcircuito": "ISABELA 1",
+    "id": "MALECON-Z5-G-G-I",
+    "nombre_punto": "Malecon"
   }
 ]
