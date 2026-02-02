@@ -12985,5 +12985,14 @@
     "subcircuito": "SANTA ELENA CENTRO 3",
     "id": "TIENDA-DON-RAMÍREZ-Z5-S-S-S",
     "nombre_punto": "TIENDA DON RAMÍREZ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "VILLA NUEVA",
+    "subcircuito": "VILLA NUEVA 1",
+    "id": "GASOLINERA-P&S-Z5-G-N-V",
+    "nombre_punto": "Gasolinera P&S"
   }
 ]
