@@ -12792,15 +12792,6 @@
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "BABAHOYO",
-    "circuito": "SAN JOSE DE JUJAN",
-    "subcircuito": "SAN JOSE DE JUJAN 1",
-    "id": "QUIOSKO-AMARILLO-Z5-L-B-S",
-    "nombre_punto": "QUIOSKO AMARILLO"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "BABAHOYO",
     "circuito": "LA UNION",
     "subcircuito": "LA UNION 1",
     "id": "FARMACIA-CRUZ-AZUL-Z5-L-B-L",
@@ -13093,5 +13084,14 @@
     "subcircuito": "SANTA ELENA CENTRO 1",
     "id": "BOLOS-LOS-PANCHITOS-Z5-S-S-S",
     "nombre_punto": "BOLOS LOS PANCHITOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MATA DE CACAO",
+    "subcircuito": "MATA DE CACAO 4",
+    "id": "DR.-AGRO-Z5-L-B-M",
+    "nombre_punto": "DR. AGRO"
   }
 ]
