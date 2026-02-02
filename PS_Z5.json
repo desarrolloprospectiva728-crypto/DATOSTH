@@ -12958,5 +12958,14 @@
     "subcircuito": "SANTA ELENA CENTRO 2",
     "id": "TIENDA-CARPA-AZUL-Z5-S-S-S",
     "nombre_punto": "TIENDA CARPA AZUL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SAN JOSE DE JUJAN",
+    "subcircuito": "SAN JOSE DE JUJAN 1",
+    "id": "SONA-ROSA-MANGO-MORADO-Z5-L-B-S",
+    "nombre_punto": "SONA ROSA MANGO MORADO"
   }
 ]
