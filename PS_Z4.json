@@ -7160,16 +7160,7 @@
     "distrito": "SANTO DOMINGO ESTE",
     "circuito": "LA LORENA",
     "subcircuito": "LA LORENA 1",
-    "id": "DESPENSA-NAIDELYN-Z4-S-S-L",
-    "nombre_punto": "DESPENSA NAIDELYN"
-  },
-  {
-    "zona": "ZONA 4",
-    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
-    "distrito": "SANTO DOMINGO ESTE",
-    "circuito": "LA LORENA",
-    "subcircuito": "LA LORENA 1",
-    "id": "FARMACIA-CRUZ-AZUL-Z4-S-S-L",
+    "id": "FARMACIA-CRUZ-AZUL-Z4-S-S-L1",
     "nombre_punto": "FARMACIA CRUZ AZUL"
   },
   {
