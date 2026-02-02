@@ -12166,5 +12166,14 @@
     "subcircuito": "CHANDUY 1",
     "id": "CARNISARIATO-Z5-S-S-C",
     "nombre_punto": "CARNISARIATO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "MINIMARKET-QGM-Z5-S-S-A",
+    "nombre_punto": "MINIMARKET QGM"
   }
 ]
