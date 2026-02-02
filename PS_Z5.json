@@ -13021,5 +13021,23 @@
     "subcircuito": "SAN CRISTOBAL 1",
     "id": "HOTEL-ÍNDIGO-Z5-G-G-S",
     "nombre_punto": "Hotel índigo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GALAPAGOS",
+    "distrito": "GALAPAGOS",
+    "circuito": "SAN CRISTOBAL",
+    "subcircuito": "SAN CRISTOBAL 1",
+    "id": "CONCHA-ACÚSTICA-Z5-G-G-S",
+    "nombre_punto": "Concha Acústica"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SALINAS CENTRO",
+    "subcircuito": "SALINAS CENTRO 2",
+    "id": "UNIDAD-EDUCATIVA-LICEO-NAVAL-SALINAS-Z5-S-L-S",
+    "nombre_punto": "UNIDAD EDUCATIVA LICEO NAVAL SALINAS"
   }
 ]
