@@ -7531,5 +7531,14 @@
     "subcircuito": "PEDERNALES NORTE 1",
     "id": "GASOLINERA-PRIMAX-PEDERNALES-Z4-M-P-P",
     "nombre_punto": "GASOLINERA PRIMAX PEDERNALES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "TIENDA-VERITO-Z4-M-P-P",
+    "nombre_punto": "TIENDA VERITO"
   }
 ]
