@@ -12760,5 +12760,32 @@
     "subcircuito": "PLAYAS 2",
     "id": "GASOLINERA-FENAPET-Z5-G-P-P",
     "nombre_punto": "Gasolinera FENAPET"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "TIENDA-MICHELLE-Z5-L-B-E",
+    "nombre_punto": "TIENDA MICHELLE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "ENRIQUEZ GALLO",
+    "subcircuito": "ENRIQUEZ GALLO 1",
+    "id": "TIENDA-BRAYAN-Z5-S-L-E",
+    "nombre_punto": "TIENDA BRAYAN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME SUROESTE",
+    "subcircuito": "EMPALME SUROESTE 1",
+    "id": "OFICINA-TRANSPORTE-TÍA-Z5-G-E-E",
+    "nombre_punto": "Oficina Transporte Tía"
   }
 ]
