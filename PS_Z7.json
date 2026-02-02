@@ -4336,5 +4336,14 @@
     "subcircuito": "ALAMOR 1",
     "id": "CYBER-CENTRAL-ALAMOR-Z7-L-S-A",
     "nombre_punto": "CYBER CENTRAL ALAMOR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SARAGURO",
+    "circuito": "SARAGURO",
+    "subcircuito": "SARAGURO 1",
+    "id": "HOSPITAL-BASICO-DE-SARAGURO-Z7-L-S-S",
+    "nombre_punto": "HOSPITAL BASICO DE SARAGURO"
   }
 ]
