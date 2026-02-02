@@ -4606,5 +4606,14 @@
     "subcircuito": "CATAMAYO SAN JOSE 1",
     "id": "PAPELERIA-MULTI-PAPER-ALONZO-DE-MERCADILLO-BARRIO-BUENA-ESPERANZA-FRENTE-AL-VIVEROCRISTINA-Z7-L-C-C",
     "nombre_punto": "PAPELERIA MULTI PAPER ALONZO DE MERCADILLO BARRIO BUENA ESPERANZA  FRENTE AL VIVEROCRISTINA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "ZARUMA",
+    "subcircuito": "ZARUMA 1",
+    "id": "FARMACIA-ZARUMPHARM-EN-ZARUMA-Z7-E-Z-Z",
+    "nombre_punto": "FARMACIA ZARUMPHARM EN ZARUMA"
   }
 ]
