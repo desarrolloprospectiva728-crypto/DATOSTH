@@ -12175,5 +12175,14 @@
     "subcircuito": "ATAHUALPA 1",
     "id": "MINIMARKET-QGM-Z5-S-S-A",
     "nombre_punto": "MINIMARKET QGM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 2",
+    "id": "HIELERA-VÍA-DATA-Z5-G-P-G",
+    "nombre_punto": "Hielera vía data"
   }
 ]
