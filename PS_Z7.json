@@ -4534,5 +4534,23 @@
     "subcircuito": "CATAMAYO NORTE 1",
     "id": "SECTOR-ZERIMAR-FARMACIA-CUXIBAMBA-Z7-L-C-C",
     "nombre_punto": "SECTOR ZERIMAR FARMACIA CUXIBAMBA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATACOCHA",
+    "circuito": "CATACOCHA",
+    "subcircuito": "CATACOCHA 1",
+    "id": "AV.-MANUEL-VIVANCO-Y-25-JUNIO-(SUPERMERCADO-DIAZ)-Z7-L-C-C",
+    "nombre_punto": "Av. MANUEL VIVANCO Y 25 JUNIO (SUPERMERCADO DIAZ)"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ZAPOTILLO",
+    "circuito": "CAZADEROS",
+    "subcircuito": "CAZADEROS 1",
+    "id": "BOTIQUIN-FERNANDITO-Z7-L-Z-C",
+    "nombre_punto": "BOTIQUIN FERNANDITO"
   }
 ]
