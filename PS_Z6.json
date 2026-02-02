@@ -3400,5 +3400,14 @@
     "subcircuito": "RICAURTE 1",
     "id": "COMERCIAL-TELLO-Z6-A-C-R",
     "nombre_punto": "COMERCIAL TELLO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "LUDO",
+    "subcircuito": "LUDO 1",
+    "id": "UNIDAD-EDUCATIVA-AGUSTÍN-IGLESIAS-Z6-A-S-L",
+    "nombre_punto": "UNIDAD EDUCATIVA AGUSTÍN IGLESIAS"
   }
 ]
