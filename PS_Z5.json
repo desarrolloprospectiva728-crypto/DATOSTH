@@ -12715,5 +12715,32 @@
     "subcircuito": "MOCACHE 2",
     "id": "AGROINTEGRAL-AZOGUE-Z5-L-Q-M",
     "nombre_punto": "Agrointegral Azogue"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "ENRIQUEZ GALLO",
+    "subcircuito": "ENRIQUEZ GALLO 1",
+    "id": "DESPENSA-ELENITA-Z5-S-L-E",
+    "nombre_punto": "DESPENSA ELENITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR SUR",
+    "subcircuito": "BALZAR SUR 1",
+    "id": "PRIMA-PERIMETRAL-Z5-G-B-B",
+    "nombre_punto": "Prima perimetral"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "FARMACIAS-PHARMA-MEDIK-Z5-L-B-U",
+    "nombre_punto": "FARMACIAS PHARMA MEDIK"
   }
 ]
