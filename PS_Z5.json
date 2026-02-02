@@ -12364,5 +12364,50 @@
     "subcircuito": "ISLA DE BEJUCAL 1",
     "id": "TIENDA-4-HERMANOS-Z5-L-B-I",
     "nombre_punto": "TIENDA 4 HERMANOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "AGROFREIRE-Z5-L-B-L",
+    "nombre_punto": "AGROFREIRE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "NARANJAL CENTRO",
+    "subcircuito": "NARANJAL CENTRO 1",
+    "id": "FERTISA-Z5-G-N-N",
+    "nombre_punto": "Fertisa"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "INDUSTRIA-ARROCERA-FABAZA-Z5-L-B-U",
+    "nombre_punto": "INDUSTRIA ARROCERA FABAZA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "SALITRE NORTE",
+    "subcircuito": "SALITRE NORTE 1",
+    "id": "CNEL-Z5-G-S-S",
+    "nombre_punto": "CNEL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "ISLA DE BEJUCAL",
+    "subcircuito": "ISLA DE BEJUCAL 1",
+    "id": "CENTRO-DE-SALUD-TIPO-A-LA-ISLA-DE-BEJUCAL-Z5-L-B-I",
+    "nombre_punto": "CENTRO DE SALUD TIPO A LA ISLA DE BEJUCAL"
   }
 ]
