@@ -12832,5 +12832,32 @@
     "subcircuito": "EL SALTO 1",
     "id": "TIENDA-ARAGER-Z5-L-B-E",
     "nombre_punto": "TIENDA ARAGER"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "AQUARIUS-AUTO-PARTS-Z5-S-S-S",
+    "nombre_punto": "AQUARIUS AUTO PARTS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME SURESTE",
+    "subcircuito": "EMPALME SURESTE 1",
+    "id": "HOSPITAL-IESS-Z5-G-E-E",
+    "nombre_punto": "Hospital IESS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "MINIMARKET-SA-Z5-G-P-P",
+    "nombre_punto": "Minimarket sa"
   }
 ]
