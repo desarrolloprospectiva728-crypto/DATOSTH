@@ -4426,5 +4426,32 @@
     "subcircuito": "CATACOCHA 1",
     "id": "CALLE-LOJA-Y-CHILE-(LOCAL-OVIDIO)-Z7-L-C-C",
     "nombre_punto": "CALLE LOJA Y CHILE (LOCAL OVIDIO)"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "HUALTACO",
+    "subcircuito": "HUALTACO 1",
+    "id": "TRANSPORTE-MARITIMO-PUNTA-PAYANA-Z7-E-H-H",
+    "nombre_punto": "Transporte Maritimo Punta Payana"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "HUALTACO",
+    "subcircuito": "HUALTACO 1",
+    "id": "TIENDA-EDY-CRYS-Z7-E-H-H",
+    "nombre_punto": "Tienda Edy Crys"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "MACARA",
+    "circuito": "SOZORANGA",
+    "subcircuito": "SOZORANGA 1",
+    "id": "AGROVET-DEL-SUR-Z7-L-M-S",
+    "nombre_punto": "AGROVET DEL SUR"
   }
 ]
