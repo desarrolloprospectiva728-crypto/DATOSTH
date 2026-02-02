@@ -12238,5 +12238,41 @@
     "subcircuito": "SAN CARLOS 1",
     "id": "FRIGORÍFICO-VOLUNTAD-DE-DIOS-Z5-G-N-S",
     "nombre_punto": "Frigorífico Voluntad de Dios"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "COMERCIAL-LOJA-Z5-G-N-S",
+    "nombre_punto": "Comercial Loja"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "ISLA DE BEJUCAL",
+    "subcircuito": "ISLA DE BEJUCAL 1",
+    "id": "GAD-PARROQUIA-LA-ISLA-DE-BEJUCAL-Z5-L-B-I",
+    "nombre_punto": "GAD PARROQUIA LA ISLA DE BEJUCAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "LA-ESQUINA-DEL-CHANCHO-Z5-L-Q-D",
+    "nombre_punto": "LA ESQUINA DEL CHANCHO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "VILLA NUEVA",
+    "subcircuito": "VILLA NUEVA 1",
+    "id": "CABAÑA-MANABA-Z5-G-N-V",
+    "nombre_punto": "Cabaña Manaba"
   }
 ]
