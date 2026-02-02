@@ -13237,5 +13237,41 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "ASADERO-CHINO-Z5-L-V-V",
     "nombre_punto": "Asadero Chino"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "INDUSCON-Z5-L-V-V",
+    "nombre_punto": "Induscon"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CARACOL",
+    "subcircuito": "CARACOL 1",
+    "id": "TIENDA-PAULET-Z5-L-B-C",
+    "nombre_punto": "TIENDA PAULET"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "MARCELINO MARIDUEÑA",
+    "subcircuito": "MARCELINO MARIDUEÑA 2",
+    "id": "BANCO-BOLIVARIANO-Z5-G-N-M",
+    "nombre_punto": "Banco Bolivariano"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "PAPIPOLLO-EFC-Z5-L-V-V",
+    "nombre_punto": "Papipollo EFC"
   }
 ]
