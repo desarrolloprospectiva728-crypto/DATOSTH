@@ -13372,5 +13372,23 @@
     "subcircuito": "SANTA ROSA 3",
     "id": "SUSHI-SALINAS-EXPRESS-Z5-S-L-S",
     "nombre_punto": "SUSHI SALINAS EXPRESS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "COMEDOR-D'NANCY-Z5-S-S-S",
+    "nombre_punto": "COMEDOR D'NANCY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "ASADERO-EL-MANABA-Z5-S-S-S",
+    "nombre_punto": "ASADERO EL MANABA"
   }
 ]
