@@ -4516,5 +4516,23 @@
     "subcircuito": "CASCALES 1",
     "id": "FRIGORIFICO-ANDREINA-Z1-S-S-C",
     "nombre_punto": "FRIGORIFICO ANDREINA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "LAGO AGRIO",
+    "circuito": "PACAYACU",
+    "subcircuito": "PACAYACU 2",
+    "id": "FERRETERIA-PACAYACU-\"DON-PORRAS\"-Z1-S-L-P",
+    "nombre_punto": "FERRETERIA PACAYACU \"DON PORRAS\""
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "QUININDE",
+    "subcircuito": "QUININDE 1",
+    "id": "BEAUTY-GLAM-Z1-E-Q-Q",
+    "nombre_punto": "BEAUTY GLAM"
   }
 ]
