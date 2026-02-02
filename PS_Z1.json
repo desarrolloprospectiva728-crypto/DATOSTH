@@ -4534,5 +4534,14 @@
     "subcircuito": "QUININDE 1",
     "id": "BEAUTY-GLAM-Z1-E-Q-Q",
     "nombre_punto": "BEAUTY GLAM"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "TARAPOA",
+    "subcircuito": "TARAPOA 1",
+    "id": "BARRIO-SAN-JOSE-Z1-S-P-T",
+    "nombre_punto": "Barrio San Jose"
   }
 ]
