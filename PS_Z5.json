@@ -13291,5 +13291,14 @@
     "subcircuito": "OLON 1",
     "id": "TIMO-REPOSTERIA-BRUNCH-Z5-S-S-O",
     "nombre_punto": "Timo Reposteria Brunch"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "GYMNASIO-SPORTLIFE-Z5-S-L-S",
+    "nombre_punto": "GYMNASIO SPORTLIFE"
   }
 ]
