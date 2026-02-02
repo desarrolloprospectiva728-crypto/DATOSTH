@@ -12427,5 +12427,95 @@
     "subcircuito": "ZAPOTAL 1",
     "id": "COMEDOR-DE-PATY-Z5-L-V-Z",
     "nombre_punto": "Comedor de paty"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "TAURA",
+    "subcircuito": "TAURA 2",
+    "id": "PAPELERÍA-HOWARD-LIAM-Z5-G-N-T",
+    "nombre_punto": "PAPELERÍA HOWARD LIAM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "LIBRERIA-Y-BAZAR-5-HERMANOS-Z5-L-B-L",
+    "nombre_punto": "LIBRERIA Y BAZAR 5 HERMANOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "REPUESTOS-HINO-Z5-L-Q-L",
+    "nombre_punto": "REPUESTOS HINO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "SALITRE NORTE",
+    "subcircuito": "SALITRE NORTE 1",
+    "id": "CONSEJO-DE-LA-JUDICATURA-Z5-G-S-S",
+    "nombre_punto": "CONSEJO DE LA JUDICATURA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "ENRIQUEZ GALLO",
+    "subcircuito": "ENRIQUEZ GALLO 1",
+    "id": "FARMACIAS-COMUNITARIAS-Z5-S-L-E",
+    "nombre_punto": "FARMACIAS COMUNITARIAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "LABORATORIO-CLÍNICO-BIOTEST-Z5-G-N-S",
+    "nombre_punto": "Laboratorio Clínico Biotest"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "FERTISA-Z5-L-B-U",
+    "nombre_punto": "FERTISA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "ISLA DE BEJUCAL",
+    "subcircuito": "ISLA DE BEJUCAL 1",
+    "id": "CENTRO-DE-ACOPIO-AGUIRRE-Z5-L-B-I",
+    "nombre_punto": "CENTRO DE ACOPIO AGUIRRE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "VILLA NUEVA",
+    "subcircuito": "VILLA NUEVA 1",
+    "id": "PAÑORA-Z5-G-N-V",
+    "nombre_punto": "PAÑORA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "VILLA NUEVA",
+    "subcircuito": "VILLA NUEVA 1",
+    "id": "ARROCERA-PAÑORA-Z5-G-N-V",
+    "nombre_punto": "Arrocera Pañora"
   }
 ]
