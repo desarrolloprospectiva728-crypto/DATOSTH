@@ -4597,5 +4597,14 @@
     "subcircuito": "LA TOLITA 1",
     "id": "TIENDA-VIOLETA-Z1-E-E-L",
     "nombre_punto": "Tienda Violeta"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LA TOLITA",
+    "subcircuito": "LA TOLITA 1",
+    "id": "LICORERÍA-ENTRECOPAS-Z1-E-E-L",
+    "nombre_punto": "Licorería EntreCopas"
   }
 ]
