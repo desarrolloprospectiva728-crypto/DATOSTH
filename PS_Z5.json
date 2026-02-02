@@ -12274,5 +12274,23 @@
     "subcircuito": "VILLA NUEVA 1",
     "id": "CABAÑA-MANABA-Z5-G-N-V",
     "nombre_punto": "Cabaña Manaba"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "DANGERY-GYM-Z5-L-Q-D",
+    "nombre_punto": "DANGERY GYM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "ISLA DE BEJUCAL",
+    "subcircuito": "ISLA DE BEJUCAL 1",
+    "id": "GIMNASIO-SPARTANS-Z5-L-B-I",
+    "nombre_punto": "GIMNASIO SPARTANS"
   }
 ]
