@@ -4227,7 +4227,7 @@
     "circuito": "SAN ROQUE",
     "subcircuito": "SAN ROQUE 2",
     "id": "0750811697-Z7-E-P-S",
-    "nombre_punto": 750811697
+    "nombre_punto": "Almaneces Paty"
   },
   {
     "zona": "ZONA 7",
@@ -4480,5 +4480,23 @@
     "subcircuito": "EL CAMBIO 1",
     "id": "HIELERA-JJ-Z7-E-M-E",
     "nombre_punto": "HIELERA JJ"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATACOCHA",
+    "circuito": "CATACOCHA",
+    "subcircuito": "CATACOCHA 1",
+    "id": "CALLE-DOMINGO-CELI-(COOPERATIVA-CACPE-LOJA)-Z7-L-C-C",
+    "nombre_punto": "CALLE DOMINGO CELI (COOPERATIVA CACPE LOJA)"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "CATAMAYO NORTE",
+    "subcircuito": "CATAMAYO NORTE 1",
+    "id": "PARQUE-LAS-CANOAS-Z7-L-C-C",
+    "nombre_punto": "PARQUE LAS CANOAS"
   }
 ]
