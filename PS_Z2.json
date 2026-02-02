@@ -4264,5 +4264,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 2",
     "id": "PANADERÍA-Y-PASTELERÍA-\"EL-AUTÉNTICO-SABOR-AMBATEÑO\"-Z2-N-E-S",
     "nombre_punto": "PANADERÍA Y PASTELERÍA \"EL AUTÉNTICO SABOR AMBATEÑO\""
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "VIVERES-MARIBI-Z2-N-E-S",
+    "nombre_punto": "VIVERES MARIBI"
   }
 ]
