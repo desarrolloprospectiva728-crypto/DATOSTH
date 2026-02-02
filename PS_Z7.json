@@ -4552,5 +4552,32 @@
     "subcircuito": "CAZADEROS 1",
     "id": "BOTIQUIN-FERNANDITO-Z7-L-Z-C",
     "nombre_punto": "BOTIQUIN FERNANDITO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "CATAMAYO SAN JOSE",
+    "subcircuito": "CATAMAYO SAN JOSE 1",
+    "id": "TIENDA-ALEX-BARRIO-SANTO-DOMINGO-DE-GUZMÁN-Z7-L-C-C",
+    "nombre_punto": "Tienda Alex  Barrio santo Domingo de Guzmán"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "LA FERROVIARIA",
+    "subcircuito": "LA FERROVIARIA 1",
+    "id": "CENTRO-AUTOMOTRIZ-AUTO-LISTO-Z7-E-M-L",
+    "nombre_punto": "CENTRO AUTOMOTRIZ AUTO LISTO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "PORTOVELO",
+    "subcircuito": "PORTOVELO 1",
+    "id": "CNEL-DE-PORTOVELO-Z7-E-Z-P",
+    "nombre_punto": "CNEL DE PORTOVELO"
   }
 ]
