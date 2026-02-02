@@ -7414,5 +7414,14 @@
     "subcircuito": "SANTA MARTHA SUR 3",
     "id": "COOPERATIVA-DE-TAXIS-RIO-AMAZONAS-Z4-S-S-S",
     "nombre_punto": "COOPERATIVA DE TAXIS RIO AMAZONAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "EVENTOS-ENNA-Z4-M-C-C",
+    "nombre_punto": "EVENTOS ENNA"
   }
 ]
