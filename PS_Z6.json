@@ -3310,5 +3310,14 @@
     "subcircuito": "TOTORACOCHA 1",
     "id": "FARMAMÁS-Z6-A-C-T",
     "nombre_punto": "FARMAMÁS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "TOTORACOCHA",
+    "subcircuito": "TOTORACOCHA 1",
+    "id": "ANGELS-Z6-A-C-T",
+    "nombre_punto": "ANGELS"
   }
 ]
