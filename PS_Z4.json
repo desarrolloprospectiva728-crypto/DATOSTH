@@ -7513,5 +7513,14 @@
     "subcircuito": "PEDERNALES NORTE 1",
     "id": "FÁBRICA-DE-COCADAS-COCO-SOL-Z4-M-P-P",
     "nombre_punto": "FÁBRICA DE COCADAS COCO SOL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "PICADITAS-Y-ASADOS-DE-MANUEL-A-Z4-M-P-P",
+    "nombre_punto": "PICADITAS Y ASADOS DE MANUEL A"
   }
 ]
