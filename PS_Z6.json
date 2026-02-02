@@ -3409,5 +3409,23 @@
     "subcircuito": "LUDO 1",
     "id": "MERCADO-CENTRAL-LUDO-Z6-A-S-L",
     "nombre_punto": "MERCADO CENTRAL LUDO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "GIRON",
+    "subcircuito": "GIRON 1",
+    "id": "SANTA-MARIANITA-Z6-A-G-G",
+    "nombre_punto": "SANTA MARIANITA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GIRON",
+    "circuito": "CERRO NEGRO",
+    "subcircuito": "CERRO NEGRO 1",
+    "id": "CENTRO-DE-SALUD-CHILCAPLAYA-Z6-A-G-C",
+    "nombre_punto": "CENTRO DE SALUD CHILCAPLAYA"
   }
 ]
