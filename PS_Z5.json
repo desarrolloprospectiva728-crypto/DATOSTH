@@ -12787,5 +12787,50 @@
     "subcircuito": "EMPALME SUROESTE 1",
     "id": "OFICINA-TRANSPORTE-TÍA-Z5-G-E-E",
     "nombre_punto": "Oficina Transporte Tía"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SAN JOSE DE JUJAN",
+    "subcircuito": "SAN JOSE DE JUJAN 1",
+    "id": "QUIOSKO-AMARILLO-Z5-L-B-S",
+    "nombre_punto": "QUIOSKO AMARILLO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "FARMACIA-CRUZ-AZUL-Z5-L-B-L",
+    "nombre_punto": "FARMACIA CRUZ AZUL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SAN JOSE DE JUJAN",
+    "subcircuito": "SAN JOSE DE JUJAN 1",
+    "id": "QUIOSKO-AMARILLO-Z5-L-B-S",
+    "nombre_punto": "QUIOSKO AMARILLO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "NARANJITO ESTE",
+    "subcircuito": "NARANJITO ESTE 2",
+    "id": "CACAO-PLAZA-Z5-G-N-N",
+    "nombre_punto": "CACAO PLAZA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "TIENDA-ARAGER-Z5-L-B-E",
+    "nombre_punto": "TIENDA ARAGER"
   }
 ]
