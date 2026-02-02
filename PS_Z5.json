@@ -12220,5 +12220,23 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "CÁRNICOS-LA-CASONA-Z5-L-Q-D",
     "nombre_punto": "Cárnicos LA CASONA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "ISLA DE BEJUCAL",
+    "subcircuito": "ISLA DE BEJUCAL 1",
+    "id": "TIENDA-SU-ECONOMÍA-Z5-L-B-I",
+    "nombre_punto": "Tienda su Economía"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "SAN CARLOS",
+    "subcircuito": "SAN CARLOS 1",
+    "id": "FRIGORÍFICO-VOLUNTAD-DE-DIOS-Z5-G-N-S",
+    "nombre_punto": "Frigorífico Voluntad de Dios"
   }
 ]
