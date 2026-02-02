@@ -13336,5 +13336,23 @@
     "subcircuito": "ISABELA 1",
     "id": "MALECON-Z5-G-G-I",
     "nombre_punto": "Malecon"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 3",
+    "id": "CHIFA-CANTONES-Z5-S-L-S",
+    "nombre_punto": "CHIFA CANTONES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GALAPAGOS",
+    "distrito": "GALAPAGOS",
+    "circuito": "PUERTO AYORA",
+    "subcircuito": "PUERTO AYORA 1",
+    "id": "AV.-BALTRA-CALLE-ESPAÑOLA-AGROMASCOTA-Z5-G-G-P",
+    "nombre_punto": "Av. Baltra calle Española Agromascota"
   }
 ]
