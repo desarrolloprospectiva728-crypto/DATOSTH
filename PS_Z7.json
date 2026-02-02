@@ -4651,5 +4651,14 @@
     "subcircuito": "YANTZAZA 2",
     "id": "PARQUE-CHICAÑA-Z7-Z-Y-Y",
     "nombre_punto": "PARQUE CHICAÑA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "SIMON BOLIVAR",
+    "subcircuito": "SIMON BOLIVAR 1",
+    "id": "BLANCA-GARCÍA-(GOE)-Z7-E-M-S",
+    "nombre_punto": "Blanca García (GOE)"
   }
 ]
