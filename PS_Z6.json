@@ -3382,5 +3382,14 @@
     "subcircuito": "MACHANGARA 1",
     "id": "FARMACIA-FYBECA-Z6-A-C-M",
     "nombre_punto": "Farmacia Fybeca"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "HORNADOS-LA-NUBECITA-Z6-C-L-T",
+    "nombre_punto": "HORNADOS LA NUBECITA"
   }
 ]
