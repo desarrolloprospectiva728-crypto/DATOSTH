@@ -7450,5 +7450,14 @@
     "subcircuito": "LA FLORIDA 1",
     "id": "TIENDA-KAMILA-Z4-M-R-L",
     "nombre_punto": "TIENDA KAMILA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 1",
+    "id": "COMERCIAL-BASURTO-Z4-M-P-P",
+    "nombre_punto": "COMERCIAL BASURTO"
   }
 ]
