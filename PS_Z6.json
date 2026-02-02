@@ -3409,5 +3409,14 @@
     "subcircuito": "LUDO 1",
     "id": "UNIDAD-EDUCATIVA-AGUSTÍN-IGLESIAS-Z6-A-S-L",
     "nombre_punto": "UNIDAD EDUCATIVA AGUSTÍN IGLESIAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "LUDO",
+    "subcircuito": "LUDO 1",
+    "id": "MERCADO-CENTRAL-LUDO-Z6-A-S-L",
+    "nombre_punto": "MERCADO CENTRAL LUDO"
   }
 ]
