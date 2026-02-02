@@ -12859,5 +12859,23 @@
     "subcircuito": "PLAYAS 1",
     "id": "MINIMARKET-SA-Z5-G-P-P",
     "nombre_punto": "Minimarket sa"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "NARANJITO CENTRO",
+    "subcircuito": "NARANJITO CENTRO 1",
+    "id": "MEGA-CENTRO-FERRETERO-SGOP.-RODRIGO-BRICEÑO-Z5-G-N-N",
+    "nombre_punto": "MEGA CENTRO FERRETERO SGOP. RODRIGO BRICEÑO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "PANADERÍA-FREIRE-Z5-G-P-P",
+    "nombre_punto": "Panadería freire"
   }
 ]
