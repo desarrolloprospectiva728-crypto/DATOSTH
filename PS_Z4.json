@@ -7243,5 +7243,14 @@
     "subcircuito": "CENTRO 2",
     "id": "FARMACIAS-CRUZ-AZUL-(ZONA-ROSA)-Z4-S-S-C",
     "nombre_punto": "FARMACIAS CRUZ AZUL (ZONA ROSA)"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "INFINITE-POWER-GYM-(ZONA-ROSA)-Z4-S-S-C",
+    "nombre_punto": "INFINITE POWER GYM (ZONA ROSA)"
   }
 ]
