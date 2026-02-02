@@ -7342,5 +7342,14 @@
     "subcircuito": "CRISTO VIVE 1",
     "id": "UNIDAD-EDUCATIVA-LAURA-FLORES-DE-PAZ-Y-MIÑO-Z4-S-S-C",
     "nombre_punto": "UNIDAD EDUCATIVA LAURA FLORES DE PAZ Y MIÑO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "UE.-FELIX-ALVARADO-BASURTO-Z4-M-R-L",
+    "nombre_punto": "UE. FELIX ALVARADO BASURTO"
   }
 ]
