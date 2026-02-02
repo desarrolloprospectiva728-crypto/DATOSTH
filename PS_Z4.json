@@ -7405,5 +7405,14 @@
     "subcircuito": "CENTRO 1",
     "id": "TERMINAL-TERRESTRE-Z4-M-C-C",
     "nombre_punto": "TERMINAL TERRESTRE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "SANTA MARTHA SUR",
+    "subcircuito": "SANTA MARTHA SUR 3",
+    "id": "COOPERATIVA-DE-TAXIS-RIO-AMAZONAS-Z4-S-S-S",
+    "nombre_punto": "COOPERATIVA DE TAXIS RIO AMAZONAS"
   }
 ]
