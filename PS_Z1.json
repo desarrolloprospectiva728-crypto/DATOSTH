@@ -4577,25 +4577,16 @@
     "distrito": "ESMERALDAS",
     "circuito": "LA TOLITA",
     "subcircuito": "LA TOLITA 1",
-    "id": "LICORERÍA-PACOMILLER-Z1-E-E-L",
-    "nombre_punto": "Licorería Pacomiller"
-  },
-  {
-    "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "ESMERALDAS",
-    "circuito": "LA TOLITA",
-    "subcircuito": "LA TOLITA 1",
-    "id": "LICORERÍA-PACOMILLER-Z1-E-E-L",
-    "nombre_punto": "Licorería Pacomiller"
-  },
-  {
-    "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "ESMERALDAS",
-    "circuito": "LA TOLITA",
-    "subcircuito": "LA TOLITA 1",
     "id": "DISTRIBUIDORA-DE-PAÑAL-ORO-VERDE-Z1-E-E-L",
     "nombre_punto": "Distribuidora de pañal oro verde"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LA TOLITA",
+    "subcircuito": "LA TOLITA 1",
+    "id": "CERÁMICAS-AL-COSTO-Z1-E-E-L",
+    "nombre_punto": "Cerámicas al Costo"
   }
 ]
