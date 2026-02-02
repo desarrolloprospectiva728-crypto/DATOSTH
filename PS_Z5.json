@@ -13417,5 +13417,14 @@
     "subcircuito": "PUERTO AYORA 1",
     "id": "MUELLE-DEL-MERCADO-ARTESANAL-Z5-G-G-P",
     "nombre_punto": "MUELLE DEL MERCADO ARTESANAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 4",
+    "id": "TIENDA-MARÍA-Z5-S-S-S",
+    "nombre_punto": "TIENDA MARÍA"
   }
 ]
