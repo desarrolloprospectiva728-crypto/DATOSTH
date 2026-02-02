@@ -4489,5 +4489,32 @@
     "subcircuito": "LAS PALMAS 1",
     "id": "CONSULADO-DE-COLOMBIA-Z1-E-E-L",
     "nombre_punto": "Consulado de colombia Av Barbisoti entre Nelson estupiñan"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 3",
+    "id": "FARMACIA-MARÍA-DEL-CARMEN-Z1-E-E-L",
+    "nombre_punto": "Farmacia María Del Carmen"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 3",
+    "id": "FARMACIA-BANCO-DEL-BARRIO-MARÍA-DEL-CARMEN-Z1-E-E-L",
+    "nombre_punto": "Farmacia banco del barrio  María Del Carmen"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SUCUMBIOS",
+    "circuito": "CASCALES",
+    "subcircuito": "CASCALES 1",
+    "id": "FRIGORIFICO-ANDREINA-Z1-S-S-C",
+    "nombre_punto": "FRIGORIFICO ANDREINA"
   }
 ]
