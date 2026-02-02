@@ -13390,5 +13390,32 @@
     "subcircuito": "SANTA ELENA CENTRO 3",
     "id": "ASADERO-EL-MANABA-Z5-S-S-S",
     "nombre_punto": "ASADERO EL MANABA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "PELUQUERÍA-BRYAN-Z5-S-S-S",
+    "nombre_punto": "PELUQUERÍA BRYAN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 3",
+    "id": "BAKERY-CHARLIE'S-BISTRO-CAFE-&-DELI-Z5-S-L-S",
+    "nombre_punto": "BAKERY CHARLIE'S BISTRO-CAFE & DELI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GALAPAGOS",
+    "distrito": "GALAPAGOS",
+    "circuito": "PUERTO AYORA",
+    "subcircuito": "PUERTO AYORA 1",
+    "id": "MUELLE-DEL-MERCADO-ARTESANAL-Z5-G-G-P",
+    "nombre_punto": "MUELLE DEL MERCADO ARTESANAL"
   }
 ]
