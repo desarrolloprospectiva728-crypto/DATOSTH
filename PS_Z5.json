@@ -13318,5 +13318,14 @@
     "subcircuito": "ISABELA 1",
     "id": "BANCO-DEL-PACÍFICO-Z5-G-G-I",
     "nombre_punto": "Banco del Pacífico"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GALAPAGOS",
+    "distrito": "GALAPAGOS",
+    "circuito": "PUERTO AYORA",
+    "subcircuito": "PUERTO AYORA 1",
+    "id": "PERRO-COMERCIAL-PUERTO-AYORA-Z5-G-G-P",
+    "nombre_punto": "PERRO COMERCIAL PUERTO AYORA"
   }
 ]
