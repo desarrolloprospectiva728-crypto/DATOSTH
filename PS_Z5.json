@@ -13273,5 +13273,23 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "PAPIPOLLO-EFC-Z5-L-V-V",
     "nombre_punto": "Papipollo EFC"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "DISOENSA-SULAY-Z5-L-V-V",
+    "nombre_punto": "Disoensa Sulay"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "OLON",
+    "subcircuito": "OLON 1",
+    "id": "TIMO-REPOSTERIA-BRUNCH-Z5-S-S-O",
+    "nombre_punto": "Timo Reposteria Brunch"
   }
 ]
