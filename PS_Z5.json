@@ -12517,5 +12517,32 @@
     "subcircuito": "VILLA NUEVA 1",
     "id": "ARROCERA-PAÑORA-Z5-G-N-V",
     "nombre_punto": "Arrocera Pañora"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "COMERCIAL-FRANCO-JR-Z5-L-Q-M",
+    "nombre_punto": "Comercial Franco Jr"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "TAURA",
+    "subcircuito": "TAURA 2",
+    "id": "LA-TIENDITA-DE-LA-ESQUINA-Z5-G-N-T",
+    "nombre_punto": "LA TIENDITA DE LA ESQUINA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "FERIA-Z5-G-P-P",
+    "nombre_punto": "Feria"
   }
 ]
