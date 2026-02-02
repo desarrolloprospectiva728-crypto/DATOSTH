@@ -3319,5 +3319,14 @@
     "subcircuito": "TOTORACOCHA 1",
     "id": "ANGELS-Z6-A-C-T",
     "nombre_punto": "ANGELS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "VERDE LOMA",
+    "subcircuito": "VERDE LOMA 1",
+    "id": "SERVIMOTOS-CUENCA-Z6-A-C-V",
+    "nombre_punto": "SERVIMOTOS CUENCA"
   }
 ]
