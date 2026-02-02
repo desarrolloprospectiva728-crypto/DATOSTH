@@ -12616,5 +12616,41 @@
     "subcircuito": "MARCELINO MARIDUEÑA 2",
     "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-SAN-CARLOS-Z5-G-N-M",
     "nombre_punto": "Cooperativa de ahorro y crédito san carlos"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "LICORERIA-Y-MARKET-ENTRE-COPAS-Z5-L-B-U",
+    "nombre_punto": "LICORERIA Y MARKET ENTRE COPAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "PEAJE-PLAYAS-Z5-G-P-P",
+    "nombre_punto": "Peaje playas"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "AGROQUÍMICOS-AGROINTEGRAL-Z5-L-Q-M",
+    "nombre_punto": "Agroquímicos Agrointegral"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "ENRIQUEZ GALLO",
+    "subcircuito": "ENRIQUEZ GALLO 1",
+    "id": "TUTI-Z5-S-L-E",
+    "nombre_punto": "TUTI"
   }
 ]
