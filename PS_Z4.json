@@ -7369,5 +7369,23 @@
     "subcircuito": "CRISTO VIVE 2",
     "id": "VÍVERES-D-MERY-Z4-S-S-C",
     "nombre_punto": "Víveres D Mery"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "UE-SIMÓN-BOLIVAR-Z4-M-R-L",
+    "nombre_punto": "UE SIMÓN BOLIVAR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SANTA RITA",
+    "subcircuito": "SANTA RITA 1",
+    "id": "BANARIEGO-Z4-M-C-S",
+    "nombre_punto": "BANARIEGO"
   }
 ]
