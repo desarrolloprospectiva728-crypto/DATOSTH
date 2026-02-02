@@ -4309,5 +4309,23 @@
     "subcircuito": "COCA OCCIDENTE 1",
     "id": "SUCRELO-Z2-O-O-C",
     "nombre_punto": "Sucrelo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 1",
+    "id": "UNIDAD-EDUCATIVA-VICTOR-RON-Z2-O-O-C",
+    "nombre_punto": "Unidad educativa  Victor Ron"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 2",
+    "id": "UNIDAD-EDUCATIVA-VICTOR-RON-Z2-O-O-C",
+    "nombre_punto": "Unidad educativa Victor Ron"
   }
 ]
