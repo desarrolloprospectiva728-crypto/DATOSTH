@@ -7468,5 +7468,14 @@
     "subcircuito": "PUEBLO NUEVO 1",
     "id": "AGRO-ASISTENCIA-LA-CHACARAS-Z4-M-P-P",
     "nombre_punto": "AGRO ASISTENCIA LA CHACARAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PARQUE CENTRAL",
+    "subcircuito": "PARQUE CENTRAL 1",
+    "id": "GASOLINERA-PETROSOL-S.A-(LOS-BIZARROS-)-Z4-M-J-P",
+    "nombre_punto": "GASOLINERA PETROSOL S.A  (LOS BIZARROS )"
   }
 ]
