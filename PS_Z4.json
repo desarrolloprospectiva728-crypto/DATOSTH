@@ -7387,5 +7387,23 @@
     "subcircuito": "SANTA RITA 1",
     "id": "BANARIEGO-Z4-M-C-S",
     "nombre_punto": "BANARIEGO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "CANCHA-POTENCIAL-Z4-M-R-L",
+    "nombre_punto": "CANCHA POTENCIAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "TERMINAL-TERRESTRE-Z4-M-C-C",
+    "nombre_punto": "TERMINAL TERRESTRE"
   }
 ]
