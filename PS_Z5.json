@@ -12328,5 +12328,41 @@
     "subcircuito": "ISLA DE BEJUCAL 1",
     "id": "FARMACIA-LA-PRIMICIA-Z5-L-B-I",
     "nombre_punto": "FARMACIA LA PRIMICIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "NARANJAL CENTRO",
+    "subcircuito": "NARANJAL CENTRO 1",
+    "id": "ESTACIÓN-DE-SERVICIO-SAN-Z5-G-N-N",
+    "nombre_punto": "Estación de Servicio SAN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "CASA-COMUNAL-PUERTA-NEGRA-Z5-L-B-U",
+    "nombre_punto": "CASA COMUNAL PUERTA NEGRA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "VILLA NUEVA",
+    "subcircuito": "VILLA NUEVA 1",
+    "id": "COMEDOR-K&L-Z5-G-N-V",
+    "nombre_punto": "Comedor K&L"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "ISLA DE BEJUCAL",
+    "subcircuito": "ISLA DE BEJUCAL 1",
+    "id": "TIENDA-4-HERMANOS-Z5-L-B-I",
+    "nombre_punto": "TIENDA 4 HERMANOS"
   }
 ]
