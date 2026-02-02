@@ -4390,5 +4390,14 @@
     "subcircuito": "CARIAMANGA ESTE 1",
     "id": "GASOLINERA-PETRO-ECUADOR-CARIAMANGA-Z7-L-C-C",
     "nombre_punto": "Gasolinera Petro Ecuador Cariamanga"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "BUENA VISTA",
+    "subcircuito": "BUENA VISTA 2",
+    "id": "MALECÓN-RÍO-BUENAVISTA-Z7-E-P-B",
+    "nombre_punto": "MALECÓN RÍO BUENAVISTA"
   }
 ]
