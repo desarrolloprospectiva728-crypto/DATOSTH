@@ -4372,5 +4372,23 @@
     "subcircuito": "BUENA VISTA 2",
     "id": "GASOLINERA-BUENAVISTA-Z7-E-P-B",
     "nombre_punto": "GASOLINERA BUENAVISTA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "NUEVO DE MAYO",
+    "subcircuito": "NUEVO DE MAYO 2",
+    "id": "CARROCERIAS-METALICAS-TACAMET-Z7-E-M-N",
+    "nombre_punto": "CARROCERIAS METALICAS  TACAMET"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CALVAS",
+    "circuito": "CARIAMANGA ESTE",
+    "subcircuito": "CARIAMANGA ESTE 1",
+    "id": "GASOLINERA-PETRO-ECUADOR-CARIAMANGA-Z7-L-C-C",
+    "nombre_punto": "Gasolinera Petro Ecuador Cariamanga"
   }
 ]
