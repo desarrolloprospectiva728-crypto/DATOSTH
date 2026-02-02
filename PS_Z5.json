@@ -13111,5 +13111,32 @@
     "subcircuito": "MATA DE CACAO 4",
     "id": "HERMANOS-CASTRO-Z5-L-B-M",
     "nombre_punto": "HERMANOS CASTRO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "CARACOL",
+    "subcircuito": "CARACOL 1",
+    "id": "FARMACIA-VIRGEN-DEL-CARMEN-Z5-L-B-C",
+    "nombre_punto": "FARMACIA VIRGEN DEL CARMEN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "FARMACIA-PHARM-SALUD-Z5-L-V-V",
+    "nombre_punto": "Farmacia Pharm salud"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "VULCANIZADORA-EL-TRUENO-Z5-L-V-V",
+    "nombre_punto": "Vulcanizadora el trueno"
   }
 ]
