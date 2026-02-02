@@ -12967,5 +12967,23 @@
     "subcircuito": "SAN JOSE DE JUJAN 1",
     "id": "SONA-ROSA-MANGO-MORADO-Z5-L-B-S",
     "nombre_punto": "SONA ROSA MANGO MORADO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SALINAS CENTRO",
+    "subcircuito": "SALINAS CENTRO 3",
+    "id": "PARRILLADAS-LAS-TABLITAS-Z5-S-L-S",
+    "nombre_punto": "PARRILLADAS LAS TABLITAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "TIENDA-DON-RAMÍREZ-Z5-S-S-S",
+    "nombre_punto": "TIENDA DON RAMÍREZ"
   }
 ]
