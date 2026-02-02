@@ -13228,5 +13228,14 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "CONFECCIONES-GONZALO-Z5-L-V-V",
     "nombre_punto": "Confecciones Gonzalo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "ASADERO-CHINO-Z5-L-V-V",
+    "nombre_punto": "Asadero Chino"
   }
 ]
