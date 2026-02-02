@@ -7432,5 +7432,23 @@
     "subcircuito": "SANTA MARTHA SUR 2",
     "id": "SUBCENTRO-DE-SALUD-SANTA-MARTHA-Z4-S-S-S",
     "nombre_punto": "SUBCENTRO DE SALUD SANTA MARTHA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "BILLA-JONATHAN-Z4-M-R-L",
+    "nombre_punto": "BILLA JONATHAN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "TIENDA-KAMILA-Z4-M-R-L",
+    "nombre_punto": "TIENDA KAMILA"
   }
 ]
