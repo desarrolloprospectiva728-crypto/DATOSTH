@@ -7261,5 +7261,14 @@
     "subcircuito": "CENTRO 4",
     "id": "RESTAURANTE-BAMBUKA-Z4-S-S-C",
     "nombre_punto": "RESTAURANTE BAMBUKA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "IGLESIA-NAZARETH-Z4-M-R-L",
+    "nombre_punto": "IGLESIA NAZARETH"
   }
 ]
