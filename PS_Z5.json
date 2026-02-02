@@ -12742,5 +12742,23 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "FARMACIAS-PHARMA-MEDIK-Z5-L-B-U",
     "nombre_punto": "FARMACIAS PHARMA MEDIK"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME SUROESTE",
+    "subcircuito": "EMPALME SUROESTE 1",
+    "id": "UNIDAD-EDUCATIVA-SOLDADO-MONGE-Z5-G-E-E",
+    "nombre_punto": "Unidad Educativa Soldado Monge"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 2",
+    "id": "GASOLINERA-FENAPET-Z5-G-P-P",
+    "nombre_punto": "Gasolinera FENAPET"
   }
 ]
