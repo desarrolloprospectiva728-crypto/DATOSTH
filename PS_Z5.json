@@ -13363,5 +13363,14 @@
     "subcircuito": "PUERTO AYORA 1",
     "id": "MERCADO-MUNICIPAL-Z5-G-G-P",
     "nombre_punto": "MERCADO MUNICIPAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 3",
+    "id": "SUSHI-SALINAS-EXPRESS-Z5-S-L-S",
+    "nombre_punto": "SUSHI SALINAS EXPRESS"
   }
 ]
