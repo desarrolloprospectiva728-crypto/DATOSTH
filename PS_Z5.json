@@ -12949,5 +12949,14 @@
     "subcircuito": "PLAYAS 1",
     "id": "MOTORAPARTS-SAN-ANTONIO-Z5-G-P-P",
     "nombre_punto": "MOTORAPARTS san antonio"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 2",
+    "id": "TIENDA-CARPA-AZUL-Z5-S-S-S",
+    "nombre_punto": "TIENDA CARPA AZUL"
   }
 ]
