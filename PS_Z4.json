@@ -7504,5 +7504,14 @@
     "subcircuito": "PEDERNALES NORTE 1",
     "id": "LA-OLLA-DEL-SABOR-Z4-M-P-P",
     "nombre_punto": "LA OLLA DEL SABOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "FÁBRICA-DE-COCADAS-COCO-SOL-Z4-M-P-P",
+    "nombre_punto": "FÁBRICA DE COCADAS COCO SOL"
   }
 ]
