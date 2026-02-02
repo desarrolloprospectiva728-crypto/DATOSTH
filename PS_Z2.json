@@ -4255,5 +4255,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 2",
     "id": "LAS-DELICIAS-DEL-VALLE-Z2-N-E-S",
     "nombre_punto": "LAS DELICIAS DEL VALLE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "PANADERÍA-Y-PASTELERÍA-\"EL-AUTÉNTICO-SABOR-AMBATEÑO\"-Z2-N-E-S",
+    "nombre_punto": "PANADERÍA Y PASTELERÍA \"EL AUTÉNTICO SABOR AMBATEÑO\""
   }
 ]
