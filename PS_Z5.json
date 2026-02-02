@@ -13354,5 +13354,14 @@
     "subcircuito": "PUERTO AYORA 1",
     "id": "AV.-BALTRA-CALLE-ESPAÑOLA-AGROMASCOTA-Z5-G-G-P",
     "nombre_punto": "Av. Baltra calle Española Agromascota"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GALAPAGOS",
+    "distrito": "GALAPAGOS",
+    "circuito": "PUERTO AYORA",
+    "subcircuito": "PUERTO AYORA 1",
+    "id": "MERCADO-MUNICIPAL-Z5-G-G-P",
+    "nombre_punto": "MERCADO MUNICIPAL"
   }
 ]
