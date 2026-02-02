@@ -12877,5 +12877,32 @@
     "subcircuito": "PLAYAS 1",
     "id": "PANADERÍA-FREIRE-Z5-G-P-P",
     "nombre_punto": "Panadería freire"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "NARANJITO ESTE",
+    "subcircuito": "NARANJITO ESTE 2",
+    "id": "AGRIPAC-S.A-Z5-G-N-N",
+    "nombre_punto": "AGRIPAC S.A"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "MUNDO-ORTOPEDIC-Z5-S-S-S",
+    "nombre_punto": "MUNDO ORTOPEDIC"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SAN JOSE DE JUJAN",
+    "subcircuito": "SAN JOSE DE JUJAN 1",
+    "id": "BAZAR-LISCORFIO-Z5-L-B-S",
+    "nombre_punto": "BAZAR LISCORFIO"
   }
 ]
