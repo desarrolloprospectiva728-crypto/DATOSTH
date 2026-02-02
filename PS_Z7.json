@@ -4453,5 +4453,32 @@
     "subcircuito": "SOZORANGA 1",
     "id": "AGROVET-DEL-SUR-Z7-L-M-S",
     "nombre_punto": "AGROVET DEL SUR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "HUALTACO",
+    "subcircuito": "HUALTACO 1",
+    "id": "GASOLINERA-PRIMAX-Z7-E-H-H",
+    "nombre_punto": "Gasolinera Primax"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CALVAS",
+    "circuito": "NAMBACOLA",
+    "subcircuito": "NAMBACOLA 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-GONZANAMÁ-Z7-L-C-N",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CRÉDITO GONZANAMÁ"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "EL CAMBIO",
+    "subcircuito": "EL CAMBIO 1",
+    "id": "HIELERA-JJ-Z7-E-M-E",
+    "nombre_punto": "HIELERA JJ"
   }
 ]
