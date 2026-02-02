@@ -4291,5 +4291,23 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 2",
     "id": "PARADERO-DON-AGUSTO-Z2-N-E-S",
     "nombre_punto": "PARADERO DON AGUSTO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 1",
+    "id": "UNIDAD-EDUCATIVA-DESTACAMENTO-DE-BANDERAS-Z2-O-O-C",
+    "nombre_punto": "Unidad Educativa  Destacamento de Banderas"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 1",
+    "id": "SUCRELO-Z2-O-O-C",
+    "nombre_punto": "Sucrelo"
   }
 ]
