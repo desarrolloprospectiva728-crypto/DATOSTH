@@ -12292,5 +12292,41 @@
     "subcircuito": "ISLA DE BEJUCAL 1",
     "id": "GIMNASIO-SPARTANS-Z5-L-B-I",
     "nombre_punto": "GIMNASIO SPARTANS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "NARANJAL CENTRO",
+    "subcircuito": "NARANJAL CENTRO 1",
+    "id": "MI-COMISARIATO-Z5-G-N-N",
+    "nombre_punto": "MI COMISARIATO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "ANCONCITO",
+    "subcircuito": "ANCONCITO 1",
+    "id": "GASOLINERA-FENAPET-Z5-S-L-A",
+    "nombre_punto": "GASOLINERA FENAPET"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 1",
+    "id": "CENTRO-DE-SALUD-PUERTA-NEGRA-Z5-L-B-U",
+    "nombre_punto": "CENTRO DE SALUD PUERTA NEGRA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "ISLA DE BEJUCAL",
+    "subcircuito": "ISLA DE BEJUCAL 1",
+    "id": "FARMACIA-LA-PRIMICIA-Z5-L-B-I",
+    "nombre_punto": "FARMACIA LA PRIMICIA"
   }
 ]
