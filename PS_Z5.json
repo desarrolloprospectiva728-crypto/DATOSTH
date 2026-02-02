@@ -12184,5 +12184,14 @@
     "subcircuito": "GENERAL VILLAMIL 2",
     "id": "HIELERA-VÍA-DATA-Z5-G-P-G",
     "nombre_punto": "Hielera vía data"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 2",
+    "id": "PUENTE-DE-LOS-PESCADORES-Z5-G-P-G",
+    "nombre_punto": "Puente de los pescadores"
   }
 ]
