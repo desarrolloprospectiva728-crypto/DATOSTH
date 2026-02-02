@@ -13066,5 +13066,32 @@
     "subcircuito": "CARACOL 1",
     "id": "ESTILO-Y-MODA-LS-Z5-L-B-C",
     "nombre_punto": "ESTILO Y MODA LS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "EL SALTO",
+    "subcircuito": "EL SALTO 1",
+    "id": "DISENSA-Z5-L-B-E",
+    "nombre_punto": "DISENSA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MATA DE CACAO",
+    "subcircuito": "MATA DE CACAO 4",
+    "id": "D-FASIL-Z5-L-B-M",
+    "nombre_punto": "D FASIL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 1",
+    "id": "BOLOS-LOS-PANCHITOS-Z5-S-S-S",
+    "nombre_punto": "BOLOS LOS PANCHITOS"
   }
 ]
