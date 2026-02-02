@@ -4633,5 +4633,14 @@
     "subcircuito": "ZARUMA 1",
     "id": "HOTEL-CERRO-DE-ORO-Z7-E-Z-Z",
     "nombre_punto": "HOTEL CERRO DE ORO EN ZARUMA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "SIMON BOLIVAR",
+    "subcircuito": "SIMON BOLIVAR 1",
+    "id": "CENTRO-AUTOMOTRIZ-\"AUTO-LISTO\"-Z7-E-M-S",
+    "nombre_punto": "Centro Automotriz \"AUTO LISTO\""
   }
 ]
