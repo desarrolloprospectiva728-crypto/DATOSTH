@@ -4525,5 +4525,14 @@
     "subcircuito": "SAN PEDRO DE LA BENDITA 1",
     "id": "TIENDA-SUPER-MARKET-Z7-L-C-S",
     "nombre_punto": "TIENDA SUPER MARKET"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "CATAMAYO NORTE",
+    "subcircuito": "CATAMAYO NORTE 1",
+    "id": "SECTOR-ZERIMAR-FARMACIA-CUXIBAMBA-Z7-L-C-C",
+    "nombre_punto": "SECTOR ZERIMAR FARMACIA CUXIBAMBA"
   }
 ]
