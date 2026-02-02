@@ -4606,5 +4606,14 @@
     "subcircuito": "LA TOLITA 1",
     "id": "LICORERÍA-ENTRECOPAS-Z1-E-E-L",
     "nombre_punto": "Licorería EntreCopas"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LA TOLITA",
+    "subcircuito": "LA TOLITA 1",
+    "id": "MULTICOMERCIO-J.R-Z1-E-E-L",
+    "nombre_punto": "Multicomercio J.R"
   }
 ]
