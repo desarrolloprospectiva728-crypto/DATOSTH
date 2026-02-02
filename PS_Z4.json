@@ -7333,5 +7333,14 @@
     "subcircuito": "LA FLORIDA 1",
     "id": "UE.-ADALINA-PINCAY-DE-ROJAS-Z4-M-R-L",
     "nombre_punto": "UE. ADALINA PINCAY DE ROJAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CRISTO VIVE",
+    "subcircuito": "CRISTO VIVE 1",
+    "id": "UNIDAD-EDUCATIVA-LAURA-FLORES-DE-PAZ-Y-MIÑO-Z4-S-S-C",
+    "nombre_punto": "UNIDAD EDUCATIVA LAURA FLORES DE PAZ Y MIÑO"
   }
 ]
