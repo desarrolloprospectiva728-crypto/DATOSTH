@@ -13300,5 +13300,23 @@
     "subcircuito": "SANTA ROSA 1",
     "id": "GYMNASIO-SPORTLIFE-Z5-S-L-S",
     "nombre_punto": "GYMNASIO SPORTLIFE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "DEPÓSITO-LA-CUARENTA-Z5-L-V-V",
+    "nombre_punto": "Depósito la cuarenta"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GALAPAGOS",
+    "distrito": "GALAPAGOS",
+    "circuito": "ISABELA",
+    "subcircuito": "ISABELA 1",
+    "id": "BANCO-DEL-PACÍFICO-Z5-G-G-I",
+    "nombre_punto": "Banco del Pacífico"
   }
 ]
