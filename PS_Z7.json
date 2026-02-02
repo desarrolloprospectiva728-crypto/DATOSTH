@@ -4579,5 +4579,32 @@
     "subcircuito": "PORTOVELO 1",
     "id": "CNEL-DE-PORTOVELO-Z7-E-Z-P",
     "nombre_punto": "CNEL DE PORTOVELO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "ZARUMA",
+    "circuito": "PORTOVELO",
+    "subcircuito": "PORTOVELO 1",
+    "id": "COMERCIAL-APOLO-Z7-E-Z-P",
+    "nombre_punto": "COMERCIAL APOLO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ZAPOTILLO",
+    "circuito": "PALETILLAS",
+    "subcircuito": "PALETILLAS 1",
+    "id": "PANADERÍA-HERMANOS-VERA-Z7-L-Z-P",
+    "nombre_punto": "PANADERÍA HERMANOS VERA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATAMAYO",
+    "circuito": "CATAMAYO SAN JOSE",
+    "subcircuito": "CATAMAYO SAN JOSE 1",
+    "id": "PAPELERIA-MULTI-PAPER-ALONZO-DE-MERCADILLO-BARRIO-BUENA-ESPERANZA-FRENTE-AL-VIVEROCRISTINA-Z7-L-C-C",
+    "nombre_punto": "PAPELERIA MULTI PAPER ALONZO DE MERCADILLO BARRIO BUENA ESPERANZA  FRENTE AL VIVEROCRISTINA"
   }
 ]
