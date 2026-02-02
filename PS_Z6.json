@@ -3328,5 +3328,23 @@
     "subcircuito": "VERDE LOMA 1",
     "id": "SERVIMOTOS-CUENCA-Z6-A-C-V",
     "nombre_punto": "SERVIMOTOS CUENCA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES SUR",
+    "subcircuito": "AZOGUES SUR 2",
+    "id": "COMPLEJO-COMERCIAL-AZOGUES-Z6-C-A-A",
+    "nombre_punto": "Complejo Comercial Azogues"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "VERDE LOMA",
+    "subcircuito": "VERDE LOMA 1",
+    "id": "GYM-AGUILA-Z6-A-C-V",
+    "nombre_punto": "GYM AGUILA"
   }
 ]
