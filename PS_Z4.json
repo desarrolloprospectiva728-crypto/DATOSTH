@@ -7288,5 +7288,14 @@
     "subcircuito": "SAN ANDRE}ES 1",
     "id": "FERRETERÍA-FERREMAR-Z4-M-C-S",
     "nombre_punto": "FERRETERÍA FERREMAR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "IGLESIA-MUTRE-Z4-M-R-L",
+    "nombre_punto": "IGLESIA MUTRE"
   }
 ]
