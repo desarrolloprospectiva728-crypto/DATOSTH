@@ -11804,7 +11804,7 @@
     "distrito": "BABAHOYO",
     "circuito": "EL SALTO",
     "subcircuito": "EL SALTO 1",
-    "id": "CRUZ-AZUL-Z5-L-B-E",
+    "id": "CRUZ-AZUL-Z5-L-B-E1",
     "nombre_punto": "CRUZ AZUL"
   },
   {
@@ -12794,7 +12794,7 @@
     "distrito": "BABAHOYO",
     "circuito": "LA UNION",
     "subcircuito": "LA UNION 1",
-    "id": "FARMACIA-CRUZ-AZUL-Z5-L-B-L",
+    "id": "FARMACIA-CRUZ-AZUL-Z5-L-B-L1",
     "nombre_punto": "FARMACIA CRUZ AZUL"
   },
   {
@@ -13093,5 +13093,23 @@
     "subcircuito": "MATA DE CACAO 4",
     "id": "DR.-AGRO-Z5-L-B-M",
     "nombre_punto": "DR. AGRO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "TIENDA-MERPY-Z5-S-S-S",
+    "nombre_punto": "TIENDA MERPY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MATA DE CACAO",
+    "subcircuito": "MATA DE CACAO 4",
+    "id": "HERMANOS-CASTRO-Z5-L-B-M",
+    "nombre_punto": "HERMANOS CASTRO"
   }
 ]
