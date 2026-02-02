@@ -4615,5 +4615,14 @@
     "subcircuito": "ZARUMA 1",
     "id": "FARMACIA-ZARUMPHARM-EN-ZARUMA-Z7-E-Z-Z",
     "nombre_punto": "FARMACIA ZARUMPHARM EN ZARUMA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PIÑAS",
+    "circuito": "SAN ROQUE",
+    "subcircuito": "SAN ROQUE 2",
+    "id": "JEFFERSON-SHOED-Z7-E-P-S",
+    "nombre_punto": "Jefferson shoed"
   }
 ]
