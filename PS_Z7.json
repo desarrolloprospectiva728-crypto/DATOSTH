@@ -4345,5 +4345,23 @@
     "subcircuito": "SARAGURO 1",
     "id": "HOSPITAL-BASICO-DE-SARAGURO-Z7-L-S-S",
     "nombre_punto": "HOSPITAL BASICO DE SARAGURO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "AMALUZA",
+    "subcircuito": "AMALUZA 1",
+    "id": "COOPERATIVA-CREDIAMIGO-LTDA-Z7-L-E-A",
+    "nombre_punto": "COOPERATIVA CREDIAMIGO ltda"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PASAJE",
+    "circuito": "BUENA VISTA",
+    "subcircuito": "BUENA VISTA 2",
+    "id": "ESCUELA-MANUEL-ISAAC-ENCALADA-Z7-E-P-B",
+    "nombre_punto": "ESCUELA MANUEL ISAAC ENCALADA"
   }
 ]
