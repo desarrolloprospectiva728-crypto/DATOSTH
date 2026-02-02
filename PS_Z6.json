@@ -3346,5 +3346,23 @@
     "subcircuito": "VERDE LOMA 1",
     "id": "GYM-AGUILA-Z6-A-C-V",
     "nombre_punto": "GYM AGUILA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "LOCAL-COMERCIAL-FAMA-Z6-C-L-T",
+    "nombre_punto": "LOCAL COMERCIAL FAMA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "LA TRONCAL",
+    "circuito": "TRONCAL NORTE",
+    "subcircuito": "TRONCAL NORTE 1",
+    "id": "PARRILLADAS-TOP-BRASS-Z6-C-L-T",
+    "nombre_punto": "PARRILLADAS TOP BRASS"
   }
 ]
