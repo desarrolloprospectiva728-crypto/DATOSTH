@@ -12652,5 +12652,68 @@
     "subcircuito": "ENRIQUEZ GALLO 1",
     "id": "TUTI-Z5-S-L-E",
     "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR CENTRO",
+    "subcircuito": "BALZAR CENTRO 1",
+    "id": "REGISTRO-CIVIL-Z5-G-B-B",
+    "nombre_punto": "Registro civil"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "FERRICENTRO-EL-CONSTRUCTOR-Z5-L-Q-M",
+    "nombre_punto": "FerriCentro El Constructor"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "CONSTRUCTOR-Z5-G-P-P",
+    "nombre_punto": "Constructor"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "SABOR-TROPICAL-Z5-L-B-U",
+    "nombre_punto": "SABOR TROPICAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 2",
+    "id": "ASADERO-LA-GATITA-Z5-G-P-P",
+    "nombre_punto": "Asadero la gatita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME SURESTE",
+    "subcircuito": "EMPALME SURESTE 1",
+    "id": "ALMACEN-LA-RUEDA-Z5-G-E-E",
+    "nombre_punto": "Almacen la Rueda"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "AGROINTEGRAL-AZOGUE-Z5-L-Q-M",
+    "nombre_punto": "Agrointegral Azogue"
   }
 ]
