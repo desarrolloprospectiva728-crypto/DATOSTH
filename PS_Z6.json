@@ -3373,5 +3373,14 @@
     "subcircuito": "TRONCAL NORTE 1",
     "id": "CAFETERÍA-MISTER-COFFEE-Z6-C-L-T",
     "nombre_punto": "CAFETERÍA MISTER COFFEE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "MACHANGARA",
+    "subcircuito": "MACHANGARA 1",
+    "id": "FARMACIA-FYBECA-Z6-A-C-M",
+    "nombre_punto": "Farmacia Fybeca"
   }
 ]
