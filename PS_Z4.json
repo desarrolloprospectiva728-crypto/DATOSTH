@@ -7522,5 +7522,14 @@
     "subcircuito": "PEDERNALES NORTE 1",
     "id": "PICADITAS-Y-ASADOS-DE-MANUEL-A-Z4-M-P-P",
     "nombre_punto": "PICADITAS Y ASADOS DE MANUEL A"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "GASOLINERA-PRIMAX-PEDERNALES-Z4-M-P-P",
+    "nombre_punto": "GASOLINERA PRIMAX PEDERNALES"
   }
 ]
