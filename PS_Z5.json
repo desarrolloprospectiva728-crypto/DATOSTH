@@ -12193,5 +12193,14 @@
     "subcircuito": "GENERAL VILLAMIL 2",
     "id": "PUENTE-DE-LOS-PESCADORES-Z5-G-P-G",
     "nombre_punto": "Puente de los pescadores"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 1",
+    "id": "LA-OSTRA-QUE-FUMA-Z5-G-P-G",
+    "nombre_punto": "La ostra que fuma"
   }
 ]
