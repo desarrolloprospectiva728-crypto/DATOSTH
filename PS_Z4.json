@@ -7297,5 +7297,41 @@
     "subcircuito": "LA FLORIDA 1",
     "id": "IGLESIA-MUTRE-Z4-M-R-L",
     "nombre_punto": "IGLESIA MUTRE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CRISTO VIVE",
+    "subcircuito": "CRISTO VIVE 1",
+    "id": "COMERCIAL-CENTRO-Z4-S-S-C",
+    "nombre_punto": "Comercial El Centro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CRISTO VIVE",
+    "subcircuito": "CRISTO VIVE 1",
+    "id": "COMERCIAL-EL-CENTRO-Z4-S-S-C",
+    "nombre_punto": "Comercial El Centro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "BEJUCO",
+    "subcircuito": "BEJUCO 1",
+    "id": "UNIDAD-EDUCATIVA-BEJUCAL-Z4-M-C-B",
+    "nombre_punto": "UNIDAD EDUCATIVA BEJUCAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 1",
+    "id": "UE.-ADALINA-PINCAY-DE-ROJAS-Z4-M-R-L",
+    "nombre_punto": "UE. ADALINA PINCAY DE ROJAS"
   }
 ]
