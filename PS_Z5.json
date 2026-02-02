@@ -12202,5 +12202,14 @@
     "subcircuito": "GENERAL VILLAMIL 1",
     "id": "LA-OSTRA-QUE-FUMA-Z5-G-P-G",
     "nombre_punto": "La ostra que fuma"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "GASOLINERA-PRIMAX-AV.-PAQUISHA-Z5-G-P-P",
+    "nombre_punto": "Gasolinera primax Av. Paquisha"
   }
 ]
