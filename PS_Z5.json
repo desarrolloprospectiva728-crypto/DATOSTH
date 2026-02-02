@@ -13003,5 +13003,23 @@
     "subcircuito": "SAN CRISTOBAL 1",
     "id": "HOSPITAL-OSKAR-JANDL-Z5-G-G-S",
     "nombre_punto": "Hospital Oskar Jandl"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "ASADERO-DANY-Z5-S-S-S",
+    "nombre_punto": "ASADERO DANY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GALAPAGOS",
+    "distrito": "GALAPAGOS",
+    "circuito": "SAN CRISTOBAL",
+    "subcircuito": "SAN CRISTOBAL 1",
+    "id": "HOTEL-ÍNDIGO-Z5-G-G-S",
+    "nombre_punto": "Hotel índigo"
   }
 ]
