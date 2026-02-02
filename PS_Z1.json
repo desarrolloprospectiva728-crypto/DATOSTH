@@ -4552,5 +4552,14 @@
     "subcircuito": "FRONTERA 3",
     "id": "EL-RETORNO-DE-CONDORITO-Z1-E-S-F",
     "nombre_punto": "El retorno de Condorito"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "ÑATO-Z1-E-S-F",
+    "nombre_punto": "Ñato"
   }
 ]
