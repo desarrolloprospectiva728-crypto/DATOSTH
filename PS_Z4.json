@@ -7495,5 +7495,14 @@
     "subcircuito": "2001-05-03T05:00:00.000Z",
     "id": "BARATOCELL-Z4-M-J-3",
     "nombre_punto": "BARATOCELL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "LA-OLLA-DEL-SABOR-Z4-M-P-P",
+    "nombre_punto": "LA OLLA DEL SABOR"
   }
 ]
