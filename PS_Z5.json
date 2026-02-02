@@ -13138,5 +13138,23 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "VULCANIZADORA-EL-TRUENO-Z5-L-V-V",
     "nombre_punto": "Vulcanizadora el trueno"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SALINAS CENTRO",
+    "subcircuito": "SALINAS CENTRO 2",
+    "id": "BOLLOS-DE-ALBACORA-MARY-Z5-S-L-S",
+    "nombre_punto": "BOLLOS DE ALBACORA MARY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "TIENDA-PACHECO-Z5-L-V-V",
+    "nombre_punto": "Tienda Pacheco"
   }
 ]
