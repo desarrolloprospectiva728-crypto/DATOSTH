@@ -12544,5 +12544,77 @@
     "subcircuito": "PLAYAS 1",
     "id": "FERIA-Z5-G-P-P",
     "nombre_punto": "Feria"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "LA-MAMÁ-DE-LOS-ENCEBOLLADOS-Z5-L-B-U",
+    "nombre_punto": "LA MAMÁ DE LOS ENCEBOLLADOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "ROSA PAREDES",
+    "subcircuito": "ROSA PAREDES 1",
+    "id": "CDI-DIVINO-NIÑO-Z5-G-B-R",
+    "nombre_punto": "CDI DIVINO NIÑO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "COMERCIAL-FRANCO-3-Z5-L-Q-M",
+    "nombre_punto": "Comercial Franco 3"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SAN JOSE DE JUJAN",
+    "subcircuito": "SAN JOSE DE JUJAN 1",
+    "id": "PILADORA-REY-DAVID-Z5-L-B-S",
+    "nombre_punto": "Piladora Rey David"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "MA&CAO-Z5-L-V-V",
+    "nombre_punto": "MA&CAO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "PRIMAX-VIA-SAN-ANTONIO-Z5-G-P-P",
+    "nombre_punto": "Primax via san antonio"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "VERNAZA",
+    "subcircuito": "VERNAZA 1",
+    "id": "AGRO-COMERCIAL-PACHECO-Z5-G-S-V",
+    "nombre_punto": "AGRO COMERCIAL PACHECO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "MARCELINO MARIDUEÑA",
+    "subcircuito": "MARCELINO MARIDUEÑA 2",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-SAN-CARLOS-Z5-G-N-M",
+    "nombre_punto": "Cooperativa de ahorro y crédito san carlos"
   }
 ]
