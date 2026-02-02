@@ -13192,5 +13192,14 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "TIENDA-DOS-HERMANOS-Z5-L-V-V",
     "nombre_punto": "Tienda Dos Hermanos"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "SUPERMARKER-MAPOLITANO-Z5-L-V-V",
+    "nombre_punto": "supermarker Mapolitano"
   }
 ]
