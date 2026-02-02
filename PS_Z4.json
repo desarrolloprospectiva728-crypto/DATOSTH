@@ -7351,5 +7351,23 @@
     "subcircuito": "LA FLORIDA 1",
     "id": "UE.-FELIX-ALVARADO-BASURTO-Z4-M-R-L",
     "nombre_punto": "UE. FELIX ALVARADO BASURTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "FARMACIA-SAN-GREGORIO-Z4-M-C-C",
+    "nombre_punto": "FARMACIA SAN GREGORIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CRISTO VIVE",
+    "subcircuito": "CRISTO VIVE 2",
+    "id": "VÍVERES-D-MERY-Z4-S-S-C",
+    "nombre_punto": "Víveres D Mery"
   }
 ]
