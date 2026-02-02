@@ -13156,5 +13156,41 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "TIENDA-PACHECO-Z5-L-V-V",
     "nombre_punto": "Tienda Pacheco"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "CHILLANES",
+    "circuito": "CHILLANES",
+    "subcircuito": "CHILLANES 1",
+    "id": "BARRIO-CHORRO-DE-LA-VIRGEN-Z5-B-C-C",
+    "nombre_punto": "CHORRO DE LA VIRGEN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "BAZAR-MADELEN-Z5-L-V-V",
+    "nombre_punto": "Bazar Madelen"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "PANADERIA-SABOR-LOJANO-Z5-S-S-S",
+    "nombre_punto": "PANADERIA SABOR LOJANO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "TIENDA-DOS-HERMANOS-Z5-L-V-V",
+    "nombre_punto": "Tienda Dos Hermanos"
   }
 ]
