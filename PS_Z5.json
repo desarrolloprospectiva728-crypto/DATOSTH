@@ -12211,5 +12211,14 @@
     "subcircuito": "PLAYAS 1",
     "id": "GASOLINERA-PRIMAX-AV.-PAQUISHA-Z5-G-P-P",
     "nombre_punto": "Gasolinera primax Av. Paquisha"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "CÁRNICOS-LA-CASONA-Z5-L-Q-D",
+    "nombre_punto": "Cárnicos LA CASONA"
   }
 ]
