@@ -4660,5 +4660,14 @@
     "subcircuito": "SIMON BOLIVAR 1",
     "id": "BLANCA-GARCÍA-(GOE)-Z7-E-M-S",
     "nombre_punto": "Blanca García (GOE)"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "MACHALA",
+    "circuito": "ROCAFUERTE",
+    "subcircuito": "ROCAFUERTE 1",
+    "id": "MC-MARIBEL-CEDILLO-Z7-E-M-R",
+    "nombre_punto": "MC MARIBEL CEDILLO"
   }
 ]
