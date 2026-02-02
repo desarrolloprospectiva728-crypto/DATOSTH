@@ -4399,5 +4399,14 @@
     "subcircuito": "BUENA VISTA 2",
     "id": "MALECÓN-RÍO-BUENAVISTA-Z7-E-P-B",
     "nombre_punto": "MALECÓN RÍO BUENAVISTA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "UNION LOJANA",
+    "subcircuito": "UNION LOJANA 2",
+    "id": "COMERCIAL-TERESITA-Z7-E-H-U",
+    "nombre_punto": "Comercial Teresita"
   }
 ]
