@@ -12409,5 +12409,23 @@
     "subcircuito": "ISLA DE BEJUCAL 1",
     "id": "CENTRO-DE-SALUD-TIPO-A-LA-ISLA-DE-BEJUCAL-Z5-L-B-I",
     "nombre_punto": "CENTRO DE SALUD TIPO A LA ISLA DE BEJUCAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "CENTRO-DE-ACOPIO-DE-CACAO-Z5-L-B-L",
+    "nombre_punto": "CENTRO DE ACOPIO DE CACAO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "ZAPOTAL",
+    "subcircuito": "ZAPOTAL 1",
+    "id": "COMEDOR-DE-PATY-Z5-L-V-Z",
+    "nombre_punto": "Comedor de paty"
   }
 ]
