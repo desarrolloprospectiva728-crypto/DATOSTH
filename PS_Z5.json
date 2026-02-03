@@ -13966,5 +13966,32 @@
     "subcircuito": "GENERAL VILLAMIL 1",
     "id": "HOSPITAL-BASICO-PLAYAS-Z5-G-P-G",
     "nombre_punto": "HOSPITAL BASICO PLAYAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "COMERCIAL-DE-REPUESTOS-\"EDU\"-Z5-L-V-V",
+    "nombre_punto": "COMERCIAL DE REPUESTOS \"EDU\""
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 1",
+    "id": "LA-PREVIA-MARKET-Z5-G-P-G",
+    "nombre_punto": "LA PREVIA MARKET"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "JUJAN SIMON BOLIVAR",
+    "circuito": "SIMON BOLIVAR",
+    "subcircuito": "SIMON BOLIVAR 1",
+    "id": "COMERCIAL-SU-ECONOMIA-Z5-G-J-S",
+    "nombre_punto": "COMERCIAL SU ECONOMIA"
   }
 ]
