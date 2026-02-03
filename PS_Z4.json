@@ -7585,5 +7585,14 @@
     "subcircuito": "JIPIJAPA 1",
     "id": "UNIDAD-EDUCATIVA-CIUDAD-DE-JIPIJAPA-Z4-M-J-J",
     "nombre_punto": "UNIDAD EDUCATIVA CIUDAD DE JIPIJAPA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 2",
+    "id": "MULTIPLAZA-SUPERMAXI-Z4-M-P-P",
+    "nombre_punto": "Multiplaza supermaxi"
   }
 ]
