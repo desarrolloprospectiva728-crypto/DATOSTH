@@ -4732,5 +4732,14 @@
     "subcircuito": "SACHAS 1",
     "id": "IGLESIA-CATÓLICA-Z2-O-L-S",
     "nombre_punto": "IGLESIA CATÓLICA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "COMEDOR-ROCIO-Z2-N-E-S",
+    "nombre_punto": "COMEDOR ROCIO"
   }
 ]
