@@ -4372,5 +4372,14 @@
     "subcircuito": "COCA OCCIDENTE 1",
     "id": "UNIDAD-EDUCATIVA-ENRIQUE-CASTILLO-Z2-O-O-C",
     "nombre_punto": "Unidad educativa Enrique Castillo"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
+    "id": "SINDICATO-DE-CHOFERES-Z2-O-L-S",
+    "nombre_punto": "SINDICATO DE CHOFERES"
   }
 ]
