@@ -14056,5 +14056,41 @@
     "subcircuito": "SIMON BOLIVAR 1",
     "id": "TUTI-Z5-G-J-S",
     "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "DAULE CENTRO",
+    "subcircuito": "DAULE CENTRO 2",
+    "id": "GRAN-AKI-Z5-G-D-D",
+    "nombre_punto": "Gran Aki"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "BANCO-PICHINCHA-Z5-L-V-V",
+    "nombre_punto": "BANCO PICHINCHA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 1",
+    "id": "PLAZA-GASTRONOMICA-Z5-G-P-G",
+    "nombre_punto": "PLAZA GASTRONOMICA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 2",
+    "id": "TUTI-Z5-S-L-L",
+    "nombre_punto": "TUTI"
   }
 ]
