@@ -7630,5 +7630,41 @@
     "subcircuito": "NUEVO PORTOVIEJO 1",
     "id": "PARADA-DE-BUSES-4-ESQUINAS-Z4-M-P-N",
     "nombre_punto": "Parada de buses 4 esquinas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "HUEVERIA-DON-GRANDE-Z4-M-P-P",
+    "nombre_punto": "Hueveria don grande"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "SAN PABLO",
+    "subcircuito": "SAN PABLO 2",
+    "id": "IGLESIA-SAN-PABLO-2-Z4-M-P-S",
+    "nombre_punto": "IGLESIA SAN PABLO 2"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "2026-05-03T05:00:00.000Z",
+    "subcircuito": "2001-05-03T05:00:00.000Z",
+    "id": "TODO-A-5-Z4-M-J-3",
+    "nombre_punto": "TODO A 5"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PICOAZA",
+    "subcircuito": "PICOAZA 1",
+    "id": "PARQUE-CENTRAL-PICOAZA-Z4-M-P-P",
+    "nombre_punto": "Parque central Picoaza"
   }
 ]
