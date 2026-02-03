@@ -7567,5 +7567,14 @@
     "subcircuito": "SANCAN 1",
     "id": "COMERCIAL-PONCE-Z4-M-J-S",
     "nombre_punto": "COMERCIAL PONCE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 1",
+    "id": "HOSPITAL-BASICO-JIPIJPA-Z4-M-J-J",
+    "nombre_punto": "HOSPITAL BASICO JIPIJPA"
   }
 ]
