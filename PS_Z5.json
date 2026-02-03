@@ -14425,5 +14425,23 @@
     "subcircuito": "PUERTO INCA 1",
     "id": "FERRETERIA-PUERTO-INCA-Z5-G-N-P",
     "nombre_punto": "Ferreteria Puerto Inca"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BARREIRO",
+    "subcircuito": "BARREIRO 1",
+    "id": "FABRICELL-Z5-L-B-B",
+    "nombre_punto": "FABRICELL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "PUERTO INCA",
+    "subcircuito": "PUERTO INCA 1",
+    "id": "RESTAURANTE-PUERTO-INCA-Z5-G-N-P",
+    "nombre_punto": "Restaurante Puerto Inca"
   }
 ]
