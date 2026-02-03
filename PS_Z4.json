@@ -7594,5 +7594,41 @@
     "subcircuito": "PORTOVIEJO 2",
     "id": "MULTIPLAZA-SUPERMAXI-Z4-M-P-P",
     "nombre_punto": "Multiplaza supermaxi"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "TIA-Z4-M-C-C",
+    "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "SAN PABLO",
+    "subcircuito": "SAN PABLO 2",
+    "id": "GASOLINERA-PRIMAX-Z4-M-P-S",
+    "nombre_punto": "GASOLINERA PRIMAX"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "BAN-ECUADOR-Z4-M-C-C",
+    "nombre_punto": "BAN ECUADOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "NUEVO PORTOVIEJO",
+    "subcircuito": "NUEVO PORTOVIEJO 1",
+    "id": "PARADA-DE-BUSES-4-ESQUINAS-Z4-M-P-N",
+    "nombre_punto": "Parada de buses 4 esquinas"
   }
 ]
