@@ -14722,5 +14722,14 @@
     "subcircuito": "GUAYACAN 1",
     "id": "VIVERES-PIO-PIO-Z5-L-Q-G",
     "nombre_punto": "VIVERES PIO PIO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "PORVENIR",
+    "subcircuito": "PORVENIR 1",
+    "id": "ESCUELA-SIXTO-LIBORIO-MACIAS-Z5-G-D-P",
+    "nombre_punto": "ESCUELA SIXTO LIBORIO MACIAS"
   }
 ]
