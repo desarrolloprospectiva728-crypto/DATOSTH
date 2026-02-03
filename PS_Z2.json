@@ -4678,5 +4678,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 2",
     "id": "NOTARIA-1-Z2-N-E-S",
     "nombre_punto": "NOTARIA 1"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "TERCENA-RINO-Z2-N-E-S",
+    "nombre_punto": "TERCENA RINO"
   }
 ]
