@@ -4624,5 +4624,32 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 1",
     "id": "PANADERÍA-Y-PASTELERÍA-D'PANES-Z2-N-E-S",
     "nombre_punto": "PANADERÍA Y PASTELERÍA D'PANES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "PANADERÍA-Y-PASTELERÍA-S'MIGAS-Y-MIEL-Z2-N-E-S",
+    "nombre_punto": "PANADERÍA Y PASTELERÍA S'MIGAS Y MIEL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 3",
+    "id": "UNIDAD-EDUCATIVA-CIUDAD-DEL-COCA-Z2-O-O-C",
+    "nombre_punto": "UNIDAD EDUCATIVA CIUDAD DEL COCA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "FARMACIAS-ALTA-VIDA-Z2-N-E-S",
+    "nombre_punto": "FARMACIAS ALTA VIDA"
   }
 ]
