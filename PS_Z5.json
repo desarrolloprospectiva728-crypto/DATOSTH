@@ -13525,5 +13525,77 @@
     "subcircuito": "LA ERCILIA 1",
     "id": "FERRETERIA-VIRGEN-DEL-CISNE-Z5-L-V-L",
     "nombre_punto": "FERRETERIA VIRGEN DEL CISNE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "UNIDAD-EFUCATIVA-MANUEL-CORDOVA-GALARZA-Z5-L-V-V",
+    "nombre_punto": "Unidad Efucativa Manuel Cordova Galarza"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "LA ERCILIA",
+    "subcircuito": "LA ERCILIA 1",
+    "id": "LIBRERIA-PAOLA-Z5-L-V-L",
+    "nombre_punto": "LIBRERIA PAOLA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "FERRETERÍA-HC-Z5-L-V-V",
+    "nombre_punto": "FERRETERÍA HC"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "LA ERCILIA",
+    "subcircuito": "LA ERCILIA 1",
+    "id": "FERREPUESTO-JONATHAN-Z5-L-V-L",
+    "nombre_punto": "FERREPUESTO JONATHAN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "CENTRO-DE-SALID-10-DE-NOVIEMBRE-Z5-L-V-V",
+    "nombre_punto": "Centro de salid 10 de Noviembre"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 1",
+    "id": "PUNTO-CANGREJO-Z5-S-L-L",
+    "nombre_punto": "PUNTO CANGREJO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "AGROSERVICIO-CARLITOS-INGRESO-AGUAS-FRÍAS-ANTES-DEL-MURO-Z5-L-V-V",
+    "nombre_punto": "Agroservicio Carlitos ingreso aguas frías antes del muro"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "SERVICIO-LOZADA-Z5-L-V-V",
+    "nombre_punto": "SERVICIO LOZADA"
   }
 ]
