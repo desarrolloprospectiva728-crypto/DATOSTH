@@ -14335,5 +14335,32 @@
     "subcircuito": "LIMONAL 1",
     "id": "CASA-AGRICOLA-SECTOR-LAUREL,-CENTROS-DE-TOLERANCIA-Z5-G-D-L",
     "nombre_punto": "CASA AGRICOLA SECTOR LAUREL, CENTROS DE TOLERANCIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "LIMONAL",
+    "subcircuito": "LIMONAL 1",
+    "id": "MERCADO-MUNICIPAL-EL-LAUREL-Z5-G-D-L",
+    "nombre_punto": "MERCADO MUNICIPAL EL LAUREL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "ZAPOTAL NUEVO",
+    "subcircuito": "ZAPOTAL NUEVO 1",
+    "id": "LIBRERÍA-STEFANY-Z5-L-V-Z",
+    "nombre_punto": "Librería Stefany"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "JUAN BAUTISTA AGUIRRE",
+    "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
+    "id": "PLAZA-GALERIAS-VIAL-1-Z5-G-D-J",
+    "nombre_punto": "PLAZA GALERIAS VIAL 1"
   }
 ]
