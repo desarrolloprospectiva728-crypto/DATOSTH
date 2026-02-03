@@ -8008,5 +8008,14 @@
     "subcircuito": "PORTOVIEJO 3",
     "id": "AMBURGUESAS-DE-DON.-LUCHO-Z4-M-P-P",
     "nombre_punto": "Amburguesas de Don. Lucho"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO CAYO",
+    "subcircuito": "PUERTO CAYO 1",
+    "id": "LABORATORIO-DE-LARVAS-Z4-M-J-P",
+    "nombre_punto": "Laboratorio de larvas"
   }
 ]
