@@ -7855,5 +7855,23 @@
     "subcircuito": "LOS CEREZOS 1",
     "id": "KFC-Z4-M-P-L",
     "nombre_punto": "KFC"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 4",
+    "id": "BIBLIOTECA-MUNICIPAL-FLORON-4-Z4-M-P-E",
+    "nombre_punto": "Biblioteca Municipal Floron 4"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "LOS CEREZOS",
+    "subcircuito": "LOS CEREZOS 1",
+    "id": "JHOCAR-S.A-Z4-M-P-L",
+    "nombre_punto": "Jhocar S.A"
   }
 ]
