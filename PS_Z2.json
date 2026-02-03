@@ -4480,5 +4480,14 @@
     "subcircuito": "NUEVO ROCAFUERTE 1",
     "id": "ORQUIDEAS-DEL-YASUNI-Z2-O-A-N",
     "nombre_punto": "ORQUIDEAS DEL YASUNI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
+    "id": "UNIDAD-EDUCATIVA-AGOYAN-Z2-O-L-S",
+    "nombre_punto": "UNIDAD EDUCATIVA AGOYAN"
   }
 ]
