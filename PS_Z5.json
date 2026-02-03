@@ -14551,5 +14551,23 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "FARMACIA-SUMEDICAL-Z5-L-B-T",
     "nombre_punto": "FARMACIA SUMEDICAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "HOSTAL-EMPERADOR-Z5-G-P-P",
+    "nombre_punto": "HOSTAL EMPERADOR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "FERRETERÍA-FERRECOM-Z5-L-B-T",
+    "nombre_punto": "FERRETERÍA FERRECOM"
   }
 ]
