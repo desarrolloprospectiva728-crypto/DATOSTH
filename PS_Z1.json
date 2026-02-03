@@ -4714,5 +4714,14 @@
     "subcircuito": "LA PRIMAVERA 1",
     "id": "CASA-COMUNAL-BARRIO-EL-REFUGIO-Z1-S-S-L",
     "nombre_punto": "Casa Comunal Barrio el Refugio"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "SHUSHUFINDI",
+    "circuito": "LA PRIMAVERA",
+    "subcircuito": "LA PRIMAVERA 1",
+    "id": "CASA-COMUNAL-BARRIO-NUEVO-SHUSHUFINDI-Z1-S-S-L",
+    "nombre_punto": "Casa Comunal Barrio Nuevo Shushufindi"
   }
 ]
