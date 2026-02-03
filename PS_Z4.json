@@ -7999,5 +7999,23 @@
     "subcircuito": "PEDERNALES SUR 1",
     "id": "CANCHA-MÚLTIPLE-COAQUE-Z4-M-P-P",
     "nombre_punto": "CANCHA MÚLTIPLE COAQUE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO LOPEZ",
+    "subcircuito": "PUERTO LOPEZ 1",
+    "id": "GRAN-HOTEL-EL-MUELLE-Z4-M-J-P",
+    "nombre_punto": "GRAN HOTEL EL MUELLE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO LOPEZ",
+    "subcircuito": "PUERTO LOPEZ 1",
+    "id": "CONSEJO-DE-LA-JUDICATURA-Z4-M-J-P",
+    "nombre_punto": "CONSEJO DE LA JUDICATURA"
   }
 ]
