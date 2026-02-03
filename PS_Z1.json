@@ -4678,5 +4678,23 @@
     "subcircuito": "CUBE 1",
     "id": "TIANDA-DANIELITA-Z1-E-Q-C",
     "nombre_punto": "TIANDA DANIELITA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUBE",
+    "subcircuito": "CUBE 1",
+    "id": "CYBER-ESTIVEN-Z1-E-Q-C",
+    "nombre_punto": "CYBER ESTIVEN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUBE",
+    "subcircuito": "CUBE 1",
+    "id": "CYBER-ESTIVEN-Z1-E-Q-C",
+    "nombre_punto": "CYBER ESTIVEN"
   }
 ]
