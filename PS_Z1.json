@@ -4741,5 +4741,14 @@
     "subcircuito": "CODESA 1",
     "id": "PINTURA-DON-COLOR-Z1-E-E-C",
     "nombre_punto": "Pintura don color"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CODESA",
+    "subcircuito": "CODESA 1",
+    "id": "CHIFA-CODESA-Z1-E-E-C",
+    "nombre_punto": "Chifa Codesa"
   }
 ]
