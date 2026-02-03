@@ -14533,5 +14533,23 @@
     "subcircuito": "GENERAL VILLAMIL 1",
     "id": "AGENCIA-COCA-COLA-Z5-G-P-G",
     "nombre_punto": "AGENCIA COCA COLA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "JUAN BAUTISTA AGUIRRE",
+    "subcircuito": "JUAN BAUTISTA AGUIRRE 1",
+    "id": "ESTUDIO-DE-BELLEZA-Y-BARBERÍA-Z5-G-D-J",
+    "nombre_punto": "Estudio de Belleza y Barbería"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "FARMACIA-SUMEDICAL-Z5-L-B-T",
+    "nombre_punto": "FARMACIA SUMEDICAL"
   }
 ]
