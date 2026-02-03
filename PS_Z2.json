@@ -4606,5 +4606,23 @@
     "subcircuito": "COCA OCCIDENTE 4",
     "id": "UNIDAD-EDUCATIVA-NARCISA-DE-JESUS-Z2-O-O-C",
     "nombre_punto": "UNIDAD EDUCATIVA NARCISA DE JESUS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "MULTISERVICIO-ANTHONY-Z2-N-E-S",
+    "nombre_punto": "MULTISERVICIO ANTHONY"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "PANADERÍA-Y-PASTELERÍA-D'PANES-Z2-N-E-S",
+    "nombre_punto": "PANADERÍA Y PASTELERÍA D'PANES"
   }
 ]
