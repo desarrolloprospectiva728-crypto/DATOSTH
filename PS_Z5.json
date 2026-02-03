@@ -14362,5 +14362,14 @@
     "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
     "id": "PLAZA-GALERIAS-VIAL-1-Z5-G-D-J",
     "nombre_punto": "PLAZA GALERIAS VIAL 1"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "CABUYAL",
+    "subcircuito": "CABUYAL 1",
+    "id": "UNIDAD-EDUCATIVA-CABUYAL-Z5-G-D-C",
+    "nombre_punto": "UNIDAD EDUCATIVA CABUYAL"
   }
 ]
