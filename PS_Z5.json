@@ -14407,5 +14407,23 @@
     "subcircuito": "PUERTO INCA 1",
     "id": "BAZAR-Y-FERRETERÍA-MECHITA-Z5-G-N-P",
     "nombre_punto": "Bazar y ferretería Mechita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BARREIRO",
+    "subcircuito": "BARREIRO 1",
+    "id": "SERVIENTREGA-Z5-L-B-B",
+    "nombre_punto": "Servientrega"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "PUERTO INCA",
+    "subcircuito": "PUERTO INCA 1",
+    "id": "FERRETERIA-PUERTO-INCA-Z5-G-N-P",
+    "nombre_punto": "Ferreteria Puerto Inca"
   }
 ]
