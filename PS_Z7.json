@@ -4678,5 +4678,14 @@
     "subcircuito": "URDANETA 1",
     "id": "TIENDA-MINIMARKET-REINA-DEL-CISNE-Z7-L-S-U",
     "nombre_punto": "TIENDA MINIMARKET REINA DEL CISNE"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "MACARA",
+    "circuito": "MACARA",
+    "subcircuito": "MACARA 2",
+    "id": "CANCHA-SANTA-MARIANITA-Z7-L-M-M",
+    "nombre_punto": "Cancha Santa Marianita"
   }
 ]
