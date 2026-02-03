@@ -13489,5 +13489,23 @@
     "subcircuito": "LA ERCILIA 1",
     "id": "TIENDA-DON-CHITO-Z5-L-V-L",
     "nombre_punto": "TIENDA DON CHITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "LA ERCILIA",
+    "subcircuito": "LA ERCILIA 1",
+    "id": "PAPELERÍA-Y-BAZAR-MELEK-Z5-L-V-L",
+    "nombre_punto": "Papelería y Bazar Melek"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "LA ERCILIA",
+    "subcircuito": "LA ERCILIA 1",
+    "id": "FARMACIA-LA-ERCILIA-Z5-L-V-L",
+    "nombre_punto": "FARMACIA LA ERCILIA"
   }
 ]
