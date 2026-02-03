@@ -14560,5 +14560,14 @@
     "subcircuito": "PLAYAS 1",
     "id": "CLINICA-SAN-GREGORIO-Z5-G-P-P",
     "nombre_punto": "CLINICA SAN GREGORIO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "BARBERÍA-SIMPATILLA-Z5-L-B-T",
+    "nombre_punto": "BARBERÍA SIMPATILLA"
   }
 ]
