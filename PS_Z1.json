@@ -4723,5 +4723,14 @@
     "subcircuito": "LA PRIMAVERA 1",
     "id": "CASA-COMUNAL-BARRIO-NUEVO-SHUSHUFINDI-Z1-S-S-L",
     "nombre_punto": "Casa Comunal Barrio Nuevo Shushufindi"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CODESA",
+    "subcircuito": "CODESA 1",
+    "id": "ITALPIZO-EL-BODEGON-Z1-E-E-C",
+    "nombre_punto": "Italpizo el bodegon"
   }
 ]
