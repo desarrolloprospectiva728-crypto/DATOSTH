@@ -4588,5 +4588,14 @@
     "subcircuito": "SACHAS 2",
     "id": "TERMINAL-JOYA-DE-LOS-SACHAS-Z2-O-L-S",
     "nombre_punto": "TERMINAL JOYA DE LOS SACHAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 4",
+    "id": "ESCUELA-ADA-LUCÍA-CORTEZ-Z2-O-O-C",
+    "nombre_punto": "Escuela Ada Lucía Cortez"
   }
 ]
