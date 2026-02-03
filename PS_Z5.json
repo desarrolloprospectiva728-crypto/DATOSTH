@@ -13444,5 +13444,14 @@
     "subcircuito": "SANTA ELENA CENTRO 1",
     "id": "COFFEE-MAR-Z5-S-S-S",
     "nombre_punto": "COFFEE MAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 3",
+    "id": "DESPENSA-LA-CARRETA-Z5-S-L-S",
+    "nombre_punto": "DESPENSA LA CARRETA"
   }
 ]
