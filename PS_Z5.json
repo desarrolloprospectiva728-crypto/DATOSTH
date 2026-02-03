@@ -14227,5 +14227,32 @@
     "subcircuito": "PLAYAS 1",
     "id": "FARMACIA-LUISA-Z5-G-P-P",
     "nombre_punto": "FARMACIA LUISA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SABANA",
+    "subcircuito": "SABANA 1",
+    "id": "MARKET-JOTEO-Z5-L-B-S",
+    "nombre_punto": "MARKET JOTEO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "JUAN BAUTISTA AGUIRRE",
+    "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
+    "id": "DISENSA-AV-LEON-FEBRES-CORDERO-JUNTO-AL-CENTRO-MEDICO-NUEVA-AURORA-Z5-G-D-J",
+    "nombre_punto": "DISENSA AV LEON FEBRES CORDERO  JUNTO AL CENTRO MEDICO NUEVA AURORA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "LA T",
+    "subcircuito": "LA T 1",
+    "id": "DISENSA-LA-T-Z5-G-D-L",
+    "nombre_punto": "DISENSA LA T"
   }
 ]
