@@ -4363,5 +4363,14 @@
     "subcircuito": "COCA ORIENTE 1",
     "id": "COMISARIATO-FAMILIAR-Z2-O-O-C",
     "nombre_punto": "Comisariato Familiar"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 1",
+    "id": "UNIDAD-EDUCATIVA-ENRIQUE-CASTILLO-Z2-O-O-C",
+    "nombre_punto": "Unidad educativa Enrique Castillo"
   }
 ]
