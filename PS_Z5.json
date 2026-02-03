@@ -14092,5 +14092,41 @@
     "subcircuito": "LIBERTAD CENTRO 2",
     "id": "TUTI-Z5-S-L-L",
     "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 2",
+    "id": "CALZADO-UDELZA-Z5-S-L-L",
+    "nombre_punto": "CALZADO UDELZA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "DAULE CENTRO",
+    "subcircuito": "DAULE CENTRO 2",
+    "id": "DISENSA-Z5-G-D-D",
+    "nombre_punto": "Disensa"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "NOBOL",
+    "subcircuito": "NOBOL 2",
+    "id": "SUBCENTRO-DE-SALUD-NOBOL-TIPO-B-Z5-G-D-N",
+    "nombre_punto": "SUBCENTRO DE SALUD NOBOL TIPO B"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "COOPERATIVA-POSORJA-Z5-G-P-P",
+    "nombre_punto": "COOPERATIVA POSORJA"
   }
 ]
