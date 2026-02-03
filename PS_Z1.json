@@ -4624,5 +4624,14 @@
     "subcircuito": "LA TOLITA 2",
     "id": "FALMACIA-SAN-GREGORIO-13-Z1-E-E-L",
     "nombre_punto": "FALMACIA SAN GREGORIO 13"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LA TOLITA",
+    "subcircuito": "LA TOLITA 2",
+    "id": "PANADERÍA-SUPREMA-Z1-E-E-L",
+    "nombre_punto": "PANADERÍA SUPREMA"
   }
 ]
