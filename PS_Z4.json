@@ -7720,5 +7720,32 @@
     "subcircuito": "SAN PABLO 2",
     "id": "PEDRO-GUAL-Y-CORONEL-SABANDO-MULTICOMERCIO-RENACER-Z4-M-P-S",
     "nombre_punto": "PEDRO GUAL Y CORONEL SABANDO MULTICOMERCIO RENACER"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "MEJIA",
+    "subcircuito": "MEJIA 1",
+    "id": "COMUNA-MEJÍA-Z4-M-P-M",
+    "nombre_punto": "Comuna Mejía"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "CLÍNICA-STA-MARGARITA-Z4-M-P-P",
+    "nombre_punto": "Clínica Sta margarita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "MEJIA",
+    "subcircuito": "MEJIA 1",
+    "id": "COMUNA-MEJÍA-Z4-M-P-M",
+    "nombre_punto": "Comuna Mejía"
   }
 ]
