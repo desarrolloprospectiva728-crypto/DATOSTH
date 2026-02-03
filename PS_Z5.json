@@ -14668,5 +14668,23 @@
     "subcircuito": "ENGABAO 1",
     "id": "EL-FARO-PUERTO-ENGABO-Z5-G-P-E",
     "nombre_punto": "EL FARO PUERTO ENGABO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME CENTRO",
+    "subcircuito": "EMPALME CENTRO 1",
+    "id": "VIA-A-LA-GUAYAS,-PARADA-DEL-TRANSPORTE-PERIPA,-FARMACIAS-CRUZ-AZUL-Z5-G-E-E",
+    "nombre_punto": "Via a la Guayas, Parada Del Transporte Peripa, Farmacias Cruz azul"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "SANTA LUCIA",
+    "subcircuito": "SANTA LUCIA 1",
+    "id": "AGRIPAC-SANTA-LUCIA-Z5-G-D-S",
+    "nombre_punto": "AGRIPAC SANTA LUCIA"
   }
 ]
