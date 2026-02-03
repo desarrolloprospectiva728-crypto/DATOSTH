@@ -4669,5 +4669,14 @@
     "subcircuito": "LA TOLITA 2",
     "id": "CATAMARAN-Z1-E-E-L",
     "nombre_punto": "CATAMARAN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUBE",
+    "subcircuito": "CUBE 1",
+    "id": "TIANDA-DANIELITA-Z1-E-Q-C",
+    "nombre_punto": "TIANDA DANIELITA"
   }
 ]
