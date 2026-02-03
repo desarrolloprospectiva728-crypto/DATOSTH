@@ -7549,5 +7549,14 @@
     "subcircuito": "PEDERNALES SUR 1",
     "id": "HOTEL-PALMAR-DEL-RIO-Z4-M-P-P",
     "nombre_punto": "HOTEL PALMAR DEL RIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 1",
+    "id": "GASOLINERA-TERPEL-Z4-M-J-J",
+    "nombre_punto": "GASOLINERA TERPEL"
   }
 ]
