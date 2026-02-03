@@ -4750,5 +4750,14 @@
     "subcircuito": "CODESA 1",
     "id": "CHIFA-CODESA-Z1-E-E-C",
     "nombre_punto": "Chifa Codesa"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CODESA",
+    "subcircuito": "CODESA 1",
+    "id": "EXPERT-AUTOS-CENTRO-AUTOMOTRIZ-Z1-E-E-C",
+    "nombre_punto": "Expert Autos centro Automotriz"
   }
 ]
