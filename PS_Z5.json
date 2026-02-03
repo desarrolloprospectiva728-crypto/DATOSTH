@@ -14128,5 +14128,14 @@
     "subcircuito": "PLAYAS 1",
     "id": "COOPERATIVA-POSORJA-Z5-G-P-P",
     "nombre_punto": "COOPERATIVA POSORJA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "UNIDAD-JUDICIAL-CIVIL-Z5-G-P-P",
+    "nombre_punto": "UNIDAD JUDICIAL CIVIL"
   }
 ]
