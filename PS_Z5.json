@@ -14569,5 +14569,32 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "BARBERÍA-SIMPATILLA-Z5-L-B-T",
     "nombre_punto": "BARBERÍA SIMPATILLA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 1",
+    "id": "EL-EXITO-Z5-G-P-G",
+    "nombre_punto": "EL EXITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "MOCACHE",
+    "subcircuito": "MOCACHE 2",
+    "id": "JUNTA-CANTONAL-DE-PROTECCIÓN-DE-DERECHOS-DE-MOCACHE-Z5-L-Q-M",
+    "nombre_punto": "Junta Cantonal de protección de Derechos de Mocache"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "SANTA LUCIA",
+    "subcircuito": "SANTA LUCIA 1",
+    "id": "CENTRO-DE-SALUD-SANTA-LUCIA-Z5-G-D-S",
+    "nombre_punto": "CENTRO DE SALUD SANTA LUCIA"
   }
 ]
