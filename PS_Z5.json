@@ -13453,5 +13453,14 @@
     "subcircuito": "SANTA ROSA 3",
     "id": "DESPENSA-LA-CARRETA-Z5-S-L-S",
     "nombre_punto": "DESPENSA LA CARRETA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 1",
+    "id": "RED-WINGS-Z5-S-S-S",
+    "nombre_punto": "RED WINGS"
   }
 ]
