@@ -3499,5 +3499,23 @@
     "subcircuito": "GUALACEO 1",
     "id": "COMERCIAL-LLIVICURA-Z6-A-G-G",
     "nombre_punto": "COMERCIAL LLIVICURA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "SUCUA",
+    "subcircuito": "SUCUA 1",
+    "id": "PLAZA-CÍVICA-Z6-M-C-S",
+    "nombre_punto": "PLAZA CÍVICA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "SUCUA",
+    "subcircuito": "SUCUA 1",
+    "id": "GASOLINERA-SINDICATO-DE-CHOFERES-Z6-M-C-S",
+    "nombre_punto": "GASOLINERA SINDICATO DE CHOFERES"
   }
 ]
