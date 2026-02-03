@@ -4669,5 +4669,14 @@
     "subcircuito": "ROCAFUERTE 1",
     "id": "MC-MARIBEL-CEDILLO-Z7-E-M-R",
     "nombre_punto": "MC MARIBEL CEDILLO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "SARAGURO",
+    "circuito": "URDANETA",
+    "subcircuito": "URDANETA 1",
+    "id": "TIENDA-MINIMARKET-REINA-DEL-CISNE-Z7-L-S-U",
+    "nombre_punto": "TIENDA MINIMARKET REINA DEL CISNE"
   }
 ]
