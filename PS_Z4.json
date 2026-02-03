@@ -7540,5 +7540,14 @@
     "subcircuito": "PEDERNALES SUR 1",
     "id": "TIENDA-VERITO-Z4-M-P-P",
     "nombre_punto": "TIENDA VERITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "HOTEL-PALMAR-DEL-RIO-Z4-M-P-P",
+    "nombre_punto": "HOTEL PALMAR DEL RIO"
   }
 ]
