@@ -13435,5 +13435,14 @@
     "subcircuito": "SANTA ROSA 3",
     "id": "TIENDA-LA-FLORESTA-Z5-S-L-S",
     "nombre_punto": "TIENDA LA FLORESTA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 1",
+    "id": "COFFEE-MAR-Z5-S-S-S",
+    "nombre_punto": "COFFEE MAR"
   }
 ]
