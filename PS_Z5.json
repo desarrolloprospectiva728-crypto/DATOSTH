@@ -14452,5 +14452,23 @@
     "subcircuito": "PUERTO INCA 1",
     "id": "LA-PERUANA-DE-HUANUCO-Z5-G-N-P",
     "nombre_punto": "La  Peruana de Huanuco"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "JUAN BAUTISTA AGUIRRE",
+    "subcircuito": "JUAN BAUTISTA AGUIRRE 1",
+    "id": "CENTRO-CIVIL-Z5-G-D-J",
+    "nombre_punto": "Centro Civil"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 1",
+    "id": "HOTEL-CASTILLO-DE-ARENA-Z5-G-P-G",
+    "nombre_punto": "HOTEL CASTILLO DE ARENA"
   }
 ]
