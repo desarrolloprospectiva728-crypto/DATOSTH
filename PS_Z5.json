@@ -14686,5 +14686,41 @@
     "subcircuito": "SANTA LUCIA 1",
     "id": "AGRIPAC-SANTA-LUCIA-Z5-G-D-S",
     "nombre_punto": "AGRIPAC SANTA LUCIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "BODEGUITA-DE-ARROZ-CEDEÑO-7-DE-OCTUBRE-1-Z5-L-Q-S",
+    "nombre_punto": "BODEGUITA DE ARROZ CEDEÑO 7 DE OCTUBRE 1"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "CABUYAL",
+    "subcircuito": "CABUYAL 1",
+    "id": "UNIDAD-EDUCATIVA-ENRIQUE-LOPEZ-LASCANO-Z5-G-D-C",
+    "nombre_punto": "UNIDAD EDUCATIVA ENRIQUE LOPEZ LASCANO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME CENTRO",
+    "subcircuito": "EMPALME CENTRO 1",
+    "id": "VIA-A-MANABÍ,-ALMACENES-AKI-Z5-G-E-E",
+    "nombre_punto": "Via a Manabí, Almacenes AKI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GUAYACAN",
+    "subcircuito": "GUAYACAN 1",
+    "id": "VIVERES-PIO-PIO-Z5-L-Q-G",
+    "nombre_punto": "VIVERES PIO PIO"
   }
 ]
