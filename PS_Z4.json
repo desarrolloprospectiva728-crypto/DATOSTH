@@ -7747,5 +7747,32 @@
     "subcircuito": "MEJIA 1",
     "id": "COMUNA-MEJÍA-Z4-M-P-M",
     "nombre_punto": "Comuna Mejía"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "CHONE",
+    "circuito": "SANTA RITA",
+    "subcircuito": "SANTA RITA 1",
+    "id": "MINI-TIENDA-EL-ÍDOLO-Z4-M-C-S",
+    "nombre_punto": "CIUDADELA LOS SAUCES LOS RAIDISTAS MINI TIENDA EL ÍDOLO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "NUEVO PORTOVIEJO",
+    "subcircuito": "NUEVO PORTOVIEJO 1",
+    "id": "FARMACIA-ESPECIALIZADA-Z4-M-P-N",
+    "nombre_punto": "FARMACIA ESPECIALIZADA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 2",
+    "id": "MINIMARKET-KATHERIN-Z4-M-P-E",
+    "nombre_punto": "MiniMarket katherin"
   }
 ]
