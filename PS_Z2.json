@@ -4660,5 +4660,14 @@
     "subcircuito": "COCA ORIENTE 3",
     "id": "COMERCIAL-MEGA-DESPENSA-Z2-O-O-C",
     "nombre_punto": "Comercial Mega Despensa"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "CENTRO-DE-SALUD-BORJA-TIPO-A-Z2-N-E-S",
+    "nombre_punto": "CENTRO DE SALUD BORJA TIPO A"
   }
 ]
