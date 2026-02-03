@@ -3481,5 +3481,14 @@
     "subcircuito": "MACAS 1",
     "id": "TRES-ESQUINAS-Z6-M-M-M",
     "nombre_punto": "TRES ESQUINAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "CHORDELEG",
+    "subcircuito": "CHORDELEG 1",
+    "id": "FERRETERÍA-FEVIAR-Z6-A-G-C",
+    "nombre_punto": "FERRETERÍA FEVIAR"
   }
 ]
