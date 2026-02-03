@@ -13996,15 +13996,6 @@
   },
   {
     "zona": "ZONA 5",
-    "subzona": "GUAYAS",
-    "distrito": "DAULE",
-    "circuito": "DAULE CENTRO",
-    "subcircuito": "DAULE CENTRO 2",
-    "id": "EL-BUEN-CORTE-Z5-G-D-D",
-    "nombre_punto": "El Buen Corte"
-  },
-  {
-    "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "VENTANAS",
     "circuito": "VENTANAS SUR",
@@ -14510,15 +14501,6 @@
   {
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
-    "distrito": "BALZAR",
-    "circuito": "SAN JACINTO",
-    "subcircuito": "SAN JACINTO 1",
-    "id": "MALECON-SAN-JACINTO-Z5-G-B-S",
-    "nombre_punto": "MALECON SAN JACINTO"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "GUAYAS",
     "distrito": "DAULE",
     "circuito": "JUAN BAUTISTA AGUIRRE",
     "subcircuito": "JUAN BAUTISTA AGUIRRE 1",
@@ -14569,5 +14551,14 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "FERRETERÍA-FERRECOM-Z5-L-B-T",
     "nombre_punto": "FERRETERÍA FERRECOM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "CLINICA-SAN-GREGORIO-Z5-G-P-P",
+    "nombre_punto": "CLINICA SAN GREGORIO"
   }
 ]
