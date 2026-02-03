@@ -3544,5 +3544,14 @@
     "subcircuito": "SUCUA 1",
     "id": "PARQUE-LINEAL-Z6-M-C-S",
     "nombre_punto": "PARQUE LINEAL"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "SUCUA",
+    "subcircuito": "SUCUA 1",
+    "id": "FEDERACIÓN-INTERPROVINCIAL-DE-CENTRO-SHUAR-FICSH-Z6-M-C-S",
+    "nombre_punto": "FEDERACIÓN INTERPROVINCIAL DE CENTRO SHUAR FICSH"
   }
 ]
