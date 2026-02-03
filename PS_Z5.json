@@ -14398,5 +14398,14 @@
     "subcircuito": "PUERTO INCA 1",
     "id": "DISENSA-MARIA-DEL-CISNE-Z5-G-N-P",
     "nombre_punto": "Disensa Maria del Cisne"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "PUERTO INCA",
+    "subcircuito": "PUERTO INCA 1",
+    "id": "BAZAR-Y-FERRETERÍA-MECHITA-Z5-G-N-P",
+    "nombre_punto": "Bazar y ferretería Mechita"
   }
 ]
