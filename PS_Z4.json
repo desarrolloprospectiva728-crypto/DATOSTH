@@ -7873,5 +7873,14 @@
     "subcircuito": "LOS CEREZOS 1",
     "id": "JHOCAR-S.A-Z4-M-P-L",
     "nombre_punto": "Jhocar S.A"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 3",
+    "id": "SECTOR-DE-LEA.-ESQUINA.-Z4-M-P-E",
+    "nombre_punto": "Sector de Lea. Esquina."
   }
 ]
