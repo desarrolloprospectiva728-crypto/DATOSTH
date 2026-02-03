@@ -4399,5 +4399,41 @@
     "subcircuito": "NUEVO ROCAFUERTE 1",
     "id": "SAZÓN-EL-PAISA-Z2-O-A-N",
     "nombre_punto": "SAZÓN EL PAISA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
+    "id": "CENTRO-DE-SALUD-TIPO-C-JOYA-DE-LOS-SACHAS-Z2-O-L-S",
+    "nombre_punto": "CENTRO DE SALUD TIPO C JOYA DE LOS SACHAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "COMERCIAL-LA-BAHÍA-Z2-O-A-N",
+    "nombre_punto": "COMERCIAL LA BAHÍA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "COMERCIAL-LA-BAHÍA-Z2-O-A-N",
+    "nombre_punto": "COMERCIAL LA BAHÍA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
+    "id": "UNIDAD-EDUCATIVA-20-DE-SEPTIEMBRE-Z2-O-L-S",
+    "nombre_punto": "UNIDAD EDUCATIVA 20 DE SEPTIEMBRE"
   }
 ]
