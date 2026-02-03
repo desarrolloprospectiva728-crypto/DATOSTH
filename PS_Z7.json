@@ -4696,5 +4696,14 @@
     "subcircuito": "AMALUZA 1",
     "id": "COOPERATIVA-PADRE-JULIAN-LORENTE-Z7-L-E-A",
     "nombre_punto": "COOPERATIVA PADRE JULIAN LORENTE"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "AMALUZA",
+    "subcircuito": "AMALUZA 1",
+    "id": "CAJERO-COOPMEGO-Z7-L-E-A",
+    "nombre_punto": "CAJERO COOPMEGO"
   }
 ]
