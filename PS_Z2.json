@@ -4381,5 +4381,23 @@
     "subcircuito": "SACHAS 2",
     "id": "SINDICATO-DE-CHOFERES-Z2-O-L-S",
     "nombre_punto": "SINDICATO DE CHOFERES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "SABOR-DEL-YASUNI-Z2-O-A-N",
+    "nombre_punto": "SABOR DEL YASUNI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "SAZÓN-EL-PAISA-Z2-O-A-N",
+    "nombre_punto": "SAZÓN EL PAISA"
   }
 ]
