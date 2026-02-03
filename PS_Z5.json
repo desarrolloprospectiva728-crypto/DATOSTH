@@ -13822,5 +13822,95 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "DISTRIBUFARM-Z5-L-V-V",
     "nombre_punto": "DISTRIBUFARM"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "NUTRIAGRO-LA-VÍA-BABAHOYO-Z5-L-V-V",
+    "nombre_punto": "Nutriagro la vía babahoyo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "LIBRERÍA-STEFANY-Z5-L-V-V",
+    "nombre_punto": "Librería Stefany"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "UNIDAD-EDUCATIVA-VENTANAS-Z5-L-V-V",
+    "nombre_punto": "Unidad Educativa Ventanas"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "TAPICERIA-CONFORT-Z5-L-Q-L",
+    "nombre_punto": "TAPICERIA CONFORT"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "NOBOL",
+    "subcircuito": "NOBOL 1",
+    "id": "ESCUELA-6-DE-AGOSTO-Z5-G-D-N",
+    "nombre_punto": "ESCUELA 6 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "AGROVENT-VIA-BABAHOYO-Z5-L-V-V",
+    "nombre_punto": "Agrovent via babahoyo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "COOPERATIVA-SAN-JOSE-Z5-L-V-V",
+    "nombre_punto": "COOPERATIVA SAN JOSE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "DISENSA-VÍA-BABAHOYO-Z5-L-V-V",
+    "nombre_punto": "Disensa vía babahoyo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "TIENDA-CONTASERTRI-Z5-L-V-V",
+    "nombre_punto": "Tienda Contasertri"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "GLOBAL-COLOR-#2-Z5-L-Q-L",
+    "nombre_punto": "GLOBAL COLOR #2"
   }
 ]
