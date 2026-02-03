@@ -14650,5 +14650,23 @@
     "subcircuito": "SIETE DE OCTUBRE 3",
     "id": "VENTA-DE-CACAO-PIEDACITA-Z5-L-Q-S",
     "nombre_punto": "VENTA DE CACAO PIEDACITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 2",
+    "id": "LAVADORA-Y-LUBRICADORA-EL-GARAJE-7-DE-OCTUBRE-2-Z5-L-Q-S",
+    "nombre_punto": "LAVADORA Y LUBRICADORA EL GARAJE 7 DE OCTUBRE 2"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "ENGABAO",
+    "subcircuito": "ENGABAO 1",
+    "id": "EL-FARO-PUERTO-ENGABO-Z5-G-P-E",
+    "nombre_punto": "EL FARO PUERTO ENGABO"
   }
 ]
