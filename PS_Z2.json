@@ -4570,5 +4570,23 @@
     "subcircuito": "COCA OCCIDENTE 3",
     "id": "0504383175-Z2-O-O-C",
     "nombre_punto": "Farmacia Fibeca"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "LA-PARADIRA-SAN-PEDRO-Z2-N-E-E",
+    "nombre_punto": "LA PARADIRA SAN PEDRO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
+    "id": "TERMINAL-JOYA-DE-LOS-SACHAS-Z2-O-L-S",
+    "nombre_punto": "TERMINAL JOYA DE LOS SACHAS"
   }
 ]
