@@ -13912,5 +13912,59 @@
     "subcircuito": "LA VALDRAMINA 1",
     "id": "GLOBAL-COLOR-#2-Z5-L-Q-L",
     "nombre_punto": "GLOBAL COLOR #2"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 2",
+    "id": "CEVICHERIA-EL-MARINO-Z5-S-L-L",
+    "nombre_punto": "CEVICHERIA EL MARINO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "ZAPOTAL NUEVO",
+    "subcircuito": "ZAPOTAL NUEVO 1",
+    "id": "COMEDOR-EL-QUE-SABE,-SABE-Z5-L-V-Z",
+    "nombre_punto": "Comedor El Que Sabe, Sabe"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "DAULE CENTRO",
+    "subcircuito": "DAULE CENTRO 2",
+    "id": "TERMINAL-TERRESTRE-Z5-G-D-D",
+    "nombre_punto": "Terminal Terrestre"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "JUJAN SIMON BOLIVAR",
+    "circuito": "SIMON BOLIVAR",
+    "subcircuito": "SIMON BOLIVAR 1",
+    "id": "GASOLINERA-SIMÓN-BOLÍVAR-Z5-G-J-S",
+    "nombre_punto": "GASOLINERA SIMÓN BOLÍVAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA VALDRAMINA",
+    "subcircuito": "LA VALDRAMINA 1",
+    "id": "OTOM-RACING-Z5-L-Q-L",
+    "nombre_punto": "OTOM RACING"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 1",
+    "id": "HOSPITAL-BASICO-PLAYAS-Z5-G-P-G",
+    "nombre_punto": "HOSPITAL BASICO PLAYAS"
   }
 ]
