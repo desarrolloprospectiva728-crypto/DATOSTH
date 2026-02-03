@@ -4696,5 +4696,14 @@
     "subcircuito": "CUBE 1",
     "id": "CYBER-ESTIVEN-Z1-E-Q-C",
     "nombre_punto": "CYBER ESTIVEN"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "CUBE",
+    "subcircuito": "CUBE 1",
+    "id": "CYBER-ESTIVEN-Z1-E-Q-C",
+    "nombre_punto": "CYBER ESTIVEN"
   }
 ]
