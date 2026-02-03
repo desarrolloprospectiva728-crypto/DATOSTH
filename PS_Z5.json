@@ -13462,5 +13462,14 @@
     "subcircuito": "SANTA ELENA CENTRO 1",
     "id": "RED-WINGS-Z5-S-S-S",
     "nombre_punto": "RED WINGS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 3",
+    "id": "SURF-N-TURF-Z5-S-L-S",
+    "nombre_punto": "SURF N  TURF"
   }
 ]
