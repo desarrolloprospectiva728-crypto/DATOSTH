@@ -4687,5 +4687,14 @@
     "subcircuito": "MACARA 2",
     "id": "CANCHA-SANTA-MARIANITA-Z7-L-M-M",
     "nombre_punto": "Cancha Santa Marianita"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "AMALUZA",
+    "subcircuito": "AMALUZA 1",
+    "id": "COOPERATIVA-PADRE-JULIAN-LORENTE-Z7-L-E-A",
+    "nombre_punto": "COOPERATIVA PADRE JULIAN LORENTE"
   }
 ]
