@@ -7972,5 +7972,14 @@
     "subcircuito": "PEDERNALES NORTE 1",
     "id": "DEPÓSITO-DE-GAS-CABRERA-Z4-M-P-P",
     "nombre_punto": "DEPÓSITO DE GAS CABRERA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO LOPEZ",
+    "subcircuito": "PUERTO LOPEZ 1",
+    "id": "TERMINAL-TERRESTRE-PUERTO-LOPEZ-Z4-M-J-P",
+    "nombre_punto": "TERMINAL TERRESTRE PUERTO LOPEZ"
   }
 ]
