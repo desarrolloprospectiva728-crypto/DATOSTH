@@ -7828,5 +7828,32 @@
     "subcircuito": "MEJIA 1",
     "id": "VERDURAS-EL-LIMÓN-Z4-M-P-M",
     "nombre_punto": "Verduras el Limón"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 1",
+    "id": "PIÑONADA-CALLE-PRINCIPAL-Y-10MA.-TRANSVERSAL.-ESQ.-Z4-M-P-E",
+    "nombre_punto": "Piñonada calle principal y 10ma. Transversal. Esq."
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "LOS CEREZOS",
+    "subcircuito": "LOS CEREZOS 1",
+    "id": "KFC-Z4-M-P-L",
+    "nombre_punto": "KFC"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "LOS CEREZOS",
+    "subcircuito": "LOS CEREZOS 1",
+    "id": "KFC-Z4-M-P-L",
+    "nombre_punto": "KFC"
   }
 ]
