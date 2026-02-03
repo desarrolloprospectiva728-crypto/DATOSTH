@@ -14740,5 +14740,14 @@
     "subcircuito": "GALO PLAZA 2",
     "id": "FARMACIA-CRISLEY-Z5-L-Q-G",
     "nombre_punto": "FARMACIA CRISLEY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "LIMONAL",
+    "subcircuito": "LIMONAL 2",
+    "id": "CENTRO-DE-SALUD-LIMONAL-Z5-G-D-L",
+    "nombre_punto": "CENTRO DE SALUD LIMONAL"
   }
 ]
