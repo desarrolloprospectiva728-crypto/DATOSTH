@@ -4633,5 +4633,14 @@
     "subcircuito": "LA TOLITA 2",
     "id": "PANADERÍA-SUPREMA-Z1-E-E-L",
     "nombre_punto": "PANADERÍA SUPREMA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LA TOLITA",
+    "subcircuito": "LA TOLITA 2",
+    "id": "FARMACIAS-ECONOMICAS-Z1-E-E-L",
+    "nombre_punto": "FARMACIAS ECONOMICAS"
   }
 ]
