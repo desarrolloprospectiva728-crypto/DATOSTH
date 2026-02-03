@@ -14596,5 +14596,23 @@
     "subcircuito": "SANTA LUCIA 1",
     "id": "CENTRO-DE-SALUD-SANTA-LUCIA-Z5-G-D-S",
     "nombre_punto": "CENTRO DE SALUD SANTA LUCIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "SANTA LUCIA",
+    "subcircuito": "SANTA LUCIA 1",
+    "id": "HELADERÍA-TOPSY-MALECON-SANTA-LUCIA-Z5-G-D-S",
+    "nombre_punto": "HELADERÍA TOPSY-MALECON SANTA LUCIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 2",
+    "id": "1204932501-Z5-L-Q-S",
+    "nombre_punto": "FERRECOMERCIO 7 DE OCTUBRE 2"
   }
 ]
