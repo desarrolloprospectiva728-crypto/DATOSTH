@@ -3436,5 +3436,14 @@
     "subcircuito": "PUCARA 1",
     "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-JARDIN-AZUAYO-Z6-A-G-P",
     "nombre_punto": "COOPERATIVA DE AHORRO Y CRÉDITO JARDIN AZUAYO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 1",
+    "id": "TIENDA-CECILITA-Z6-A-S-S",
+    "nombre_punto": "TIENDA CECILITA"
   }
 ]
