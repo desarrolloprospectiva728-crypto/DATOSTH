@@ -7819,5 +7819,14 @@
     "subcircuito": "NUEVO PORTOVIEJO 1",
     "id": "TIENDA-JOSÉ---SECTOR-FÁTIMA-Z4-M-P-N",
     "nombre_punto": "TIENDA JOSÉ - SECTOR FÁTIMA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "MEJIA",
+    "subcircuito": "MEJIA 1",
+    "id": "VERDURAS-EL-LIMÓN-Z4-M-P-M",
+    "nombre_punto": "Verduras el Limón"
   }
 ]
