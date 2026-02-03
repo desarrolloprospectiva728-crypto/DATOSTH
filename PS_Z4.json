@@ -8017,5 +8017,14 @@
     "subcircuito": "PUERTO CAYO 1",
     "id": "LABORATORIO-DE-LARVAS-Z4-M-J-P",
     "nombre_punto": "Laboratorio de larvas"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO CAYO",
+    "subcircuito": "PUERTO CAYO 1",
+    "id": "BOCA-FECH-Z4-M-J-P",
+    "nombre_punto": "Boca Fech"
   }
 ]
