@@ -13597,5 +13597,77 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "SERVICIO-LOZADA-Z5-L-V-V",
     "nombre_punto": "SERVICIO LOZADA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "COMERCIAL-SALAZAR-Z5-L-V-V",
+    "nombre_punto": "COMERCIAL SALAZAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "TIENDA-YEIMI-Z5-S-L-S",
+    "nombre_punto": "TIENDA YEIMI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS SUR",
+    "subcircuito": "VENTANAS SUR 1",
+    "id": "INTERNET-COSTACOMTV-Z5-L-V-V",
+    "nombre_punto": "INTERNET COSTACOMTV"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "PANADERÍA-ESQUINERA-INGRESO-AGUAS-FRÍAS-Z5-L-V-V",
+    "nombre_punto": "Panadería esquinera ingreso aguas frías"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "LA ERCILIA",
+    "subcircuito": "LA ERCILIA 1",
+    "id": "DISPENSARIO-MEDICO-TARIRA-Z5-L-V-L",
+    "nombre_punto": "DISPENSARIO MEDICO TARIRA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "COMERCIAL-LITARDO-Z5-L-Q-L",
+    "nombre_punto": "COMERCIAL LITARDO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 1",
+    "id": "RESTAURANT-GREENS-Z5-S-L-L",
+    "nombre_punto": "RESTAURANT GREENS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "ESCUELA-ADOLFO-JURADO-GONZÁLEZ-Z5-L-V-V",
+    "nombre_punto": "ESCUELA ADOLFO JURADO GONZÁLEZ"
   }
 ]
