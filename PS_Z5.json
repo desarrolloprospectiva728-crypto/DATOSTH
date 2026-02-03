@@ -14209,5 +14209,23 @@
     "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
     "id": "CAPILLA-NUESTRA-SEÑORA-DE-FATIMA-Z5-G-D-J",
     "nombre_punto": "CAPILLA NUESTRA SEÑORA DE FATIMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "JUAN BAUTISTA AGUIRRE",
+    "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
+    "id": "PANADERIA-SAN-MARCOS-FRENTE-LA-PARADA-DE-BUSES-Z5-G-D-J",
+    "nombre_punto": "PANADERIA SAN MARCOS FRENTE LA PARADA DE BUSES"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "FARMACIA-LUISA-Z5-G-P-P",
+    "nombre_punto": "FARMACIA LUISA"
   }
 ]
