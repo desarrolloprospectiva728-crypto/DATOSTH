@@ -4323,15 +4323,6 @@
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
     "distrito": "ORELLANA LORETO",
-    "circuito": "COCA OCCIDENTE",
-    "subcircuito": "COCA OCCIDENTE 2",
-    "id": "UNIDAD-EDUCATIVA-VICTOR-RON-Z2-O-O-C",
-    "nombre_punto": "Unidad educativa Victor Ron"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "ORELLANA LORETO",
     "circuito": "COCA ORIENTE",
     "subcircuito": "COCA ORIENTE 1",
     "id": "MATAHAMBRE-Z2-O-O-C",
@@ -4421,29 +4412,11 @@
   {
     "zona": "ZONA 2",
     "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "COMERCIAL-LA-BAHÍA-Z2-O-A-N",
-    "nombre_punto": "COMERCIAL LA BAHÍA"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
     "distrito": "LA JOYA DE LOS SACHAS",
     "circuito": "SACHAS",
     "subcircuito": "SACHAS 2",
     "id": "UNIDAD-EDUCATIVA-20-DE-SEPTIEMBRE-Z2-O-L-S",
     "nombre_punto": "UNIDAD EDUCATIVA 20 DE SEPTIEMBRE"
-  },
-  {
-    "zona": "ZONA 2",
-    "subzona": "ORELLANA",
-    "distrito": "AGUARICO",
-    "circuito": "NUEVO ROCAFUERTE",
-    "subcircuito": "NUEVO ROCAFUERTE 1",
-    "id": "TIENDA-CHIMBORAZO-Z2-O-A-N",
-    "nombre_punto": "TIENDA CHIMBORAZO"
   },
   {
     "zona": "ZONA 2",
@@ -4705,5 +4678,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 2",
     "id": "CEVICHERÍA-DEL-MAR-A-TU-PALADAR-Z2-N-E-S",
     "nombre_punto": "CEVICHERÍA DEL MAR A TU PALADAR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "MI-MORENA-COFFEE-&-GRILL-Z2-N-E-S",
+    "nombre_punto": "MI MORENA COFFEE & GRILL"
   }
 ]
