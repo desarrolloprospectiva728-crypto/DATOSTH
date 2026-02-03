@@ -4507,5 +4507,32 @@
     "subcircuito": "EL CHACO 1",
     "id": "SUPER-CARNES-Z2-N-E-E",
     "nombre_punto": "SUPER CARNES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "CENTRO-DE-REVISIÓN-TÉCNICA-VEHICULAR-LA-JOYA-DE-LOS-SACHAS-Z2-O-L-S",
+    "nombre_punto": "Centro de revisión técnica vehicular la Joya de los Sachas"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "FLORERIA-SUSANITA-Z2-N-E-E",
+    "nombre_punto": "Floreria Susanita"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
+    "id": "UNIDAD-EDUCATIVA-DAYUMA-KENTO-Z2-O-L-S",
+    "nombre_punto": "UNIDAD EDUCATIVA DAYUMA KENTO"
   }
 ]
