@@ -7981,5 +7981,23 @@
     "subcircuito": "PUERTO LOPEZ 1",
     "id": "TERMINAL-TERRESTRE-PUERTO-LOPEZ-Z4-M-J-P",
     "nombre_punto": "TERMINAL TERRESTRE PUERTO LOPEZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO LOPEZ",
+    "subcircuito": "PUERTO LOPEZ 1",
+    "id": "FISCALIA-PUERTO-LOPEZ-Z4-M-J-P",
+    "nombre_punto": "FISCALIA PUERTO LOPEZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "CANCHA-MÚLTIPLE-COAQUE-Z4-M-P-P",
+    "nombre_punto": "CANCHA MÚLTIPLE COAQUE"
   }
 ]
