@@ -4750,5 +4750,14 @@
     "subcircuito": "CODESA 1",
     "id": "ELECTROMECANICA-GABILANEZ-Z1-E-E-C",
     "nombre_punto": "Electromecanica Gabilanez"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CODESA",
+    "subcircuito": "CODESA 1",
+    "id": "PINTURAS-EL-ARTESANO-CODESA-Z1-E-E-C",
+    "nombre_punto": "Pinturas el Artesano codesa"
   }
 ]
