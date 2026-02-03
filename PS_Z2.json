@@ -4489,5 +4489,23 @@
     "subcircuito": "SACHAS 2",
     "id": "UNIDAD-EDUCATIVA-AGOYAN-Z2-O-L-S",
     "nombre_punto": "UNIDAD EDUCATIVA AGOYAN"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 2",
+    "id": "BANCO-DE-PICHINCHA-Z2-O-O-C",
+    "nombre_punto": "BANCO DE PICHINCHA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "SUPER-CARNES-Z2-N-E-E",
+    "nombre_punto": "SUPER CARNES"
   }
 ]
