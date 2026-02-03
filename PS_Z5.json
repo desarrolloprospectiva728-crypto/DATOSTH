@@ -14137,5 +14137,32 @@
     "subcircuito": "PLAYAS 1",
     "id": "UNIDAD-JUDICIAL-CIVIL-Z5-G-P-P",
     "nombre_punto": "UNIDAD JUDICIAL CIVIL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "NOBOL",
+    "subcircuito": "NOBOL 2",
+    "id": "UNIDAD-EDUCATIVA-VICENTE-PIEDRAHITA-CARBO-Z5-G-D-N",
+    "nombre_punto": "UNIDAD EDUCATIVA VICENTE PIEDRAHITA CARBO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 3",
+    "id": "ACCESORIOS-MUÑOZ-593-Z5-S-L-L",
+    "nombre_punto": "ACCESORIOS MUÑOZ 593"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "SABANA",
+    "subcircuito": "SABANA 1",
+    "id": "HERMANOS-CALVACHE-Z5-L-B-S",
+    "nombre_punto": "HERMANOS CALVACHE"
   }
 ]
