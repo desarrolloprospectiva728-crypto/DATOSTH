@@ -14731,5 +14731,14 @@
     "subcircuito": "PORVENIR 1",
     "id": "ESCUELA-SIXTO-LIBORIO-MACIAS-Z5-G-D-P",
     "nombre_punto": "ESCUELA SIXTO LIBORIO MACIAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 2",
+    "id": "FARMACIA-CRISLEY-Z5-L-Q-G",
+    "nombre_punto": "FARMACIA CRISLEY"
   }
 ]
