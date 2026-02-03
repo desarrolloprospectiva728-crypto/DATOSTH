@@ -14470,5 +14470,14 @@
     "subcircuito": "GENERAL VILLAMIL 1",
     "id": "HOTEL-CASTILLO-DE-ARENA-Z5-G-P-G",
     "nombre_punto": "HOTEL CASTILLO DE ARENA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME SURESTE",
+    "subcircuito": "EMPALME SURESTE 1",
+    "id": "GASOLINERA-PETRÓLEOS-Y-SERVICIOS-NADA-ES-LEJOS,-VIA-A-QUEVEDO-Z5-G-E-E",
+    "nombre_punto": "Gasolinera Petróleos y servicios Nada es lejos, via a Quevedo"
   }
 ]
