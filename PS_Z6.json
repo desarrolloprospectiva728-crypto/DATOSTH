@@ -3445,5 +3445,14 @@
     "subcircuito": "SIGSIG 1",
     "id": "TIENDA-CECILITA-Z6-A-S-S",
     "nombre_punto": "TIENDA CECILITA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 1",
+    "id": "FARMACIA-FARMALEX-Z6-A-S-S",
+    "nombre_punto": "FARMACIA FARMALEX"
   }
 ]
