@@ -14614,5 +14614,14 @@
     "subcircuito": "SIETE DE OCTUBRE 2",
     "id": "1204932501-Z5-L-Q-S",
     "nombre_punto": "FERRECOMERCIO 7 DE OCTUBRE 2"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 2",
+    "id": "TUTI-7-OCTUBRE-2-Z5-L-Q-S",
+    "nombre_punto": "TUTI  7 OCTUBRE 2"
   }
 ]
