@@ -7990,5 +7990,14 @@
     "subcircuito": "PUERTO LOPEZ 1",
     "id": "TIENDA-CHOEZ-Z4-M-J-P",
     "nombre_punto": "TIENDA CHOEZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "JEAN-PIERRRE-CAFETERIA-Z4-M-P-P",
+    "nombre_punto": "JEAN PIERRRE CAFETERIA"
   }
 ]
