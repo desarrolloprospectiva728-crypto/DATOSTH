@@ -14272,5 +14272,41 @@
     "subcircuito": "2002-06-05T05:00:00.000Z",
     "id": "LAVADORA-Y-LUBRICADORA-EL-ACEITE-ORIGINAL-Z5-S-L-5",
     "nombre_punto": "LAVADORA Y LUBRICADORA EL ACEITE ORIGINAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "COLIMES",
+    "subcircuito": "COLIMES 2",
+    "id": "PARQUE-CENTRAL-COLIMES-Z5-G-B-C",
+    "nombre_punto": "Parque central Colimes"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "LA T",
+    "subcircuito": "LA T 1",
+    "id": "CENTRO-DE-SALUD-LA-T-Z5-G-D-L",
+    "nombre_punto": "CENTRO DE SALUD LA T"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "ESTACADA",
+    "subcircuito": "ESTACADA 2",
+    "id": "LABORATORIO-CLINICO-VITALABRJ-Z5-G-P-E",
+    "nombre_punto": "LABORATORIO CLINICO VITALABRJ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "JUAN BAUTISTA AGUIRRE",
+    "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
+    "id": "BANCO-PICHINCHA-PLAZA-VILLA-CLUB-Z5-G-D-J",
+    "nombre_punto": "BANCO PICHINCHA  PLAZA VILLA CLUB"
   }
 ]
