@@ -4696,5 +4696,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 2",
     "id": "AGRO-VETERINARIA-LUCHITO-Z2-N-E-S",
     "nombre_punto": "AGRO VETERINARIA LUCHITO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
+    "id": "ELECTROMECÁNICA-INTRIAGO-Z2-O-L-S",
+    "nombre_punto": "ELECTROMECÁNICA INTRIAGO"
   }
 ]
