@@ -13705,5 +13705,32 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "ESCUELA-ISIDRO-AYORA-Z5-L-V-V",
     "nombre_punto": "ESCUELA ISIDRO AYORA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "MOTEL-EL-REFUGIO-Z5-L-V-V",
+    "nombre_punto": "Motel el refugio"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "AGROVENT-Z5-L-V-V",
+    "nombre_punto": "Agrovent via Quevedo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "ESCUELA-10-DE-NOVIEMBRE-Z5-L-V-V",
+    "nombre_punto": "ESCUELA 10 DE NOVIEMBRE"
   }
 ]
