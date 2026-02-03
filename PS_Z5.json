@@ -14164,5 +14164,32 @@
     "subcircuito": "SABANA 1",
     "id": "HERMANOS-CALVACHE-Z5-L-B-S",
     "nombre_punto": "HERMANOS CALVACHE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "UNIDAD-JUDICIAL-PENAL-Z5-G-P-P",
+    "nombre_punto": "UNIDAD JUDICIAL PENAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "NOBOL",
+    "subcircuito": "NOBOL 2",
+    "id": "GASOLINERA-EL-PROGRESO-VIA-LOMAS-Z5-G-D-N",
+    "nombre_punto": "GASOLINERA EL PROGRESO VIA LOMAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BABA",
+    "subcircuito": "BABA 1",
+    "id": "COMERCIAL-CENTRO-Z5-L-B-B",
+    "nombre_punto": "Comercial Centro"
   }
 ]
