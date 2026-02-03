@@ -8017,5 +8017,14 @@
     "subcircuito": "PUERTO LOPEZ 1",
     "id": "CONSEJO-DE-LA-JUDICATURA-Z4-M-J-P",
     "nombre_punto": "CONSEJO DE LA JUDICATURA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO LOPEZ",
+    "subcircuito": "PUERTO LOPEZ 1",
+    "id": "TIENDA-CHUPA-AL-PASO-Z4-M-J-P",
+    "nombre_punto": "TIENDA CHUPA AL PASO"
   }
 ]
