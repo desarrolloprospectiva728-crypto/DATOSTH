@@ -4534,5 +4534,23 @@
     "subcircuito": "SACHAS 2",
     "id": "UNIDAD-EDUCATIVA-DAYUMA-KENTO-Z2-O-L-S",
     "nombre_punto": "UNIDAD EDUCATIVA DAYUMA KENTO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "TIENDA-SIMON-BOLÍVAR-Z2-N-E-E",
+    "nombre_punto": "TIENDA SIMON BOLÍVAR"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "VIVERES-PATY-Z2-N-E-E",
+    "nombre_punto": "VIVERES PATY"
   }
 ]
