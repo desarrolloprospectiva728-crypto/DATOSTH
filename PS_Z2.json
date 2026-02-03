@@ -4687,5 +4687,23 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 2",
     "id": "TERCENA-RINO-Z2-N-E-S",
     "nombre_punto": "TERCENA RINO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "LAVANDERÍA-Z2-N-E-S",
+    "nombre_punto": "LAVANDERÍA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 2",
+    "id": "CEVICHERÍA-DEL-MAR-A-TU-PALADAR-Z2-N-E-S",
+    "nombre_punto": "CEVICHERÍA DEL MAR A TU PALADAR"
   }
 ]
