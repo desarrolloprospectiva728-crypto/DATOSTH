@@ -4435,5 +4435,32 @@
     "subcircuito": "SACHAS 2",
     "id": "UNIDAD-EDUCATIVA-20-DE-SEPTIEMBRE-Z2-O-L-S",
     "nombre_punto": "UNIDAD EDUCATIVA 20 DE SEPTIEMBRE"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "TIENDA-CHIMBORAZO-Z2-O-A-N",
+    "nombre_punto": "TIENDA CHIMBORAZO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "NUEVO ROCAFUERTE",
+    "subcircuito": "NUEVO ROCAFUERTE 1",
+    "id": "TIENDA-CHIMBORAZO-Z2-O-A-N",
+    "nombre_punto": "TIENDA CHIMBORAZO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "UNIDAD-EDUCATIVA-OSCAR-ROMERO-Z2-O-L-S",
+    "nombre_punto": "UNIDAD EDUCATIVA OSCAR ROMERO"
   }
 ]
