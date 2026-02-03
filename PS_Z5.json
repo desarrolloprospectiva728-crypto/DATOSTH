@@ -14191,5 +14191,23 @@
     "subcircuito": "BABA 1",
     "id": "COMERCIAL-CENTRO-Z5-L-B-B",
     "nombre_punto": "Comercial Centro"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "DAULE CENTRO",
+    "subcircuito": "DAULE CENTRO 2",
+    "id": "ESCUELA-DE-EDUCACIÓN-BÁSICA-HIPÓLITO-CAMBA-RAMOS-Z5-G-D-D",
+    "nombre_punto": "Escuela de Educación Básica Hipólito Camba Ramos"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "JUAN BAUTISTA AGUIRRE",
+    "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
+    "id": "CAPILLA-NUESTRA-SEÑORA-DE-FATIMA-Z5-G-D-J",
+    "nombre_punto": "CAPILLA NUESTRA SEÑORA DE FATIMA"
   }
 ]
