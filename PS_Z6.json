@@ -3454,5 +3454,14 @@
     "subcircuito": "SIGSIG 1",
     "id": "FARMACIA-FARMALEX-Z6-A-S-S",
     "nombre_punto": "FARMACIA FARMALEX"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "SUCUA",
+    "subcircuito": "SUCUA 1",
+    "id": "PARQUE-DEL-NIÑO-Z6-M-C-S",
+    "nombre_punto": "PARQUE DEL NIÑO"
   }
 ]
