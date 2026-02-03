@@ -4690,24 +4690,6 @@
   },
   {
     "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "QUININDE",
-    "circuito": "CUBE",
-    "subcircuito": "CUBE 1",
-    "id": "CYBER-ESTIVEN-Z1-E-Q-C",
-    "nombre_punto": "CYBER ESTIVEN"
-  },
-  {
-    "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "QUININDE",
-    "circuito": "CUBE",
-    "subcircuito": "CUBE 1",
-    "id": "CYBER-ESTIVEN-Z1-E-Q-C",
-    "nombre_punto": "CYBER ESTIVEN"
-  },
-  {
-    "zona": "ZONA 1",
     "subzona": "SUCUMBIOS",
     "distrito": "SHUSHUFINDI",
     "circuito": "LA PRIMAVERA",
@@ -4759,5 +4741,14 @@
     "subcircuito": "CODESA 1",
     "id": "EXPERT-AUTOS-CENTRO-AUTOMOTRIZ-Z1-E-E-C",
     "nombre_punto": "Expert Autos centro Automotriz"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CODESA",
+    "subcircuito": "CODESA 1",
+    "id": "ELECTROMECANICA-GABILANEZ-Z1-E-E-C",
+    "nombre_punto": "Electromecanica Gabilanez"
   }
 ]
