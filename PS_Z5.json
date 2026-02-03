@@ -13471,5 +13471,23 @@
     "subcircuito": "SANTA ROSA 3",
     "id": "SURF-N-TURF-Z5-S-L-S",
     "nombre_punto": "SURF N  TURF"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 2",
+    "id": "PANADERÍA-Z5-S-S-S",
+    "nombre_punto": "PANADERÍA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "LA ERCILIA",
+    "subcircuito": "LA ERCILIA 1",
+    "id": "TIENDA-DON-CHITO-Z5-L-V-L",
+    "nombre_punto": "TIENDA DON CHITO"
   }
 ]
