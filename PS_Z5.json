@@ -13732,5 +13732,41 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "ESCUELA-10-DE-NOVIEMBRE-Z5-L-V-V",
     "nombre_punto": "ESCUELA 10 DE NOVIEMBRE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS NORTE",
+    "subcircuito": "VENTANAS NORTE 1",
+    "id": "TIENDA-MR-Z5-L-V-V",
+    "nombre_punto": "Tienda MR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "ZAPOTAL NUEVO",
+    "subcircuito": "ZAPOTAL NUEVO 1",
+    "id": "ASADERO-EL-BUEN-SABOR-Z5-L-V-Z",
+    "nombre_punto": "Asadero El Buen Sabor"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "PUERTO AGUAJE",
+    "subcircuito": "PUERTO AGUAJE 1",
+    "id": "MINIMAKET-MONICA-Z5-S-L-P",
+    "nombre_punto": "MINIMAKET MONICA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 1",
+    "id": "LUBRICADORA-OYOLA-Z5-S-L-L",
+    "nombre_punto": "LUBRICADORA OYOLA"
   }
 ]
