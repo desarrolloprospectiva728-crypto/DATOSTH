@@ -7954,5 +7954,23 @@
     "subcircuito": "COLON 2",
     "id": "AGRO-QUÍMICO-PACO-Z4-M-P-C",
     "nombre_punto": "Agro químico paco"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 1",
+    "id": "GRAN-HOTEL-EL-MUELLE-Z4-M-J-J",
+    "nombre_punto": "GRAN HOTEL EL MUELLE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "DEPÓSITO-DE-GAS-CABRERA-Z4-M-P-P",
+    "nombre_punto": "DEPÓSITO DE GAS CABRERA"
   }
 ]
