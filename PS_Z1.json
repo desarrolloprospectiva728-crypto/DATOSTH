@@ -4660,5 +4660,14 @@
     "subcircuito": "LA TOLITA 2",
     "id": "COMEDOR-BENDICIÓN-DE-YESHUA-Z1-E-E-L",
     "nombre_punto": "COMEDOR BENDICIÓN DE YESHUA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LA TOLITA",
+    "subcircuito": "LA TOLITA 2",
+    "id": "CATAMARAN-Z1-E-E-L",
+    "nombre_punto": "CATAMARAN"
   }
 ]
