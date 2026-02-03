@@ -3553,5 +3553,14 @@
     "subcircuito": "SUCUA 1",
     "id": "FEDERACIÓN-INTERPROVINCIAL-DE-CENTRO-SHUAR-FICSH-Z6-M-C-S",
     "nombre_punto": "FEDERACIÓN INTERPROVINCIAL DE CENTRO SHUAR FICSH"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "COMERCIALES-MATIAS-Z6-A-G-S",
+    "nombre_punto": "COMERCIALES MATIAS"
   }
 ]
