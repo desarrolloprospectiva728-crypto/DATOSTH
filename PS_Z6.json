@@ -3589,5 +3589,32 @@
     "subcircuito": "MACAS 1",
     "id": "TERMINAL-TERRESTRE-Z6-M-M-M",
     "nombre_punto": "TERMINAL TERRESTRE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "MACAS",
+    "subcircuito": "MACAS 1",
+    "id": "PARQUE-DEL-NIÑO-Z6-M-M-M",
+    "nombre_punto": "PARQUE DEL NIÑO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "MACAS",
+    "subcircuito": "MACAS 1",
+    "id": "PISCINAS-MUNICIPALES-Z6-M-M-M",
+    "nombre_punto": "PISCINAS MUNICIPALES"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "SEVILLA DON BOSCO",
+    "subcircuito": "SEVILLA DON BOSCO 1",
+    "id": "Y-DE-SANTA-ANA-Z6-M-M-S",
+    "nombre_punto": "Y DE SANTA ANA"
   }
 ]
