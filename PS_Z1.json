@@ -4795,5 +4795,14 @@
     "subcircuito": "ATACAMES 1",
     "id": "DISTRIBUICIONES-Y-PAPELERÍA-MAYA-Z1-E-A-A",
     "nombre_punto": "DISTRIBUICIONES Y PAPELERÍA MAYA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "MUISNE",
+    "subcircuito": "MUISNE 3",
+    "id": "TIPO-C-MUISNE-Z1-E-A-M",
+    "nombre_punto": "TIPO C MUISNE"
   }
 ]
