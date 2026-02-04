@@ -4786,5 +4786,14 @@
     "subcircuito": "PAPALLACTA 1",
     "id": "CENTRO-DE-SALUD-PAPALLACTA-Z2-N-E-P",
     "nombre_punto": "CENTRO DE SALUD PAPALLACTA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "COLISEO-DE-PAPALLACTA-Z2-N-E-P",
+    "nombre_punto": "COLISEO DE PAPALLACTA"
   }
 ]
