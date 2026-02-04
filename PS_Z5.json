@@ -14884,5 +14884,14 @@
     "subcircuito": "MONTALVO 1",
     "id": "PANTHER-Z5-L-B-M",
     "nombre_punto": "Panther"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 1",
+    "id": "DISENSA-25-DE-ABRIL-Z5-L-B-M",
+    "nombre_punto": "Disensa 25 de abril"
   }
 ]
