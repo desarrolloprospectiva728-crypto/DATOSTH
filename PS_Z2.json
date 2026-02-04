@@ -4768,5 +4768,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 1",
     "id": "MICHELADAS-MATEMA-Z2-N-E-S",
     "nombre_punto": "MICHELADAS MATEMA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "SUPERMERCADO-V&R-Z2-N-E-P",
+    "nombre_punto": "SUPERMERCADO V&R"
   }
 ]
