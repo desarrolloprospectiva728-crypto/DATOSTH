@@ -8026,5 +8026,14 @@
     "subcircuito": "PUERTO CAYO 1",
     "id": "BOCA-FECH-Z4-M-J-P",
     "nombre_punto": "Boca Fech"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 2",
+    "id": "VILORE-2---AV-MANABI-Z4-M-P-P",
+    "nombre_punto": "VILORE 2 - AV MANABI"
   }
 ]
