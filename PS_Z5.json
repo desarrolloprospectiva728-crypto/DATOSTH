@@ -14848,5 +14848,23 @@
     "subcircuito": "CONTROL 2",
     "id": "CERVECERIA-NACIONAL-Z5-L-Q-C",
     "nombre_punto": "CERVECERIA NACIONAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "EL-GRAN-CHEF-OSCAR-ESPINOZA-Z5-L-P-P",
+    "nombre_punto": "EL GRAN CHEF OSCAR ESPINOZA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "LA-PLAYITA-Z5-L-P-P",
+    "nombre_punto": "LA PLAYITA"
   }
 ]
