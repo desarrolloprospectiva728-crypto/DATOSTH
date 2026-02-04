@@ -4777,5 +4777,14 @@
     "subcircuito": "PAPALLACTA 1",
     "id": "SUPERMERCADO-V&R-Z2-N-E-P",
     "nombre_punto": "SUPERMERCADO V&R"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "PAPALLACTA",
+    "subcircuito": "PAPALLACTA 1",
+    "id": "CENTRO-DE-SALUD-PAPALLACTA-Z2-N-E-P",
+    "nombre_punto": "CENTRO DE SALUD PAPALLACTA"
   }
 ]
