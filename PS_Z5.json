@@ -14785,5 +14785,14 @@
     "subcircuito": "PLAYAS 1",
     "id": "TECNICENTRO-ORELLANA-Z5-G-P-P",
     "nombre_punto": "TECNICENTRO ORELLANA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "GENERAL VILLAMIL",
+    "subcircuito": "GENERAL VILLAMIL 1",
+    "id": "AGRIPAC-Z5-G-P-G",
+    "nombre_punto": "AGRIPAC"
   }
 ]
