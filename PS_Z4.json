@@ -8053,5 +8053,14 @@
     "subcircuito": "PORTOVIEJO 1",
     "id": "ENCEBOLLADOS-PANCHITO-Z4-M-P-P",
     "nombre_punto": "ENCEBOLLADOS PANCHITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "UNIFICADOS",
+    "subcircuito": "UNIFICADOS 1",
+    "id": "JESSY-GARCES-ESTETICA-Z4-S-S-U",
+    "nombre_punto": "JESSY GARCES ESTETICA"
   }
 ]
