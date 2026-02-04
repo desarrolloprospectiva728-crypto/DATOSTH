@@ -14866,5 +14866,14 @@
     "subcircuito": "PUEBLO VIEJO 1",
     "id": "LA-PLAYITA-Z5-L-P-P",
     "nombre_punto": "LA PLAYITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 1",
+    "id": "ARTEFACTA-MOTOR-Z5-L-B-M",
+    "nombre_punto": "Artefacta motor"
   }
 ]
