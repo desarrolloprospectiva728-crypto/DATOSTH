@@ -4840,5 +4840,14 @@
     "subcircuito": "CHAMANGA 2",
     "id": "MÁS-NOVEDADES-Z1-E-A-C",
     "nombre_punto": "Más Novedades"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "CHAMANGA",
+    "subcircuito": "CHAMANGA 2",
+    "id": "TIENDA-JARELLYS-Z1-E-A-C",
+    "nombre_punto": "Tienda Jarellys"
   }
 ]
