@@ -4831,5 +4831,14 @@
     "subcircuito": "GALERAS 2",
     "id": "GASOLINERA-PIEDRA-FINA-Z1-E-A-G",
     "nombre_punto": "GASOLINERA  PIEDRA FINA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "CHAMANGA",
+    "subcircuito": "CHAMANGA 2",
+    "id": "MÁS-NOVEDADES-Z1-E-A-C",
+    "nombre_punto": "Más Novedades"
   }
 ]
