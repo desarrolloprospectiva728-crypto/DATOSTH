@@ -4804,5 +4804,14 @@
     "subcircuito": "MUISNE 3",
     "id": "TIPO-C-MUISNE-Z1-E-A-M",
     "nombre_punto": "TIPO C MUISNE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "MUISNE",
+    "subcircuito": "MUISNE 3",
+    "id": "FARMACIA-COMUNITARIAS-Z1-E-A-M",
+    "nombre_punto": "FARMACIA COMUNITARIAS"
   }
 ]
