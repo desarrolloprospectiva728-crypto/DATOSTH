@@ -3562,5 +3562,32 @@
     "subcircuito": "MACAS 2",
     "id": "TECNICO-MACAS-Z6-M-M-M",
     "nombre_punto": "TECNICO MACAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "MACAS",
+    "subcircuito": "MACAS 2",
+    "id": "MERCADO-LA-UNION-Z6-M-M-M",
+    "nombre_punto": "MERCADO LA UNION"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "MACAS",
+    "subcircuito": "MACAS 1",
+    "id": "GASOLINERA-PETROECUADOR-Z6-M-M-M",
+    "nombre_punto": "GASOLINERA PETROECUADOR"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "MACAS",
+    "subcircuito": "MACAS 1",
+    "id": "TERMINAL-TERRESTRE-Z6-M-M-M",
+    "nombre_punto": "TERMINAL TERRESTRE"
   }
 ]
