@@ -14875,5 +14875,14 @@
     "subcircuito": "MONTALVO 1",
     "id": "ARTEFACTA-MOTOR-Z5-L-B-M",
     "nombre_punto": "Artefacta motor"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "MONTALVO",
+    "subcircuito": "MONTALVO 1",
+    "id": "PANTHER-Z5-L-B-M",
+    "nombre_punto": "Panther"
   }
 ]
