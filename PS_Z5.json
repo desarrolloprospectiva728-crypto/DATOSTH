@@ -14830,5 +14830,23 @@
     "subcircuito": "PUEBLO VIEJO 1",
     "id": "LOS-SECOS-DE-MARUJITA-Z5-L-P-P",
     "nombre_punto": "LOS SECOS DE MARUJITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "NOTARIA-1-Z5-L-P-P",
+    "nombre_punto": "NOTARIA 1"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "CONTROL",
+    "subcircuito": "CONTROL 2",
+    "id": "CERVECERIA-NACIONAL-Z5-L-Q-C",
+    "nombre_punto": "CERVECERIA NACIONAL"
   }
 ]
