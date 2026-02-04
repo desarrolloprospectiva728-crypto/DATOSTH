@@ -3544,5 +3544,23 @@
     "subcircuito": "SAN JUAN 1",
     "id": "COMERCIALES-MATIAS-Z6-A-G-S",
     "nombre_punto": "COMERCIALES MATIAS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "GENERAL PROAÑO",
+    "subcircuito": "GENERAL PROAÑO 1",
+    "id": "PARQUE-CENTRAL-PROAÑO-Z6-M-M-G",
+    "nombre_punto": "PARQUE CENTRAL PROAÑO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "MACAS",
+    "subcircuito": "MACAS 2",
+    "id": "TECNICO-MACAS-Z6-M-M-M",
+    "nombre_punto": "TECNICO MACAS"
   }
 ]
