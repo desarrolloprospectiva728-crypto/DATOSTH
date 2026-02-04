@@ -4786,5 +4786,14 @@
     "subcircuito": "GALERAS 2",
     "id": "FARMACIA-COMUNITARIA-Z1-E-A-G",
     "nombre_punto": "FARMACIA COMUNITARIA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 1",
+    "id": "DISTRIBUICIONES-Y-PAPELERÍA-MAYA-Z1-E-A-A",
+    "nombre_punto": "DISTRIBUICIONES Y PAPELERÍA MAYA"
   }
 ]
