@@ -4705,5 +4705,14 @@
     "subcircuito": "AMALUZA 1",
     "id": "CAJERO-COOPMEGO-Z7-L-E-A",
     "nombre_punto": "CAJERO COOPMEGO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "MACARA",
+    "circuito": "MACARA",
+    "subcircuito": "MACARA 2",
+    "id": "IGLESIA-CENTINELA-DEL-SUR-Z7-L-M-M",
+    "nombre_punto": "IGLESIA CENTINELA DEL SUR"
   }
 ]
