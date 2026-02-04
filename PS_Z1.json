@@ -4849,5 +4849,14 @@
     "subcircuito": "CHAMANGA 2",
     "id": "TIENDA-JARELLYS-Z1-E-A-C",
     "nombre_punto": "Tienda Jarellys"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "TULCAN",
+    "circuito": "KENNEDY",
+    "subcircuito": "KENNEDY 1",
+    "id": "RESTAURANTE-CASA-CHINA-Z1-C-T-K",
+    "nombre_punto": "Restaurante Casa China"
   }
 ]
