@@ -8044,5 +8044,14 @@
     "subcircuito": "PORTOVIEJO 2",
     "id": "CARAMEL-2---AV-MANABI-Z4-M-P-P",
     "nombre_punto": "CARAMEL 2 - AV MANABI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "ENCEBOLLADOS-PANCHITO-Z4-M-P-P",
+    "nombre_punto": "ENCEBOLLADOS PANCHITO"
   }
 ]
