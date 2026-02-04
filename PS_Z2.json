@@ -4804,5 +4804,14 @@
     "subcircuito": "EL CHACO 1",
     "id": "TIENDA-SALAZAR-SARDINAS-Z2-N-E-E",
     "nombre_punto": "TIENDA SALAZAR SARDINAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "INFOCENTRO-SARDINAS-Z2-N-E-E",
+    "nombre_punto": "Infocentro Sardinas"
   }
 ]
