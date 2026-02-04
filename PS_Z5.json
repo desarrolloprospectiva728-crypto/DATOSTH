@@ -14776,5 +14776,14 @@
     "subcircuito": "LA YOLITA 1",
     "id": "MECÁNICA-Y-TALLER-DE-REPUESTO-DE-AIRES-A-CONDICIONADOS-VICENTE-PIEDRAHITA-Z5-G-D-L",
     "nombre_punto": "Mecánica y taller de repuesto de aires a condicionados Vicente  piedrahita"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "TECNICENTRO-ORELLANA-Z5-G-P-P",
+    "nombre_punto": "TECNICENTRO ORELLANA"
   }
 ]
