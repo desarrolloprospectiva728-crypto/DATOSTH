@@ -3616,5 +3616,23 @@
     "subcircuito": "SEVILLA DON BOSCO 1",
     "id": "Y-DE-SANTA-ANA-Z6-M-M-S",
     "nombre_punto": "Y DE SANTA ANA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "SEVILLA DON BOSCO",
+    "subcircuito": "SEVILLA DON BOSCO 1",
+    "id": "UE.-JUAN-LEON-NERA-Z6-M-M-S",
+    "nombre_punto": "UE. JUAN LEON NERA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "SEVILLA DON BOSCO",
+    "subcircuito": "SEVILLA DON BOSCO 1",
+    "id": "UE.-JUAN-LEON-NERA-Z6-M-M-S",
+    "nombre_punto": "UE. JUAN LEON NERA"
   }
 ]
