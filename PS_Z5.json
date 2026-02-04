@@ -14803,5 +14803,32 @@
     "subcircuito": "DAULE CENTRO 2",
     "id": "ESCUELA-DE-EDUCACION-BÁSICA-ETELVINA-CARBO-PLAZA-Z5-G-D-D",
     "nombre_punto": "Escuela de Educacion Básica Etelvina Carbo Plaza"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "CENTRO-CULTURAL-JUSTINO-CORNEJO-Z5-L-P-P",
+    "nombre_punto": "CENTRO CULTURAL JUSTINO CORNEJO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "REGISTRO-CIVIL-Z5-L-P-P",
+    "nombre_punto": "REGISTRO CIVIL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "LOS-SECOS-DE-MARUJITA-Z5-L-P-P",
+    "nombre_punto": "LOS SECOS DE MARUJITA"
   }
 ]
