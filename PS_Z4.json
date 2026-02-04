@@ -8071,5 +8071,14 @@
     "subcircuito": "PORTOVIEJO 3",
     "id": "COMEDOR-PAOLA-EL-CHINITO-Z4-M-P-P",
     "nombre_punto": "COMEDOR PAOLA EL CHINITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "JIPIJAPA",
+    "subcircuito": "JIPIJAPA 1",
+    "id": "SOLCA-JIPIJAPA-Z4-M-J-J",
+    "nombre_punto": "SOLCA JIPIJAPA"
   }
 ]
