@@ -14794,5 +14794,14 @@
     "subcircuito": "GENERAL VILLAMIL 1",
     "id": "AGRIPAC-Z5-G-P-G",
     "nombre_punto": "AGRIPAC"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "DAULE CENTRO",
+    "subcircuito": "DAULE CENTRO 2",
+    "id": "ESCUELA-DE-EDUCACION-BÁSICA-ETELVINA-CARBO-PLAZA-Z5-G-D-D",
+    "nombre_punto": "Escuela de Educacion Básica Etelvina Carbo Plaza"
   }
 ]
