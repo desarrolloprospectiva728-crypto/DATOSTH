@@ -4759,5 +4759,23 @@
     "subcircuito": "CODESA 1",
     "id": "PINTURAS-EL-ARTESANO-CODESA-Z1-E-E-C",
     "nombre_punto": "Pinturas el Artesano codesa"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 1",
+    "id": "REGISTRO-CIVIL-Z1-E-A-A",
+    "nombre_punto": "REGISTRO CIVIL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "GALERAS",
+    "subcircuito": "GALERAS 2",
+    "id": "GANO-SALUD-Z1-E-A-G",
+    "nombre_punto": "GANO SALUD"
   }
 ]
