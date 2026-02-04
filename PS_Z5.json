@@ -14893,5 +14893,14 @@
     "subcircuito": "MONTALVO 1",
     "id": "DISENSA-25-DE-ABRIL-Z5-L-B-M",
     "nombre_punto": "Disensa 25 de abril"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME SURESTE",
+    "subcircuito": "EMPALME SURESTE 1",
+    "id": "DRAGONBOX-CROSSFIT-VIA-GUAYAQUIL-Z5-G-E-E",
+    "nombre_punto": "DRAGONBOX CROSSFIT-VIA GUAYAQUIL"
   }
 ]
