@@ -4795,5 +4795,14 @@
     "subcircuito": "PAPALLACTA 1",
     "id": "COLISEO-DE-PAPALLACTA-Z2-N-E-P",
     "nombre_punto": "COLISEO DE PAPALLACTA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "TIENDA-SALAZAR-SARDINAS-Z2-N-E-E",
+    "nombre_punto": "TIENDA SALAZAR SARDINAS"
   }
 ]
