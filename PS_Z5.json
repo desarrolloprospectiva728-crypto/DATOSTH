@@ -14902,5 +14902,14 @@
     "subcircuito": "EMPALME SURESTE 1",
     "id": "DRAGONBOX-CROSSFIT-VIA-GUAYAQUIL-Z5-G-E-E",
     "nombre_punto": "DRAGONBOX CROSSFIT-VIA GUAYAQUIL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "IMPORTADORA-WONG-Z5-L-Q-L",
+    "nombre_punto": "Importadora Wong"
   }
 ]
