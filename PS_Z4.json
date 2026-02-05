@@ -8188,5 +8188,41 @@
     "subcircuito": "MARIA AUXILIADORA 3",
     "id": "UNIDAD-EDUCATIVA-FISCAL-TARQUI-Z4-M-M-M",
     "nombre_punto": "Unidad educativa Fiscal Tarqui"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "SUBCENTRO-C1-SANTA-MARTHA-Z4-M-M-U",
+    "nombre_punto": "Subcentro C1 santa Martha"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "COLEGIO-TÉCNICO-LUIS-ARBOLEDA-MARTÍNEZ-Z4-M-M-U",
+    "nombre_punto": "Colegio técnico Luis Arboleda Martínez"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-4-DE-NOVIEMBRE-Z4-M-M-U",
+    "nombre_punto": "Unidad educativa fiscal 4 de Noviembre"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "UNIDAD-EDUCATIVA-REPUBLICA-DEL-ECUADOR-Z4-M-M-U",
+    "nombre_punto": "Unidad educativa Republica del ECUADOR"
   }
 ]
