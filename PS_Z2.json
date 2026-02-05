@@ -4822,5 +4822,14 @@
     "subcircuito": "SAN FRANCISCO DE BORJA 1",
     "id": "VÍVERES-NORMITA-SAN-FRANCISCO-DE-BORJA-Z2-N-E-S",
     "nombre_punto": "Víveres Normita San Francisco de Borja"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "VÍVERES-ANGELITO-Z2-N-E-E",
+    "nombre_punto": "Víveres Angelito"
   }
 ]
