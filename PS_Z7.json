@@ -4714,5 +4714,14 @@
     "subcircuito": "MACARA 2",
     "id": "IGLESIA-CENTINELA-DEL-SUR-Z7-L-M-M",
     "nombre_punto": "IGLESIA CENTINELA DEL SUR"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "ZAMORA CHINCHIPE",
+    "distrito": "YANTZAZA",
+    "circuito": "LOS ENCUENTROS",
+    "subcircuito": "LOS ENCUENTROS 1",
+    "id": "CACPE-YANTZAZA-Z7-Z-Y-L",
+    "nombre_punto": "Cacpe Yantzaza"
   }
 ]
