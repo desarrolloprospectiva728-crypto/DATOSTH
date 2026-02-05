@@ -182,7 +182,7 @@
   {
     "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
-    "distrito": "SUR-MORONA",
+    "distrito": "SUR - MORONA",
     "circuito": "GUALAQUIZA",
     "subcircuito": "GUALAQUIZA 1",
     "id": "JS-MOBILE-STORE-Z6-M-S-G",
@@ -191,7 +191,7 @@
   {
     "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
-    "distrito": "SUR-MORONA",
+    "distrito": "SUR - MORONA",
     "circuito": "GUALAQUIZA",
     "subcircuito": "GUALAQUIZA 1",
     "id": "TERMINAL-TERRESTRE-GUALAQUIZA-Z6-M-S-G",
@@ -200,7 +200,7 @@
   {
     "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
-    "distrito": "SUR-MORONA",
+    "distrito": "SUR - MORONA",
     "circuito": "GUALAQUIZA",
     "subcircuito": "GUALAQUIZA 1",
     "id": "PARQUE-CENTRAL-GUALQUIZA-Z6-M-S-G",
@@ -209,7 +209,7 @@
   {
     "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
-    "distrito": "SUR-MORONA",
+    "distrito": "SUR - MORONA",
     "circuito": "GUALAQUIZA",
     "subcircuito": "GUALAQUIZA 1",
     "id": "LA-CANGREJADA-GUALAQUIZA-Z6-M-S-G",
@@ -218,7 +218,7 @@
   {
     "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
-    "distrito": "SUR-MORONA",
+    "distrito": "SUR - MORONA",
     "circuito": "GUALAQUIZA",
     "subcircuito": "GUALAQUIZA 1",
     "id": "GASOLINERA-PETROECUADOR-Z6-M-S-G",
@@ -299,7 +299,7 @@
   {
     "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
-    "distrito": "SUR-MORONA",
+    "distrito": "SUR - MORONA",
     "circuito": "GUALAQUIZA",
     "subcircuito": "GUALAQUIZA 1",
     "id": "PLAZA-CIVICA-Z6-M-S-G",
@@ -308,7 +308,7 @@
   {
     "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
-    "distrito": "SUR-MORONA",
+    "distrito": "SUR - MORONA",
     "circuito": "GUALAQUIZA",
     "subcircuito": "GUALAQUIZA 1",
     "id": "GASOLINERA-MEJÍA-Z6-M-S-G",
@@ -317,7 +317,7 @@
   {
     "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
-    "distrito": "SUR-MORONA",
+    "distrito": "SUR - MORONA",
     "circuito": "GUALAQUIZA",
     "subcircuito": "GUALAQUIZA 1",
     "id": "FGE-Z6-M-S-G",
@@ -470,7 +470,7 @@
   {
     "zona": "ZONA 6",
     "subzona": "MORONA SANTIAGO",
-    "distrito": "SUR-MORONA",
+    "distrito": "SUR - MORONA",
     "circuito": "GUALAQUIZA",
     "subcircuito": "GUALAQUIZA 1",
     "id": "UPC-GUALAQUIZA-Z6-M-S-G",
