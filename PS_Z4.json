@@ -8161,5 +8161,23 @@
     "subcircuito": "MARIA AUXILIADORA 2",
     "id": "UNIDAD-EDUCATIVA-FISCAL-JOSÉ-LUIS-CHOEZ-CHANCAY-Z4-M-M-M",
     "nombre_punto": "Unidad educativa fiscal José Luis Choez Chancay"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 2",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-FE-Y-ALEGRIA-Z4-M-M-M",
+    "nombre_punto": "Unidad Educativa fiscal Fe y Alegria"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 2",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-EL-PORVENIR-Z4-M-M-M",
+    "nombre_punto": "Unidad educativa fiscal El Porvenir"
   }
 ]
