@@ -8134,5 +8134,23 @@
     "subcircuito": "MARIA AUXILIADORA 3",
     "id": "KEFRIO-REFRIGERACION-Y-LINEA-BLANCA-Z4-M-M-M",
     "nombre_punto": "KEFRIO REFRIGERACION Y LINEA BLANCA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 3",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-UMIÑA-Z4-M-M-M",
+    "nombre_punto": "Unidad educativa fiscal Umiña"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 3",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-DORA-LYA-CASTRO-DE-MERA-Z4-M-M-M",
+    "nombre_punto": "Unidad educativa fiscal Dora Lya Castro de Mera"
   }
 ]
