@@ -4885,5 +4885,14 @@
     "subcircuito": "TONCHIGUE 1",
     "id": "TIENDA-MIRNA-Z1-E-A-T",
     "nombre_punto": "Tienda Mirna"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "MOMPICHE",
+    "subcircuito": "MOMPICHE 1",
+    "id": "LA-LLEGADITA-DEL-SABOR.-Z1-E-A-M",
+    "nombre_punto": "La llegadita del sabor."
   }
 ]
