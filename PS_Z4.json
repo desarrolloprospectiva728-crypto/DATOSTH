@@ -8179,5 +8179,14 @@
     "subcircuito": "MARIA AUXILIADORA 2",
     "id": "UNIDAD-EDUCATIVA-FISCAL-EL-PORVENIR-Z4-M-M-M",
     "nombre_punto": "Unidad educativa fiscal El Porvenir"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 3",
+    "id": "UNIDAD-EDUCATIVA-FISCAL-TARQUI-Z4-M-M-M",
+    "nombre_punto": "Unidad educativa Fiscal Tarqui"
   }
 ]
