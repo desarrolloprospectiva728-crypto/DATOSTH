@@ -14911,5 +14911,14 @@
     "subcircuito": "LA MERCED 1",
     "id": "IMPORTADORA-WONG-Z5-L-Q-L",
     "nombre_punto": "Importadora Wong"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME CENTRO",
+    "subcircuito": "EMPALME CENTRO 1",
+    "id": "COPERATIVA-TRASPORTE-BOLÍVAR-VIA-MANABÍ-CCUDADELA-COROMOTO-Z5-G-E-E",
+    "nombre_punto": "Coperativa Trasporte Bolívar via Manabí cCudadela Coromoto"
   }
 ]
