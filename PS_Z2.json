@@ -4840,5 +4840,14 @@
     "subcircuito": "LINARES 1",
     "id": "GAD-PARROQUIAL-LINARES-Z2-N-E-L",
     "nombre_punto": "GAD PARROQUIAL LINARES"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "LINARES",
+    "subcircuito": "LINARES 1",
+    "id": "ABARROTES-DAMARIZ-Z2-N-E-L",
+    "nombre_punto": "ABARROTES DAMARIZ"
   }
 ]
