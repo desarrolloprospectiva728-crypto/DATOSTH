@@ -8125,5 +8125,14 @@
     "subcircuito": "PARQUE CENTRAL 1",
     "id": "MARISQUERIA-BILLYS-Z4-M-J-P",
     "nombre_punto": "MARISQUERIA BILLYS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 3",
+    "id": "KEFRIO-REFRIGERACION-Y-LINEA-BLANCA-Z4-M-M-M",
+    "nombre_punto": "KEFRIO REFRIGERACION Y LINEA BLANCA"
   }
 ]
