@@ -3625,5 +3625,14 @@
     "subcircuito": "SEVILLA DON BOSCO 1",
     "id": "UE.-JUAN-LEON-NERA-Z6-M-M-S",
     "nombre_punto": "UE. JUAN LEON NERA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "MORONA",
+    "circuito": "SEVILLA DON BOSCO",
+    "subcircuito": "SEVILLA DON BOSCO 1",
+    "id": "UPC-SEVILLA-Z6-M-M-S",
+    "nombre_punto": "UPC SEVILLA"
   }
 ]
