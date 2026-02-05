@@ -8116,5 +8116,14 @@
     "subcircuito": "PORTOVIEJO 3",
     "id": "VILORE'S-2---CALLE-AMERICA-Z4-M-P-P",
     "nombre_punto": "VILORE'S 2 - CALLE AMERICA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PARQUE CENTRAL",
+    "subcircuito": "PARQUE CENTRAL 1",
+    "id": "MARISQUERIA-BILLYS-Z4-M-J-P",
+    "nombre_punto": "MARISQUERIA BILLYS"
   }
 ]
