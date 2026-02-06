@@ -14920,5 +14920,14 @@
     "subcircuito": "EMPALME CENTRO 1",
     "id": "COPERATIVA-TRASPORTE-BOLÍVAR-VIA-MANABÍ-CCUDADELA-COROMOTO-Z5-G-E-E",
     "nombre_punto": "Coperativa Trasporte Bolívar via Manabí cCudadela Coromoto"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 2",
+    "id": "LA-CRISTALINA-Z5-G-P-P",
+    "nombre_punto": "La cristalina"
   }
 ]
