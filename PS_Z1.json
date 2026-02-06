@@ -4921,5 +4921,14 @@
     "subcircuito": "TONCHIGUE 2",
     "id": "FARMACIA-CRUZ-AZUL-SUA-Z1-E-A-T",
     "nombre_punto": "Farmacia Cruz Azul Sua"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "QUIROGA",
+    "subcircuito": "QUIROGA 1",
+    "id": "PROVIPANES-Z1-I-T-Q",
+    "nombre_punto": "Provipanes"
   }
 ]
