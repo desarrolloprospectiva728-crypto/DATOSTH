@@ -8260,5 +8260,23 @@
     "subcircuito": "PLAN DE VIVIENDA 2",
     "id": "DISTRIBUIDORA-MARBELLA-Z4-S-S-P",
     "nombre_punto": "Distribuidora Marbella"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "JUAN EULOGIO",
+    "subcircuito": "JUAN EULOGIO 3",
+    "id": "CHOCOFROZZ-Z4-S-S-J",
+    "nombre_punto": "CHOCOFROZZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PLAN DE VIVIENDA",
+    "subcircuito": "PLAN DE VIVIENDA 2",
+    "id": "FERRETERÍA-JM-Z4-S-S-P",
+    "nombre_punto": "Ferretería JM"
   }
 ]
