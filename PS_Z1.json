@@ -4930,5 +4930,14 @@
     "subcircuito": "QUIROGA 1",
     "id": "PROVIPANES-Z1-I-T-Q",
     "nombre_punto": "Provipanes"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 2",
+    "id": "INSTITUCION-FINANCIERA-LOS-ANDES-Z1-I-T-C",
+    "nombre_punto": "Institucion Financiera Los Andes"
   }
 ]
