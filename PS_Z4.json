@@ -8314,5 +8314,14 @@
     "subcircuito": "SAN JACINTO DEL BUA 1",
     "id": "COMERCIAL-AVEIGA-Z4-S-S-S",
     "nombre_punto": "Comercial Aveiga"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "DISTRIBUIDORA-JK-Z4-S-L-C",
+    "nombre_punto": "Distribuidora JK"
   }
 ]
