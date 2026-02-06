@@ -8305,5 +8305,14 @@
     "subcircuito": "PLAN DE VIVIENDA 1",
     "id": "CENTRO-DE-SALUD-MONTONEROS-DE-ALFARO-Z4-S-S-P",
     "nombre_punto": "Centro de Salud Montoneros de Alfaro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "SAN JACINTO DEL BUA",
+    "subcircuito": "SAN JACINTO DEL BUA 1",
+    "id": "COMERCIAL-AVEIGA-Z4-S-S-S",
+    "nombre_punto": "Comercial Aveiga"
   }
 ]
