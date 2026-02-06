@@ -8323,5 +8323,14 @@
     "subcircuito": "CONCORDIA NORTE 3",
     "id": "DISTRIBUIDORA-JK-Z4-S-L-C",
     "nombre_punto": "Distribuidora JK"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MIRAFLORES",
+    "subcircuito": "MIRAFLORES 2",
+    "id": "PASTELERÍA-LOLITA-FRENTE-AL-PARQUE-JOCAY-Z4-M-M-M",
+    "nombre_punto": "Pastelería Lolita frente al parque Jocay"
   }
 ]
