@@ -8341,5 +8341,14 @@
     "subcircuito": "CONCORDIA NORTE 2",
     "id": "FERRETERIA-MORENO-Z4-S-L-C",
     "nombre_punto": "Ferreteria Moreno"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "FERRETERIA-MEGA-HIERRO-Z4-S-L-C",
+    "nombre_punto": "Ferreteria Mega Hierro"
   }
 ]
