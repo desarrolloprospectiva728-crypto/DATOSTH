@@ -8332,5 +8332,14 @@
     "subcircuito": "MIRAFLORES 2",
     "id": "PASTELERÍA-LOLITA-FRENTE-AL-PARQUE-JOCAY-Z4-M-M-M",
     "nombre_punto": "Pastelería Lolita frente al parque Jocay"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "FERRETERIA-MORENO-Z4-S-L-C",
+    "nombre_punto": "Ferreteria Moreno"
   }
 ]
