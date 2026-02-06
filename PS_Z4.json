@@ -8278,5 +8278,14 @@
     "subcircuito": "PLAN DE VIVIENDA 2",
     "id": "FERRETERÍA-JM-Z4-S-S-P",
     "nombre_punto": "Ferretería JM"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PLAN DE VIVIENDA",
+    "subcircuito": "PLAN DE VIVIENDA 2",
+    "id": "UNIDAD-EDUCATIVA-JAIME-RUPERTO-YEROVI-Z4-S-S-P",
+    "nombre_punto": "Unidad Educativa Jaime Ruperto Yerovi"
   }
 ]
