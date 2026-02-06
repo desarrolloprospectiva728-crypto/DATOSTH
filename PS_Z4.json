@@ -8287,5 +8287,14 @@
     "subcircuito": "PLAN DE VIVIENDA 2",
     "id": "UNIDAD-EDUCATIVA-JAIME-RUPERTO-YEROVI-Z4-S-S-P",
     "nombre_punto": "Unidad Educativa Jaime Ruperto Yerovi"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "JUAN EULOGIO",
+    "subcircuito": "JUAN EULOGIO 2",
+    "id": "JARDIN-BOTANICO-Z4-S-S-J",
+    "nombre_punto": "JARDIN BOTANICO"
   }
 ]
