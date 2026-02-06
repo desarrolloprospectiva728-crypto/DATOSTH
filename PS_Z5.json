@@ -14929,5 +14929,14 @@
     "subcircuito": "PLAYAS 2",
     "id": "LA-CRISTALINA-Z5-G-P-P",
     "nombre_punto": "La cristalina"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "FARMACIA-ECONOMICA-Z5-L-B-T",
+    "nombre_punto": "FARMACIA ECONOMICA"
   }
 ]
