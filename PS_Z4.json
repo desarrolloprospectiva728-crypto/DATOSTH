@@ -8296,5 +8296,14 @@
     "subcircuito": "JUAN EULOGIO 2",
     "id": "JARDIN-BOTANICO-Z4-S-S-J",
     "nombre_punto": "JARDIN BOTANICO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PLAN DE VIVIENDA",
+    "subcircuito": "PLAN DE VIVIENDA 1",
+    "id": "CENTRO-DE-SALUD-MONTONEROS-DE-ALFARO-Z4-S-S-P",
+    "nombre_punto": "Centro de Salud Montoneros de Alfaro"
   }
 ]
