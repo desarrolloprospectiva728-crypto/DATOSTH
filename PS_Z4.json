@@ -8224,5 +8224,23 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "UNIDAD-EDUCATIVA-REPUBLICA-DEL-ECUADOR-Z4-M-M-U",
     "nombre_punto": "Unidad educativa Republica del ECUADOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 1",
+    "id": "SIRUS-SPORT-Z4-S-S-B",
+    "nombre_punto": "SIRUS SPORT"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PLAN DE VIVIENDA",
+    "subcircuito": "PLAN DE VIVIENDA 2",
+    "id": "TIENDA-MI-RANCHITO-Z4-S-S-P",
+    "nombre_punto": "Tienda Mi Ranchito"
   }
 ]
