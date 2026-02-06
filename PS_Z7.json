@@ -4723,5 +4723,14 @@
     "subcircuito": "LOS ENCUENTROS 1",
     "id": "CACPE-YANTZAZA-Z7-Z-Y-L",
     "nombre_punto": "Cacpe Yantzaza"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "TORATA",
+    "subcircuito": "TORATA 2",
+    "id": "DURAGAS-PLANTA-BELLAVISTA-Z7-E-S-T",
+    "nombre_punto": "DURAGAS PLANTA BELLAVISTA"
   }
 ]
