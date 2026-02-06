@@ -8242,5 +8242,14 @@
     "subcircuito": "PLAN DE VIVIENDA 2",
     "id": "TIENDA-MI-RANCHITO-Z4-S-S-P",
     "nombre_punto": "Tienda Mi Ranchito"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 1",
+    "id": "GYM-ZIRUS-Z4-S-S-B",
+    "nombre_punto": "Gym ZIRUS"
   }
 ]
