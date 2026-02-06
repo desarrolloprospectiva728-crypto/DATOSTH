@@ -4939,5 +4939,14 @@
     "subcircuito": "COTACACHI 2",
     "id": "INSTITUCION-FINANCIERA-LOS-ANDES-Z1-I-T-C",
     "nombre_punto": "Institucion Financiera Los Andes"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "IMANTAG",
+    "subcircuito": "IMANTAG 1",
+    "id": "CHOCOPAN-Z1-I-T-I",
+    "nombre_punto": "Chocopan"
   }
 ]
