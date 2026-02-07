@@ -8638,5 +8638,23 @@
     "subcircuito": "SAN JACINTO DEL BUA 1",
     "id": "MINISTERIO-SALUD-PÚBLICA-ZONAL-4-Z4-S-S-S",
     "nombre_punto": "Ministerio Salud pública Zonal 4"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "SAN JACINTO DEL BUA",
+    "subcircuito": "SAN JACINTO DEL BUA 1",
+    "id": "GOBIERNO-PARROQUIAL-SAN-JACINTO-DEL-BÚA-Z4-S-S-S",
+    "nombre_punto": "Gobierno Parroquial San Jacinto del Búa"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "FERRETERIA-PINTURAS-EL-COLORAMICO-Z4-S-L-C",
+    "nombre_punto": "Ferreteria Pinturas El Coloramico"
   }
 ]
