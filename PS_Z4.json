@@ -8377,5 +8377,23 @@
     "subcircuito": "NUEVO ISRAEL 1",
     "id": "FRIGORÍFICO-CHELO-Z4-S-S-N",
     "nombre_punto": "Frigorífico Chelo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 1",
+    "id": "DEPOSITO-DE-MADRA-SAAVEDRA-Z4-S-L-C",
+    "nombre_punto": "Deposito de Madra Saavedra"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "UNIDAD-EDUCATIVA-TOHALY-Z4-M-M-C",
+    "nombre_punto": "UNIDAD EDUCATIVA TOHALY"
   }
 ]
