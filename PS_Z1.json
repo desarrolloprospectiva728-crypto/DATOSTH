@@ -4948,5 +4948,14 @@
     "subcircuito": "IMANTAG 1",
     "id": "CHOCOPAN-Z1-I-T-I",
     "nombre_punto": "Chocopan"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "SUCUMBIOS",
+    "distrito": "PUTUMAYO",
+    "circuito": "TARAPOA",
+    "subcircuito": "TARAPOA 1",
+    "id": "LOCAL-CENTRO-GASTRONÓMICO-TARAPOA-(COMEDOR-TARAPOA)-Z1-S-P-T",
+    "nombre_punto": "Local Centro Gastronómico Tarapoa (Comedor Tarapoa)"
   }
 ]
