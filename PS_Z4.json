@@ -8350,5 +8350,23 @@
     "subcircuito": "CONCORDIA NORTE 2",
     "id": "FERRETERIA-MEGA-HIERRO-Z4-S-L-C",
     "nombre_punto": "Ferreteria Mega Hierro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "NUEVO ISRAEL",
+    "subcircuito": "NUEVO ISRAEL 1",
+    "id": "FRIGORÍFICO-CHELO-Z4-S-S-N",
+    "nombre_punto": "Frigorífico Chelo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "NUEVO ISRAEL",
+    "subcircuito": "NUEVO ISRAEL 1",
+    "id": "FRIGORÍFICO-CHELO-Z4-S-S-N",
+    "nombre_punto": "Frigorífico Chelo"
   }
 ]
