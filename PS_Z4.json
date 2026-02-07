@@ -8692,5 +8692,32 @@
     "subcircuito": "CONCORDIA NORTE 3",
     "id": "DISTRIBUIDORA-AGROPECUARIA-ANDRADE-Z4-S-L-C",
     "nombre_punto": "Distribuidora Agropecuaria Andrade"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "JUAN EULOGIO",
+    "subcircuito": "JUAN EULOGIO 2",
+    "id": "VÍVERES-3-HERMANOS-Z4-S-S-J",
+    "nombre_punto": "Víveres 3 hermanos"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 1",
+    "id": "SUPERMERCADO-MAYORISTA-PROINT-Z4-S-S-B",
+    "nombre_punto": "SUPERMERCADO MAYORISTA PROINT"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "SAN JACINTO DEL BUA",
+    "subcircuito": "SAN JACINTO DEL BUA 1",
+    "id": "MERCADO-CENTRAL-Z4-S-S-S",
+    "nombre_punto": "MERCADO CENTRAL"
   }
 ]
