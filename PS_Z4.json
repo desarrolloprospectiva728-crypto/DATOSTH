@@ -8440,5 +8440,23 @@
     "subcircuito": "NUEVO ISRAEL 1",
     "id": "POWER-GYM-Z4-S-S-N",
     "nombre_punto": "Power GYM"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 3",
+    "id": "PLANET-CELL-Z4-S-S-E",
+    "nombre_punto": "Planet Cell"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "UNIDAD-EDUCATIVA-5-DE-JUNIO-Z4-M-M-C",
+    "nombre_punto": "UNIDAD EDUCATIVA 5 DE JUNIO"
   }
 ]
