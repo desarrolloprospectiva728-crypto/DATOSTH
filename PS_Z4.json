@@ -8413,5 +8413,23 @@
     "subcircuito": "CENTRO 1",
     "id": "UNIDAD-EDUCATIVA-MANTA-Z4-M-M-C",
     "nombre_punto": "UNIDAD EDUCATIVA MANTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 1",
+    "id": "DESPENSA-DIEGO-ANDRES-Z4-S-L-C",
+    "nombre_punto": "Despensa Diego Andres"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "UNIVERSIDAD",
+    "subcircuito": "UNIVERSIDAD 2",
+    "id": "UNIDAD-EDUCATIVA-JAMBELY-Z4-M-M-U",
+    "nombre_punto": "UNIDAD EDUCATIVA JAMBELY"
   }
 ]
