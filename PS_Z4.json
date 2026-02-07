@@ -8620,5 +8620,14 @@
     "subcircuito": "CONCORDIA NORTE 2",
     "id": "FRIGORIFICO-MENDIETA-Z4-S-L-C",
     "nombre_punto": "Frigorifico Mendieta"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "SANDUCHES-CHONERO-SANCHO-Z4-S-L-C",
+    "nombre_punto": "Sanduches Chonero Sancho"
   }
 ]
