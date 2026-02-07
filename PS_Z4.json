@@ -8719,5 +8719,14 @@
     "subcircuito": "SAN JACINTO DEL BUA 1",
     "id": "MERCADO-CENTRAL-Z4-S-S-S",
     "nombre_punto": "MERCADO CENTRAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 1",
+    "id": "COMERCIAL-LA,FERIA-Z4-S-S-B",
+    "nombre_punto": "COMERCIAL LA,FERIA"
   }
 ]
