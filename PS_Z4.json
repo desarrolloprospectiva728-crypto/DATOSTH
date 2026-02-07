@@ -8665,5 +8665,32 @@
     "subcircuito": "SAN JACINTO DEL BUA 1",
     "id": "FERRI-REPUESTOS-EL-MAESTRO-Z4-S-S-S",
     "nombre_punto": "Ferri repuestos el maestro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 1",
+    "id": "PINTULAC-Z4-S-S-B",
+    "nombre_punto": "PINTULAC"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "JUAN EULOGIO",
+    "subcircuito": "JUAN EULOGIO 2",
+    "id": "SUBCENTRO-DE-SALUD-Z4-S-S-J",
+    "nombre_punto": "Subcentro de salud"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "DISTRIBUIDORA-AGROPECUARIA-ANDRADE-Z4-S-L-C",
+    "nombre_punto": "Distribuidora Agropecuaria Andrade"
   }
 ]
