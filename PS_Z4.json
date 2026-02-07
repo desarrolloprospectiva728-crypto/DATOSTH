@@ -8512,5 +8512,23 @@
     "subcircuito": "CUBA 4",
     "id": "UNIDAD-EDUCATIVA-26-DE-JUNIO-Z4-M-M-C",
     "nombre_punto": "UNIDAD EDUCATIVA 26 DE JUNIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 1",
+    "id": "TIENDA-ELIZABEHT-Z4-S-L-C",
+    "nombre_punto": "Tienda Elizabeht"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL PROLETARIADO",
+    "subcircuito": "EL PROLETARIADO 1",
+    "id": "PANADERÍA-PUNTO-FIJO-Z4-S-S-E",
+    "nombre_punto": "Panadería punto fijo"
   }
 ]
