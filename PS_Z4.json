@@ -8557,5 +8557,32 @@
     "subcircuito": "LA FABRIL 2",
     "id": "UNIDAD-EDUCATIVA-KERLLY-TORRES-Z4-M-M-L",
     "nombre_punto": "UNIDAD EDUCATIVA KERLLY TORRES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "JUAN EULOGIO",
+    "subcircuito": "JUAN EULOGIO 3",
+    "id": "HOSPITAL-SANTO-DOMINGO-Z4-S-S-J",
+    "nombre_punto": "HOSPITAL SANTO DOMINGO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "PAPELERIA-BAZAR-CHIQUI-Z4-M-M-L",
+    "nombre_punto": "PAPELERIA BAZAR CHIQUI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL PROLETARIADO",
+    "subcircuito": "EL PROLETARIADO 1",
+    "id": "DULCE-RENASER-Z4-S-S-E",
+    "nombre_punto": "Dulce renaser"
   }
 ]
