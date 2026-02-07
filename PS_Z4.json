@@ -8593,5 +8593,14 @@
     "subcircuito": "EL PROLETARIADO 1",
     "id": "TIENDA-STEFFY-Z4-S-S-E",
     "nombre_punto": "Tienda Steffy"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 1",
+    "id": "UNIDAD-EDUCATIVA-GENERAL-ELOY-ALFARO-Z4-M-M-L",
+    "nombre_punto": "UNIDAD EDUCATIVA GENERAL ELOY ALFARO"
   }
 ]
