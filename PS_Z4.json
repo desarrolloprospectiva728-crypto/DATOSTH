@@ -8530,5 +8530,14 @@
     "subcircuito": "EL PROLETARIADO 1",
     "id": "PANADERÍA-PUNTO-FIJO-Z4-S-S-E",
     "nombre_punto": "Panadería punto fijo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "HORNADO-SAN-LUIS-Z4-S-L-C",
+    "nombre_punto": "Hornado San Luis"
   }
 ]
