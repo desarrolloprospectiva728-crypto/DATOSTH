@@ -8431,5 +8431,14 @@
     "subcircuito": "UNIVERSIDAD 2",
     "id": "UNIDAD-EDUCATIVA-JAMBELY-Z4-M-M-U",
     "nombre_punto": "UNIDAD EDUCATIVA JAMBELY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "NUEVO ISRAEL",
+    "subcircuito": "NUEVO ISRAEL 1",
+    "id": "POWER-GYM-Z4-S-S-N",
+    "nombre_punto": "Power GYM"
   }
 ]
