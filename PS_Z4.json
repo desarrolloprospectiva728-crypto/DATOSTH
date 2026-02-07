@@ -8458,5 +8458,32 @@
     "subcircuito": "CENTRO 2",
     "id": "UNIDAD-EDUCATIVA-5-DE-JUNIO-Z4-M-M-C",
     "nombre_punto": "UNIDAD EDUCATIVA 5 DE JUNIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 1",
+    "id": "AGRIPAC-Z4-S-S-E",
+    "nombre_punto": "Agripac"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 1",
+    "id": "FERRETERIA-SU-AHORRO-Z4-S-L-C",
+    "nombre_punto": "Ferreteria Su Ahorro"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 3",
+    "id": "UNIDAD-EDUCATIVA-PAQUISHA-Z4-M-M-C",
+    "nombre_punto": "UNIDAD EDUCATIVA PAQUISHA"
   }
 ]
