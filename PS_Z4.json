@@ -8728,5 +8728,23 @@
     "subcircuito": "BOMBOLI 1",
     "id": "COMERCIAL-LA,FERIA-Z4-S-S-B",
     "nombre_punto": "COMERCIAL LA,FERIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "NUEVO ISRAEL",
+    "subcircuito": "NUEVO ISRAEL 1",
+    "id": "ASADOS-DON-MAU-Z4-S-S-N",
+    "nombre_punto": "Asados Don Mau"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "JUAN EULOGIO",
+    "subcircuito": "JUAN EULOGIO 2",
+    "id": "BAZAR-Y-PAPELERÍA-EL-ESTUDIANTE-Z4-S-S-J",
+    "nombre_punto": "bazar y papelería el estudiante"
   }
 ]
