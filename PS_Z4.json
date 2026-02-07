@@ -8602,5 +8602,14 @@
     "subcircuito": "LA FABRIL 1",
     "id": "UNIDAD-EDUCATIVA-GENERAL-ELOY-ALFARO-Z4-M-M-L",
     "nombre_punto": "UNIDAD EDUCATIVA GENERAL ELOY ALFARO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL PROLETARIADO",
+    "subcircuito": "EL PROLETARIADO 1",
+    "id": "VÍVERES-KAREN-Z4-S-S-E",
+    "nombre_punto": "Víveres karen"
   }
 ]
