@@ -8611,5 +8611,14 @@
     "subcircuito": "EL PROLETARIADO 1",
     "id": "VÍVERES-KAREN-Z4-S-S-E",
     "nombre_punto": "Víveres karen"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "FRIGORIFICO-MENDIETA-Z4-S-L-C",
+    "nombre_punto": "Frigorifico Mendieta"
   }
 ]
