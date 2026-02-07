@@ -8584,5 +8584,14 @@
     "subcircuito": "EL PROLETARIADO 1",
     "id": "DULCE-RENASER-Z4-S-S-E",
     "nombre_punto": "Dulce renaser"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL PROLETARIADO",
+    "subcircuito": "EL PROLETARIADO 1",
+    "id": "TIENDA-STEFFY-Z4-S-S-E",
+    "nombre_punto": "Tienda Steffy"
   }
 ]
