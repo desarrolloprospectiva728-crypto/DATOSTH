@@ -8656,5 +8656,14 @@
     "subcircuito": "CONCORDIA NORTE 3",
     "id": "FERRETERIA-PINTURAS-EL-COLORAMICO-Z4-S-L-C",
     "nombre_punto": "Ferreteria Pinturas El Coloramico"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "SAN JACINTO DEL BUA",
+    "subcircuito": "SAN JACINTO DEL BUA 1",
+    "id": "FERRI-REPUESTOS-EL-MAESTRO-Z4-S-S-S",
+    "nombre_punto": "Ferri repuestos el maestro"
   }
 ]
