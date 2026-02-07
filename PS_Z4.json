@@ -8539,5 +8539,23 @@
     "subcircuito": "CONCORDIA NORTE 3",
     "id": "HORNADO-SAN-LUIS-Z4-S-L-C",
     "nombre_punto": "Hornado San Luis"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 3",
+    "id": "DIESEL-INJECTION-SERVICES-Z4-S-S-E",
+    "nombre_punto": "Diesel Injection Services"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LA FABRIL",
+    "subcircuito": "LA FABRIL 2",
+    "id": "UNIDAD-EDUCATIVA-KERLLY-TORRES-Z4-M-M-L",
+    "nombre_punto": "UNIDAD EDUCATIVA KERLLY TORRES"
   }
 ]
