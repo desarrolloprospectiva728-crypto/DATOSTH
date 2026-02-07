@@ -8485,5 +8485,32 @@
     "subcircuito": "CUBA 3",
     "id": "UNIDAD-EDUCATIVA-PAQUISHA-Z4-M-M-C",
     "nombre_punto": "UNIDAD EDUCATIVA PAQUISHA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "NUEVO ISRAEL",
+    "subcircuito": "NUEVO ISRAEL 1",
+    "id": "VÍVERES-CARLITA-Z4-S-S-N",
+    "nombre_punto": "Víveres Carlita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 3",
+    "id": "CORAL-HIPERMECADOS-Z4-S-S-E",
+    "nombre_punto": "Coral Hipermecados"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "CUBA",
+    "subcircuito": "CUBA 4",
+    "id": "UNIDAD-EDUCATIVA-26-DE-JUNIO-Z4-M-M-C",
+    "nombre_punto": "UNIDAD EDUCATIVA 26 DE JUNIO"
   }
 ]
