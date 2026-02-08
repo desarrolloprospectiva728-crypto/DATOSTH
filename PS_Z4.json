@@ -8728,5 +8728,32 @@
     "subcircuito": "JUAN EULOGIO 2",
     "id": "BAZAR-Y-PAPELERÍA-EL-ESTUDIANTE-Z4-S-S-J",
     "nombre_punto": "bazar y papelería el estudiante"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PUERTO LIMON",
+    "subcircuito": "PUERTO LIMON 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-PUERTO-LIMÓN-Z4-S-S-P",
+    "nombre_punto": "Cooperativa de Ahorro y Crédito Puerto Limón"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PUERTO LIMON",
+    "subcircuito": "PUERTO LIMON 1",
+    "id": "CENTRO-DE-SALUD-TIPO-A-PUERTO-LIMÓN-Z4-S-S-P",
+    "nombre_punto": "Centro de Salud Tipo A Puerto Limón"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PUERTO LIMON",
+    "subcircuito": "PUERTO LIMON 1",
+    "id": "UNIDAD-EDUCATIVA-PUERTO-LIMÓN-BLOQUE-3-Z4-S-S-P",
+    "nombre_punto": "Unidad Educativa Puerto Limón Bloque 3"
   }
 ]
