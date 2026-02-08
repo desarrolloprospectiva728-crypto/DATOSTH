@@ -8863,5 +8863,14 @@
     "subcircuito": "VALLE HERMOSO 1",
     "id": "PARADOR-RESTAURANTE-EL-OASIS-Z4-S-S-V",
     "nombre_punto": "PARADOR RESTAURANTE EL OASIS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "VALLE HERMOSO",
+    "subcircuito": "VALLE HERMOSO 1",
+    "id": "GASOLINERA-VALLE-HERMOSO-Z4-S-S-V",
+    "nombre_punto": "GASOLINERA VALLE HERMOSO"
   }
 ]
