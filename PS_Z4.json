@@ -8899,5 +8899,14 @@
     "subcircuito": "VALLE HERMOSO 1",
     "id": "GASOLINERA-GILBERTO-ZAMBRANO-Z4-S-S-V",
     "nombre_punto": "GASOLINERA GILBERTO ZAMBRANO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "VALLE HERMOSO",
+    "subcircuito": "VALLE HERMOSO 1",
+    "id": "EMPRESA-PRONACA-Z4-S-S-V",
+    "nombre_punto": "EMPRESA PRONACA"
   }
 ]
