@@ -8818,5 +8818,14 @@
     "subcircuito": "CONCORDIA NORTE 2",
     "id": "AUTO-ACCESORIOS-LA-CONCORDIA-Z4-S-L-C",
     "nombre_punto": "Auto Accesorios La Concordia"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 2",
+    "id": "BALNEARIO-MITAD-DEL-MUNDO-Z4-S-L-C",
+    "nombre_punto": "Balneario Mitad Del Mundo"
   }
 ]
