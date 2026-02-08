@@ -4975,5 +4975,14 @@
     "subcircuito": "COTACACHI 1",
     "id": "COOPERATIVA-SAN-FERNANDO-Z1-I-T-C",
     "nombre_punto": "Cooperativa San Fernando"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LAS TOTORAS",
+    "subcircuito": "LAS TOTORAS 2",
+    "id": "PATIOS-DE-RETENCIÓN-DE-LA-UNAI-(PJ)-Z1-I-C-L",
+    "nombre_punto": "Patios de retención de la UNAI (PJ)"
   }
 ]
