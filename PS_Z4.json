@@ -8782,5 +8782,14 @@
     "subcircuito": "CONCORDIA NORTE 3",
     "id": "ENCEBOLLADOS-EL-BUEN-SABOR-Z4-S-L-C",
     "nombre_punto": "Encebollados El Buen Sabor"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 1",
+    "id": "HOSTERIA-CASA-GRANDE-Z4-S-L-C",
+    "nombre_punto": "Hosteria Casa Grande"
   }
 ]
