@@ -8917,5 +8917,14 @@
     "subcircuito": "BOMBOLI 2",
     "id": "PANADERIA-LA-TRADICION-QUITEÑA-Z4-S-S-B",
     "nombre_punto": "PANADERIA LA TRADICION QUITEÑA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 2",
+    "id": "PARRILLADA-EL-PRIMO-AV-MANABI-Z4-M-P-P",
+    "nombre_punto": "PARRILLADA EL PRIMO AV MANABI"
   }
 ]
