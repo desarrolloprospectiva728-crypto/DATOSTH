@@ -8827,5 +8827,14 @@
     "subcircuito": "CONCORDIA NORTE 2",
     "id": "BALNEARIO-MITAD-DEL-MUNDO-Z4-S-L-C",
     "nombre_punto": "Balneario Mitad Del Mundo"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "CENTRO-DE-SALUD-LA-CONCORDIA-Z4-S-L-C",
+    "nombre_punto": "Centro De Salud  La Concordia"
   }
 ]
