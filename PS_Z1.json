@@ -4966,5 +4966,14 @@
     "subcircuito": "COTACACHI 1",
     "id": "KING-PEP-Z1-I-T-C",
     "nombre_punto": "King pep"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 1",
+    "id": "COOPERATIVA-SAN-FERNANDO-Z1-I-T-C",
+    "nombre_punto": "Cooperativa San Fernando"
   }
 ]
