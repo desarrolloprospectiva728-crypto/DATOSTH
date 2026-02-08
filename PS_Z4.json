@@ -8773,5 +8773,14 @@
     "subcircuito": "PUERTO LIMON 1",
     "id": "SU-AHORRO-SUPERMERCADO-Z4-S-S-P",
     "nombre_punto": "Su Ahorro Supermercado"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "ENCEBOLLADOS-EL-BUEN-SABOR-Z4-S-L-C",
+    "nombre_punto": "Encebollados El Buen Sabor"
   }
 ]
