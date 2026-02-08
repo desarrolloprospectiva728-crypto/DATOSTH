@@ -3643,5 +3643,14 @@
     "subcircuito": "MACAS 1",
     "id": "BANCO-PICHINCHA-Z6-M-M-M",
     "nombre_punto": "Banco Pichincha"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "BELLAVISTA",
+    "subcircuito": "BELLAVISTA 1",
+    "id": "MINIMARKET-MARITZA-Z6-A-C-B",
+    "nombre_punto": "MINIMARKET MARITZA"
   }
 ]
