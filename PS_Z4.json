@@ -8908,5 +8908,14 @@
     "subcircuito": "VALLE HERMOSO 1",
     "id": "EMPRESA-PRONACA-Z4-S-S-V",
     "nombre_punto": "EMPRESA PRONACA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 2",
+    "id": "PANADERIA-LA-TRADICION-QUITEÑA-Z4-S-S-B",
+    "nombre_punto": "PANADERIA LA TRADICION QUITEÑA"
   }
 ]
