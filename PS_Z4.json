@@ -8845,5 +8845,14 @@
     "subcircuito": "CONCORDIA NORTE 3",
     "id": "CENTRO-MEDICO-DE-ESPECIALIDADES-SANTA-CLARA-Z4-S-L-C",
     "nombre_punto": "Centro Medico De Especialidades Santa Clara"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 1",
+    "id": "REDFARMACY-DEL-BARRIO-FARMACIA-Z4-S-L-C",
+    "nombre_punto": "REDfarmacy Del Barrio Farmacia"
   }
 ]
