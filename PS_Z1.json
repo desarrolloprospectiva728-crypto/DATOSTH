@@ -4957,5 +4957,14 @@
     "subcircuito": "TARAPOA 1",
     "id": "LOCAL-CENTRO-GASTRONÓMICO-TARAPOA-(COMEDOR-TARAPOA)-Z1-S-P-T",
     "nombre_punto": "Local Centro Gastronómico Tarapoa (Comedor Tarapoa)"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "TIERRA DEL SOL",
+    "circuito": "COTACACHI",
+    "subcircuito": "COTACACHI 1",
+    "id": "KING-PEP-Z1-I-T-C",
+    "nombre_punto": "King pep"
   }
 ]
