@@ -8755,5 +8755,23 @@
     "subcircuito": "PUERTO LIMON 1",
     "id": "UNIDAD-EDUCATIVA-PUERTO-LIMÓN-BLOQUE-3-Z4-S-S-P",
     "nombre_punto": "Unidad Educativa Puerto Limón Bloque 3"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PUERTO LIMON",
+    "subcircuito": "PUERTO LIMON 1",
+    "id": "TIENDA-KATHERIN-Z4-S-S-P",
+    "nombre_punto": "Tienda Katherin"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "PUERTO LIMON",
+    "subcircuito": "PUERTO LIMON 1",
+    "id": "SU-AHORRO-SUPERMERCADO-Z4-S-S-P",
+    "nombre_punto": "Su Ahorro Supermercado"
   }
 ]
