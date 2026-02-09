@@ -4984,5 +4984,14 @@
     "subcircuito": "LAS TOTORAS 2",
     "id": "PATIOS-DE-RETENCIÓN-DE-LA-UNAI-(PJ)-Z1-I-C-L",
     "nombre_punto": "Patios de retención de la UNAI (PJ)"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "LA TOLITA",
+    "subcircuito": "LA TOLITA 1",
+    "id": "GASOLINA-PRIMAX-DE-LEÓN-Z1-E-E-L",
+    "nombre_punto": "Gasolina primax de león"
   }
 ]
