@@ -8926,5 +8926,14 @@
     "subcircuito": "PORTOVIEJO 2",
     "id": "PARRILLADA-EL-PRIMO-AV-MANABI-Z4-M-P-P",
     "nombre_punto": "PARRILLADA EL PRIMO AV MANABI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "CHILA",
+    "subcircuito": "CHILA 1",
+    "id": "UTE-Z4-S-S-C",
+    "nombre_punto": "UTE"
   }
 ]
