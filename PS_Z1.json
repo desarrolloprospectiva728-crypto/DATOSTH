@@ -4993,5 +4993,14 @@
     "subcircuito": "LA TOLITA 1",
     "id": "GASOLINA-PRIMAX-DE-LEÓN-Z1-E-E-L",
     "nombre_punto": "Gasolina primax de león"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "COLECTIVA",
+    "subcircuito": "COLECTIVA 1",
+    "id": "POLLO-GALAXI-REDONDEL-CONDESA-Z1-E-E-C",
+    "nombre_punto": "Pollo Galaxi Redondel Condesa"
   }
 ]
