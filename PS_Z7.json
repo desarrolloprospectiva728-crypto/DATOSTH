@@ -4741,5 +4741,14 @@
     "subcircuito": "EL INGENIO 1",
     "id": "CENTRO-DE-SALUS-27-DE-ABRIL-TIPO-A-27-DE-ABRIL-Z7-L-E-E",
     "nombre_punto": "CENTRO DE SALUS 27 DE ABRIL TIPO A 27 DE ABRIL"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "ESPINDOLA",
+    "circuito": "EL INGENIO",
+    "subcircuito": "EL INGENIO 1",
+    "id": "CENTRO-DE-SALUD-TIPO-A-27-DE-ABRIL-Z7-L-E-E",
+    "nombre_punto": "CENTRO DE SALUD TIPO A 27 DE ABRIL"
   }
 ]
