@@ -8944,5 +8944,14 @@
     "subcircuito": "CHILA 1",
     "id": "GASOLINERA-HENAY-Z4-S-S-C",
     "nombre_punto": "GASOLINERA HENAY"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "CHILA",
+    "subcircuito": "CHILA 1",
+    "id": "GASOLINERA-P&S-Z4-S-S-C",
+    "nombre_punto": "GASOLINERA P&S"
   }
 ]
