@@ -5038,5 +5038,14 @@
     "subcircuito": "COLECTIVA 2",
     "id": "LA-BODEGUITA-LOCAL-COMERCIAL-Z1-E-E-C",
     "nombre_punto": "La Bodeguita Local Comercial"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "GALERAS",
+    "subcircuito": "GALERAS 2",
+    "id": "PARADOR-LA-CHOZA-Z1-E-A-G",
+    "nombre_punto": "PARADOR LA CHOZA"
   }
 ]
