@@ -14965,5 +14965,14 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "LUBRICADORA-EL-CHINO-2-Z5-L-B-T",
     "nombre_punto": "LUBRICADORA EL CHINO 2"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "TERMINAL TERRESTRE",
+    "subcircuito": "TERMINAL TERRESTRE 1",
+    "id": "IMPORTADORA-VIZUETE-Z5-L-B-T",
+    "nombre_punto": "IMPORTADORA VIZUETE"
   }
 ]
