@@ -5011,5 +5011,14 @@
     "subcircuito": "COLECTIVA 2",
     "id": "GASOLINERA-PETROLIUM-REDONDEL-DE-CODESA-Z1-E-E-C",
     "nombre_punto": "Gasolinera Petrolium Redondel de Codesa"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "COLECTIVA",
+    "subcircuito": "COLECTIVA 2",
+    "id": "GASOLINERA-TERPEL-REDONDEL-CODESA-Z1-E-E-C",
+    "nombre_punto": "Gasolinera Terpel Redondel Codesa"
   }
 ]
