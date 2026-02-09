@@ -8953,5 +8953,14 @@
     "subcircuito": "CHILA 1",
     "id": "GASOLINERA-P&S-Z4-S-S-C",
     "nombre_punto": "GASOLINERA P&S"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "LEONIDAS PROAÑO",
+    "subcircuito": "LEONIDAS PROAÑO 1",
+    "id": "UNIDAD-EDUCATIVA-JACOBO-VERA-Z4-M-M-L",
+    "nombre_punto": "UNIDAD EDUCATIVA JACOBO VERA"
   }
 ]
