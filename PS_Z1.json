@@ -5020,5 +5020,23 @@
     "subcircuito": "COLECTIVA 2",
     "id": "GASOLINERA-TERPEL-REDONDEL-CODESA-Z1-E-E-C",
     "nombre_punto": "Gasolinera Terpel Redondel Codesa"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "COLECTIVA",
+    "subcircuito": "COLECTIVA 2",
+    "id": "JUZA-PASTELERÍA-Z1-E-E-C",
+    "nombre_punto": "Juza Pastelería"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "COLECTIVA",
+    "subcircuito": "COLECTIVA 2",
+    "id": "LA-BODEGUITA-LOCAL-COMERCIAL-Z1-E-E-C",
+    "nombre_punto": "La Bodeguita Local Comercial"
   }
 ]
