@@ -9016,5 +9016,14 @@
     "subcircuito": "LOS CEREZOS 2",
     "id": "IMPORFRIO&SERVI-S.A.-Z4-M-P-L",
     "nombre_punto": "IMPORFRIO&SERVI S.A."
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "TERMINAL-TERRESTRE-PEDERNALES-Z4-M-P-P",
+    "nombre_punto": "TERMINAL TERRESTRE PEDERNALES"
   }
 ]
