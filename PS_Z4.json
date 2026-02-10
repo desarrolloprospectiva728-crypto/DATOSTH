@@ -8998,5 +8998,14 @@
     "subcircuito": "EL PROLETARIADO 2",
     "id": "LAS-DELICIAS-DE-MI-TIERRITA-Z4-S-S-E",
     "nombre_punto": "LAS DELICIAS DE MI TIERRITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL PROLETARIADO",
+    "subcircuito": "EL PROLETARIADO 2",
+    "id": "MULTI-PRODUCTOS-MARY-Z4-S-S-E",
+    "nombre_punto": "Multi productos mary"
   }
 ]
