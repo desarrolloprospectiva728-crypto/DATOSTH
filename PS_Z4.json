@@ -8980,5 +8980,14 @@
     "subcircuito": "TRES DE JULIO 1",
     "id": "NOVEDADES-KEVIN-EDUARDO-Z4-S-S-T",
     "nombre_punto": "NOVEDADES KEVIN EDUARDO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL COLORADO",
+    "subcircuito": "EL COLORADO 1",
+    "id": "HOTEL-VICTORIA-SUITES-Z4-S-S-E",
+    "nombre_punto": "Hotel Victoria Suites"
   }
 ]
