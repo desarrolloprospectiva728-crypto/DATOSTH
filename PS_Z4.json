@@ -9007,5 +9007,14 @@
     "subcircuito": "EL PROLETARIADO 2",
     "id": "MULTI-PRODUCTOS-MARY-Z4-S-S-E",
     "nombre_punto": "Multi productos mary"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "LOS CEREZOS",
+    "subcircuito": "LOS CEREZOS 2",
+    "id": "IMPORFRIO&SERVI-S.A.-Z4-M-P-L",
+    "nombre_punto": "IMPORFRIO&SERVI S.A."
   }
 ]
