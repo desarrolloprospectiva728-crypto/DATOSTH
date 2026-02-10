@@ -8989,5 +8989,14 @@
     "subcircuito": "EL COLORADO 1",
     "id": "HOTEL-VICTORIA-SUITES-Z4-S-S-E",
     "nombre_punto": "Hotel Victoria Suites"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "EL PROLETARIADO",
+    "subcircuito": "EL PROLETARIADO 2",
+    "id": "LAS-DELICIAS-DE-MI-TIERRITA-Z4-S-S-E",
+    "nombre_punto": "LAS DELICIAS DE MI TIERRITA"
   }
 ]
