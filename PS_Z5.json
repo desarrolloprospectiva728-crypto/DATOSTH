@@ -14983,5 +14983,14 @@
     "subcircuito": "SANTA LUCIA 1",
     "id": "LAVADORA-Y-LUBRICADORA-NASCAR-Z5-G-D-S",
     "nombre_punto": "LAVADORA Y LUBRICADORA NASCAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "EL-RANCHITO-7-DE-OCTUBRE-1-Z5-L-Q-S",
+    "nombre_punto": "EL RANCHITO 7 DE OCTUBRE 1"
   }
 ]
