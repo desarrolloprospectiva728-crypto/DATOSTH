@@ -14974,5 +14974,14 @@
     "subcircuito": "TERMINAL TERRESTRE 1",
     "id": "IMPORTADORA-VIZUETE-Z5-L-B-T",
     "nombre_punto": "IMPORTADORA VIZUETE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "SANTA LUCIA",
+    "subcircuito": "SANTA LUCIA 1",
+    "id": "LAVADORA-Y-LUBRICADORA-NASCAR-Z5-G-D-S",
+    "nombre_punto": "LAVADORA Y LUBRICADORA NASCAR"
   }
 ]
