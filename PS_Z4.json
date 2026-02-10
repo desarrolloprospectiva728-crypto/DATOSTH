@@ -8971,5 +8971,14 @@
     "subcircuito": "CENTRO 1",
     "id": "EMBAJADA,-RESIDENCIA-Y-CONSULADO-DE-COLOMBIA-Z4-S-S-C",
     "nombre_punto": "EMBAJADA, RESIDENCIA Y CONSULADO DE COLOMBIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 1",
+    "id": "NOVEDADES-KEVIN-EDUARDO-Z4-S-S-T",
+    "nombre_punto": "NOVEDADES KEVIN EDUARDO"
   }
 ]
