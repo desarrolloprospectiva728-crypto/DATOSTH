@@ -9025,5 +9025,14 @@
     "subcircuito": "PEDERNALES NORTE 1",
     "id": "TERMINAL-TERRESTRE-PEDERNALES-Z4-M-P-P",
     "nombre_punto": "TERMINAL TERRESTRE PEDERNALES"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "HUVERIA-DON-GRANDE-2---CALLE-QUITO-Z4-M-P-P",
+    "nombre_punto": "HUVERIA DON GRANDE 2 - CALLE QUITO"
   }
 ]
