@@ -3652,5 +3652,14 @@
     "subcircuito": "BELLAVISTA 1",
     "id": "MINIMARKET-MARITZA-Z6-A-C-B",
     "nombre_punto": "MINIMARKET MARITZA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "CAJERO-JEP-Z6-A-S-S",
+    "nombre_punto": "CAJERO JEP"
   }
 ]
