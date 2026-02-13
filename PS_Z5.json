@@ -15001,5 +15001,14 @@
     "subcircuito": "BABA 1",
     "id": "MEGA-TODO-Z5-L-B-B",
     "nombre_punto": "Mega Todo"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "CONTROL",
+    "subcircuito": "CONTROL 1",
+    "id": "MAQUINARIAS-WILPAC-Z5-L-Q-C",
+    "nombre_punto": "MAQUINARIAS WILPAC"
   }
 ]
