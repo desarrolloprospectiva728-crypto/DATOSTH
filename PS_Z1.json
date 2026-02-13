@@ -5047,5 +5047,14 @@
     "subcircuito": "GALERAS 2",
     "id": "PARADOR-LA-CHOZA-Z1-E-A-G",
     "nombre_punto": "PARADOR LA CHOZA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "LIMONES",
+    "subcircuito": "LIMONES 3",
+    "id": "MI-VECINO-MY-MARY-Z1-E-E-L",
+    "nombre_punto": "Mi vecino MY MARY"
   }
 ]
