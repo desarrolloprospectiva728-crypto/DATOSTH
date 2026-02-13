@@ -9043,5 +9043,14 @@
     "subcircuito": "PEDERNALES SUR 1",
     "id": "IMPORTADORA-LOVACHA-Z4-M-P-P",
     "nombre_punto": "IMPORTADORA LOVACHA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 2",
+    "id": "PAPAS-TUKKAZ-DEL-PILOSO-Z4-S-S-B",
+    "nombre_punto": "PAPAS TUKKAZ DEL PILOSO"
   }
 ]
