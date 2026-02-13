@@ -9034,5 +9034,14 @@
     "subcircuito": "PORTOVIEJO 3",
     "id": "HUVERIA-DON-GRANDE-2---CALLE-QUITO-Z4-M-P-P",
     "nombre_punto": "HUVERIA DON GRANDE 2 - CALLE QUITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "IMPORTADORA-LOVACHA-Z4-M-P-P",
+    "nombre_punto": "IMPORTADORA LOVACHA"
   }
 ]
