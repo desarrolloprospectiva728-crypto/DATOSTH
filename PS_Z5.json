@@ -14992,5 +14992,14 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "EL-RANCHITO-7-DE-OCTUBRE-1-Z5-L-Q-S",
     "nombre_punto": "EL RANCHITO 7 DE OCTUBRE 1"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BABAHOYO",
+    "circuito": "BABA",
+    "subcircuito": "BABA 1",
+    "id": "MEGA-TODO-Z5-L-B-B",
+    "nombre_punto": "Mega Todo"
   }
 ]
