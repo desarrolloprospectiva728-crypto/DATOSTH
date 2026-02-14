@@ -9061,5 +9061,14 @@
     "subcircuito": "ABDON CALDERON 1",
     "id": "GASOLINERA-PETRO-CALDERON-Z4-M-P-A",
     "nombre_punto": "GASOLINERA PETRO CALDERON"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "ABDON CALDERON",
+    "subcircuito": "ABDON CALDERON 1",
+    "id": "FARMACIA-SAN-GREGORIO-Z4-M-P-A",
+    "nombre_punto": "FARMACIA SAN GREGORIO"
   }
 ]
