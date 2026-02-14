@@ -9052,5 +9052,14 @@
     "subcircuito": "BOMBOLI 2",
     "id": "PAPAS-TUKKAZ-DEL-PILOSO-Z4-S-S-B",
     "nombre_punto": "PAPAS TUKKAZ DEL PILOSO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "ABDON CALDERON",
+    "subcircuito": "ABDON CALDERON 1",
+    "id": "GASOLINERA-PETRO-CALDERON-Z4-M-P-A",
+    "nombre_punto": "GASOLINERA PETRO CALDERON"
   }
 ]
