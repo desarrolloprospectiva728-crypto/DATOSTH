@@ -9070,5 +9070,23 @@
     "subcircuito": "ABDON CALDERON 1",
     "id": "FARMACIA-SAN-GREGORIO-Z4-M-P-A",
     "nombre_punto": "FARMACIA SAN GREGORIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LUZ DE AMERICA",
+    "subcircuito": "LUZ DE AMERICA 2",
+    "id": "CENTRO-DE-SALUD-SAN-VICENTE-DE-NILA-Z4-S-S-L",
+    "nombre_punto": "CENTRO DE SALUD SAN VICENTE DE NILA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "LUZ DE AMERICA",
+    "subcircuito": "LUZ DE AMERICA 2",
+    "id": "CENTRO-DE-SALUD-SAN-VICENTE-DE-NILA-Z4-S-S-L",
+    "nombre_punto": "CENTRO DE SALUD SAN VICENTE DE NILA"
   }
 ]
