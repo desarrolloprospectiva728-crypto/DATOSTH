@@ -15028,5 +15028,14 @@
     "subcircuito": "SANTA ELENA CENTRO 3",
     "id": "PICANTERIA-EL-BUEN-SABOR-Z5-S-S-S",
     "nombre_punto": "Picanteria el buen sabor"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 2",
+    "id": "DESPENSA-GLP-Z5-L-P-S",
+    "nombre_punto": "DESPENSA GLP"
   }
 ]
