@@ -15019,5 +15019,14 @@
     "subcircuito": "SANTA ELENA CENTRO 2",
     "id": "DEPÓSITO-DE-MADERA-ATAHUALPA-FERRETERÍA-Z5-S-S-S",
     "nombre_punto": "Depósito de madera atahualpa ferretería"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "PICANTERIA-EL-BUEN-SABOR-Z5-S-S-S",
+    "nombre_punto": "Picanteria el buen sabor"
   }
 ]
