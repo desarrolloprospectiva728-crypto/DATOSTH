@@ -9079,5 +9079,14 @@
     "subcircuito": "LUZ DE AMERICA 2",
     "id": "CENTRO-DE-SALUD-SAN-VICENTE-DE-NILA-Z4-S-S-L",
     "nombre_punto": "CENTRO DE SALUD SAN VICENTE DE NILA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "VILORE'S---PORTO-AGUA---CDL-MAESTRO-Z4-M-P-P",
+    "nombre_punto": "VILORE'S - PORTO AGUA - CDL MAESTRO"
   }
 ]
