@@ -15037,5 +15037,14 @@
     "subcircuito": "SAN JUAN 2",
     "id": "DESPENSA-GLP-Z5-L-P-S",
     "nombre_punto": "DESPENSA GLP"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "VERNAZA",
+    "subcircuito": "VERNAZA 1",
+    "id": "MEGASHOPPING-Z5-G-S-V",
+    "nombre_punto": "MEGASHOPPING"
   }
 ]
