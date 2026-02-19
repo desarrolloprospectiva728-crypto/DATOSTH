@@ -3670,5 +3670,14 @@
     "subcircuito": "GUALACEO 1",
     "id": "FERROELECTRICO-PIÑA-Z6-A-G-G",
     "nombre_punto": "FERROELECTRICO PIÑA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "LAVADORA-DON-SUCO-Z6-A-G-G",
+    "nombre_punto": "LAVADORA DON SUCO"
   }
 ]
