@@ -9088,5 +9088,14 @@
     "subcircuito": "PORTOVIEJO 1",
     "id": "VILORE'S---PORTO-AGUA---CDL-MAESTRO-Z4-M-P-P",
     "nombre_punto": "VILORE'S - PORTO AGUA - CDL MAESTRO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "CC-1-LOCAL-COMERCIAL-.-PEDRO-GUAL-Y-FRANCISCO-PACHECO-Z4-M-P-P",
+    "nombre_punto": "CC-1 LOCAL COMERCIAL . Pedro Gual y Francisco Pacheco"
   }
 ]
