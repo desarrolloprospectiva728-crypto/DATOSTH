@@ -15046,5 +15046,14 @@
     "subcircuito": "VERNAZA 1",
     "id": "MEGASHOPPING-Z5-G-S-V",
     "nombre_punto": "MEGASHOPPING"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "FISCALÍA-Z5-L-P-P",
+    "nombre_punto": "FISCALÍA"
   }
 ]
