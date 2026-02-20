@@ -15064,5 +15064,14 @@
     "subcircuito": "PUEBLO VIEJO 1",
     "id": "ESCUELA-GUILLERMO-AROSEMENA-CORONEL-Z5-L-P-P",
     "nombre_punto": "ESCUELA GUILLERMO AROSEMENA CORONEL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "TUTI-Z5-L-P-P",
+    "nombre_punto": "TUTI"
   }
 ]
