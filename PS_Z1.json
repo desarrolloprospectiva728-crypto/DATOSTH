@@ -5056,5 +5056,14 @@
     "subcircuito": "LIMONES 3",
     "id": "MI-VECINO-MY-MARY-Z1-E-E-L",
     "nombre_punto": "Mi vecino MY MARY"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 1",
+    "id": "PIZZAS-Z1-E-A-A",
+    "nombre_punto": "Pizzas Artezanal  Firu"
   }
 ]
