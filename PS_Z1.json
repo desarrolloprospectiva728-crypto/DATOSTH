@@ -5065,5 +5065,14 @@
     "subcircuito": "ATACAMES 1",
     "id": "PIZZAS-Z1-E-A-A",
     "nombre_punto": "Pizzas Artezanal  Firu"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 2",
+    "id": "AQUAPARK-Z1-E-A-A",
+    "nombre_punto": "AQUAPARK"
   }
 ]
