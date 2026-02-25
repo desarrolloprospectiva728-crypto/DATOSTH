@@ -9106,5 +9106,14 @@
     "subcircuito": "PEDERNALES SUR 1",
     "id": "PORTAL-DE-VIEJO-NACHO-Z4-M-P-P",
     "nombre_punto": "PORTAL DE VIEJO NACHO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "COMERCIAL-GRANDA-Z4-S-L-C",
+    "nombre_punto": "Comercial Granda"
   }
 ]
