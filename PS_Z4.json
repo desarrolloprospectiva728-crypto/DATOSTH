@@ -9097,5 +9097,14 @@
     "subcircuito": "PORTOVIEJO 3",
     "id": "CC-1-LOCAL-COMERCIAL-.-PEDRO-GUAL-Y-FRANCISCO-PACHECO-Z4-M-P-P",
     "nombre_punto": "CC-1 LOCAL COMERCIAL . Pedro Gual y Francisco Pacheco"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "PORTAL-DE-VIEJO-NACHO-Z4-M-P-P",
+    "nombre_punto": "PORTAL DE VIEJO NACHO"
   }
 ]
