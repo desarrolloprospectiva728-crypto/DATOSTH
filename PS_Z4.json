@@ -9115,5 +9115,14 @@
     "subcircuito": "CONCORDIA NORTE 3",
     "id": "COMERCIAL-GRANDA-Z4-S-L-C",
     "nombre_punto": "Comercial Granda"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "CONSEJO-DE-PARTICIPACIÓN-CIUDADANA-Y-CONTROL-SOCIAL-Z4-S-S-C",
+    "nombre_punto": "CONSEJO DE PARTICIPACIÓN CIUDADANA Y CONTROL SOCIAL"
   }
 ]
