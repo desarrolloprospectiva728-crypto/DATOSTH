@@ -15073,5 +15073,14 @@
     "subcircuito": "PUEBLO VIEJO 1",
     "id": "TUTI-Z5-L-P-P",
     "nombre_punto": "TUTI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "BALZAR OESTE",
+    "subcircuito": "BALZAR OESTE 1",
+    "id": "UNIVERSIDAD-AGRARIA-DE-BALZAR-Z5-G-B-B",
+    "nombre_punto": "UNIVERSIDAD AGRARIA DE BALZAR"
   }
 ]
