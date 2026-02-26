@@ -5838,7 +5838,7 @@
     "circuito": "BUENA FE OESTE",
     "subcircuito": "BUENA FE OESTE 2",
     "id": "FARMACIA-CRUZ-Z5-L-B-B",
-    "nombre_punto": "FARMACIA CRUZ"
+    "nombre_punto": "CENTRO DE SALUD BUENA FE"
   },
   {
     "zona": "ZONA 5",
@@ -7231,9 +7231,9 @@
     "subzona": "LOS RIOS",
     "distrito": "BUENA FE",
     "circuito": "BUENA FE OESTE",
-    "subcircuito": "BUENA FE OESTE 2",
+    "subcircuito": "BUENA FE OESTE 1",
     "id": "COMPLEJO-TURÍSTICO-AGUAS-BLANCAS-Z5-L-B-B",
-    "nombre_punto": "COMPLEJO TURÍSTICO AGUAS BLANCAS"
+    "nombre_punto": "LAVADORA LA FORTALEZA"
   },
   {
     "zona": "ZONA 5",
