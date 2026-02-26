@@ -1425,10 +1425,10 @@
     "zona": "ZONA 7",
     "subzona": "LOJA",
     "distrito": "LOJA",
-    "circuito": "EL VALLE",
-    "subcircuito": "EL VALLE 1",
+    "circuito": "CONSACOLA",
+    "subcircuito": "CONSACOLA 1",
     "id": "MANUEL-INACIO-HOSPITAL-IESS-Z7-L-L-E",
-    "nombre_punto": "MANUEL INACIO  HOSPITAL IESS"
+    "nombre_punto": "UPC CONSACOLA"
   },
   {
     "zona": "ZONA 7",
@@ -3534,7 +3534,7 @@
     "circuito": "EL VALLE",
     "subcircuito": "EL VALLE 1",
     "id": "PLAZA-DEL-VALLE-Z7-L-L-E",
-    "nombre_punto": "Plaza del Valle"
+    "nombre_punto": "COORDINACIÓN ZONAL 7 DE SALUD"
   },
   {
     "zona": "ZONA 7",
