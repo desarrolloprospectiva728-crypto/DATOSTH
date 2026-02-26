@@ -5083,5 +5083,14 @@
     "subcircuito": "TONCHIGUE 2",
     "id": "MARY-Z1-E-A-T",
     "nombre_punto": "Mary"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ELOY ALFARO - ESM",
+    "circuito": "SELVA ALEGRE",
+    "subcircuito": "SELVA ALEGRE 1",
+    "id": "TIENDA-YENI-Z1-E-E-S",
+    "nombre_punto": "TIENDA YENI"
   }
 ]
