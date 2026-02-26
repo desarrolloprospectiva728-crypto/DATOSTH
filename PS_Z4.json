@@ -9124,5 +9124,14 @@
     "subcircuito": "CENTRO 2",
     "id": "CONSEJO-DE-PARTICIPACIÓN-CIUDADANA-Y-CONTROL-SOCIAL-Z4-S-S-C",
     "nombre_punto": "CONSEJO DE PARTICIPACIÓN CIUDADANA Y CONTROL SOCIAL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "NUEVO PORTOVIEJO",
+    "subcircuito": "NUEVO PORTOVIEJO 2",
+    "id": "COMERCIAL-BRIONES-DON-MANOLO-Z4-M-P-N",
+    "nombre_punto": "COMERCIAL BRIONES-DON MANOLO"
   }
 ]
