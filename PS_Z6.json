@@ -3688,5 +3688,14 @@
     "subcircuito": "SIGSIG 1",
     "id": "COMERCIAL-NATALY-Z6-A-S-S",
     "nombre_punto": "Comercial Nataly"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "SIGSIG",
+    "circuito": "SIGSIG",
+    "subcircuito": "SIGSIG 2",
+    "id": "LA-CASCADA-STORE-Z6-A-S-S",
+    "nombre_punto": "La Cascada Store"
   }
 ]
