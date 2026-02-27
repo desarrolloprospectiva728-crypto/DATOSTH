@@ -15082,5 +15082,14 @@
     "subcircuito": "BALZAR OESTE 1",
     "id": "UNIVERSIDAD-AGRARIA-DE-BALZAR-Z5-G-B-B",
     "nombre_punto": "UNIVERSIDAD AGRARIA DE BALZAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "SABANILLA",
+    "subcircuito": "SABANILLA 1",
+    "id": "HUMMI'S-RESTAURANT-SABANILLA-Z5-G-P-S",
+    "nombre_punto": "HUMMI'S RESTAURANT SABANILLA"
   }
 ]
