@@ -5092,5 +5092,14 @@
     "subcircuito": "SELVA ALEGRE 1",
     "id": "TIENDA-YENI-Z1-E-E-S",
     "nombre_punto": "TIENDA YENI"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "BAZAR-INDUMENTARIA-RUSILET-Z1-E-Q-L",
+    "nombre_punto": "BAZAR INDUMENTARIA RUSILET"
   }
 ]
