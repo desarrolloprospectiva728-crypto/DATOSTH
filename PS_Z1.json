@@ -5101,5 +5101,14 @@
     "subcircuito": "LA UNION 1",
     "id": "BAZAR-INDUMENTARIA-RUSILET-Z1-E-Q-L",
     "nombre_punto": "BAZAR INDUMENTARIA RUSILET"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "RIO VERDE",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 3",
+    "id": "PARADA-DE-BUSES-CHUMUNDE-Z1-E-R-P",
+    "nombre_punto": "Parada de buses chumunde"
   }
 ]
