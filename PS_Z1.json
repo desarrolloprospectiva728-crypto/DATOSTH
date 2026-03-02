@@ -5110,5 +5110,14 @@
     "subcircuito": "PALESTINA 3",
     "id": "PARADA-DE-BUSES-CHUMUNDE-Z1-E-R-P",
     "nombre_punto": "Parada de buses chumunde"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "EL-GRAN-REMATE,,,,,DE-LAS-CALLES-MEJIA-ENTRE-OLMEDO-Y-SUCRE-Z1-E-E-C",
+    "nombre_punto": "EL GRAN REMATE,,,,,DE LAS CALLES MEJIA ENTRE OLMEDO Y SUCRE"
   }
 ]
