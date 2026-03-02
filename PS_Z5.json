@@ -15091,5 +15091,14 @@
     "subcircuito": "SABANILLA 1",
     "id": "HUMMI'S-RESTAURANT-SABANILLA-Z5-G-P-S",
     "nombre_punto": "HUMMI'S RESTAURANT SABANILLA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "PUEBLOVIEJO",
+    "circuito": "PUEBLO VIEJO",
+    "subcircuito": "PUEBLO VIEJO 1",
+    "id": "GASOLINERA-LAS-CAÑITAS-Z5-L-P-P",
+    "nombre_punto": "GASOLINERA LAS CAÑITAS"
   }
 ]
