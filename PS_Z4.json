@@ -9133,5 +9133,23 @@
     "subcircuito": "NUEVO PORTOVIEJO 2",
     "id": "COMERCIAL-BRIONES-DON-MANOLO-Z4-M-P-N",
     "nombre_punto": "COMERCIAL BRIONES-DON MANOLO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "TIENDA-BENDICION-DE-DIOS-Z4-M-P-S",
+    "nombre_punto": "Tienda bendicion de dios"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PICHINCHA",
+    "circuito": "SAN SEBASTIAN",
+    "subcircuito": "SAN SEBASTIAN 1",
+    "id": "FARMACIA-MARCELITA-Z4-M-P-S",
+    "nombre_punto": "Farmacia marcelita"
   }
 ]
