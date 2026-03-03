@@ -15109,5 +15109,14 @@
     "subcircuito": "VICTORIA 1",
     "id": "MINIMARKET-MARCELITO-Z5-G-S-V",
     "nombre_punto": "MINIMARKET MARCELITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "VIRGEN DE FATIMA",
+    "subcircuito": "VIRGEN DE FATIMA 1",
+    "id": "COMERCIAL-TTIGO-GÓMEZ-Z5-G-Y-V",
+    "nombre_punto": "COMERCIAL TTIGO GÓMEZ"
   }
 ]
