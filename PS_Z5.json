@@ -15100,5 +15100,23 @@
     "subcircuito": "PUEBLO VIEJO 1",
     "id": "GASOLINERA-LAS-CAÑITAS-Z5-L-P-P",
     "nombre_punto": "GASOLINERA LAS CAÑITAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "VICTORIA",
+    "subcircuito": "VICTORIA 1",
+    "id": "MINIMARKET-MARCELITO-Z5-G-S-V",
+    "nombre_punto": "MINIMARKET MARCELITO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "VICTORIA",
+    "subcircuito": "VICTORIA 1",
+    "id": "MINIMARKET-MARCELITO-Z5-G-S-V",
+    "nombre_punto": "MINIMARKET MARCELITO"
   }
 ]
