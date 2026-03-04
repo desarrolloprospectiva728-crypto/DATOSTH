@@ -3706,5 +3706,14 @@
     "subcircuito": "SIGSIG 2",
     "id": "COOP-JARDÍN-AZUAYO-Z6-A-S-S",
     "nombre_punto": "COOP JARDÍN AZUAYO"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "GUALACEO",
+    "circuito": "GUALACEO",
+    "subcircuito": "GUALACEO 1",
+    "id": "BOUTIQUE-TRENDS-Z6-A-G-G",
+    "nombre_punto": "BOUTIQUE TRENDS"
   }
 ]
