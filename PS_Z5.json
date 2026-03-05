@@ -15136,5 +15136,14 @@
     "subcircuito": "OLON 1",
     "id": "TIA-Z5-S-S-O",
     "nombre_punto": "Tia"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 3",
+    "id": "TIA-MERCADO-Z5-S-L-L",
+    "nombre_punto": "TIA MERCADO"
   }
 ]
