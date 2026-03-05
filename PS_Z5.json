@@ -15127,5 +15127,14 @@
     "subcircuito": "SIETE DE OCTUBRE 1",
     "id": "ALMACEN-TÍA-CALLE-7-DE-OCTUBRE-Z5-L-Q-S",
     "nombre_punto": "ALMACEN TÍA calle 7 de octubre"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "OLON",
+    "subcircuito": "OLON 1",
+    "id": "TIA-Z5-S-S-O",
+    "nombre_punto": "Tia"
   }
 ]
