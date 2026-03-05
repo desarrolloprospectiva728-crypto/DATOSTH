@@ -15163,5 +15163,14 @@
     "subcircuito": "SANTA ROSA 1",
     "id": "TIA-SANTA-ROSA-Z5-S-L-S",
     "nombre_punto": "TIA SANTA ROSA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 3",
+    "id": "TÍA-SANTA-ELENA-Z5-S-S-S",
+    "nombre_punto": "TÍA SANTA ELENA"
   }
 ]
