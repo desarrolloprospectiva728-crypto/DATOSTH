@@ -15154,5 +15154,14 @@
     "subcircuito": "LIBERTAD CENTRO 2",
     "id": "TIA-CENTRO-Z5-S-L-L",
     "nombre_punto": "TIA CENTRO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 1",
+    "id": "TIA-SANTA-ROSA-Z5-S-L-S",
+    "nombre_punto": "TIA SANTA ROSA"
   }
 ]
