@@ -15118,5 +15118,14 @@
     "subcircuito": "VIRGEN DE FATIMA 1",
     "id": "COMERCIAL-TTIGO-GÓMEZ-Z5-G-Y-V",
     "nombre_punto": "COMERCIAL TTIGO GÓMEZ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "SIETE DE OCTUBRE",
+    "subcircuito": "SIETE DE OCTUBRE 1",
+    "id": "ALMACEN-TÍA-CALLE-7-DE-OCTUBRE-Z5-L-Q-S",
+    "nombre_punto": "ALMACEN TÍA calle 7 de octubre"
   }
 ]
