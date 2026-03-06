@@ -15181,5 +15181,14 @@
     "subcircuito": "SALINAS CENTRO 2",
     "id": "TÍA-MALECÓN-SALINAS-Z5-S-L-S",
     "nombre_punto": "TÍA MALECÓN SALINAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "PUERTO AGUAJE",
+    "subcircuito": "PUERTO AGUAJE 2",
+    "id": "TÍA-PTO.-AGUAJE-MUEY-Z5-S-L-P",
+    "nombre_punto": "TÍA PTO. AGUAJE MUEY"
   }
 ]
