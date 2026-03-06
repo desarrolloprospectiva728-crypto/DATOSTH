@@ -5137,5 +5137,14 @@
     "subcircuito": "LOS LAGOS 1",
     "id": "UNIDA-JUDICIAL-Z1-I-V-L",
     "nombre_punto": "Unida judicial"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ESMERALDAS",
+    "circuito": "CORDERO CRESPO",
+    "subcircuito": "CORDERO CRESPO 1",
+    "id": "HOTEL-HAMBURGO-Z1-E-E-C",
+    "nombre_punto": "Hotel hamburgo"
   }
 ]
