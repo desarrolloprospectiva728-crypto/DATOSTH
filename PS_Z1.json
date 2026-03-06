@@ -5128,5 +5128,14 @@
     "subcircuito": "LOS GUABOS 1",
     "id": "FINCA-EL-TESORITO-DE-SANTIAGO-Z1-I-V-L",
     "nombre_punto": "FINCA EL TESORITO DE SANTIAGO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS LAGOS",
+    "subcircuito": "LOS LAGOS 1",
+    "id": "UNIDA-JUDICIAL-Z1-I-V-L",
+    "nombre_punto": "Unida judicial"
   }
 ]
