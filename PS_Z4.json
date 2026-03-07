@@ -9151,5 +9151,14 @@
     "subcircuito": "SAN SEBASTIAN 1",
     "id": "FARMACIA-MARCELITA-Z4-M-P-S",
     "nombre_punto": "Farmacia marcelita"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "CONSULTORIO-MEDICO-DR.-RODDY-PINARGOTE-Z4-M-V-S",
+    "nombre_punto": "CONSULTORIO MEDICO DR. RODDY PINARGOTE"
   }
 ]
