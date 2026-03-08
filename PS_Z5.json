@@ -15190,5 +15190,14 @@
     "subcircuito": "PUERTO AGUAJE 2",
     "id": "TÍA-PTO.-AGUAJE-MUEY-Z5-S-L-P",
     "nombre_punto": "TÍA PTO. AGUAJE MUEY"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "SALITRE NORTE",
+    "subcircuito": "SALITRE NORTE 1",
+    "id": "TIA-Z5-G-S-S",
+    "nombre_punto": "Tia"
   }
 ]
