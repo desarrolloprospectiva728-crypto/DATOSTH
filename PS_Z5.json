@@ -15199,5 +15199,14 @@
     "subcircuito": "SALITRE NORTE 1",
     "id": "TIA-Z5-G-S-S",
     "nombre_punto": "Tia"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJITO MARCELINO MARIDUEÑA",
+    "circuito": "NARANJITO SUR",
+    "subcircuito": "NARANJITO SUR 1",
+    "id": "ALMACÉN-TÍA-Z5-G-N-N",
+    "nombre_punto": "Almacén Tía"
   }
 ]
