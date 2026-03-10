@@ -5155,5 +5155,14 @@
     "subcircuito": "TONSUPA 1",
     "id": "TESALIA-SPRINGS-ATACAMES-(PEPSI)-Z1-E-A-T",
     "nombre_punto": "TESALIA SPRINGS ATACAMES (PEPSI)"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 1",
+    "id": "PLAZOLETA-RUMIPAMBA-Z1-I-C-G",
+    "nombre_punto": "PLAZOLETA RUMIPAMBA"
   }
 ]
