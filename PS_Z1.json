@@ -5173,5 +5173,14 @@
     "subcircuito": "LOS GUABOS 2",
     "id": "CASA-COMUNAL-EL-CARMEN-Z1-I-V-L",
     "nombre_punto": "Casa Comunal El Carmen"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LA FLORIDA",
+    "subcircuito": "LA FLORIDA 2",
+    "id": "GIMNASIO-V220-Z1-I-C-L",
+    "nombre_punto": "GIMNASIO V220"
   }
 ]
