@@ -15208,5 +15208,14 @@
     "subcircuito": "NARANJITO SUR 1",
     "id": "ALMACÉN-TÍA-Z5-G-N-N",
     "nombre_punto": "Almacén Tía"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "YAGUACHI",
+    "circuito": "YAGUACHI SUR",
+    "subcircuito": "YAGUACHI SUR 1",
+    "id": "TIA-Z5-G-Y-Y",
+    "nombre_punto": "TIA"
   }
 ]
