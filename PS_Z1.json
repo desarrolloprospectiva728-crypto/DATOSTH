@@ -5164,5 +5164,23 @@
     "subcircuito": "GALO PLAZA 1",
     "id": "PLAZOLETA-RUMIPAMBA-Z1-I-C-G",
     "nombre_punto": "PLAZOLETA RUMIPAMBA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS GUABOS",
+    "subcircuito": "LOS GUABOS 2",
+    "id": "CASA-COMUNAL-EL-CARMEN-Z1-I-V-L",
+    "nombre_punto": "Casa Comunal El Carmen"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS GUABOS",
+    "subcircuito": "LOS GUABOS 2",
+    "id": "CASA-COMUNAL-EL-CARMEN-Z1-I-V-L",
+    "nombre_punto": "Casa Comunal El Carmen"
   }
 ]
