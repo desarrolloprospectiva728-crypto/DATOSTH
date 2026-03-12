@@ -15217,5 +15217,14 @@
     "subcircuito": "YAGUACHI SUR 1",
     "id": "TIA-Z5-G-Y-Y",
     "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 4",
+    "id": "OFICINA-COOP-UNIFICACIÓN-PENINSULAR-Z5-S-S-S",
+    "nombre_punto": "OFICINA COOP UNIFICACIÓN PENINSULAR"
   }
 ]
