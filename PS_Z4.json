@@ -9160,5 +9160,14 @@
     "subcircuito": "SANTA ANA 1",
     "id": "CONSULTORIO-MEDICO-DR.-RODDY-PINARGOTE-Z4-M-V-S",
     "nombre_punto": "CONSULTORIO MEDICO DR. RODDY PINARGOTE"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 1",
+    "id": "TAURUS-GYM-PORTOVIEJO-Z4-M-P-P",
+    "nombre_punto": "TAURUS GYM PORTOVIEJO"
   }
 ]
