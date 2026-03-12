@@ -5182,5 +5182,14 @@
     "subcircuito": "LA FLORIDA 2",
     "id": "GIMNASIO-V220-Z1-I-C-L",
     "nombre_punto": "GIMNASIO V220"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "QUININDE",
+    "circuito": "LA UNION",
+    "subcircuito": "LA UNION 1",
+    "id": "TIA-LA-UNION-Z1-E-Q-L",
+    "nombre_punto": "TIA LA UNION"
   }
 ]
