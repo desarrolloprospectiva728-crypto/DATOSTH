@@ -15226,5 +15226,23 @@
     "subcircuito": "SANTA ELENA CENTRO 4",
     "id": "OFICINA-COOP-UNIFICACIÓN-PENINSULAR-Z5-S-S-S",
     "nombre_punto": "OFICINA COOP UNIFICACIÓN PENINSULAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 2",
+    "id": "COOPERATIVA-TRANSCISA-Z5-S-L-S",
+    "nombre_punto": "Cooperativa TRANSCISA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "SANTA ROSA",
+    "subcircuito": "SANTA ROSA 2",
+    "id": "COOPERATIVA-TRANSPORTE-TRANSCISA-Z5-S-L-S",
+    "nombre_punto": "COOPERATIVA TRANSPORTE TRANSCISA"
   }
 ]
