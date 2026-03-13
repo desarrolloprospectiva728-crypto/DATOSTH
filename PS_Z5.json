@@ -15298,5 +15298,14 @@
     "subcircuito": "GUAYACAN 1",
     "id": "MINI-TIENDA-KATRINA-Z5-L-Q-G",
     "nombre_punto": "MINI TIENDA KATRINA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 3",
+    "id": "EL-PAPASSO-DESQUITE-Z5-L-Q-D",
+    "nombre_punto": "EL PAPASSO DESQUITE"
   }
 ]
