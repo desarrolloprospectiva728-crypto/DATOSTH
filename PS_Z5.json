@@ -15258,15 +15258,6 @@
     "zona": "ZONA 5",
     "subzona": "GUAYAS",
     "distrito": "MILAGRO",
-    "circuito": "SAN PEDRO",
-    "subcircuito": "SAN PEDRO 1",
-    "id": "ALMACENES-TIA-Z5-G-M-S",
-    "nombre_punto": "ALMACENES TIA"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "GUAYAS",
-    "distrito": "MILAGRO",
     "circuito": "LAS PIÑAS",
     "subcircuito": "LAS PIÑAS 2",
     "id": "ALMACÉN-TIA-Z5-G-M-L",
