@@ -15280,5 +15280,14 @@
     "subcircuito": "DAULE CENTRO 1",
     "id": "TIA-GO-Z5-G-D-D",
     "nombre_punto": "TIA GO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 1",
+    "id": "LA-AMBATEÑITA-Z5-L-Q-G",
+    "nombre_punto": "LA AMBATEÑITA"
   }
 ]
