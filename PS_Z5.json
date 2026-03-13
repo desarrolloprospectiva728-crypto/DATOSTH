@@ -15289,5 +15289,14 @@
     "subcircuito": "GALO PLAZA 1",
     "id": "LA-AMBATEÑITA-Z5-L-Q-G",
     "nombre_punto": "LA AMBATEÑITA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GUAYACAN",
+    "subcircuito": "GUAYACAN 1",
+    "id": "MINI-TIENDA-KATRINA-Z5-L-Q-G",
+    "nombre_punto": "MINI TIENDA KATRINA"
   }
 ]
