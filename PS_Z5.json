@@ -15271,5 +15271,14 @@
     "subcircuito": "LAS PIÑAS 2",
     "id": "ALMACÉN-TIA-Z5-G-M-L",
     "nombre_punto": "Almacén Tia"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "MILAGRO",
+    "circuito": "CHOBO",
+    "subcircuito": "CHOBO 1",
+    "id": "ALMACÉN-TIA-Z5-G-M-C",
+    "nombre_punto": "Almacén Tia"
   }
 ]
