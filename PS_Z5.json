@@ -15244,5 +15244,23 @@
     "subcircuito": "SANTA ROSA 2",
     "id": "COOPERATIVA-TRANSPORTE-TRANSCISA-Z5-S-L-S",
     "nombre_punto": "COOPERATIVA TRANSPORTE TRANSCISA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "MILAGRO",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "ALMACENES-TIA-Z5-G-M-S",
+    "nombre_punto": "ALMACENES TIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "MILAGRO",
+    "circuito": "SAN PEDRO",
+    "subcircuito": "SAN PEDRO 1",
+    "id": "ALMACENES-TIA-Z5-G-M-S",
+    "nombre_punto": "ALMACENES TIA"
   }
 ]
