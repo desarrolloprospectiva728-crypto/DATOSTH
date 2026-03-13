@@ -15307,5 +15307,14 @@
     "subcircuito": "DIVINO NIÑO 3",
     "id": "EL-PAPASSO-DESQUITE-Z5-L-Q-D",
     "nombre_punto": "EL PAPASSO DESQUITE"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "LA-MADRINA-LOCAL-Z5-L-Q-D",
+    "nombre_punto": "LA MADRINA LOCAL"
   }
 ]
