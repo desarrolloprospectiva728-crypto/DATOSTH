@@ -15280,5 +15280,14 @@
     "subcircuito": "CHOBO 1",
     "id": "ALMACÉN-TIA-Z5-G-M-C",
     "nombre_punto": "Almacén Tia"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "DAULE CENTRO",
+    "subcircuito": "DAULE CENTRO 1",
+    "id": "TIA-GO-Z5-G-D-D",
+    "nombre_punto": "TIA GO"
   }
 ]
