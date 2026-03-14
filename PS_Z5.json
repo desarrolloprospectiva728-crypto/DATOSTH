@@ -15316,5 +15316,14 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "LA-MADRINA-LOCAL-Z5-L-Q-D",
     "nombre_punto": "LA MADRINA LOCAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "COSTA AZUL",
+    "subcircuito": "COSTA AZUL 1",
+    "id": "COMERCIAL-JL-Z5-L-B-C",
+    "nombre_punto": "COMERCIAL JL"
   }
 ]
