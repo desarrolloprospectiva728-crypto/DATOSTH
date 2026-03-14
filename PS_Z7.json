@@ -4804,5 +4804,14 @@
     "subcircuito": "YAMANA 1",
     "id": "AV.-20-DE-JULIO-(FRENTE-AL-SEGURO-SOCIAL-CAMPESINO-Z7-L-C-Y",
     "nombre_punto": "AV. 20 DE JULIO (FRENTE AL SEGURO SOCIAL CAMPESINO"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATACOCHA",
+    "circuito": "LAURO GUERRERO",
+    "subcircuito": "LAURO GUERRERO 1",
+    "id": "CALLE-JULIO-FRANCISCO-CORDOVA-Y-JUAN-TANDAZO-(TIENDA-JUANITA-A-10-METROS-DEL-ENTRO-DE-SALUD)-Z7-L-C-L",
+    "nombre_punto": "CALLE JULIO FRANCISCO CORDOVA Y JUAN TANDAZO (TIENDA JUANITA A 10 METROS  DEL ENTRO DE SALUD)"
   }
 ]
