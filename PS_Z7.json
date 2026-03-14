@@ -4786,5 +4786,14 @@
     "subcircuito": "CATACOCHA 1",
     "id": "AV.-PANAMERICANA-Y-CONGANAMA--LA-CASONA-RESTAURANTE-(PARQUE-DE-LA-MADRE)-Z7-L-C-C",
     "nombre_punto": "AV. PANAMERICANA Y CONGANAMA- LA CASONA RESTAURANTE (PARQUE DE LA MADRE)"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATACOCHA",
+    "circuito": "YAMANA",
+    "subcircuito": "YAMANA 1",
+    "id": "AV.-20-DE-JULIO-Y-15-DE-OCTUBRE-(BOTIQUIN-SANTA-TERESITA)-Z7-L-C-Y",
+    "nombre_punto": "AV. 20 DE JULIO Y 15 DE OCTUBRE (BOTIQUIN SANTA TERESITA)"
   }
 ]
