@@ -4777,5 +4777,14 @@
     "subcircuito": "CATACOCHA 1",
     "id": "SUCRE-Y-JUAN-LEON-MERA--TIENDA-NOHELIA-(PARQUE-EL-PINO)-Z7-L-C-C",
     "nombre_punto": "SUCRE Y JUAN LEON MERA- TIENDA NOHELIA (PARQUE EL PINO)"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATACOCHA",
+    "circuito": "CATACOCHA",
+    "subcircuito": "CATACOCHA 1",
+    "id": "AV.-PANAMERICANA-Y-CONGANAMA--LA-CASONA-RESTAURANTE-(PARQUE-DE-LA-MADRE)-Z7-L-C-C",
+    "nombre_punto": "AV. PANAMERICANA Y CONGANAMA- LA CASONA RESTAURANTE (PARQUE DE LA MADRE)"
   }
 ]
