@@ -9169,5 +9169,14 @@
     "subcircuito": "PORTOVIEJO 1",
     "id": "TAURUS-GYM-PORTOVIEJO-Z4-M-P-P",
     "nombre_punto": "TAURUS GYM PORTOVIEJO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PORTOVIEJO",
+    "subcircuito": "PORTOVIEJO 3",
+    "id": "LABORATORIOS-SANTA-RITA-Z4-M-P-P",
+    "nombre_punto": "LABORATORIOS SANTA RITA"
   }
 ]
