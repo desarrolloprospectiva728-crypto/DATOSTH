@@ -9178,5 +9178,14 @@
     "subcircuito": "PORTOVIEJO 3",
     "id": "LABORATORIOS-SANTA-RITA-Z4-M-P-P",
     "nombre_punto": "LABORATORIOS SANTA RITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "PUEBLO NUEVO",
+    "subcircuito": "PUEBLO NUEVO 1",
+    "id": "AGROASISTENCIA--COMUNIDAD-SANTA-MARTHA-Z4-M-P-P",
+    "nombre_punto": "AGROASISTENCIA- COMUNIDAD SANTA MARTHA"
   }
 ]
