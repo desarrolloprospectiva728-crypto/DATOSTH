@@ -4831,5 +4831,14 @@
     "subcircuito": "CATACOCHA 1",
     "id": "LAURO-GUERRERO-Y-MERCADILLO-(-BANCO-DE-LOJA)-Z7-L-C-C",
     "nombre_punto": "LAURO GUERRERO Y MERCADILLO ( BANCO DE LOJA)"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATACOCHA",
+    "circuito": "CATACOCHA",
+    "subcircuito": "CATACOCHA 1",
+    "id": "CALLE-BOLIVAR-Y-SHIRICULAPO-(LICORERIA-EL-SHYRI)-Z7-L-C-C",
+    "nombre_punto": "CALLE BOLIVAR Y SHIRICULAPO (LICORERIA EL SHYRI)"
   }
 ]
