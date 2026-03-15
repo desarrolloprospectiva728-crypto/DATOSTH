@@ -4822,5 +4822,14 @@
     "subcircuito": "LAURO GUERRERO 1",
     "id": "LAURO-GUERRERO--(PAPELERIA-TANDAZO-FRENTE-AL-PARQUE-CENTRAL)-Z7-L-C-L",
     "nombre_punto": "LAURO GUERRERO- (PAPELERIA TANDAZO FRENTE AL PARQUE CENTRAL)"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATACOCHA",
+    "circuito": "CATACOCHA",
+    "subcircuito": "CATACOCHA 1",
+    "id": "LAURO-GUERRERO-Y-MERCADILLO-(-BANCO-DE-LOJA)-Z7-L-C-C",
+    "nombre_punto": "LAURO GUERRERO Y MERCADILLO ( BANCO DE LOJA)"
   }
 ]
