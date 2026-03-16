@@ -5191,5 +5191,23 @@
     "subcircuito": "LA UNION 1",
     "id": "TIA-LA-UNION-Z1-E-Q-L",
     "nombre_punto": "TIA LA UNION"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 1",
+    "id": "TÍA-ATACAMES-Z1-E-A-A",
+    "nombre_punto": "TÍA ATACAMES"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 1",
+    "id": "TÍA-ATACAMES-Z1-E-A-A",
+    "nombre_punto": "TÍA ATACAMES"
   }
 ]
