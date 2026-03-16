@@ -5205,15 +5205,6 @@
     "zona": "ZONA 1",
     "subzona": "ESMERALDAS",
     "distrito": "ATACAMES",
-    "circuito": "ATACAMES",
-    "subcircuito": "ATACAMES 1",
-    "id": "TÍA-ATACAMES-Z1-E-A-A",
-    "nombre_punto": "TÍA ATACAMES"
-  },
-  {
-    "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
-    "distrito": "ATACAMES",
     "circuito": "TONSUPA",
     "subcircuito": "TONSUPA 1",
     "id": "TÍA-TONSUPA-Z1-E-A-T",
