@@ -5209,5 +5209,14 @@
     "subcircuito": "TONSUPA 1",
     "id": "TÍA-TONSUPA-Z1-E-A-T",
     "nombre_punto": "TÍA TONSUPA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "LAS LOMAS",
+    "subcircuito": "LAS LOMAS 1",
+    "id": "JEFATURA-DE-ANTINARCÓTICOS-Z1-I-C-L",
+    "nombre_punto": "JEFATURA DE ANTINARCÓTICOS"
   }
 ]
