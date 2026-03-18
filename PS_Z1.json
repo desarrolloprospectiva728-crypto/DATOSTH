@@ -5218,5 +5218,14 @@
     "subcircuito": "LAS LOMAS 1",
     "id": "JEFATURA-DE-ANTINARCÓTICOS-Z1-I-C-L",
     "nombre_punto": "JEFATURA DE ANTINARCÓTICOS"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "SAN ROQUE",
+    "subcircuito": "SAN ROQUE 1",
+    "id": "CASA-SR.-MORALES-Z1-I-V-S",
+    "nombre_punto": "Casa Sr. Morales"
   }
 ]
