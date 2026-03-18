@@ -9187,5 +9187,14 @@
     "subcircuito": "PUEBLO NUEVO 1",
     "id": "AGROASISTENCIA--COMUNIDAD-SANTA-MARTHA-Z4-M-P-P",
     "nombre_punto": "AGROASISTENCIA- COMUNIDAD SANTA MARTHA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "SAN PABLO",
+    "subcircuito": "SAN PABLO 1",
+    "id": "CEVICHERIA-EL-PADRINO-Z4-M-P-S",
+    "nombre_punto": "CEVICHERIA EL PADRINO"
   }
 ]
