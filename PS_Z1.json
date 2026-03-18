@@ -5227,5 +5227,14 @@
     "subcircuito": "SAN ROQUE 1",
     "id": "CASA-SR.-MORALES-Z1-I-V-S",
     "nombre_punto": "Casa Sr. Morales"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "ANDRADE MARIN",
+    "subcircuito": "ANDRADE MARIN 1",
+    "id": "BARRIO-CARMELO-ALTO-Z1-I-V-A",
+    "nombre_punto": "Barrio Carmelo Alto"
   }
 ]
