@@ -15325,5 +15325,14 @@
     "subcircuito": "COSTA AZUL 1",
     "id": "COMERCIAL-JL-Z5-L-B-C",
     "nombre_punto": "COMERCIAL JL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 4",
+    "id": "FISCALÍA-SANTA-ELENA-Z5-S-S-S",
+    "nombre_punto": "FISCALÍA SANTA ELENA"
   }
 ]
