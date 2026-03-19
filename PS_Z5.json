@@ -15343,5 +15343,14 @@
     "subcircuito": "MONTAÑITA 1",
     "id": "FISCALÍA-GENERAL-DEL-ESTDO-Z5-S-S-M",
     "nombre_punto": "FISCALÍA GENERAL DEL ESTDO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "CALUMA",
+    "subcircuito": "CALUMA 1",
+    "id": "COMERCIAL-TIA-CALUMA-Z5-B-S-C",
+    "nombre_punto": "COMERCIAL TIA CALUMA"
   }
 ]
