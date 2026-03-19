@@ -4840,5 +4840,14 @@
     "subcircuito": "CATACOCHA 1",
     "id": "CALLE-BOLIVAR-Y-SHIRICULAPO-(LICORERIA-EL-SHYRI)-Z7-L-C-C",
     "nombre_punto": "CALLE BOLIVAR Y SHIRICULAPO (LICORERIA EL SHYRI)"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATACOCHA",
+    "circuito": "ORIANGA",
+    "subcircuito": "ORIANGA 1",
+    "id": "CALLE-JOSE-MANUEL-YANANGOMEZ-(LICORERIA-PUNTO-DE-ENCUENTRO)-Z7-L-C-O",
+    "nombre_punto": "CALLE JOSE MANUEL YANANGOMEZ (LICORERIA PUNTO DE ENCUENTRO)"
   }
 ]
