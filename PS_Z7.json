@@ -4849,5 +4849,14 @@
     "subcircuito": "ORIANGA 1",
     "id": "CALLE-JOSE-MANUEL-YANANGOMEZ-(LICORERIA-PUNTO-DE-ENCUENTRO)-Z7-L-C-O",
     "nombre_punto": "CALLE JOSE MANUEL YANANGOMEZ (LICORERIA PUNTO DE ENCUENTRO)"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATACOCHA",
+    "circuito": "ORIANGA",
+    "subcircuito": "ORIANGA 1",
+    "id": "CALLE-13-DE-OCTUBRE-(JUNTA-PARROQUIAL)-Z7-L-C-O",
+    "nombre_punto": "CALLE 13 DE OCTUBRE (JUNTA PARROQUIAL)"
   }
 ]
