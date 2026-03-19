@@ -15352,5 +15352,14 @@
     "subcircuito": "CALUMA 1",
     "id": "COMERCIAL-TIA-CALUMA-Z5-B-S-C",
     "nombre_punto": "COMERCIAL TIA CALUMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "CALUMA",
+    "subcircuito": "CALUMA 1",
+    "id": "COMERCIAL-TIA-CALUMA-Z5-B-S-C",
+    "nombre_punto": "COMERCIAL TIA CALUMA"
   }
 ]
