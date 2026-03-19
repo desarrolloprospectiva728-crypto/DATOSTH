@@ -15334,5 +15334,14 @@
     "subcircuito": "SANTA ELENA CENTRO 4",
     "id": "FISCALÍA-SANTA-ELENA-Z5-S-S-S",
     "nombre_punto": "FISCALÍA SANTA ELENA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "MONTAÑITA",
+    "subcircuito": "MONTAÑITA 1",
+    "id": "FISCALÍA-GENERAL-DEL-ESTDO-Z5-S-S-M",
+    "nombre_punto": "FISCALÍA GENERAL DEL ESTDO"
   }
 ]
