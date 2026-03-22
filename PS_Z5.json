@@ -15352,5 +15352,14 @@
     "subcircuito": "CALUMA 1",
     "id": "COMERCIAL-TIA-CALUMA-Z5-B-S-C",
     "nombre_punto": "COMERCIAL TIA CALUMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "SALITRE",
+    "circuito": "VERNAZA",
+    "subcircuito": "VERNAZA 1",
+    "id": "COMERCIAL-REA-REA-Z5-G-S-V",
+    "nombre_punto": "comercial rea rea"
   }
 ]
