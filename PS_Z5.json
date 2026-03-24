@@ -15361,5 +15361,14 @@
     "subcircuito": "VERNAZA 1",
     "id": "COMERCIAL-REA-REA-Z5-G-S-V",
     "nombre_punto": "comercial rea rea"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "BOLIVAR",
+    "distrito": "SUBTROPICO",
+    "circuito": "ECHEANDIA",
+    "subcircuito": "ECHEANDIA 1",
+    "id": "TIA-Z5-B-S-E",
+    "nombre_punto": "TIA"
   }
 ]
