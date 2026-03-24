@@ -5236,5 +5236,14 @@
     "subcircuito": "ANDRADE MARIN 1",
     "id": "BARRIO-CARMELO-ALTO-Z1-I-V-A",
     "nombre_punto": "Barrio Carmelo Alto"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "SAN LORENZO",
+    "circuito": "FRONTERA",
+    "subcircuito": "FRONTERA 3",
+    "id": "EL-DOLARAZO-Z1-E-S-F",
+    "nombre_punto": "EL DOLARAZO"
   }
 ]
