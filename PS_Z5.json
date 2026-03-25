@@ -15370,5 +15370,14 @@
     "subcircuito": "ECHEANDIA 1",
     "id": "TIA-Z5-B-S-E",
     "nombre_punto": "TIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "GALO PLAZA",
+    "subcircuito": "GALO PLAZA 2",
+    "id": "TIENDA-D&D-Z5-L-Q-G",
+    "nombre_punto": "TIENDA D&D"
   }
 ]
