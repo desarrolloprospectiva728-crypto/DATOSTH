@@ -9205,5 +9205,14 @@
     "subcircuito": "NUEVO PORTOVIEJO 2",
     "id": "PARRILLADA-D\"ELIAS-Z4-M-P-N",
     "nombre_punto": "PARRILLADA D\"ELIAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "COOPERATIVA-DE-AHORRO-Y-CRÉDITO-SANTA-ANA-Z4-M-V-S",
+    "nombre_punto": "COOPERATIVA DE AHORRO Y CRÉDITO SANTA ANA"
   }
 ]
