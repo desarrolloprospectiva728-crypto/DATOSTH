@@ -15379,5 +15379,23 @@
     "subcircuito": "GALO PLAZA 2",
     "id": "TIENDA-D&D-Z5-L-Q-G",
     "nombre_punto": "TIENDA D&D"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 3",
+    "id": "HIPER-FARMACIAS-Z5-L-Q-D",
+    "nombre_punto": "HIPER FARMACIAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 3",
+    "id": "HIPER-FARMACIAS-Z5-L-Q-D",
+    "nombre_punto": "HIPER FARMACIAS"
   }
 ]
