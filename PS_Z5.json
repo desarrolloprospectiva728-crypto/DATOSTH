@@ -15406,5 +15406,14 @@
     "subcircuito": "GALO PLAZA 2",
     "id": "DANNY-BAR-Z5-L-Q-G",
     "nombre_punto": "Danny BAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "DIVINO NIÑO",
+    "subcircuito": "DIVINO NIÑO 2",
+    "id": "MINI-DESPENSA-MUÑOZ-Z5-L-Q-D",
+    "nombre_punto": "Mini Despensa Muñoz"
   }
 ]
