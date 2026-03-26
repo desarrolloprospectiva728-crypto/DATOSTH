@@ -4858,5 +4858,14 @@
     "subcircuito": "ORIANGA 1",
     "id": "CALLE-13-DE-OCTUBRE-(JUNTA-PARROQUIAL)-Z7-L-C-O",
     "nombre_punto": "CALLE 13 DE OCTUBRE (JUNTA PARROQUIAL)"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "HUALTACO",
+    "subcircuito": "HUALTACO 2",
+    "id": "JEFATURA-POLÍTICA-HUAQUILLAS-Y-COMISARIA-DE-POLICÍA-NACIONAL-Z7-E-H-H",
+    "nombre_punto": "JEFATURA POLÍTICA HUAQUILLAS Y COMISARIA DE POLICÍA NACIONAL"
   }
 ]
