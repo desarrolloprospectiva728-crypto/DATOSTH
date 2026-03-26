@@ -15393,15 +15393,6 @@
     "zona": "ZONA 5",
     "subzona": "LOS RIOS",
     "distrito": "QUEVEDO",
-    "circuito": "DIVINO NIÑO",
-    "subcircuito": "DIVINO NIÑO 3",
-    "id": "HIPER-FARMACIAS-Z5-L-Q-D",
-    "nombre_punto": "HIPER FARMACIAS"
-  },
-  {
-    "zona": "ZONA 5",
-    "subzona": "LOS RIOS",
-    "distrito": "QUEVEDO",
     "circuito": "GALO PLAZA",
     "subcircuito": "GALO PLAZA 2",
     "id": "DANNY-BAR-Z5-L-Q-G",
