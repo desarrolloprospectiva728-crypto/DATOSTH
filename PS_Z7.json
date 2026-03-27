@@ -4876,5 +4876,14 @@
     "subcircuito": "GUACHANAMA 1",
     "id": "CALLE-LUIS-ELIZALDE-Y-GUACHAURCO-TIENDA-SAN-VICENTE-Z7-L-C-G",
     "nombre_punto": "CALLE LUIS ELIZALDE Y GUACHAURCO TIENDA SAN VICENTE"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATACOCHA",
+    "circuito": "GUACHANAMA",
+    "subcircuito": "GUACHANAMA 1",
+    "id": "CALLE-LUIS-ELIZALDE-PUNTO-DIGITAL-GRATUITO-GUACHANAMA-Z7-L-C-G",
+    "nombre_punto": "CALLE LUIS ELIZALDE PUNTO DIGITAL GRATUITO GUACHANAMA"
   }
 ]
