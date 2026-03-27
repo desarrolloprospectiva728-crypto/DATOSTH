@@ -4867,5 +4867,14 @@
     "subcircuito": "HUALTACO 2",
     "id": "JEFATURA-POLÍTICA-HUAQUILLAS-Y-COMISARIA-DE-POLICÍA-NACIONAL-Z7-E-H-H",
     "nombre_punto": "JEFATURA POLÍTICA HUAQUILLAS Y COMISARIA DE POLICÍA NACIONAL"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "LOJA",
+    "distrito": "CATACOCHA",
+    "circuito": "GUACHANAMA",
+    "subcircuito": "GUACHANAMA 1",
+    "id": "CALLE-LUIS-ELIZALDE-Y-GUACHAURCO-TIENDA-SAN-VICENTE-Z7-L-C-G",
+    "nombre_punto": "CALLE LUIS ELIZALDE Y GUACHAURCO TIENDA SAN VICENTE"
   }
 ]
