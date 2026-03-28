@@ -15415,5 +15415,14 @@
     "subcircuito": "DAULE CENTRO 2",
     "id": "TIA-GO-25-DE-JULIO-Y-JUSTO-TORREZ-Z5-G-D-D",
     "nombre_punto": "TIA GO 25 DE JULIO Y JUSTO TORREZ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "JUAN BAUTISTA AGUIRRE",
+    "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
+    "id": "TIA-GO-VICENTE-PIEDRAHITA-Y-SANTA-LUCIA-Z5-G-D-J",
+    "nombre_punto": "TIA GO VICENTE PIEDRAHITA Y SANTA LUCIA"
   }
 ]
