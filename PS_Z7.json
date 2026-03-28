@@ -4885,5 +4885,14 @@
     "subcircuito": "GUACHANAMA 1",
     "id": "CALLE-LUIS-ELIZALDE-PUNTO-DIGITAL-GRATUITO-GUACHANAMA-Z7-L-C-G",
     "nombre_punto": "CALLE LUIS ELIZALDE PUNTO DIGITAL GRATUITO GUACHANAMA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "ARENILLAS",
+    "subcircuito": "ARENILLAS 1",
+    "id": "FISCALÍA-PROVINCIAL-DE-EL-ORO-ARENILLAS-Z7-E-H-A",
+    "nombre_punto": "Fiscalía Provincial de El Oro Arenillas"
   }
 ]
