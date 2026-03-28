@@ -15406,5 +15406,14 @@
     "subcircuito": "DIVINO NIÑO 2",
     "id": "MINI-DESPENSA-MUÑOZ-Z5-L-Q-D",
     "nombre_punto": "Mini Despensa Muñoz"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "DAULE CENTRO",
+    "subcircuito": "DAULE CENTRO 2",
+    "id": "TIA-GO-25-DE-JULIO-Y-JUSTO-TORREZ-Z5-G-D-D",
+    "nombre_punto": "TIA GO 25 DE JULIO Y JUSTO TORREZ"
   }
 ]
