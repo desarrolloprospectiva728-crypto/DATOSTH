@@ -15451,5 +15451,14 @@
     "subcircuito": "LIMONAL 1",
     "id": "TIA-GO-LIMONAL-CALLE-LOS-ANGELES-Y-GUAYAQUIL-Z5-G-D-L",
     "nombre_punto": "TIA GO LIMONAL CALLE  LOS ANGELES Y GUAYAQUIL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PLAYAS",
+    "circuito": "PLAYAS",
+    "subcircuito": "PLAYAS 1",
+    "id": "ALMACENES-TIA-Z5-G-P-P",
+    "nombre_punto": "ALMACENES TIA"
   }
 ]
