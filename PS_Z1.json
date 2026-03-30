@@ -5245,5 +5245,14 @@
     "subcircuito": "FRONTERA 3",
     "id": "EL-DOLARAZO-Z1-E-S-F",
     "nombre_punto": "EL DOLARAZO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "CARCHI",
+    "distrito": "ESPEJO",
+    "circuito": "LA CONCEPCION",
+    "subcircuito": "LA CONCEPCION 1",
+    "id": "PARADA-DE-BUS-INTERPROVINCIAL-Z1-C-E-L",
+    "nombre_punto": "PARADA DE BUS INTERPROVINCIAL"
   }
 ]
