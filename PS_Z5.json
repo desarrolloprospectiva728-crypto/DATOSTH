@@ -15442,5 +15442,14 @@
     "subcircuito": "LIMONAL 2",
     "id": "TIA-GO-LAUREL-Z5-G-D-L",
     "nombre_punto": "TIA GO LAUREL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "LIMONAL",
+    "subcircuito": "LIMONAL 1",
+    "id": "TIA-GO-LIMONAL-CALLE-LOS-ANGELES-Y-GUAYAQUIL-Z5-G-D-L",
+    "nombre_punto": "TIA GO LIMONAL CALLE  LOS ANGELES Y GUAYAQUIL"
   }
 ]
