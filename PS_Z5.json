@@ -15433,5 +15433,14 @@
     "subcircuito": "ESTACADA 1",
     "id": "CENTRO-DE-DESARROLLO-INFANTIL-MIS-PRIMEROS-PASOS-Z5-G-P-E",
     "nombre_punto": "CENTRO DE DESARROLLO INFANTIL MIS PRIMEROS PASOS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "DAULE",
+    "circuito": "LIMONAL",
+    "subcircuito": "LIMONAL 2",
+    "id": "TIA-GO-LAUREL-Z5-G-D-L",
+    "nombre_punto": "TIA GO LAUREL"
   }
 ]
