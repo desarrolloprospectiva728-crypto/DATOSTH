@@ -15424,5 +15424,14 @@
     "subcircuito": "JUAN BAUTISTA AGUIRRE 2",
     "id": "TIA-GO-VICENTE-PIEDRAHITA-Y-SANTA-LUCIA-Z5-G-D-J",
     "nombre_punto": "TIA GO VICENTE PIEDRAHITA Y SANTA LUCIA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "ESTACADA",
+    "subcircuito": "ESTACADA 1",
+    "id": "CENTRO-DE-DESARROLLO-INFANTIL-MIS-PRIMEROS-PASOS-Z5-G-P-E",
+    "nombre_punto": "CENTRO DE DESARROLLO INFANTIL MIS PRIMEROS PASOS"
   }
 ]
