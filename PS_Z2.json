@@ -4849,5 +4849,14 @@
     "subcircuito": "LINARES 1",
     "id": "ABARROTES-DAMARIZ-Z2-N-E-L",
     "nombre_punto": "ABARROTES DAMARIZ"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "RESTAURANT-DOÑA-CLEO-Z2-N-E-S",
+    "nombre_punto": "RESTAURANT DOÑA CLEO"
   }
 ]
