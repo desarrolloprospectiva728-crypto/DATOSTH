@@ -9223,5 +9223,14 @@
     "subcircuito": "COLON 1",
     "id": "EL-BUEN-SABOR-Z4-M-P-C",
     "nombre_punto": "El Buen Sabor"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 2",
+    "id": "IMOTOR-Z4-M-P-E",
+    "nombre_punto": "IMOTOR"
   }
 ]
