@@ -9232,5 +9232,14 @@
     "subcircuito": "EL FLORON 2",
     "id": "IMOTOR-Z4-M-P-E",
     "nombre_punto": "IMOTOR"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "EL FLORON",
+    "subcircuito": "EL FLORON 2",
+    "id": "CANCHA-DE-EVENTOS-SAN-JORGE.-Z4-M-P-E",
+    "nombre_punto": "CANCHA DE EVENTOS SAN JORGE."
   }
 ]
