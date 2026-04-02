@@ -3715,5 +3715,14 @@
     "subcircuito": "GUALACEO 1",
     "id": "BOUTIQUE-TRENDS-Z6-A-G-G",
     "nombre_punto": "BOUTIQUE TRENDS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "CAÑAR",
+    "circuito": "EL TAMBO",
+    "subcircuito": "EL TAMBO 1",
+    "id": "GASOLINERA-PETRÓLEOS-Y-SERVICIOS-Z6-C-C-E",
+    "nombre_punto": "GASOLINERA PETRÓLEOS Y SERVICIOS"
   }
 ]
