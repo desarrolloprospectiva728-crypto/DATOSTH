@@ -688,7 +688,7 @@
     "subzona": "PICHINCHA",
     "distrito": "CAYAMBE",
     "circuito": "CAYAMBE NORTE",
-    "subcircuito": "OLMEDO 1",
+    "subcircuito": "CAYAMBE NORTE 2",
     "id": "FERRIEGO-Z2-P-C-O",
     "nombre_punto": "COMISARIATO EL AHORRO"
   },
@@ -3090,10 +3090,10 @@
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
     "distrito": "CAYAMBE",
-    "circuito": "CUSUBAMBA",
-    "subcircuito": "CUSUBAMBA 2",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 2",
     "id": "MINI-MARKE-MARY-Z2-P-C-C",
-    "nombre_punto": "MINI MARKE MARY"
+    "nombre_punto": "PANADERIA Y PASTELERIA DULCE NEA"
   },
   {
     "zona": "ZONA 2",
@@ -3441,10 +3441,10 @@
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
     "distrito": "CAYAMBE",
-    "circuito": "CAYAMBE NORTE",
-    "subcircuito": "CAYAMBE NORTE 2",
+    "circuito": "CAYAMBE SUR",
+    "subcircuito": "CAYAMBE SUR 1",
     "id": "CERES-FARMS-Z2-P-C-C",
-    "nombre_punto": "Ceres Farms"
+    "nombre_punto": "FARMACIA VALEN FARM"
   },
   {
     "zona": "ZONA 2",
