@@ -508,7 +508,7 @@
     "subzona": "PICHINCHA",
     "distrito": "NOROCCIDENTE",
     "circuito": "LOS BANCOS",
-    "subcircuito": "LOS BANCOS 2",
+    "subcircuito": "LOS BANCOS 1",
     "id": "LOCAL-SEGURO-Z2-P-N-L",
     "nombre_punto": "LOCAL SEGURO"
   },
@@ -519,7 +519,7 @@
     "circuito": "MALDONADO",
     "subcircuito": "MALDONADO 1",
     "id": "PLAZA-CALI-Z2-P-N-M",
-    "nombre_punto": "PLAZA CALI"
+    "nombre_punto": "CORNEJO PIZZERÍA & GRILL"
   },
   {
     "zona": "ZONA 2",
@@ -3702,10 +3702,10 @@
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
     "distrito": "CAYAMBE",
-    "circuito": "TABACUNDO",
-    "subcircuito": "TABACUNDO 1",
+    "circuito": "CAYAMBE NORTE",
+    "subcircuito": "CAYAMBE NORTE 1",
     "id": "SARAHI-PIZZERIA-Z2-P-C-T",
-    "nombre_punto": "SARAHI PIZZERIA"
+    "nombre_punto": "FARMACIA SANA SANA"
   },
   {
     "zona": "ZONA 2",
