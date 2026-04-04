@@ -9241,5 +9241,14 @@
     "subcircuito": "EL FLORON 2",
     "id": "CANCHA-DE-EVENTOS-SAN-JORGE.-Z4-M-P-E",
     "nombre_punto": "CANCHA DE EVENTOS SAN JORGE."
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "MANGA DEL CURA NORTE",
+    "subcircuito": "MANGA DEL CURA NORTE 1",
+    "id": "SUBCENTRO-DE-SALUD-PUBLICA-PARAÍSO-LA-14-Z4-M-E-M",
+    "nombre_punto": "Subcentro de Salud Publica Paraíso la 14"
   }
 ]
