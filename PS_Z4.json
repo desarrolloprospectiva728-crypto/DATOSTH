@@ -9250,5 +9250,14 @@
     "subcircuito": "MANGA DEL CURA NORTE 1",
     "id": "SUBCENTRO-DE-SALUD-PUBLICA-PARAÍSO-LA-14-Z4-M-E-M",
     "nombre_punto": "Subcentro de Salud Publica Paraíso la 14"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "LA BRAMADORA",
+    "subcircuito": "LA BRAMADORA 1",
+    "id": "SUBCENTRO-SALUD-BRAMADORA-Z4-M-E-L",
+    "nombre_punto": "Subcentro Salud Bramadora"
   }
 ]
