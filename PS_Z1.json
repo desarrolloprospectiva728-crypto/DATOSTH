@@ -5245,5 +5245,14 @@
     "subcircuito": "FRONTERA 3",
     "id": "EL-DOLARAZO-Z1-E-S-F",
     "nombre_punto": "EL DOLARAZO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS LAGOS",
+    "subcircuito": "LOS LAGOS 1",
+    "id": "RESTAURANTE-CHIFA-CHINA-Z1-I-V-L",
+    "nombre_punto": "RESTAURANTE CHIFA CHINA"
   }
 ]
