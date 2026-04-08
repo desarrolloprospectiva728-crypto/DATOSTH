@@ -5254,5 +5254,14 @@
     "subcircuito": "LOS LAGOS 1",
     "id": "RESTAURANTE-CHIFA-CHINA-Z1-I-V-L",
     "nombre_punto": "RESTAURANTE CHIFA CHINA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "GONZALEZ",
+    "subcircuito": "GONZALEZ 1",
+    "id": "KATE'S-BOUTIQUE-Z1-I-V-G",
+    "nombre_punto": "KATE'S BOUTIQUE"
   }
 ]
