@@ -9259,5 +9259,14 @@
     "subcircuito": "LA BRAMADORA 1",
     "id": "SUBCENTRO-SALUD-BRAMADORA-Z4-M-E-L",
     "nombre_punto": "Subcentro Salud Bramadora"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "COMERCIAL-DE-CACAO-DELGADO-GUEVARA-Z4-M-V-S",
+    "nombre_punto": "COMERCIAL DE CACAO DELGADO GUEVARA"
   }
 ]
