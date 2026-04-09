@@ -9295,5 +9295,14 @@
     "subcircuito": "CONCORDIA NORTE 3",
     "id": "UNIDAD-EDUCATIVA-PROVINCIA-DE-ESMERALDAS-Z4-S-L-C",
     "nombre_punto": "UNIDAD EDUCATIVA PROVINCIA DE ESMERALDAS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "UNIDAD-EDUCATIVA-SERGIO-NUÑEZ-Z4-S-L-C",
+    "nombre_punto": "UNIDAD EDUCATIVA SERGIO NUÑEZ"
   }
 ]
