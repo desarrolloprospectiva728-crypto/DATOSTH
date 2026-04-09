@@ -9286,5 +9286,14 @@
     "subcircuito": "CONCORDIA NORTE 1",
     "id": "UNIDAD-EDUCATIVA-NUEVA-CONCORDIA-Z4-S-L-C",
     "nombre_punto": "UNIDAD EDUCATIVA NUEVA CONCORDIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 3",
+    "id": "UNIDAD-EDUCATIVA-PROVINCIA-DE-ESMERALDAS-Z4-S-L-C",
+    "nombre_punto": "UNIDAD EDUCATIVA PROVINCIA DE ESMERALDAS"
   }
 ]
