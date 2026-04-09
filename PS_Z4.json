@@ -9268,5 +9268,23 @@
     "subcircuito": "SANTA ANA 1",
     "id": "COMERCIAL-DE-CACAO-DELGADO-GUEVARA-Z4-M-V-S",
     "nombre_punto": "COMERCIAL DE CACAO DELGADO GUEVARA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 1",
+    "id": "UNIDAD-EDUCATIVA-10-DE-AGOSTO-Z4-S-L-C",
+    "nombre_punto": "UNIDAD EDUCATIVA 10 DE AGOSTO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "LA CONCORDIA",
+    "circuito": "CONCORDIA NORTE",
+    "subcircuito": "CONCORDIA NORTE 1",
+    "id": "UNIDAD-EDUCATIVA-NUEVA-CONCORDIA-Z4-S-L-C",
+    "nombre_punto": "UNIDAD EDUCATIVA NUEVA CONCORDIA"
   }
 ]
