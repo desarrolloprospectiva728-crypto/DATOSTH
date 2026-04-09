@@ -15469,5 +15469,14 @@
     "subcircuito": "SIMON BOLIVAR 1",
     "id": "MANZANA-DEL-CUIDADO-SIMÓN-BOLÍVAR-Z5-G-J-S",
     "nombre_punto": "MANZANA DEL CUIDADO SIMÓN BOLÍVAR"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "JUJAN SIMON BOLIVAR",
+    "circuito": "LORENZO DE GARAICOA",
+    "subcircuito": "LORENZO DE GARAICOA 1",
+    "id": "COMERCIAL-CREDI-PARRA-Z5-G-J-L",
+    "nombre_punto": "Comercial Credi Parra"
   }
 ]
