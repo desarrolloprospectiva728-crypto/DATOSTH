@@ -9304,5 +9304,14 @@
     "subcircuito": "CONCORDIA NORTE 3",
     "id": "UNIDAD-EDUCATIVA-SERGIO-NUÑEZ-Z4-S-L-C",
     "nombre_punto": "UNIDAD EDUCATIVA SERGIO NUÑEZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 2",
+    "id": "CENTRO-DE-SALUD-SAN-PEDRO-DE-SUMA-Z4-M-E-S",
+    "nombre_punto": "CENTRO DE SALUD SAN PEDRO DE SUMA"
   }
 ]
