@@ -5263,5 +5263,14 @@
     "subcircuito": "GONZALEZ 1",
     "id": "KATE'S-BOUTIQUE-Z1-I-V-G",
     "nombre_punto": "KATE'S BOUTIQUE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "ATACAMES",
+    "subcircuito": "ATACAMES 1",
+    "id": "FISCALIA-DE-ATACAMES-Z1-E-A-A",
+    "nombre_punto": "FISCALIA DE ATACAMES"
   }
 ]
