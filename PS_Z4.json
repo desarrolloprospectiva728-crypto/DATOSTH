@@ -9313,5 +9313,14 @@
     "subcircuito": "SAN PEDRO DE SUMA 2",
     "id": "CENTRO-DE-SALUD-SAN-PEDRO-DE-SUMA-Z4-M-E-S",
     "nombre_punto": "CENTRO DE SALUD SAN PEDRO DE SUMA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "EL CARMEN",
+    "circuito": "SAN PEDRO DE SUMA",
+    "subcircuito": "SAN PEDRO DE SUMA 1",
+    "id": "SEGURO-CAMPESINO-PUERTO-NUEVO-Z4-M-E-S",
+    "nombre_punto": "SEGURO CAMPESINO PUERTO NUEVO"
   }
 ]
