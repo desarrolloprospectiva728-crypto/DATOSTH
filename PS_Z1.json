@@ -5272,5 +5272,23 @@
     "subcircuito": "ATACAMES 1",
     "id": "FISCALIA-DE-ATACAMES-Z1-E-A-A",
     "nombre_punto": "FISCALIA DE ATACAMES"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS GUABOS",
+    "subcircuito": "LOS GUABOS 2",
+    "id": "DISTRIBUIDORA-RONALD-CASTRO-Z1-I-V-L",
+    "nombre_punto": "Distribuidora Ronald Castro"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS GUABOS",
+    "subcircuito": "LOS GUABOS 2",
+    "id": "DISTRIBUIDORA-RONALD-CASTRO-Z1-I-V-L",
+    "nombre_punto": "Distribuidora Ronald Castro"
   }
 ]
