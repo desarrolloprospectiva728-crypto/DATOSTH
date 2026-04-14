@@ -9349,5 +9349,14 @@
     "subcircuito": "EL CARMEN 2",
     "id": "PATRONATO-MUNICIPAL-EL-CARMEN-Z4-M-E-E",
     "nombre_punto": "PATRONATO MUNICIPAL EL CARMEN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "EL TOACHI",
+    "subcircuito": "EL TOACHI 2",
+    "id": "KFC-K28-AV-QUITO-Z4-S-S-E",
+    "nombre_punto": "KFC K28 AV QUITO"
   }
 ]
