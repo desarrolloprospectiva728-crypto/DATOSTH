@@ -868,9 +868,9 @@
     "subzona": "PICHINCHA",
     "distrito": "NOROCCIDENTE",
     "circuito": "MALDONADO",
-    "subcircuito": "MALDONADO 3",
+    "subcircuito": "MALDONADO 1",
     "id": "TIENDA-LA-INDUSTRIA-Z2-P-N-M",
-    "nombre_punto": "TIENDA LA INDUSTRIA"
+    "nombre_punto": "AXCL"
   },
   {
     "zona": "ZONA 2",
@@ -915,7 +915,7 @@
     "circuito": "PUERTO QUITO SUR",
     "subcircuito": "PUERTO QUITO SUR 2",
     "id": "VÍVERES-JESSENIA-Z2-P-N-P",
-    "nombre_punto": "Víveres Jessenia"
+    "nombre_punto": "SURMR PAPA"
   },
   {
     "zona": "ZONA 2",
@@ -1248,7 +1248,7 @@
     "circuito": "MALDONADO",
     "subcircuito": "MALDONADO 1",
     "id": "LA-SAZÓN-DE-SOFI-Z2-P-N-M",
-    "nombre_punto": "LA  SAZÓN DE SOFI"
+    "nombre_punto": "COMERCIAL FORTALEZA"
   },
   {
     "zona": "ZONA 2",
