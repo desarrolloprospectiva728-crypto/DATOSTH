@@ -15487,5 +15487,14 @@
     "subcircuito": "SANTA ELENA CENTRO 1",
     "id": "ASOCIACIÓN-MONTUBIA-SANTA-ELENA-Z5-S-S-S",
     "nombre_punto": "ASOCIACIÓN MONTUBIA SANTA ELENA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "JUJAN SIMON BOLIVAR",
+    "circuito": "LORENZO DE GARAICOA",
+    "subcircuito": "LORENZO DE GARAICOA 1",
+    "id": "MINISTERIO-DE-SALUD-PUBLICA-TIPO-4-L.G.-Z5-G-J-L",
+    "nombre_punto": "MINISTERIO DE SALUD PUBLICA TIPO 4 L.G."
   }
 ]
