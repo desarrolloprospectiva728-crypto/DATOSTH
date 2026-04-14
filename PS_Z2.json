@@ -3417,7 +3417,7 @@
     "circuito": "PUERTO QUITO NORTE",
     "subcircuito": "PUERTO QUITO NORTE 2",
     "id": "RESTAURANTE-MARITZA-Z2-P-N-P",
-    "nombre_punto": "Restaurante Maritza"
+    "nombre_punto": "SURESTAR MODA"
   },
   {
     "zona": "ZONA 2",
@@ -3588,7 +3588,7 @@
     "circuito": "PUERTO QUITO NORTE",
     "subcircuito": "PUERTO QUITO NORTE 2",
     "id": "GRANIHELAFOS-Z2-P-N-P",
-    "nombre_punto": "Granihelafos"
+    "nombre_punto": "SURAGROFERRETERIA MONSERRATE0.12016819"
   },
   {
     "zona": "ZONA 2",
@@ -3774,10 +3774,10 @@
     "zona": "ZONA 2",
     "subzona": "PICHINCHA",
     "distrito": "NOROCCIDENTE",
-    "circuito": "PUERTO QUITO SUR",
-    "subcircuito": "PUERTO QUITO SUR 2",
+    "circuito": "PUERTO QUITO NORTE",
+    "subcircuito": "PUERTO QUITO NORTE 1",
     "id": "MINIMARKET-MIS-TERREMOTOS-Z2-P-N-P",
-    "nombre_punto": "Minimarket Mis Terremotos"
+    "nombre_punto": "SURSHOES STORE"
   },
   {
     "zona": "ZONA 2",
@@ -4180,9 +4180,9 @@
     "subzona": "PICHINCHA",
     "distrito": "NOROCCIDENTE",
     "circuito": "MALDONADO",
-    "subcircuito": "MALDONADO 2",
+    "subcircuito": "MALDONADO 1",
     "id": "BARBESHOP-Z2-P-N-M",
-    "nombre_punto": "BARBESHOP"
+    "nombre_punto": "YELIARIEL"
   },
   {
     "zona": "ZONA 2",
@@ -4198,9 +4198,9 @@
     "subzona": "PICHINCHA",
     "distrito": "NOROCCIDENTE",
     "circuito": "MALDONADO",
-    "subcircuito": "MALDONADO 2",
+    "subcircuito": "MALDONADO 1",
     "id": "NOGAL-Y-CEDRO-Z2-P-N-M",
-    "nombre_punto": "NOGAL Y CEDRO"
+    "nombre_punto": "PANIFICADORA ASIMBAYA"
   },
   {
     "zona": "ZONA 2",
