@@ -15514,5 +15514,14 @@
     "subcircuito": "FUMISA 1",
     "id": "MINA-ALFARO-Z5-L-B-F",
     "nombre_punto": "Mina Alfaro"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "QUINSALOMA",
+    "subcircuito": "QUINSALOMA 1",
+    "id": "CENTRO-DE-SALUD-QUINSALOMA-Z5-L-V-Q",
+    "nombre_punto": "CENTRO DE SALUD QUINSALOMA"
   }
 ]
