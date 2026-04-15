@@ -15496,5 +15496,14 @@
     "subcircuito": "LORENZO DE GARAICOA 1",
     "id": "MINISTERIO-DE-SALUD-PUBLICA-TIPO-4-L.G.-Z5-G-J-L",
     "nombre_punto": "MINISTERIO DE SALUD PUBLICA TIPO 4 L.G."
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "VENTANAS CENTRO",
+    "subcircuito": "VENTANAS CENTRO 1",
+    "id": "CNEL-VENTANAS-Z5-L-V-V",
+    "nombre_punto": "CNEL VENTANAS"
   }
 ]
