@@ -15505,5 +15505,14 @@
     "subcircuito": "VENTANAS CENTRO 1",
     "id": "CNEL-VENTANAS-Z5-L-V-V",
     "nombre_punto": "CNEL VENTANAS"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "BUENA FE",
+    "circuito": "FUMISA",
+    "subcircuito": "FUMISA 1",
+    "id": "MINA-ALFARO-Z5-L-B-F",
+    "nombre_punto": "Mina Alfaro"
   }
 ]
