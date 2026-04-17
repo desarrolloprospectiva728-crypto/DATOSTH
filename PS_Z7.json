@@ -4894,5 +4894,14 @@
     "subcircuito": "ARENILLAS 1",
     "id": "FISCALÍA-PROVINCIAL-DE-EL-ORO-ARENILLAS-Z7-E-H-A",
     "nombre_punto": "Fiscalía Provincial de El Oro Arenillas"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "HUAQUILLAS",
+    "circuito": "ARENILLAS",
+    "subcircuito": "ARENILLAS 1",
+    "id": "SUBESTACIÓN-ARENILLAS-Z7-E-H-A",
+    "nombre_punto": "Subestación Arenillas"
   }
 ]
