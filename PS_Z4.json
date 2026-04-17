@@ -9367,5 +9367,14 @@
     "subcircuito": "CALCETA CENTRO 1",
     "id": "UNIDAD-EDUCATIVA-QUINCHE-FELIX-Z4-M-B-C",
     "nombre_punto": "UNIDAD EDUCATIVA QUINCHE FELIX"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "HOSPITAL-ANÍBAL-GONZÁLEZ-ALAVA-Z4-M-B-C",
+    "nombre_punto": "HOSPITAL ANÍBAL GONZÁLEZ ALAVA"
   }
 ]
