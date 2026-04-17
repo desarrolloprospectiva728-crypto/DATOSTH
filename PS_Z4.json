@@ -9358,5 +9358,14 @@
     "subcircuito": "EL TOACHI 2",
     "id": "KFC-K28-AV-QUITO-Z4-S-S-E",
     "nombre_punto": "KFC K28 AV QUITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "BOLIVAR JUNIN",
+    "circuito": "CALCETA CENTRO",
+    "subcircuito": "CALCETA CENTRO 1",
+    "id": "UNIDAD-EDUCATIVA-QUINCHE-FELIX-Z4-M-B-C",
+    "nombre_punto": "UNIDAD EDUCATIVA QUINCHE FELIX"
   }
 ]
