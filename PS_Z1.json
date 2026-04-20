@@ -5290,5 +5290,14 @@
     "subcircuito": "LOS GUABOS 1",
     "id": "SUDIMCO-Z1-I-V-L",
     "nombre_punto": "SUDIMCO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "TEXTILERO",
+    "subcircuito": "TEXTILERO 1",
+    "id": "BARRIO-SAN-FRANCISCO-DE-LA-COMUNA-Z1-I-V-T",
+    "nombre_punto": "Barrio San Francisco de la Comuna"
   }
 ]
