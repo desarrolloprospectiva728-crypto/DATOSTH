@@ -9376,5 +9376,14 @@
     "subcircuito": "CALCETA CENTRO 1",
     "id": "HOSPITAL-ANÍBAL-GONZÁLEZ-ALAVA-Z4-M-B-C",
     "nombre_punto": "HOSPITAL ANÍBAL GONZÁLEZ ALAVA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES NORTE",
+    "subcircuito": "PEDERNALES NORTE 1",
+    "id": "UNIVERSIDAD-LAICA-ELOY-ALFARO-DE-MANABI-Z4-M-P-P",
+    "nombre_punto": "UNIVERSIDAD LAICA ELOY ALFARO DE MANABI"
   }
 ]
