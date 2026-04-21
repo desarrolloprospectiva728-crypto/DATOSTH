@@ -9385,5 +9385,14 @@
     "subcircuito": "PEDERNALES NORTE 1",
     "id": "UNIVERSIDAD-LAICA-ELOY-ALFARO-DE-MANABI-Z4-M-P-P",
     "nombre_punto": "UNIVERSIDAD LAICA ELOY ALFARO DE MANABI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "OLMEDO",
+    "subcircuito": "OLMEDO 1",
+    "id": "CNEL-OLMEDO-Z4-M-V-O",
+    "nombre_punto": "CNEL OLMEDO"
   }
 ]
