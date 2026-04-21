@@ -9394,5 +9394,14 @@
     "subcircuito": "OLMEDO 1",
     "id": "CNEL-OLMEDO-Z4-M-V-O",
     "nombre_punto": "CNEL OLMEDO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "VEINTICUATRO DE MAYO",
+    "subcircuito": "VEINTICUATRO DE MAYO",
+    "id": "EMPRESA-ELÉCTRICA-CNEL-Z4-M-V-V",
+    "nombre_punto": "Empresa eléctrica CNEL"
   }
 ]
