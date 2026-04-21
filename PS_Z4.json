@@ -9403,5 +9403,14 @@
     "subcircuito": "VEINTICUATRO DE MAYO",
     "id": "EMPRESA-ELÉCTRICA-CNEL-Z4-M-V-V",
     "nombre_punto": "Empresa eléctrica CNEL"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "CENTRO-AUTOMOTRIZ-AMYS-Z4-M-V-S",
+    "nombre_punto": "CENTRO AUTOMOTRIZ AMYS"
   }
 ]
