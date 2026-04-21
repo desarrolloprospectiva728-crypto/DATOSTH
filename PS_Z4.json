@@ -9412,5 +9412,14 @@
     "subcircuito": "SANTA ANA 1",
     "id": "CENTRO-AUTOMOTRIZ-AMYS-Z4-M-V-S",
     "nombre_punto": "CENTRO AUTOMOTRIZ AMYS"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "PEDERNALES SUR",
+    "subcircuito": "PEDERNALES SUR 1",
+    "id": "MUNDO-SHOPING-Z4-M-P-P",
+    "nombre_punto": "Mundo Shoping"
   }
 ]
