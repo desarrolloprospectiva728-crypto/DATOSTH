@@ -9421,5 +9421,14 @@
     "subcircuito": "PEDERNALES SUR 1",
     "id": "MUNDO-SHOPING-Z4-M-P-P",
     "nombre_punto": "Mundo Shoping"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PORTOVIEJO",
+    "circuito": "ABDON CALDERON",
+    "subcircuito": "ABDON CALDERON 1",
+    "id": "HACIENDA-AGRICOLA-Z4-M-P-A",
+    "nombre_punto": "Hacienda Agricola"
   }
 ]
