@@ -9430,5 +9430,14 @@
     "subcircuito": "ABDON CALDERON 1",
     "id": "HACIENDA-AGRICOLA-Z4-M-P-A",
     "nombre_punto": "Hacienda Agricola"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "<",
+    "subcircuito": "LOS ESTEROS 3",
+    "id": "HOTEL-AQUA-MARINA-Z4-M-M-L",
+    "nombre_punto": "Hotel Aqua Marina"
   }
 ]
