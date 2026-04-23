@@ -3724,5 +3724,14 @@
     "subcircuito": "EL TAMBO 1",
     "id": "GASOLINERA-PETRÓLEOS-Y-SERVICIOS-Z6-C-C-E",
     "nombre_punto": "GASOLINERA PETRÓLEOS Y SERVICIOS"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "HUAMBI",
+    "subcircuito": "HUAMBI 1",
+    "id": "PARQUE-CENTRAL-DE-HUAMBI-Z6-M-C-H",
+    "nombre_punto": "Parque central de Huambi"
   }
 ]
