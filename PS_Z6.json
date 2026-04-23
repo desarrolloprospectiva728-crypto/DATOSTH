@@ -3751,5 +3751,14 @@
     "subcircuito": "HUAMBI 1",
     "id": "RESTAURANTE-MACAWA-Z6-M-C-H",
     "nombre_punto": "Restaurante Macawa"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "HUAMBI",
+    "subcircuito": "HUAMBI 1",
+    "id": "GAB-PARROQUIAL-DE-HUAMBI-Z6-M-C-H",
+    "nombre_punto": "Gab parroquial de Huambi"
   }
 ]
