@@ -3733,5 +3733,23 @@
     "subcircuito": "HUAMBI 1",
     "id": "PARQUE-CENTRAL-DE-HUAMBI-Z6-M-C-H",
     "nombre_punto": "Parque central de Huambi"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "HUAMBI",
+    "subcircuito": "HUAMBI 1",
+    "id": "JUNTA-DE-AGUA-HUAMBI-Z6-M-C-H",
+    "nombre_punto": "Junta de agua Huambi"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "MORONA SANTIAGO",
+    "distrito": "CENTRO SUR",
+    "circuito": "HUAMBI",
+    "subcircuito": "HUAMBI 1",
+    "id": "RESTAURANTE-MACAWA-Z6-M-C-H",
+    "nombre_punto": "Restaurante Macawa"
   }
 ]
