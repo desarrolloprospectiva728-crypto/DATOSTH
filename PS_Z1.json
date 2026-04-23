@@ -5299,5 +5299,14 @@
     "subcircuito": "TEXTILERO 1",
     "id": "BARRIO-SAN-FRANCISCO-DE-LA-COMUNA-Z1-I-V-T",
     "nombre_punto": "Barrio San Francisco de la Comuna"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONSUPA",
+    "subcircuito": "TONSUPA 1",
+    "id": "FARMACIA-ECONÓMICA-TONSUPA-Z1-E-A-T",
+    "nombre_punto": "FARMACIA ECONÓMICA TONSUPA"
   }
 ]
