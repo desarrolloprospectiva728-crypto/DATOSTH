@@ -4903,5 +4903,14 @@
     "subcircuito": "ARENILLAS 1",
     "id": "SUBESTACIÓN-ARENILLAS-Z7-E-H-A",
     "nombre_punto": "Subestación Arenillas"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA OESTE",
+    "subcircuito": "SANTA ROSA OESTE 1",
+    "id": "CEVICHERIA-LA-JUVENTUD-Z7-E-S-S",
+    "nombre_punto": "CEVICHERIA LA JUVENTUD"
   }
 ]
