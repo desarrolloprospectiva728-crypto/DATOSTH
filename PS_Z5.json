@@ -15523,5 +15523,14 @@
     "subcircuito": "QUINSALOMA 1",
     "id": "CENTRO-DE-SALUD-QUINSALOMA-Z5-L-V-Q",
     "nombre_punto": "CENTRO DE SALUD QUINSALOMA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "EMPALME",
+    "circuito": "EMPALME CENTRO",
+    "subcircuito": "EMPALME CENTRO 1",
+    "id": "LIBRERÍA-BAZAR-EL-EMPALME-Z5-G-E-E",
+    "nombre_punto": "LIBRERÍA BAZAR EL EMPAlME"
   }
 ]
