@@ -9439,5 +9439,14 @@
     "subcircuito": "LOS ESTEROS 3",
     "id": "HOTEL-AQUA-MARINA-Z4-M-M-L",
     "nombre_punto": "Hotel Aqua Marina"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "VEINTICUATRO DE MAYO",
+    "circuito": "SANTA ANA",
+    "subcircuito": "SANTA ANA 1",
+    "id": "COMERCIAL-SERGIO-SOLORZANO-Z4-M-V-S",
+    "nombre_punto": "COMERCIAL SERGIO SOLORZANO"
   }
 ]
