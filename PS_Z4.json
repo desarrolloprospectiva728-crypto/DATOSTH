@@ -9457,5 +9457,14 @@
     "subcircuito": "COLON 1",
     "id": "RAPIDITO-Z4-M-P-C",
     "nombre_punto": "Rapidito"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO OESTE",
+    "circuito": "BOMBOLI",
+    "subcircuito": "BOMBOLI 2",
+    "id": "MUNDO-HOGAR-Z4-S-S-B",
+    "nombre_punto": "MUNDO HOGAR"
   }
 ]
