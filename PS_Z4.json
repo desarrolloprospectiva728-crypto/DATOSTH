@@ -9475,5 +9475,14 @@
     "subcircuito": "EL CARMEN 2",
     "id": "UNIDAD-EDUCATIVA-EL-CARMEN-Z4-M-E-E",
     "nombre_punto": "UNIDAD EDUCATIVA EL CARMEN"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "BOLIVAR",
+    "subcircuito": "BOLIVAR 1",
+    "id": "GRUPO-CARRILLO-LOOR-Z4-S-S-B",
+    "nombre_punto": "GRUPO CARRILLO LOOR"
   }
 ]
