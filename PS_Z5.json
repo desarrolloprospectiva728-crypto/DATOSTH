@@ -15532,5 +15532,14 @@
     "subcircuito": "EMPALME CENTRO 1",
     "id": "LIBRERÍA-BAZAR-EL-EMPALME-Z5-G-E-E",
     "nombre_punto": "LIBRERÍA BAZAR EL EMPAlME"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "VENTANAS",
+    "circuito": "ZAPOTAL NUEVO",
+    "subcircuito": "ZAPOTAL NUEVO 1",
+    "id": "SUBCENTRO-DE-SALUD-AGUAS-FRISS-Z5-L-V-Z",
+    "nombre_punto": "Subcentro de Salud Aguas Friss"
   }
 ]
