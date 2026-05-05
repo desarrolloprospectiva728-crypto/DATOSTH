@@ -15550,5 +15550,14 @@
     "subcircuito": "EMPALME SURESTE 1",
     "id": "ALMACEN-DON-BOLI-Z5-G-E-E",
     "nombre_punto": "ALMACEN DON BOLI"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 4",
+    "id": "TIENDA-PÚRPURA-Z5-S-S-S",
+    "nombre_punto": "TIENDA PÚRPURA"
   }
 ]
