@@ -9520,5 +9520,14 @@
     "subcircuito": "EL CARMEN 3",
     "id": "UNIDAD-EDUCATIVA-MANUEL-ESPINALES-SANTANA-Z4-M-E-E",
     "nombre_punto": "UNIDAD EDUCATIVA MANUEL ESPINALES SANTANA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 2",
+    "id": "ULEAM---(UNIVERSIDAD-LAICA-ELOY-ALFARO-DE-MANABÍ)-Z4-S-S-C",
+    "nombre_punto": "ULEAM - (UNIVERSIDAD LAICA ELOY ALFARO DE MANABÍ)"
   }
 ]
