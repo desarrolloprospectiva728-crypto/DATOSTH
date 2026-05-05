@@ -9529,5 +9529,14 @@
     "subcircuito": "CENTRO 2",
     "id": "ULEAM---(UNIVERSIDAD-LAICA-ELOY-ALFARO-DE-MANABÍ)-Z4-S-S-C",
     "nombre_punto": "ULEAM - (UNIVERSIDAD LAICA ELOY ALFARO DE MANABÍ)"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 2",
+    "id": "COMERCIAL-RODRIGUEZ-Z4-S-S-T",
+    "nombre_punto": "COMERCIAL RODRIGUEZ"
   }
 ]
