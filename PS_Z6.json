@@ -69,7 +69,7 @@
     "circuito": "MACAS",
     "subcircuito": "MACAS 1",
     "id": "FARMACIA-CRUZ-AZUL-Z6-M-M-M",
-    "nombre_punto": "FARMACIA CRUZ AZUL"
+    "nombre_punto": "ALMACENES TIA"
   },
   {
     "zona": "ZONA 6",
@@ -85,9 +85,9 @@
     "subzona": "MORONA SANTIAGO",
     "distrito": "MORONA",
     "circuito": "MACAS",
-    "subcircuito": "MACAS 1",
+    "subcircuito": "MACAS 2",
     "id": "ALAMCEN-Z6-M-M-M",
-    "nombre_punto": "ALAMCEN"
+    "nombre_punto": "PARQUE RECREACIONAL"
   },
   {
     "zona": "ZONA 6",
@@ -1759,9 +1759,9 @@
     "subzona": "MORONA SANTIAGO",
     "distrito": "MORONA",
     "circuito": "MACAS",
-    "subcircuito": "MACAS 1",
+    "subcircuito": "MACAS 2",
     "id": "UPC-MORONA-Z6-M-M-M",
-    "nombre_punto": "UPC MORONA"
+    "nombre_punto": "MICROMERCADO LA ESPERANZA"
   },
   {
     "zona": "ZONA 6",
