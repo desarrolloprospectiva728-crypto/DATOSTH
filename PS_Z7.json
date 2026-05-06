@@ -4948,5 +4948,14 @@
     "subcircuito": "SANTA ROSA OESTE 1",
     "id": "COLEGIO-DEMETRIO-AGUILERA-MALTA-Z7-E-S-S",
     "nombre_punto": "COLEGIO DEMETRIO AGUILERA MALTA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA OESTE",
+    "subcircuito": "SANTA ROSA OESTE 1",
+    "id": "COLEGIO-JAMBELI-Z7-E-S-S",
+    "nombre_punto": "COLEGIO JAMBELI"
   }
 ]
