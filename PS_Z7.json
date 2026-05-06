@@ -4939,5 +4939,14 @@
     "subcircuito": "SANTA ROSA ESTE 2",
     "id": "LAVADORA-Y-LUBRICADORA-DON-MORA-Z7-E-S-S",
     "nombre_punto": "LAVADORA Y LUBRICADORA DON MORA"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "SANTA ROSA",
+    "circuito": "SANTA ROSA OESTE",
+    "subcircuito": "SANTA ROSA OESTE 1",
+    "id": "COLEGIO-DEMETRIO-AGUILERA-MALTA-Z7-E-S-S",
+    "nombre_punto": "COLEGIO DEMETRIO AGUILERA MALTA"
   }
 ]
