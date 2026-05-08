@@ -5308,5 +5308,14 @@
     "subcircuito": "TONSUPA 1",
     "id": "FARMACIA-ECONÓMICA-TONSUPA-Z1-E-A-T",
     "nombre_punto": "FARMACIA ECONÓMICA TONSUPA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "SAN ROQUE",
+    "subcircuito": "SAN ROQUE 1",
+    "id": "INVERNADERO-AGUIRRE-Z1-I-V-S",
+    "nombre_punto": "INVERNADERO AGUIRRE"
   }
 ]
