@@ -9538,5 +9538,14 @@
     "subcircuito": "TRES DE JULIO 2",
     "id": "COMERCIAL-RODRIGUEZ-Z4-S-S-T",
     "nombre_punto": "COMERCIAL RODRIGUEZ"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "ROCAFUERTE",
+    "circuito": "BACHILLERO",
+    "subcircuito": "BACHILLERO 2",
+    "id": "CENTRO-DE-SALUD-LA-ESTANCILLA-Z4-M-R-B",
+    "nombre_punto": "Centro de Salud la Estancilla"
   }
 ]
