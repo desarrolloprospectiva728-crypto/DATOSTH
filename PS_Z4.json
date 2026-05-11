@@ -9547,5 +9547,14 @@
     "subcircuito": "BACHILLERO 2",
     "id": "CENTRO-DE-SALUD-LA-ESTANCILLA-Z4-M-R-B",
     "nombre_punto": "Centro de Salud la Estancilla"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "EL TOACHI",
+    "subcircuito": "EL TOACHI 1",
+    "id": "INSTITUTO-TSÁCHILA-Z4-S-S-E",
+    "nombre_punto": "INSTITUTO TSÁCHILA"
   }
 ]
