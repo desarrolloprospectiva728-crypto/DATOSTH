@@ -15559,5 +15559,23 @@
     "subcircuito": "SANTA ELENA CENTRO 4",
     "id": "TIENDA-PÚRPURA-Z5-S-S-S",
     "nombre_punto": "TIENDA PÚRPURA"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "JAIME ROLDOS",
+    "subcircuito": "JAIME ROLDOS 1",
+    "id": "CYBERG-DAYANARA-Z5-G-N-J",
+    "nombre_punto": "Cyberg Dayanara"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "JAIME ROLDOS",
+    "subcircuito": "JAIME ROLDOS 1",
+    "id": "CYBERG-DAYANARA-Z5-G-N-J",
+    "nombre_punto": "Cyberg Dayanara"
   }
 ]
