@@ -9610,5 +9610,14 @@
     "subcircuito": "EL TOACHI 1",
     "id": "URBANIZACIÓN-EL-TOACHI-Z4-S-S-E",
     "nombre_punto": "URBANIZACIÓN EL TOACHI"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 1",
+    "id": "NOTARIA-SÉPTIMA-Z4-S-S-T",
+    "nombre_punto": "NOTARIA SÉPTIMA"
   }
 ]
