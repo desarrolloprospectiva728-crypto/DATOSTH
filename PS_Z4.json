@@ -9601,5 +9601,14 @@
     "subcircuito": "CENTRO 3",
     "id": "NOTARIA-QUINTA-Z4-S-S-C",
     "nombre_punto": "NOTARIA QUINTA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "EL TOACHI",
+    "subcircuito": "EL TOACHI 1",
+    "id": "URBANIZACIÓN-EL-TOACHI-Z4-S-S-E",
+    "nombre_punto": "URBANIZACIÓN EL TOACHI"
   }
 ]
