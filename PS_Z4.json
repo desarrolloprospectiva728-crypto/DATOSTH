@@ -9574,5 +9574,14 @@
     "subcircuito": "CENTRO 4",
     "id": "NOTARIA-SEGUNDA-(AV.-TSACHILA)-Z4-S-S-C",
     "nombre_punto": "NOTARIA SEGUNDA (AV. TSACHILA)"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 4",
+    "id": "NOTARIA-TERCERA-Z4-S-S-C",
+    "nombre_punto": "NOTARIA TERCERA"
   }
 ]
