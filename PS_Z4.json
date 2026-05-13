@@ -9592,5 +9592,14 @@
     "subcircuito": "TRES DE JULIO 1",
     "id": "NOTARIA-SEXTA-(AV.-QUITO-E-IBARRA)-Z4-S-S-T",
     "nombre_punto": "NOTARIA SEXTA (AV. QUITO E IBARRA)"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 3",
+    "id": "NOTARIA-QUINTA-Z4-S-S-C",
+    "nombre_punto": "NOTARIA QUINTA"
   }
 ]
