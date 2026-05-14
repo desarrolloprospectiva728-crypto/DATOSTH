@@ -15568,5 +15568,14 @@
     "subcircuito": "JAIME ROLDOS 1",
     "id": "CYBERG-DAYANARA-Z5-G-N-J",
     "nombre_punto": "Cyberg Dayanara"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 1",
+    "id": "HOSTERÍA-DILLON-Z5-S-S-S",
+    "nombre_punto": "HOSTERÍA DILLON"
   }
 ]
