@@ -5317,5 +5317,14 @@
     "subcircuito": "SAN ROQUE 1",
     "id": "INVERNADERO-AGUIRRE-Z1-I-V-S",
     "nombre_punto": "INVERNADERO AGUIRRE"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONSUPA",
+    "subcircuito": "TONSUPA 1",
+    "id": "GASOLINERA-PRIMAX-CARFULL-Z1-E-A-T",
+    "nombre_punto": "GASOLINERA PRIMAX CARFULL"
   }
 ]
