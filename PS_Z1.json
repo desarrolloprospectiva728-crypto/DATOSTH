@@ -5326,5 +5326,14 @@
     "subcircuito": "TONSUPA 1",
     "id": "GASOLINERA-PRIMAX-CARFULL-Z1-E-A-T",
     "nombre_punto": "GASOLINERA PRIMAX CARFULL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "ESTADIO",
+    "subcircuito": "ESTADIO 1",
+    "id": "ESTACION-DE-SERVICIO-EL-MAYORISTA-Z1-I-C-E",
+    "nombre_punto": "ESTACION DE SERVICIO EL MAYORISTA"
   }
 ]
