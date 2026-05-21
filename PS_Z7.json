@@ -4957,5 +4957,14 @@
     "subcircuito": "SANTA ROSA OESTE 1",
     "id": "COLEGIO-JAMBELI-Z7-E-S-S",
     "nombre_punto": "COLEGIO JAMBELI"
+  },
+  {
+    "zona": "ZONA 7",
+    "subzona": "EL ORO",
+    "distrito": "PIÑAS",
+    "circuito": "SAN ROQUE",
+    "subcircuito": "SAN ROQUE 1",
+    "id": "MUNTI-LLANTAS-ADOLFO-Z7-E-P-S",
+    "nombre_punto": "Munti llantas Adolfo"
   }
 ]
