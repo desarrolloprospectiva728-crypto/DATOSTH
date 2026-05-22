@@ -9628,5 +9628,14 @@
     "subcircuito": "TRES DE JULIO 1",
     "id": "NOTARIA-PRIMERA-(INDIO-COLORADO)-Z4-S-S-T",
     "nombre_punto": "NOTARIA PRIMERA (INDIO COLORADO)"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 4",
+    "id": "NOTARIA-OCTAVA-A-LADO-DE-LA-FISCALÍA-Z4-S-S-C",
+    "nombre_punto": "NOTARIA OCTAVA A LADO DE LA FISCALÍA"
   }
 ]
