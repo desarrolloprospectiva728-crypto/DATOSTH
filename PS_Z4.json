@@ -9655,5 +9655,14 @@
     "subcircuito": "TRES DE JULIO 1",
     "id": "NOTARIA-SEXTA-IBARRA-Y-QUITO-Z4-S-S-T",
     "nombre_punto": "NOTARIA SEXTA IBARRA Y QUITO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "PUERTO LOPEZ",
+    "subcircuito": "PUERTO LOPEZ 1",
+    "id": "SUBCENTRO-DE-SALUD-PUERTO-LOPEZ-Z4-M-J-P",
+    "nombre_punto": "SUBCENTRO DE SALUD PUERTO LOPEZ"
   }
 ]
