@@ -9637,5 +9637,23 @@
     "subcircuito": "CENTRO 4",
     "id": "NOTARIA-OCTAVA-A-LADO-DE-LA-FISCALÍA-Z4-S-S-C",
     "nombre_punto": "NOTARIA OCTAVA A LADO DE LA FISCALÍA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 1",
+    "id": "NOTARIA-NOVENA-IBARRA-Y-3-DE-JULIO-Z4-S-S-T",
+    "nombre_punto": "NOTARIA NOVENA IBARRA Y 3 DE JULIO"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 1",
+    "id": "NOTARIA-SEXTA-IBARRA-Y-QUITO-Z4-S-S-T",
+    "nombre_punto": "NOTARIA SEXTA IBARRA Y QUITO"
   }
 ]
