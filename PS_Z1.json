@@ -5335,5 +5335,14 @@
     "subcircuito": "ESTADIO 1",
     "id": "ESTACION-DE-SERVICIO-EL-MAYORISTA-Z1-I-C-E",
     "nombre_punto": "ESTACION DE SERVICIO EL MAYORISTA"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS LAGOS",
+    "subcircuito": "LOS LAGOS 1",
+    "id": "LOS-EUCALIPTOS-Z1-I-V-L",
+    "nombre_punto": "Los Eucaliptos"
   }
 ]
