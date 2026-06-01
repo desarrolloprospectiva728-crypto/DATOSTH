@@ -5353,5 +5353,14 @@
     "subcircuito": "QUICHINCHE 1",
     "id": "COMUNIDAD-PANECILLO-Z1-I-V-Q",
     "nombre_punto": "COMUNIDAD PANECILLO"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "CIUDAD BLANCA",
+    "circuito": "CARANQUIS",
+    "subcircuito": "CARANQUIS 1",
+    "id": "DIRECTOR-CPL-Z1-I-C-C",
+    "nombre_punto": "DIRECTOR CPL"
   }
 ]
