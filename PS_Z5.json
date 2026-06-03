@@ -15595,5 +15595,14 @@
     "subcircuito": "SANTA ELENA CENTRO 4",
     "id": "CTE-K2-Z5-S-S-S",
     "nombre_punto": "CTE K2"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "SANTA ELENA",
+    "circuito": "SANTA ELENA CENTRO",
+    "subcircuito": "SANTA ELENA CENTRO 4",
+    "id": "SOLDIAL-2-Z5-S-S-S",
+    "nombre_punto": "SOLDIAL 2"
   }
 ]
