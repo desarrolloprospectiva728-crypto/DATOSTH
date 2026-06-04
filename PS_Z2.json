@@ -2400,7 +2400,7 @@
     "circuito": "AEROPUERTO",
     "subcircuito": "KM 24 1",
     "id": "TIENDA-SANTIAGUITO-Z2-N-T-K",
-    "nombre_punto": "Tienda Santiaguito"
+    "nombre_punto": "U.E CIUDAD DE TENA"
   },
   {
     "zona": "ZONA 2",
@@ -2634,7 +2634,7 @@
     "circuito": "KM 24",
     "subcircuito": "KM 24 1",
     "id": "PAPELERÍA-BACHITA-Z2-N-T-K",
-    "nombre_punto": "Papelería Bachita"
+    "nombre_punto": "U.E INTILLACTA"
   },
   {
     "zona": "ZONA 2",
@@ -2715,7 +2715,7 @@
     "circuito": "KM 24",
     "subcircuito": "KM 24 1",
     "id": "TIENDA-VERITA-Z2-N-T-K",
-    "nombre_punto": "Tienda Verita"
+    "nombre_punto": "U.E MAXIMILIANO SPILLER"
   },
   {
     "zona": "ZONA 2",
@@ -2776,7 +2776,7 @@
     "subzona": "NAPO",
     "distrito": "TENA",
     "circuito": "AEROPUERTO",
-    "subcircuito": "KM 24 1",
+    "subcircuito": "AEROPUERTO 1",
     "id": "LOCAL-YOYOS-VARIEDADES-Z2-N-T-K",
     "nombre_punto": "AV. MUYUNA- CAJERO"
   },
@@ -2847,19 +2847,19 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
     "id": "TIENDA-LIAM-Z2-N-T-K",
-    "nombre_punto": "Tienda Liam"
+    "nombre_punto": "TERMINAL JUMANDY"
   },
   {
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
     "id": "TIENDA-YUJI-Z2-N-T-K",
-    "nombre_punto": "Tienda YUJI"
+    "nombre_punto": "CRUZ CASPI"
   },
   {
     "zona": "ZONA 2",
