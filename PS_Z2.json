@@ -2370,10 +2370,10 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
     "id": "PANADERÍA-EL-DORADO-Z2-N-T-K",
-    "nombre_punto": "Panadería El dorado"
+    "nombre_punto": "FINAL PARQUE LINEAL"
   },
   {
     "zona": "ZONA 2",
@@ -2676,10 +2676,10 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
     "id": "TIENDA-DIANITA-Z2-N-T-K",
-    "nombre_punto": "Tienda Dianita"
+    "nombre_punto": "U. E NACIONAL TENA INICIAL"
   },
   {
     "zona": "ZONA 2",
@@ -2722,7 +2722,7 @@
     "subzona": "NAPO",
     "distrito": "TENA",
     "circuito": "AEROPUERTO",
-    "subcircuito": "KM 24 1",
+    "subcircuito": "AEROPUERTO 1",
     "id": "BAZAR-VALERIA-Z2-N-T-K",
     "nombre_punto": "U. E NACIONAL TENA"
   },
@@ -2730,10 +2730,10 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 0",
     "id": "LOCAL-MARI-Z2-N-T-K",
-    "nombre_punto": "Local  Mari"
+    "nombre_punto": "CASA DE LA CULTURA"
   },
   {
     "zona": "ZONA 2",
@@ -2766,19 +2766,19 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
     "id": "TIENDA-KALOLO-Z2-N-T-K",
-    "nombre_punto": "Tienda  Kalolo"
+    "nombre_punto": "TERMINAL CENTINELA"
   },
   {
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
+    "circuito": "AEROPUERTO",
     "subcircuito": "KM 24 1",
     "id": "LOCAL-YOYOS-VARIEDADES-Z2-N-T-K",
-    "nombre_punto": "Local yoyos Variedades"
+    "nombre_punto": "AV. MUYUNA- CAJERO"
   },
   {
     "zona": "ZONA 2",
@@ -2793,10 +2793,10 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
     "id": "LICORERÍA-MAMBO-Z2-N-T-K",
-    "nombre_punto": "Licorería Mambo"
+    "nombre_punto": "CNE"
   },
   {
     "zona": "ZONA 2",
