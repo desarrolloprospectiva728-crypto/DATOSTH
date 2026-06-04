@@ -2658,17 +2658,17 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
     "id": "COMEDOR-KOMA-Z2-N-T-K",
-    "nombre_punto": "Comedor Koma"
+    "nombre_punto": "FARMACIA ECONOMICA"
   },
   {
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
     "circuito": "AEROPUERTO",
-    "subcircuito": "PALANDACOCHA",
+    "subcircuito": "AEROPUERTO 0",
     "id": "PANADERÍA-SABOR-QUITEÑO-Z2-N-T-K",
     "nombre_punto": "AHUMADOS"
   },
@@ -2676,7 +2676,7 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "",
+    "circuito": "AEROPUERTO",
     "subcircuito": "AEROPUERTO 1",
     "id": "TIENDA-DIANITA-Z2-N-T-K",
     "nombre_punto": "U. E NACIONAL TENA INICIAL"
