@@ -2406,10 +2406,10 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
     "id": "ESTACIÓN-PLUSPETROL-Z2-N-T-K",
-    "nombre_punto": "Estación Pluspetrol"
+    "nombre_punto": "CACPE PASTAZA"
   },
   {
     "zona": "ZONA 2",
@@ -2685,10 +2685,10 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 0",
     "id": "LAVANDERÍA-Z2-N-T-K",
-    "nombre_punto": "Lavandería"
+    "nombre_punto": "U.E SAN JOSÉ"
   },
   {
     "zona": "ZONA 2",
@@ -2748,10 +2748,10 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 1",
     "id": "FARMACIA-Z2-N-T-K",
-    "nombre_punto": "Farmacia"
+    "nombre_punto": "BAN ECUADOR"
   },
   {
     "zona": "ZONA 2",
