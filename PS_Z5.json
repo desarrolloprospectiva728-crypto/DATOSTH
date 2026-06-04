@@ -15604,5 +15604,14 @@
     "subcircuito": "SANTA ELENA CENTRO 4",
     "id": "SOLDIAL-2-Z5-S-S-S",
     "nombre_punto": "SOLDIAL 2"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "AGRIMEN-Z5-L-Q-L",
+    "nombre_punto": "AGRIMEN"
   }
 ]
