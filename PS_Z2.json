@@ -2398,7 +2398,7 @@
     "subzona": "NAPO",
     "distrito": "TENA",
     "circuito": "AEROPUERTO",
-    "subcircuito": "KM 24 1",
+    "subcircuito": "AEROPUERTO 2",
     "id": "TIENDA-SANTIAGUITO-Z2-N-T-K",
     "nombre_punto": "U.E CIUDAD DE TENA"
   },
@@ -2631,8 +2631,8 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA",
     "id": "PAPELERÍA-BACHITA-Z2-N-T-K",
     "nombre_punto": "U.E INTILLACTA"
   },
@@ -2667,16 +2667,16 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "PALANDACOCHA",
     "id": "PANADERÍA-SABOR-QUITEÑO-Z2-N-T-K",
-    "nombre_punto": "Panadería  sabor Quiteño"
+    "nombre_punto": "AHUMADOS"
   },
   {
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "AEROPUERTO",
+    "circuito": "",
     "subcircuito": "AEROPUERTO 1",
     "id": "TIENDA-DIANITA-Z2-N-T-K",
     "nombre_punto": "U. E NACIONAL TENA INICIAL"
@@ -2712,8 +2712,8 @@
     "zona": "ZONA 2",
     "subzona": "NAPO",
     "distrito": "TENA",
-    "circuito": "KM 24",
-    "subcircuito": "KM 24 1",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
     "id": "TIENDA-VERITA-Z2-N-T-K",
     "nombre_punto": "U.E MAXIMILIANO SPILLER"
   },
