@@ -9673,5 +9673,14 @@
     "subcircuito": "PEDERNALES SUR 1",
     "id": "IMPRENTA-\"AMERICA\"-DISEÑO-&-PUBLICIDAD-Z4-M-P-P",
     "nombre_punto": "IMPRENTA \"AMERICA\" DISEÑO & PUBLICIDAD"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 3",
+    "id": "SUPERMERCADOS-ALDEAN-(CALLE-A-TISANA-Y-EJÉRCITO)-Z4-S-S-C",
+    "nombre_punto": "SUPERMERCADOS ALDEAN (CALLE A TISANA Y EJÉRCITO)"
   }
 ]
