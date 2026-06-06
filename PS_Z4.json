@@ -9682,5 +9682,14 @@
     "subcircuito": "CENTRO 3",
     "id": "SUPERMERCADOS-ALDEAN-(CALLE-A-TISANA-Y-EJÉRCITO)-Z4-S-S-C",
     "nombre_punto": "SUPERMERCADOS ALDEAN (CALLE A TISANA Y EJÉRCITO)"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "TRES DE JULIO",
+    "subcircuito": "TRES DE JULIO 1",
+    "id": "SUPERMERCADOS-ALDEAN-(PEATONAL-3-DE-JULIO)-Z4-S-S-T",
+    "nombre_punto": "SUPERMERCADOS ALDEAN (PEATONAL 3 DE JULIO)"
   }
 ]
