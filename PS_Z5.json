@@ -15613,5 +15613,14 @@
     "subcircuito": "LA MERCED 1",
     "id": "AGRIMEN-Z5-L-Q-L",
     "nombre_punto": "AGRIMEN"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "CERVECERIA-NACIONAL-Z5-G-B-P",
+    "nombre_punto": "CERVECERIA NACIONAL"
   }
 ]
