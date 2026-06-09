@@ -4885,5 +4885,14 @@
     "subcircuito": "COCA ORIENTE 3",
     "id": "ZUMO-NATURALMENTE-BUENO-Z2-O-O-C",
     "nombre_punto": "ZUMO NATURALMENTE BUENO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "AEROPUERTO",
+    "subcircuito": "AEROPUERTO 2",
+    "id": "FARMACIAS-ECONOMICAS-Z2-N-T-A",
+    "nombre_punto": "FARMACIAS ECONOMICAS"
   }
 ]
