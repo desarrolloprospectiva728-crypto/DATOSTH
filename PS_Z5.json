@@ -15622,5 +15622,14 @@
     "subcircuito": "PALESTINA 1",
     "id": "CERVECERIA-NACIONAL-Z5-G-B-P",
     "nombre_punto": "CERVECERIA NACIONAL"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "BALZAR",
+    "circuito": "PALESTINA",
+    "subcircuito": "PALESTINA 1",
+    "id": "GASOLINERA-PETROLRIOS-Z5-G-B-P",
+    "nombre_punto": "GASOLINERA PETROLRIOS"
   }
 ]
