@@ -4930,5 +4930,14 @@
     "subcircuito": "PALANDACOCHA 2",
     "id": "COOPERATIVA-DE-TRANSPORTE-CENTINELA-TENA-Z2-N-T-P",
     "nombre_punto": "COOPERATIVA DE TRANSPORTE CENTINELA TENA"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 1",
+    "id": "COOPERATIVA-DE-TRANSPORTE-JUMANDY-Z2-N-T-P",
+    "nombre_punto": "COOPERATIVA DE TRANSPORTE JUMANDY"
   }
 ]
