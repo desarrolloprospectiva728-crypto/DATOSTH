@@ -4948,5 +4948,14 @@
     "subcircuito": "PALANDACOCHA 1",
     "id": "PRODUCTOS-AHUMADOS-Z2-N-T-P",
     "nombre_punto": "PRODUCTOS AHUMADOS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "UNIDAD-EDUCATIVA-INTILLACTA-Z2-N-T-P",
+    "nombre_punto": "UNIDAD EDUCATIVA INTILLACTA"
   }
 ]
