@@ -4894,5 +4894,14 @@
     "subcircuito": "AEROPUERTO 2",
     "id": "FARMACIAS-ECONOMICAS-Z2-N-T-A",
     "nombre_punto": "FARMACIAS ECONOMICAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "TENA",
+    "circuito": "PALANDACOCHA",
+    "subcircuito": "PALANDACOCHA 2",
+    "id": "HOTEL-CRUSCASPI-Z2-N-T-P",
+    "nombre_punto": "HOTEL CRUSCASPI"
   }
 ]
