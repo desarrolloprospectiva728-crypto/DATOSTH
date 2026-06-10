@@ -9691,5 +9691,14 @@
     "subcircuito": "TRES DE JULIO 1",
     "id": "SUPERMERCADOS-ALDEAN-(PEATONAL-3-DE-JULIO)-Z4-S-S-T",
     "nombre_punto": "SUPERMERCADOS ALDEAN (PEATONAL 3 DE JULIO)"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "SUCRE",
+    "circuito": "CHARAPOTO",
+    "subcircuito": "CHARAPOTO 1",
+    "id": "VIA-LA-BOCA-Z4-M-S-C",
+    "nombre_punto": "VIA LA BOCA"
   }
 ]
