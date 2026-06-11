@@ -5362,5 +5362,14 @@
     "subcircuito": "CARANQUIS 1",
     "id": "DIRECTOR-CPL-Z1-I-C-C",
     "nombre_punto": "DIRECTOR CPL"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "ESMERALDAS",
+    "distrito": "ATACAMES",
+    "circuito": "TONSUPA",
+    "subcircuito": "TONSUPA 1",
+    "id": "HOTEL-PRINCESS-MAR-Z1-E-A-T",
+    "nombre_punto": "Hotel Princess Mar"
   }
 ]
