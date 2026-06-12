@@ -5371,5 +5371,14 @@
     "subcircuito": "TONSUPA 1",
     "id": "HOTEL-PRINCESS-MAR-Z1-E-A-T",
     "nombre_punto": "Hotel Princess Mar"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "LOS GUABOS",
+    "subcircuito": "LOS GUABOS 2",
+    "id": "CASA-TALLER-EL-ROSARIO-Z1-I-V-L",
+    "nombre_punto": "Casa Taller el Rosario"
   }
 ]
