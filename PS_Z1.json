@@ -5380,5 +5380,14 @@
     "subcircuito": "LOS GUABOS 2",
     "id": "CASA-TALLER-EL-ROSARIO-Z1-I-V-L",
     "nombre_punto": "Casa Taller el Rosario"
+  },
+  {
+    "zona": "ZONA 1",
+    "subzona": "IMBABURA",
+    "distrito": "VALLE DEL AMANECER",
+    "circuito": "TEXTILERO",
+    "subcircuito": "TEXTILERO 1",
+    "id": "FABRICA-JOLENE-Z1-I-V-T",
+    "nombre_punto": "Fabrica Jolene"
   }
 ]
