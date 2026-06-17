@@ -9718,5 +9718,14 @@
     "subcircuito": "MARIA AUXILIADORA 1",
     "id": "TERRAZAS-SANTA-MARIA-Z4-M-M-M",
     "nombre_punto": "TERRAZAS SANTA MARIA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 1",
+    "id": "CONJUNTO-HABITACIONAL-LA-ROMANA-Z4-M-M-M",
+    "nombre_punto": "CONJUNTO HABITACIONAL  LA ROMANA"
   }
 ]
