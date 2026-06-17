@@ -9709,5 +9709,14 @@
     "subcircuito": "2001-05-03T05:00:00.000Z",
     "id": "COMERCIAL-ORTEGA-Z4-M-J-3",
     "nombre_punto": "COMERCIAL ORTEGA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MARIA AUXILIADORA",
+    "subcircuito": "MARIA AUXILIADORA 1",
+    "id": "TERRAZAS-SANTA-MARIA-Z4-M-M-M",
+    "nombre_punto": "TERRAZAS SANTA MARIA"
   }
 ]
