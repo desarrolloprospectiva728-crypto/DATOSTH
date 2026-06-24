@@ -9727,5 +9727,14 @@
     "subcircuito": "SAN JUAN 1",
     "id": "CONJUNTO-HABITACIONAL-LA-ROMANA-Z4-M-M-M",
     "nombre_punto": "CONJUNTO HABITACIONAL  LA ROMANA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "MURCIELAGO",
+    "subcircuito": "MURCIELAGO 1",
+    "id": "AGUA-SANI-Z4-M-M-M",
+    "nombre_punto": "Agua Sani"
   }
 ]
