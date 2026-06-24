@@ -9736,5 +9736,14 @@
     "subcircuito": "MURCIELAGO 1",
     "id": "AGUA-SANI-Z4-M-M-M",
     "nombre_punto": "Agua Sani"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "SANTO DOMINGO DE LOS TSACHILAS",
+    "distrito": "SANTO DOMINGO ESTE",
+    "circuito": "CENTRO",
+    "subcircuito": "CENTRO 1",
+    "id": "CENTRO-DE-MAQUILLAJE-PROFESIONAL-\"GABRIELA-AVILÉS\"-Z4-S-S-C",
+    "nombre_punto": "CENTRO DE MAQUILLAJE PROFESIONAL \"GABRIELA AVILÉS\""
   }
 ]
