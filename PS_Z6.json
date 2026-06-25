@@ -3778,5 +3778,14 @@
     "subcircuito": "LA UNION 1",
     "id": "ENTIDAD-FINANCIERA-BANCO-DEL-PICHINCHA-Z6-A-G-L",
     "nombre_punto": "ENTIDAD FINANCIERA BANCO DEL PICHINCHA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES NORTE",
+    "subcircuito": "AZOGUES NORTE 3",
+    "id": "CEVICHOCHO-LUPITA-Z6-C-A-A",
+    "nombre_punto": "CEVICHOCHO LUPITA"
   }
 ]
