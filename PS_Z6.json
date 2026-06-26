@@ -3787,5 +3787,14 @@
     "subcircuito": "AZOGUES NORTE 3",
     "id": "CEVICHOCHO-LUPITA-Z6-C-A-A",
     "nombre_punto": "CEVICHOCHO LUPITA"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "AZUAY",
+    "distrito": "CUENCA NORTE",
+    "circuito": "RICAURTE",
+    "subcircuito": "RICAURTE 1",
+    "id": "MI-ESCONDITE-RICAURTE-Z6-A-C-R",
+    "nombre_punto": "MI ESCONDITE RICAURTE"
   }
 ]
