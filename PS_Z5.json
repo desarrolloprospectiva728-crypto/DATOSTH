@@ -15649,5 +15649,14 @@
     "subcircuito": "LIBERTAD CENTRO 2",
     "id": "ASADERO-EL-SECRETO-DE-JOSÉ-Z5-S-L-L",
     "nombre_punto": "Asadero El Secreto de José"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 2",
+    "id": "PICANTERIA-JAMA-JAMA-Z5-S-L-L",
+    "nombre_punto": "PICANTERIA JAMA JAMA"
   }
 ]
