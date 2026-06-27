@@ -15640,5 +15640,14 @@
     "subcircuito": "2001-06-05T05:00:00.000Z",
     "id": "DOMICILIO-DE-JAMA-JAMA-Z5-S-L-5",
     "nombre_punto": "Domicilio de Jama Jama"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "SANTA ELENA",
+    "distrito": "LIBERTAD SALINAS",
+    "circuito": "LIBERTAD CENTRO",
+    "subcircuito": "LIBERTAD CENTRO 2",
+    "id": "ASADERO-EL-SECRETO-DE-JOSÉ-Z5-S-L-L",
+    "nombre_punto": "Asadero El Secreto de José"
   }
 ]
