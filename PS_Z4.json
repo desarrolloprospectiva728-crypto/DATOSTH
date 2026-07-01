@@ -9754,5 +9754,14 @@
     "subcircuito": "ABDON CALDERON 1",
     "id": "MOTOS-Y-CARROS-FRONWAY-Z4-M-P-A",
     "nombre_punto": "Motos y Carros Fronway"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "MANTA",
+    "circuito": "SAN JUAN",
+    "subcircuito": "SAN JUAN 1",
+    "id": "URB.-SANTA-MARÍA-Z4-M-M-S",
+    "nombre_punto": "URB. SANTA MARÍA"
   }
 ]
