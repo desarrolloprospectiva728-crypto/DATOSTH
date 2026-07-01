@@ -4957,5 +4957,14 @@
     "subcircuito": "PALANDACOCHA 1",
     "id": "UNIDAD-EDUCATIVA-MONSEÑOR-MAXIMILIANO-SPILLER-Z2-N-T-P",
     "nombre_punto": "UNIDAD EDUCATIVA MONSEÑOR MAXIMILIANO SPILLER"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "EL CHACO",
+    "subcircuito": "EL CHACO 1",
+    "id": "FISCALIA-EL-CHACO-Z2-N-E-E",
+    "nombre_punto": "FISCALIA EL CHACO"
   }
 ]
