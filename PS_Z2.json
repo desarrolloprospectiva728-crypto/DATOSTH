@@ -4966,5 +4966,14 @@
     "subcircuito": "EL CHACO 1",
     "id": "FISCALIA-EL-CHACO-Z2-N-E-E",
     "nombre_punto": "FISCALIA EL CHACO"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "NAPO",
+    "distrito": "EL VALLE DE QUIJOS",
+    "circuito": "SAN FRANCISCO DE BORJA",
+    "subcircuito": "SAN FRANCISCO DE BORJA 1",
+    "id": "FISCALIA-DEL-CANTON-QUIJOS-Z2-N-E-S",
+    "nombre_punto": "FISCALIA DEL CANTON QUIJOS"
   }
 ]
