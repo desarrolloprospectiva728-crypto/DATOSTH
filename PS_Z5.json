@@ -15676,5 +15676,14 @@
     "subcircuito": "2001-06-05T05:00:00.000Z",
     "id": "RECTIFICADORA-AMBATO-Z5-S-L-5",
     "nombre_punto": "RECTIFICADORA AMBATO"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "LOS RIOS",
+    "distrito": "QUEVEDO",
+    "circuito": "LA MERCED",
+    "subcircuito": "LA MERCED 1",
+    "id": "D'CHRIST-Z5-L-Q-L",
+    "nombre_punto": "D'CHRIST"
   }
 ]
