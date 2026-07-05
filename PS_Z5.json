@@ -15685,5 +15685,14 @@
     "subcircuito": "LA MERCED 1",
     "id": "D'CHRIST-Z5-L-Q-L",
     "nombre_punto": "D'CHRIST"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "PEDRO CARBO",
+    "circuito": "ISIDRO AYORA",
+    "subcircuito": "ISIDRO AYORA 1",
+    "id": "UNIDAD-EDUCATIVA-JACINTO-FRANCISCO-GONZÁLEZ-Z5-G-P-I",
+    "nombre_punto": "UNIDAD EDUCATIVA JACINTO FRANCISCO GONZÁLEZ"
   }
 ]
