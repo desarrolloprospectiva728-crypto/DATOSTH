@@ -9772,5 +9772,14 @@
     "subcircuito": "ROCAFUERTE 1",
     "id": "UNIDAD-JUDICIAL-ROCAFUERTE-Z4-M-R-R",
     "nombre_punto": "Unidad Judicial Rocafuerte"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "JIPIJAPA",
+    "circuito": "SAN VICENTE",
+    "subcircuito": "SAN VICENTE 1",
+    "id": "CENTRO-DE-SALUD-JIPIJAPA-Z4-M-J-S",
+    "nombre_punto": "CENTRO DE SALUD JIPIJAPA"
   }
 ]
