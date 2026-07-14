@@ -3796,5 +3796,14 @@
     "subcircuito": "RICAURTE 1",
     "id": "MI-ESCONDITE-RICAURTE-Z6-A-C-R",
     "nombre_punto": "MI ESCONDITE RICAURTE"
+  },
+  {
+    "zona": "ZONA 6",
+    "subzona": "CAÑAR",
+    "distrito": "AZOGUES",
+    "circuito": "AZOGUES OESTE",
+    "subcircuito": "AZOGUES OESTE 2",
+    "id": "TIENDA-CARLITOS-Z6-C-A-A",
+    "nombre_punto": "TIENDA CARLITOS"
   }
 ]
