@@ -5011,5 +5011,14 @@
     "subcircuito": "AGUARICO 1",
     "id": "TENENCIA-POLITICA-TIPUTINI-Z2-O-A-A",
     "nombre_punto": "TENENCIA POLITICA TIPUTINI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "AGUARICO",
+    "circuito": "AGUARICO",
+    "subcircuito": "AGUARICO 1",
+    "id": "COLISEO-TIPUTINI-Z2-O-A-A",
+    "nombre_punto": "COLISEO TIPUTINI"
   }
 ]
