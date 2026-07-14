@@ -4993,5 +4993,14 @@
     "subcircuito": "COCA ORIENTE 1",
     "id": "NIGTH-CLUB-EL-JARDÍN-Z2-O-O-C",
     "nombre_punto": "NIGTH CLUB EL JARDÍN"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 4",
+    "id": "NIGTH-CAT-INTERNACIONAL-Z2-O-O-C",
+    "nombre_punto": "NIGTH CAT INTERNACIONAL"
   }
 ]
