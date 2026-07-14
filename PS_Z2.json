@@ -5038,5 +5038,14 @@
     "subcircuito": "SACHAS 2",
     "id": "NIGHT-CLUB-GATO-AZUL-Z2-O-L-S",
     "nombre_punto": "NIGHT CLUB GATO AZUL"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 1",
+    "id": "NIGHT-CLUB-LAS-PERLAS-Z2-O-L-S",
+    "nombre_punto": "NIGHT CLUB LAS PERLAS"
   }
 ]
