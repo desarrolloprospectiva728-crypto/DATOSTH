@@ -5020,5 +5020,14 @@
     "subcircuito": "AGUARICO 1",
     "id": "COLISEO-TIPUTINI-Z2-O-A-A",
     "nombre_punto": "COLISEO TIPUTINI"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "LA JOYA DE LOS SACHAS",
+    "circuito": "SACHAS",
+    "subcircuito": "SACHAS 2",
+    "id": "NIGHT-CAT-Z2-O-L-S",
+    "nombre_punto": "NIGHT CAT"
   }
 ]
