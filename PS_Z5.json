@@ -15694,5 +15694,14 @@
     "subcircuito": "ISIDRO AYORA 1",
     "id": "UNIDAD-EDUCATIVA-JACINTO-FRANCISCO-GONZÁLEZ-Z5-G-P-I",
     "nombre_punto": "UNIDAD EDUCATIVA JACINTO FRANCISCO GONZÁLEZ"
+  },
+  {
+    "zona": "ZONA 5",
+    "subzona": "GUAYAS",
+    "distrito": "NARANJAL BALAO",
+    "circuito": "VILLA NUEVA",
+    "subcircuito": "VILLA NUEVA 1",
+    "id": "CALIFORNIA-SANTA-PRISCILA-Z5-G-N-V",
+    "nombre_punto": "CALIFORNIA SANTA PRISCILA"
   }
 ]
