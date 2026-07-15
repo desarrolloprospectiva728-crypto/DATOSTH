@@ -9790,5 +9790,14 @@
     "subcircuito": "LA LORENA 1",
     "id": "LABORATORIO-ZURITA-&-ZURITA-Z4-S-S-L",
     "nombre_punto": "LABORATORIO ZURITA & ZURITA"
+  },
+  {
+    "zona": "ZONA 4",
+    "subzona": "MANABI",
+    "distrito": "PEDERNALES",
+    "circuito": "ATAHUALPA",
+    "subcircuito": "ATAHUALPA 1",
+    "id": "SUBCENTRO-DE-SALUD-ATAHUALPA-Z4-M-P-A",
+    "nombre_punto": "SUBCENTRO DE SALUD ATAHUALPA"
   }
 ]
