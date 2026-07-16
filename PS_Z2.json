@@ -5047,5 +5047,14 @@
     "subcircuito": "SACHAS 1",
     "id": "NIGHT-CLUB-LAS-PERLAS-Z2-O-L-S",
     "nombre_punto": "NIGHT CLUB LAS PERLAS"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "TIENDA-JOSMAR-Z2-O-O-C",
+    "nombre_punto": "Tienda Josmar"
   }
 ]
