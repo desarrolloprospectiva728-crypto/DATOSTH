@@ -5074,5 +5074,14 @@
     "subcircuito": "COCA ORIENTE 1",
     "id": "SERTECPET-Z2-O-O-C",
     "nombre_punto": "SERTECPET"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA OCCIDENTE",
+    "subcircuito": "COCA OCCIDENTE 4",
+    "id": "LA-MADRINA-Z2-O-O-C",
+    "nombre_punto": "LA MADRINA"
   }
 ]
