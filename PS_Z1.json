@@ -442,37 +442,37 @@
   },
   {
     "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
+    "subzona": "CARCHI",
     "distrito": "ESMERALDAS",
     "circuito": "SANTA MARTHA",
-    "subcircuito": "SANTA MARTHA 1",
+    "subcircuito": "EL PORTAL 1",
     "id": "UNIDAD-JUDICIAL-DE-LA-FAMILIA-NIÑEZ-Y-ADOLESCENCIA-Z1-E-E-S",
     "nombre_punto": "UNIDAD JUDICIAL DE LA FAMILIA NIÑEZ Y ADOLESCENCIA"
   },
   {
     "zona": "ZONA 1",
-    "subzona": "CARCHI",
+    "subzona": "ESMERALDAS",
     "distrito": "TULCAN",
     "circuito": "EL PORTAL",
-    "subcircuito": "EL PORTAL 1",
+    "subcircuito": "SANTA MARTHA 1",
     "id": "SUPERMAXI-Z1-C-T-E",
     "nombre_punto": "SUPERMAXI"
   },
   {
     "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
+    "subzona": "CARCHI",
     "distrito": "ESMERALDAS",
     "circuito": "SANTA MARTHA",
-    "subcircuito": "SANTA MARTHA 1",
+    "subcircuito": "EL PORTAL 1",
     "id": "PLAZA-CIVICA-LOCAL-TENTACION-AV.-BOLIVAR-Y-JUAN-MONTALVO-ESQUINA-Z1-E-E-S",
     "nombre_punto": "PLAZA CIVICA-LOCAL TENTACION AV. BOLIVAR Y JUAN MONTALVO ESQUINA"
   },
   {
     "zona": "ZONA 1",
-    "subzona": "CARCHI",
+    "subzona": "ESMERALDAS",
     "distrito": "TULCAN",
     "circuito": "EL PORTAL",
-    "subcircuito": "EL PORTAL 1",
+    "subcircuito": "QUININDE 2",
     "id": "SURTÍ-MÁX-Z1-C-T-E",
     "nombre_punto": "SURTÍ MÁX"
   },
@@ -481,7 +481,7 @@
     "subzona": "ESMERALDAS",
     "distrito": "QUININDE",
     "circuito": "QUININDE",
-    "subcircuito": "QUININDE 2",
+    "subcircuito": "ROSA ZARATE 1",
     "id": "FERRETERÍA-BM-Z1-E-Q-Q",
     "nombre_punto": "FERRETERÍA BM"
   },
@@ -496,37 +496,37 @@
   },
   {
     "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
+    "subzona": "CARCHI",
     "distrito": "QUININDE",
     "circuito": "ROSA ZARATE",
-    "subcircuito": "ROSA ZARATE 1",
+    "subcircuito": "LA CONCEPCION 1",
     "id": "MINIMARKET-DELICATESSEN-BECKS-Z1-E-Q-R",
     "nombre_punto": "MINIMARKET DELICATESSEN BECKS"
   },
   {
     "zona": "ZONA 1",
-    "subzona": "CARCHI",
+    "subzona": "SUCUMBIOS",
     "distrito": "ESPEJO",
     "circuito": "LA CONCEPCION",
-    "subcircuito": "LA CONCEPCION 1",
+    "subcircuito": "SHUSHUFINDI CENTRO 1",
     "id": "PARQUE-CENTRAL-DE-LA-CONCEPCIÓN-Z1-C-E-L",
     "nombre_punto": "PARQUE CENTRAL DE LA CONCEPCIÓN"
   },
   {
     "zona": "ZONA 1",
-    "subzona": "SUCUMBIOS",
+    "subzona": "ESMERALDAS",
     "distrito": "SHUSHUFINDI",
     "circuito": "SHUSHUFINDI CENTRO",
-    "subcircuito": "SHUSHUFINDI CENTRO 1",
+    "subcircuito": "LAS PALMAS 1",
     "id": "PATIO-DE-COMIADAS-Z1-S-S-S",
     "nombre_punto": "PATIO DE COMIADAS"
   },
   {
     "zona": "ZONA 1",
-    "subzona": "ESMERALDAS",
+    "subzona": "",
     "distrito": "ESMERALDAS",
     "circuito": "LAS PALMAS",
-    "subcircuito": "LAS PALMAS 1",
+    "subcircuito": "",
     "id": "FRUTERÍA-SANDRY-Z1-E-E-L",
     "nombre_punto": "FRUTERÍA SANDRY"
   },
