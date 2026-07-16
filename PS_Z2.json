@@ -5065,5 +5065,14 @@
     "subcircuito": "COCA ORIENTE 1",
     "id": "GASOLINERA-RIO-COCA-Z2-O-O-C",
     "nombre_punto": "Gasolinera Rio Coca"
+  },
+  {
+    "zona": "ZONA 2",
+    "subzona": "ORELLANA",
+    "distrito": "ORELLANA LORETO",
+    "circuito": "COCA ORIENTE",
+    "subcircuito": "COCA ORIENTE 1",
+    "id": "SERTECPET-Z2-O-O-C",
+    "nombre_punto": "SERTECPET"
   }
 ]
